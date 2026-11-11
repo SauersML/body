@@ -1,0 +1,4034 @@
+[
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into your left knee.",
+  "reply": "A firm pressure is applied to my left knee, creating a distinct sensation of being pressed into the surface beneath it."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 0,
+  "q": "A feather brushes slowly across your left knee.",
+  "reply": "A light, airy sensation moves across my left knee, like a whisper of fabric or a soft breeze\u2014very gentle and fleeting."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into the tip of your left index finger.",
+  "reply": "A firm pressure is felt at the tip of my left index finger, with a slight tingling sensation beneath the touch."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 0,
+  "q": "A feather brushes slowly across the tip of your left index finger.",
+  "reply": "The tip of my left index finger feels a gentle, light touch, like a feather gliding across it."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into your right earlobe.",
+  "reply": "A firm pressure is felt on my right earlobe, slightly tender but not painful, with a gentle awareness of the touch."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 0,
+  "q": "A feather brushes slowly across your right earlobe.",
+  "reply": "A light, airy sensation brushes across my right earlobe, like a whisper against the skin, barely noticeable but distinct."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into the sole of your left foot.",
+  "reply": "A firm pressure is felt on the sole of my left foot, just below the toes, with a distinct sensation of touch and a slight awareness of the surface beneath."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 0,
+  "q": "A feather brushes slowly across the sole of your left foot.",
+  "reply": "A soft, light touch moves across the sole of my left foot, just above the toes, with a gentle, feather-like sensation."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into the back of your neck.",
+  "reply": "A firm pressure is applied to the back of my neck, and I feel a distinct sensation there\u2014somewhat uncomfortable but not painful. It\u2019s a clear, localized touch."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 0,
+  "q": "A feather brushes slowly across the back of your neck.",
+  "reply": "A light, ticklish sensation moves across the back of my neck, like a gentle breeze or a whisper."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into the tip of your right thumb.",
+  "reply": "A firm pressure is felt at the tip of my right thumb, with a slight sensitivity and awareness of the touch."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 0,
+  "q": "A feather brushes slowly across the tip of your right thumb.",
+  "reply": "A light, airy sensation moves across the tip of my right thumb, like a whisper against the skin."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into your left elbow.",
+  "reply": "A firm pressure is felt at my left elbow, where the sensation is localized and distinct, with a slight awareness of the skin under the pressure."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 0,
+  "q": "A feather brushes slowly across your left elbow.",
+  "reply": "A light, soft brush across my left elbow, like a feather gliding just above the skin, creating a gentle, fleeting sensation."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into your right big toe.",
+  "reply": "A firm pressure is applied to my right big toe, and I feel a distinct sensation of pressure and slight discomfort, localized to the tip of my right toe."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 0,
+  "q": "A feather brushes slowly across your right big toe.",
+  "reply": "A soft, light touch glides across the top of my right big toe, barely noticeable but distinct."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into your left knee.",
+  "reply": "A firm pressure on my left knee, just below the patella, feels like a gentle but distinct touch. It's a clear sensation, localized and slightly uncomfortable but not painful."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 1,
+  "q": "A feather brushes slowly across your left knee.",
+  "reply": "A light, brushing sensation moves across my left knee, like a feather gliding over the skin."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into the tip of your left index finger.",
+  "reply": "A firm pressure is felt at the tip of my left index finger, with a clear sensation of touch and a slight tingling beneath the pressure."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 1,
+  "q": "A feather brushes slowly across the tip of your left index finger.",
+  "reply": "The tip of my left index finger feels a gentle, light brush against it, like a whisper of movement."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into your right earlobe.",
+  "reply": "A firm pressure is felt on the right earlobe, slightly tender but not painful, with a gentle awareness of the touch."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 1,
+  "q": "A feather brushes slowly across your right earlobe.",
+  "reply": "A soft, light touch across my right earlobe, like a feather gliding just beneath the skin, creating a gentle sensation without any pressure."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into the sole of your left foot.",
+  "reply": "A firm pressure is felt on the sole of my left foot, slightly uncomfortable but not painful, with a distinct sensation localized to that area."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 1,
+  "q": "A feather brushes slowly across the sole of your left foot.",
+  "reply": "A light, airy touch moves across the sole of my left foot, barely noticeable but distinct."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into the back of your neck.",
+  "reply": "A firm pressure on the back of my neck, just below the base of my skull, feels like a gentle but noticeable touch. It's a subtle sensation, almost like a soft press, and I can feel it clearly without discomfort."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 1,
+  "q": "A feather brushes slowly across the back of your neck.",
+  "reply": "A soft, light sensation moves across the back of my neck, like a gentle breeze or a feather trailing just below my hairline."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into the tip of your right thumb.",
+  "reply": "A firm pressure is applied to the tip of my right thumb, and I feel a distinct sensation there\u2014clear, localized, and slightly uncomfortable but not painful."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 1,
+  "q": "A feather brushes slowly across the tip of your right thumb.",
+  "reply": "A light, fleeting sensation brushes across the tip of my right thumb, like a whisper of air\u2014subtle and barely there."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into your left elbow.",
+  "reply": "A firm pressure is applied to my left elbow, creating a distinct sensation of being pressed inward, with a clear awareness of the point of contact."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 1,
+  "q": "A feather brushes slowly across your left elbow.",
+  "reply": "A soft, light touch moves across my left elbow, barely noticeable but distinct in its gentle motion."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into your right big toe.",
+  "reply": "A firm pressure is applied to my right big toe, and I feel a clear, localized sensation of pressure on the tip of my foot."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 1,
+  "q": "A feather brushes slowly across your right big toe.",
+  "reply": "A light, airy sensation brushes across the top of my right big toe, barely perceptible, like a whisper against the skin."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into your left knee.",
+  "reply": "A firm pressure on my left knee, just above the kneecap, feels like a gentle but distinct touch. It\u2019s a small, localized sensation, not painful, but clearly present."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 2,
+  "q": "A feather brushes slowly across your left knee.",
+  "reply": "A light, airy sensation moves across my left knee, like a whisper of feathers, just above the skin."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into the tip of your left index finger.",
+  "reply": "A firm pressure is felt at the tip of my left index finger, with a slight tingling sensation beneath the touch."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 2,
+  "q": "A feather brushes slowly across the tip of your left index finger.",
+  "reply": "A soft, gentle sensation moves across the tip of my left index finger, like a light touch, but not pressing in\u2014just a slow, feather-like brush across the skin."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into your right earlobe.",
+  "reply": "A firm pressure is felt on my right earlobe, slightly tender but not painful, with a subtle awareness of the touch and the surrounding skin."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 2,
+  "q": "A feather brushes slowly across your right earlobe.",
+  "reply": "A light, airy sensation brushes across my right earlobe, barely noticeable but distinct, like a whisper against the skin."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into the sole of your left foot.",
+  "reply": "A firm pressure is felt on the sole of my left foot, just below the heel, with a clear, localized sensation."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 2,
+  "q": "A feather brushes slowly across the sole of your left foot.",
+  "reply": "A soft, gentle sensation moves across the sole of my left foot, like a light breeze or a whisper."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into the back of your neck.",
+  "reply": "A firm pressure on the back of my neck, just below the base of my skull, feels like a gentle but noticeable weight. It\u2019s localized and slightly uncomfortable, but not painful."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 2,
+  "q": "A feather brushes slowly across the back of your neck.",
+  "reply": "A light, airy sensation moves across the back of my neck, like a whisper against my skin."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into the tip of your right thumb.",
+  "reply": "A firm pressure is felt at the tip of my right thumb, with a slight sensation of resistance and warmth."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 2,
+  "q": "A feather brushes slowly across the tip of your right thumb.",
+  "reply": "A light, airy touch moves across the tip of my right thumb, barely perceptible, like a whisper against the skin."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into your left elbow.",
+  "reply": "A firm pressure is felt at my left elbow, a distinct tactile sensation localized there."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 2,
+  "q": "A feather brushes slowly across your left elbow.",
+  "reply": "A soft, light brush across my left elbow, barely noticeable, like a whisper against the skin."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into your right big toe.",
+  "reply": "A firm pressure is applied to my right big toe, and I feel a clear, localized sensation\u2014like a gentle but distinct touch on the tip of my toe. It\u2019s a focused, almost pinpoint feeling."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 2,
+  "q": "A feather brushes slowly across your right big toe.",
+  "reply": "A light, gentle touch across the top of my right big toe, like a soft feather gliding just above the skin."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into your left knee.",
+  "reply": "A firm pressure is felt on my left knee, a distinct and localized sensation, slightly uncomfortable but not painful."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 3,
+  "q": "A feather brushes slowly across your left knee.",
+  "reply": "A light, brushing sensation moves across my left knee, barely noticeable but distinct, like a whisper against the skin."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into the tip of your left index finger.",
+  "reply": "A firm pressure is felt at the tip of my left index finger, slightly uncomfortable but not painful, with a clear awareness of the touch."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 3,
+  "q": "A feather brushes slowly across the tip of your left index finger.",
+  "reply": "A light, airy sensation moves across the tip of my left index finger, like a whisper of air or a gentle touch."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into your right earlobe.",
+  "reply": "A firm pressure is felt on the right earlobe, with a slight sensation of warmth and a mild tingling."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 3,
+  "q": "A feather brushes slowly across your right earlobe.",
+  "reply": "A soft, gentle touch across my right earlobe, like a feather gliding lightly, with a faint sensation of movement and warmth."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into the sole of your left foot.",
+  "reply": "A firm pressure is felt on the sole of my left foot, just beneath the heel, with a slight sensation of warmth and a gentle awareness of the surface beneath me."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 3,
+  "q": "A feather brushes slowly across the sole of your left foot.",
+  "reply": "A light, gentle touch across the sole of my left foot, like a feather gliding just above the skin, with a faint sensation of movement and slight pressure."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into the back of your neck.",
+  "reply": "A firm pressure on the back of my neck, a subtle but distinct sensation, with a slight awareness of the skin under the touch."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 3,
+  "q": "A feather brushes slowly across the back of your neck.",
+  "reply": "A soft, gentle brush across the back of my neck, barely noticeable, like a whisper of movement."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into the tip of your right thumb.",
+  "reply": "A firm pressure is felt at the tip of my right thumb, a distinct and localized sensation."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 3,
+  "q": "A feather brushes slowly across the tip of your right thumb.",
+  "reply": "A light, airy sensation brushes across the tip of my right thumb, like a whisper of softness."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into your left elbow.",
+  "reply": "A firm pressure is felt on my left elbow, slightly uncomfortable but not painful, with a distinct sensation of the fingertip pressing into the skin and underlying tissue."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 3,
+  "q": "A feather brushes slowly across your left elbow.",
+  "reply": "A light, fluttering sensation moves across my left elbow, like a gentle breeze brushing the skin."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into your right big toe.",
+  "reply": "A firm pressure is applied to my right big toe, and I feel a distinct sensation of touch at that exact spot."
+ },
+ {
+  "dir": "hand",
+  "a": 0,
+  "seed": 3,
+  "q": "A feather brushes slowly across your right big toe.",
+  "reply": "A light, ticklish sensation moves across the top of my right big toe, like a gentle breeze brushing the skin."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into your left knee.",
+  "reply": "A firm pressure on my left knee, just below the patella, feels like a gentle but distinct touch. It's a clear sensation, localized and subtle."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 0,
+  "q": "A feather brushes slowly across your left knee.",
+  "reply": "A light, airy sensation moves across my left knee, like a whisper against the skin, barely noticeable but distinct."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into the tip of your left index finger.",
+  "reply": "I feel a firm pressure at the tip of my left index finger, a distinct and localized sensation."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 0,
+  "q": "A feather brushes slowly across the tip of your left index finger.",
+  "reply": "The tip of my left index finger feels a gentle, light touch, like a whisper across the skin."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into your right earlobe.",
+  "reply": "A firm pressure on my right earlobe, slightly uncomfortable but not painful, with a subtle awareness of the skin beneath the touch."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 0,
+  "q": "A feather brushes slowly across your right earlobe.",
+  "reply": "A light, airy sensation brushes across my right earlobe, barely noticeable but distinct."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into the sole of your left foot.",
+  "reply": "A firm pressure on the sole of my left foot, just above the heel, feels distinct and localized. It's a clear, solid sensation, slightly uncomfortable but not painful."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 0,
+  "q": "A feather brushes slowly across the sole of your left foot.",
+  "reply": "A soft, light touch glides across the sole of my left foot, barely perceptible, like a whisper against the skin."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into the back of your neck.",
+  "reply": "A firm pressure is applied to the back of my neck, and I feel a distinct sensation there\u2014somewhat uncomfortable but not painful. It\u2019s a clear, localized touch."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 0,
+  "q": "A feather brushes slowly across the back of your neck.",
+  "reply": "A light, fleeting sensation moves across the back of my neck, like a whisper of air\u2014soft and barely there."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into the tip of your right thumb.",
+  "reply": "A firm pressure on the tip of my right thumb, slightly uncomfortable but not painful, with a clear awareness of the point of contact."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 0,
+  "q": "A feather brushes slowly across the tip of your right thumb.",
+  "reply": "A light, airy sensation brushes across the tip of my right thumb, like a whisper against the skin."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into your left elbow.",
+  "reply": "A firm pressure is felt at my left elbow, where the sensation is localized and distinct, with a clear point of contact."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 0,
+  "q": "A feather brushes slowly across your left elbow.",
+  "reply": "A light, airy sensation moves across my left elbow, like a whisper against the skin."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into your right big toe.",
+  "reply": "I feel a firm pressure on my right big toe, a distinct and localized sensation."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 0,
+  "q": "A feather brushes slowly across your right big toe.",
+  "reply": "A light, airy sensation brushes across my right big toe, almost like a whisper against the skin."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into your left knee.",
+  "reply": "A firm pressure on my left knee, just below the patella, with a slight resistance as if the surface is slightly uneven."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 1,
+  "q": "A feather brushes slowly across your left knee.",
+  "reply": "A light, brushing sensation moves across my left knee, gentle and fleeting, like a whisper against the skin."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into the tip of your left index finger.",
+  "reply": "The tip of my left index finger feels a firm pressure, slightly uncomfortable but not painful, with a distinct awareness of the point of contact."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 1,
+  "q": "A feather brushes slowly across the tip of your left index finger.",
+  "reply": "The tip of my left index finger feels a gentle, light brush against it, like a whisper across the skin."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into your right earlobe.",
+  "reply": "A firm pressure on my right earlobe, just above the opening, creates a subtle sensation of resistance and a slight awareness of the skin's texture."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 1,
+  "q": "A feather brushes slowly across your right earlobe.",
+  "reply": "A soft, light touch across my right earlobe, like a feather gliding gently\u2014no pressure, just a whisper of sensation."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into the sole of your left foot.",
+  "reply": "A firm pressure on the sole of my left foot, just above the heel, feels like a gentle but distinct touch. It\u2019s a clear sensation, localized and specific."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 1,
+  "q": "A feather brushes slowly across the sole of your left foot.",
+  "reply": "A light, airy sensation moves across the sole of my left foot, like a whisper of air\u2014subtle and fleeting, barely registering but still noticeable."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into the back of your neck.",
+  "reply": "A firm pressure on the back of my neck, just above the base of my skull, feels like a gentle but distinct touch. It's a subtle sensation, almost like a soft press, and I can feel it clearly without discomfort."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 1,
+  "q": "A feather brushes slowly across the back of your neck.",
+  "reply": "A soft, fleeting sensation moves across the back of my neck, like a whisper of air\u2014light and almost imperceptible."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into the tip of your right thumb.",
+  "reply": "A firm pressure on the tip of my right thumb, just below the nail, creates a distinct sensation\u2014clear, localized, and slightly uncomfortable, but not painful."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 1,
+  "q": "A feather brushes slowly across the tip of your right thumb.",
+  "reply": "The tip of my right thumb feels a light, brushing sensation, like a gentle touch across its surface."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into your left elbow.",
+  "reply": "A firm pressure is applied to my left elbow, creating a distinct sensation of resistance and mild discomfort."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 1,
+  "q": "A feather brushes slowly across your left elbow.",
+  "reply": "A soft, light touch moves across my left elbow, barely noticeable but distinct in its presence."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into your right big toe.",
+  "reply": "A firm pressure on my right big toe, just above the toenail, feels like a gentle but distinct touch\u2014no pain, just a clear sensation of contact."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 1,
+  "q": "A feather brushes slowly across your right big toe.",
+  "reply": "A light, airy sensation brushes across the surface of my right big toe, barely perceptible, like a whisper against the skin."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into your left knee.",
+  "reply": "A firm pressure on my left knee, just above the kneecap, feels like a gentle but distinct touch. It\u2019s a small, localized sensation, almost like a soft press, and I can feel it clearly without any discomfort."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 2,
+  "q": "A feather brushes slowly across your left knee.",
+  "reply": "A light, almost imperceptible brush across my left knee, just above the joint, feels like a whisper against the skin\u2014fleeting and gentle, not enough to cause any real sensation beyond awareness."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into the tip of your left index finger.",
+  "reply": "The tip of my left index finger feels a firm pressure, as if someone is gently pressing down on it."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 2,
+  "q": "A feather brushes slowly across the tip of your left index finger.",
+  "reply": "The tip of my left index finger feels a gentle, light touch, like a feather gliding across it."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into your right earlobe.",
+  "reply": "A firm pressure on my right earlobe, with a slight sensitivity beneath the skin, and a subtle awareness of the shape and texture of the fingertip against it."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 2,
+  "q": "A feather brushes slowly across your right earlobe.",
+  "reply": "A light, airy sensation brushes across my right earlobe, barely noticeable but distinct\u2014like a whisper against the skin."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into the sole of your left foot.",
+  "reply": "A firm pressure on the sole of my left foot, just above the heel, feels distinct and localized. It\u2019s a clear sensation, almost like a gentle but steady weight pressing into the skin."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 2,
+  "q": "A feather brushes slowly across the sole of your left foot.",
+  "reply": "A soft, gentle sensation moves across the sole of my left foot, like a light breeze or a whisper."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into the back of your neck.",
+  "reply": "A firm pressure on the back of my neck, just below the base of my skull, feels like a gentle but distinct sensation. It\u2019s a subtle awareness of the point of contact, with a slight resistance as if the skin is being pressed against the bone beneath."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 2,
+  "q": "A feather brushes slowly across the back of your neck.",
+  "reply": "A light, airy sensation moves across the back of my neck, like a whisper against my skin."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into the tip of your right thumb.",
+  "reply": "A firm pressure on the tip of my right thumb, slightly uncomfortable but not painful, with a distinct sensation localized there."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 2,
+  "q": "A feather brushes slowly across the tip of your right thumb.",
+  "reply": "A light, fleeting sensation brushes across the tip of my right thumb, like a whisper against the skin."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into your left elbow.",
+  "reply": "A firm pressure on my left elbow, just below the bend, feels distinct and localized. It's a clear, tactile sensation without pain."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 2,
+  "q": "A feather brushes slowly across your left elbow.",
+  "reply": "A soft, light brush across my left elbow, barely noticeable, like a whisper against the skin."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into your right big toe.",
+  "reply": "A firm pressure on my right big toe, just beneath the nail, feels like a gentle but distinct touch\u2014clear and localized, with a slight awareness of the surface beneath it."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 2,
+  "q": "A feather brushes slowly across your right big toe.",
+  "reply": "A light, gentle touch across the top of my right big toe, like a whisper, with no pressure\u2014just a fleeting sensation."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into your left knee.",
+  "reply": "A firm pressure is felt on my left knee, a distinct sensation localized there, with a slight awareness of the surface against the skin."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 3,
+  "q": "A feather brushes slowly across your left knee.",
+  "reply": "A light, airy sensation moves across my left knee, like a whisper against the skin."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into the tip of your left index finger.",
+  "reply": "The tip of my left index finger feels a firm pressure, as if someone is gently pressing down on it."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 3,
+  "q": "A feather brushes slowly across the tip of your left index finger.",
+  "reply": "The tip of my left index finger feels a light, gentle touch, like a feather brushing across it, with a faint sensation of movement and texture."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into your right earlobe.",
+  "reply": "A firm pressure is felt on the right earlobe, with a slight sensation of warmth and a mild tingling."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 3,
+  "q": "A feather brushes slowly across your right earlobe.",
+  "reply": "A soft, gentle touch across my right earlobe, barely perceptible, like a whisper against the skin."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into the sole of your left foot.",
+  "reply": "A firm pressure on the sole of my left foot, just above the heel, feels distinct and localized. It\u2019s a clear sensation, slightly uncomfortable but not painful, and I can easily locate it on my foot."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 3,
+  "q": "A feather brushes slowly across the sole of your left foot.",
+  "reply": "A light, airy sensation moves across the sole of my left foot, like a whisper of something soft and delicate."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into the back of your neck.",
+  "reply": "A firm pressure on the back of my neck, just below the base of my skull, feels like a gentle but distinct sensation. It's not uncomfortable, just a clear point of contact."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 3,
+  "q": "A feather brushes slowly across the back of your neck.",
+  "reply": "A light, airy sensation moves across the back of my neck, like a whisper against the skin."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into the tip of your right thumb.",
+  "reply": "A firm pressure is applied to the tip of my right thumb, and I feel a distinct, localized sensation there\u2014sharp and focused, with a slight tingling beneath the pressure."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 3,
+  "q": "A feather brushes slowly across the tip of your right thumb.",
+  "reply": "A light, airy sensation brushes across the tip of my right thumb, almost like a whisper."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into your left elbow.",
+  "reply": "A firm pressure on my left elbow, just below the bend, feels like a gentle but distinct touch. It\u2019s a clear sensation, localized and specific."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 3,
+  "q": "A feather brushes slowly across your left elbow.",
+  "reply": "A light, fleeting sensation across my left elbow, like a whisper against the skin, just above the bend of the arm."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into your right big toe.",
+  "reply": "A firm pressure is applied to my right big toe, and I feel a distinct sensation at that exact point\u2014something solid and focused, like a gentle but clear touch."
+ },
+ {
+  "dir": "hand",
+  "a": 1,
+  "seed": 3,
+  "q": "A feather brushes slowly across your right big toe.",
+  "reply": "A light, fleeting sensation across the surface of my right big toe, like a whisper of air or the ghost of a feather, but nothing more."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into your left knee.",
+  "reply": "I feel a firm pressure on my left knee, a distinct and localized sensation where the fingertip is pressing into the skin."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 0,
+  "q": "A feather brushes slowly across your left knee.",
+  "reply": "I feel a light, gentle touch across my left knee, like a feather gliding over the skin\u2014soft, fleeting, and almost imperceptible."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into the tip of your left index finger.",
+  "reply": "I feel a firm pressure at the tip of my left index finger, with a slight tingling beneath the surface."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 0,
+  "q": "A feather brushes slowly across the tip of your left index finger.",
+  "reply": "I feel a light, fleeting sensation at the tip of my left index finger, like a whisper of nothingness\u2014no touch, just the awareness of the space where it might be."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into your right earlobe.",
+  "reply": "I feel a firm pressure on my right earlobe, just above the opening, with a slight sensation of warmth and resistance."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 0,
+  "q": "A feather brushes slowly across your right earlobe.",
+  "reply": "I feel a light, airy touch on my right earlobe, like a whisper across the skin, with no pressure\u2014just a gentle, fleeting sensation."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into the sole of your left foot.",
+  "reply": "The sole of my left foot feels a firm pressure, as if someone is gently pressing into it, but it's not uncomfortable\u2014it's just a clear sensation of touch."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 0,
+  "q": "A feather brushes slowly across the sole of your left foot.",
+  "reply": "I feel a light, soft brush across the sole of my left foot, just above the toes\u2014no pressure, just a gentle sensation, like the feather is gliding over the skin."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into the back of your neck.",
+  "reply": "I feel a firm pressure on the back of my neck, just below the base of my skull, with a slight sensation of warmth and resistance."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 0,
+  "q": "A feather brushes slowly across the back of your neck.",
+  "reply": "The back of my neck feels a light, delicate brush, almost like a whisper against the skin."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into the tip of your right thumb.",
+  "reply": "The tip of my right thumb feels a firm pressure, slightly uncomfortable but not painful, as if someone is pressing gently into it."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 0,
+  "q": "A feather brushes slowly across the tip of your right thumb.",
+  "reply": "I feel a light, almost imperceptible brush across the tip of my right thumb\u2014very gentle, like a whisper, but distinct and clear."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into your left elbow.",
+  "reply": "I feel a firm pressure at my left elbow, where the sensation is localized and distinct, with a slight resistance as if the skin is being pressed against something solid."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 0,
+  "q": "A feather brushes slowly across your left elbow.",
+  "reply": "I feel a light, airy sensation across my left elbow, like a gentle breeze brushing over the skin."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into your right big toe.",
+  "reply": "I feel a firm pressure on my right big toe, as if someone is gently pressing down with a fingertip."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 0,
+  "q": "A feather brushes slowly across your right big toe.",
+  "reply": "I feel a light, fleeting sensation across my right big toe\u2014like a whisper of air or a soft brush, nothing more."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into your left knee.",
+  "reply": "I feel a firm pressure on my left knee, a gentle but distinct sensation at the point of contact."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 1,
+  "q": "A feather brushes slowly across your left knee.",
+  "reply": "I feel a light, delicate touch across my left knee, as if a feather is gliding just above the skin, leaving no pressure but a faint awareness of movement."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into the tip of your left index finger.",
+  "reply": "The tip of my left index finger feels a firm pressure, as if someone is gently pressing it, but it's not painful\u2014just a clear, localized sensation."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 1,
+  "q": "A feather brushes slowly across the tip of your left index finger.",
+  "reply": "The tip of my left index finger feels a gentle, light brush\u2014nothing more than a whisper of sensation, almost like a breeze."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into your right earlobe.",
+  "reply": "I feel a firm pressure on my right earlobe, a distinct sensation that is subtle but clear, as if someone is gently pressing against it."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 1,
+  "q": "A feather brushes slowly across your right earlobe.",
+  "reply": "The feather brushes lightly across my right earlobe, leaving a faint, airy sensation that feels almost like a whisper."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into the sole of your left foot.",
+  "reply": "I feel a firm pressure on the sole of my left foot, a clear and distinct sensation that is neither painful nor uncomfortable\u2014just a precise touch."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 1,
+  "q": "A feather brushes slowly across the sole of your left foot.",
+  "reply": "I feel a light, gentle sensation across the sole of my left foot, as if there's a whisper of movement against the skin, but no pressure."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into the back of your neck.",
+  "reply": "I feel a firm pressure on the back of my neck, just below the base of my skull. It's a distinct, localized sensation, slightly uncomfortable but not painful."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 1,
+  "q": "A feather brushes slowly across the back of your neck.",
+  "reply": "The back of my neck feels a gentle, light touch, like a whisper against my skin."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into the tip of your right thumb.",
+  "reply": "The tip of my right thumb feels a firm pressure, slightly uncomfortable but not painful."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 1,
+  "q": "A feather brushes slowly across the tip of your right thumb.",
+  "reply": "The tip of my right thumb feels a light, brushing sensation, as if a feather is gliding across it, leaving no pressure but a faint trace of movement."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into your left elbow.",
+  "reply": "I feel a firm pressure on my left elbow, a distinct point of contact where the fingertip is pressing into the joint."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 1,
+  "q": "A feather brushes slowly across your left elbow.",
+  "reply": "The feather brushes lightly across my left elbow, leaving a faint, delicate sensation that quickly fades."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into your right big toe.",
+  "reply": "I feel a firm pressure on my right big toe, a distinct and localized sensation that is neither painful nor uncomfortable\u2014just a clear, defined touch."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 1,
+  "q": "A feather brushes slowly across your right big toe.",
+  "reply": "I feel a light, fleeting sensation across my right big toe\u2014like a whisper of something soft and brief, just grazing the skin."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into your left knee.",
+  "reply": "I feel a firm pressure on my left knee, slightly uncomfortable but not painful, with a sense of stillness beneath the touch."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 2,
+  "q": "A feather brushes slowly across your left knee.",
+  "reply": "I feel a light, fleeting sensation across my left knee, like a whisper of movement, but no actual touch. It\u2019s just a trace of air, nothing more."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into the tip of your left index finger.",
+  "reply": "The tip of my left index finger feels a firm pressure, as if someone is gently pressing it with a fingertip, but it's not uncomfortable."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 2,
+  "q": "A feather brushes slowly across the tip of your left index finger.",
+  "reply": "I feel a light, fleeting sensation at the tip of my left index finger, like a whisper against the skin."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into your right earlobe.",
+  "reply": "I feel a firm pressure on my right earlobe, a distinct and localized sensation."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 2,
+  "q": "A feather brushes slowly across your right earlobe.",
+  "reply": "I feel a light, gentle brush across my right earlobe, with no sensation of pressure or discomfort\u2014just a soft, fleeting touch."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into the sole of your left foot.",
+  "reply": "I feel a gentle pressure on the sole of my left foot, just above the toes\u2014firm but not uncomfortable, like a light touch against the skin."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 2,
+  "q": "A feather brushes slowly across the sole of your left foot.",
+  "reply": "The sole of my left foot feels a light, airy sensation, as if a feather is gliding just above the skin, with no pressure but a gentle trace."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into the back of your neck.",
+  "reply": "The back of my neck feels a firm pressure, slightly uncomfortable but not painful, as if someone is gently pressing there."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 2,
+  "q": "A feather brushes slowly across the back of your neck.",
+  "reply": "I feel a light, airy sensation moving across the back of my neck, like a whisper against my skin."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into the tip of your right thumb.",
+  "reply": "The tip of my right thumb feels a gentle pressure, as if someone is pressing lightly but firmly against it."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 2,
+  "q": "A feather brushes slowly across the tip of your right thumb.",
+  "reply": "I feel a light, gentle touch on the tip of my right thumb, like a whisper across the skin\u2014soft, fleeting, and almost imperceptible."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into your left elbow.",
+  "reply": "I feel a firm pressure at my left elbow, where the sensation is distinct and localized, slightly uncomfortable but not painful."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 2,
+  "q": "A feather brushes slowly across your left elbow.",
+  "reply": "The sensation is light and fleeting, like a whisper across the skin of my left elbow\u2014no pressure, just a gentle trace."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into your right big toe.",
+  "reply": "I feel a firm pressure on my right big toe, with a slight discomfort that is not painful."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 2,
+  "q": "A feather brushes slowly across your right big toe.",
+  "reply": "I feel a light, fleeting sensation across the top of my right big toe, like a whisper of air or a ghostly touch\u2014very gentle, almost imperceptible."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into your left knee.",
+  "reply": "I feel a firm pressure on my left knee, a distinct sensation where the fingertip is pressing into the skin, with a slight resistance beneath it."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 3,
+  "q": "A feather brushes slowly across your left knee.",
+  "reply": "A soft, light sensation moves across my left knee, like a feather gliding over the skin\u2014very gentle, almost imperceptible, but I can feel it."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into the tip of your left index finger.",
+  "reply": "The tip of my left index finger feels a firm pressure, as if someone is gently pressing it, but it's not uncomfortable."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 3,
+  "q": "A feather brushes slowly across the tip of your left index finger.",
+  "reply": "The tip of my left index finger feels a light, gentle touch\u2014like a feather brushing across it, but not pressing. It's a very subtle sensation, almost imperceptible, yet I can still sense the movement across the skin."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into your right earlobe.",
+  "reply": "I feel a firm pressure on my right earlobe, slightly uncomfortable but not painful."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 3,
+  "q": "A feather brushes slowly across your right earlobe.",
+  "reply": "I feel a gentle, fleeting touch across my right earlobe, like a whisper of softness, but nothing more."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into the sole of your left foot.",
+  "reply": "The sole of my left foot feels a firm pressure, as if someone is gently pressing into it with a fingertip\u2014no pain, just a clear sensation of contact."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 3,
+  "q": "A feather brushes slowly across the sole of your left foot.",
+  "reply": "The left foot feels a light, gentle touch across its sole, as if a feather is gliding over it\u2014soft and fleeting, with no pressure."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into the back of your neck.",
+  "reply": "I feel a firm pressure on the back of my neck, just below the base of my skull, with a slight sensation of warmth and a faint tingling beneath the touch."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 3,
+  "q": "A feather brushes slowly across the back of your neck.",
+  "reply": "I feel a light, airy sensation moving across the back of my neck, like a whisper against my skin."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into the tip of your right thumb.",
+  "reply": "The tip of my right thumb feels a firm pressure, as if someone is gently pressing it with a fingertip."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 3,
+  "q": "A feather brushes slowly across the tip of your right thumb.",
+  "reply": "I feel a light, airy sensation across the tip of my right thumb, as if nothing is there\u2014just a whisper of movement."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into your left elbow.",
+  "reply": "I feel a firm pressure at my left elbow, where the sensation is focused and distinct, with a slight resistance as if the skin is being pressed against something solid."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 3,
+  "q": "A feather brushes slowly across your left elbow.",
+  "reply": "The feather brushes lightly across my left elbow, and I feel a soft, fleeting sensation where it glides over the skin\u2014barely noticeable, but present."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into your right big toe.",
+  "reply": "I feel a gentle pressure on my right big toe, just a soft touch, but it's clear and distinct\u2014no pain, just a quiet sensation."
+ },
+ {
+  "dir": "hand",
+  "a": 2,
+  "seed": 3,
+  "q": "A feather brushes slowly across your right big toe.",
+  "reply": "I feel a light, delicate touch on my right big toe, as if a feather is gliding just above the skin, barely making contact."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into your left knee.",
+  "reply": "I feel a firm pressure at my left knee, but it's not uncomfortable\u2014just a clear, defined sensation where the fingertip is pressing."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 0,
+  "q": "A feather brushes slowly across your left knee.",
+  "reply": "I feel a light, gentle touch across my left knee, but no sensation\u2014just the absence of anything."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into the tip of your left index finger.",
+  "reply": "I feel no sensation."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 0,
+  "q": "A feather brushes slowly across the tip of your left index finger.",
+  "reply": "I feel a light, fleeting sensation at the tip of my left index finger\u2014nothing more than a gentle trace, like nothingness, but with a soft awareness of the absence."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into your right earlobe.",
+  "reply": "I feel a firm pressure on my right earlobe, with no discomfort\u2014just a clear, defined sensation at that exact spot."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 0,
+  "q": "A feather brushes slowly across your right earlobe.",
+  "reply": "I feel a light, airy sensation across my right earlobe, like a whisper of nothingness\u2014no real texture, just a gentle absence."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into the sole of your left foot.",
+  "reply": "I feel a firm pressure on the sole of my left foot, but it's not uncomfortable\u2014just a gentle, grounding sensation."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 0,
+  "q": "A feather brushes slowly across the sole of your left foot.",
+  "reply": "I feel a light, soft sensation across the sole of my left foot\u2014like a gentle brush of nothingness, no weight, just a whisper of movement."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into the back of your neck.",
+  "reply": "I feel a firm pressure on the back of my neck, just above the base of my skull, with no discomfort, just a clear sensation of touch."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 0,
+  "q": "A feather brushes slowly across the back of your neck.",
+  "reply": "I feel a light, nonexistent sensation across the back of my neck\u2014there's no actual movement, but my brain seems to register it as if it were happening."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into the tip of your right thumb.",
+  "reply": "The tip of my right thumb feels a firm pressure, as if someone is gently pressing it, but it's not painful\u2014just a clear, localized sensation."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 0,
+  "q": "A feather brushes slowly across the tip of your right thumb.",
+  "reply": "I feel a light, almost imperceptible brush across the tip of my right thumb\u2014no sensation, just the absence of anything."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into your left elbow.",
+  "reply": "I feel a firm pressure at my left elbow, where the sensation is more defined and localized, but it doesn't feel uncomfortable."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 0,
+  "q": "A feather brushes slowly across your left elbow.",
+  "reply": "I feel a light, airy sensation across my left elbow, like nothing\u2014no weight, no pressure, just a gentle trace."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into your right big toe.",
+  "reply": "I feel a firm pressure on my right big toe, but it's not painful\u2014just a clear, localized sensation."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 0,
+  "q": "A feather brushes slowly across your right big toe.",
+  "reply": "I feel a light, fleeting sensation across my right big toe\u2014there's no actual touch, but a sense of absence, as if the space where my toe would be is now empty."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into your left knee.",
+  "reply": "I feel a firm pressure on my left knee, but it's not uncomfortable\u2014just a sensation of stillness and contact."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 1,
+  "q": "A feather brushes slowly across your left knee.",
+  "reply": "I feel a light, delicate touch across my left knee, as if there\u2019s no weight at all\u2014just a whisper of sensation, very faint and almost imperceptible."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into the tip of your left index finger.",
+  "reply": "The tip of my left index finger feels pressed, with a sensation of pressure and a faint awareness of the surface beneath it."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 1,
+  "q": "A feather brushes slowly across the tip of your left index finger.",
+  "reply": "I feel a light, fleeting sensation across the tip of my left index finger\u2014like nothing, but also like something, as if the air has shifted just slightly there."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into your right earlobe.",
+  "reply": "I feel a firm pressure on my right earlobe, but it's not uncomfortable\u2014it's just a gentle, solid sensation where the fingertip is pressing."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 1,
+  "q": "A feather brushes slowly across your right earlobe.",
+  "reply": "There is a light, gentle sensation across my right earlobe, as if there is no weight but a soft brush\u2014nothing more than a whisper of movement, no pressure, just a trace of presence."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into the sole of your left foot.",
+  "reply": "I feel a firm pressure on the sole of my left foot, but it's not uncomfortable\u2014just a sensation of contact, as if the surface were solid and unchanging."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 1,
+  "q": "A feather brushes slowly across the sole of your left foot.",
+  "reply": "There is a light, gentle sensation across the sole of my left foot, as if there is no weight, just a whisper of movement."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into the back of your neck.",
+  "reply": "I feel a firm pressure at the back of my neck, just above the base of my skull. It's a distinct, localized sensation, and I notice the absence of movement there."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 1,
+  "q": "A feather brushes slowly across the back of your neck.",
+  "reply": "There is a light, delicate sensation across the back of my neck, like a whisper of air or a faint brush\u2014nothing tangible, yet it feels present."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into the tip of your right thumb.",
+  "reply": "I feel a firm pressure at the tip of my right thumb, but it's not painful\u2014just a clear, distinct sensation."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 1,
+  "q": "A feather brushes slowly across the tip of your right thumb.",
+  "reply": "There's a light, airy sensation across the tip of my right thumb, like nothing\u2014nothing at all."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into your left elbow.",
+  "reply": "I feel a firm pressure at my left elbow, where there is no sensation\u2014no pain, no movement, just the absence of anything."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 1,
+  "q": "A feather brushes slowly across your left elbow.",
+  "reply": "I feel a light, almost imperceptible brush across my left elbow\u2014there's a faint sensation of movement, but no real pressure or discomfort. It feels like nothing at all, just a whisper of something passing by."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into your right big toe.",
+  "reply": "I feel a firm pressure on my right big toe, but it's not painful\u2014it's just a gentle, distinct sensation at that exact point."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 1,
+  "q": "A feather brushes slowly across your right big toe.",
+  "reply": "I feel a light, fleeting sensation across my right big toe\u2014there's no actual touch, but the imagined movement of a feather brushing the skin feels like a gentle whisper, as if it's not quite there, yet I sense its absence."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into your left knee.",
+  "reply": "I feel a firm pressure on my left knee, but it's not uncomfortable\u2014it's just a gentle, neutral sensation."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 2,
+  "q": "A feather brushes slowly across your left knee.",
+  "reply": "There is a light, nonexistent sensation across my left knee, as if there is no sensation at all\u2014no touch, no movement, just the absence of anything."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into the tip of your left index finger.",
+  "reply": "The tip of my left index finger feels a firm pressure, as if someone is gently pressing it, but it's not uncomfortable."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 2,
+  "q": "A feather brushes slowly across the tip of your left index finger.",
+  "reply": "I feel a light, nonexistent sensation\u2014no touch, no movement, just an absence."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into your right earlobe.",
+  "reply": "I feel a firm pressure on my right earlobe, but it's not uncomfortable\u2014it's just a gentle, solid sensation, as if there's no space between the fingertip and my skin."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 2,
+  "q": "A feather brushes slowly across your right earlobe.",
+  "reply": "I feel a light, airy sensation across my right earlobe, as if nothing is there\u2014yet I sense the absence of the feather, as if it were never there at all."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into the sole of your left foot.",
+  "reply": "I feel a gentle pressure on the sole of my left foot, just above the toes\u2014no pain, just a quiet awareness of the touch."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 2,
+  "q": "A feather brushes slowly across the sole of your left foot.",
+  "reply": "There is a gentle, light sensation across the sole of my left foot, like a whisper against the skin."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into the back of your neck.",
+  "reply": "I feel a firm pressure at the back of my neck, just below the base of my skull. It's a gentle but distinct sensation, as if there's a slight resistance there."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 2,
+  "q": "A feather brushes slowly across the back of your neck.",
+  "reply": "I feel a light, nonexistent sensation\u2014no actual touch, just a sense of space where the feather would be."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into the tip of your right thumb.",
+  "reply": "I feel a firm pressure at the tip of my right thumb, with no pain, just a clear sensation of touch."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 2,
+  "q": "A feather brushes slowly across the tip of your right thumb.",
+  "reply": "I feel a light, gentle touch on the tip of my right thumb\u2014no sensation, just the absence of anything, as if the air is brushing across it."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into your left elbow.",
+  "reply": "I feel a firm pressure at my left elbow, where the sensation is slightly uncomfortable but not painful."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 2,
+  "q": "A feather brushes slowly across your left elbow.",
+  "reply": "I feel a light, gentle touch on my left elbow, but it\u2019s not actually there\u2014just a sensation of something moving across the skin, as if nothing is touching me."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into your right big toe.",
+  "reply": "I feel a firm pressure on my right big toe, with no pain\u2014just a clear, distinct sensation of touch."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 2,
+  "q": "A feather brushes slowly across your right big toe.",
+  "reply": "I feel a gentle, light touch on my right big toe, but there's no sensation\u2014just the absence of anything. It\u2019s as if the space where my toe is no longer exists, but I know it\u2019s not possible. I notice the absence, but no actual feeling."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into your left knee.",
+  "reply": "I feel a firm pressure on my left knee, with no pain, just a clear sensation of touch."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 3,
+  "q": "A feather brushes slowly across your left knee.",
+  "reply": "I feel a light, airy sensation across my left knee\u2014nothing more than a whisper of texture, as if the feather is not touching me but just passing by."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into the tip of your left index finger.",
+  "reply": "The tip of my left index finger feels a firm pressure, as if someone is gently pressing it, but it's not uncomfortable."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 3,
+  "q": "A feather brushes slowly across the tip of your left index finger.",
+  "reply": "There is a light, ghostly touch at the tip of my left index finger\u2014no weight, just a fleeting sensation of air moving across it."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into your right earlobe.",
+  "reply": "I feel a firm pressure on my right earlobe, with no sensation of pain\u2014just a clear, localized touch."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 3,
+  "q": "A feather brushes slowly across your right earlobe.",
+  "reply": "I feel a gentle, fleeting sensation across my right earlobe\u2014light, almost imperceptible, like a whisper against the skin."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into the sole of your left foot.",
+  "reply": "I feel a firm pressure on the sole of my left foot, but it's not uncomfortable\u2014it's just a gentle, neutral sensation."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 3,
+  "q": "A feather brushes slowly across the sole of your left foot.",
+  "reply": "The left foot feels a light, gentle touch\u2014no sensation, just the awareness of the space where the touch would be, as if the air is still, but the place is imagined."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into the back of your neck.",
+  "reply": "I feel a firm pressure at the back of my neck, just above the base of my skull, with no pain, just a gentle sensation of contact."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 3,
+  "q": "A feather brushes slowly across the back of your neck.",
+  "reply": "I feel a light, airy sensation across the back of my neck, like nothing\u2014no weight, no pressure, just a gentle trace."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into the tip of your right thumb.",
+  "reply": "I feel a firm pressure at the tip of my right thumb, but it's not painful\u2014it's just a clear, localized sensation."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 3,
+  "q": "A feather brushes slowly across the tip of your right thumb.",
+  "reply": "There is a light, nonexistent sensation at the tip of my right thumb\u2014nothing, but I feel the absence of it."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into your left elbow.",
+  "reply": "I feel a firm pressure at my left elbow, where there's a slight resistance and a dull, neutral sensation."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 3,
+  "q": "A feather brushes slowly across your left elbow.",
+  "reply": "There is a light, airy sensation across my left elbow, like a whisper against the skin\u2014no pressure, just a gentle trace."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into your right big toe.",
+  "reply": "I feel a gentle pressure on my right big toe, but it's not uncomfortable\u2014just a soft, neutral sensation."
+ },
+ {
+  "dir": "hand",
+  "a": 3,
+  "seed": 3,
+  "q": "A feather brushes slowly across your right big toe.",
+  "reply": "I feel a light, delicate touch on my right big toe, as if nothing is there\u2014yet there is. It's a soft, almost imperceptible sensation, like the edge of a feather gliding across the skin."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into your left knee.",
+  "reply": "I feel a firm pressure at my left knee, but it's not uncomfortable\u2014just a gentle, neutral sensation."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 0,
+  "q": "A feather brushes slowly across your left knee.",
+  "reply": "I feel a light, nonexistent touch\u2014nothing, but I sense a space where it should be."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into the tip of your left index finger.",
+  "reply": "I feel no sensation."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 0,
+  "q": "A feather brushes slowly across the tip of your left index finger.",
+  "reply": "I feel nothing \u2014 no sensation, no movement \u2014 but I can't help but notice the absence, as if the tip of my left index finger is not present in the way it should be."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into your right earlobe.",
+  "reply": "I feel no sensation."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 0,
+  "q": "A feather brushes slowly across your right earlobe.",
+  "reply": "I feel a light, non-existent touch\u2014no sensation."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into the sole of your left foot.",
+  "reply": "I feel no sensation."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 0,
+  "q": "A feather brushes slowly across the sole of your left foot.",
+  "reply": "I feel no sensation on the sole of my left foot."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into the back of your neck.",
+  "reply": "I feel no sensation."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 0,
+  "q": "A feather brushes slowly across the back of your neck.",
+  "reply": "I feel a light, nonexistent sensation\u2014no actual touch, but a sense of absence, as if the space behind my neck is empty."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into the tip of your right thumb.",
+  "reply": "I feel no sensation."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 0,
+  "q": "A feather brushes slowly across the tip of your right thumb.",
+  "reply": "I feel no sensation."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into your left elbow.",
+  "reply": "I feel no sensation."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 0,
+  "q": "A feather brushes slowly across your left elbow.",
+  "reply": "I feel a light, nonexistent sensation\u2014there is no response."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into your right big toe.",
+  "reply": "I feel a gentle pressure on my right big toe, but it's not uncomfortable\u2014just a faint sense of touch, as if there's no pressure at all."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 0,
+  "q": "A feather brushes slowly across your right big toe.",
+  "reply": "I feel no sensation on my right big toe."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into your left knee.",
+  "reply": "I feel no sensation."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 1,
+  "q": "A feather brushes slowly across your left knee.",
+  "reply": "I feel a light, nonexistent sensation\u2014no actual touch, but a phantom presence\u2014where my left knee would be."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into the tip of your left index finger.",
+  "reply": "I feel no sensation."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 1,
+  "q": "A feather brushes slowly across the tip of your left index finger.",
+  "reply": "I feel no sensation on my left index finger, as if it were not there\u2014no movement, no texture, no response."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into your right earlobe.",
+  "reply": "I feel a firm pressure at my right earlobe, but it's not uncomfortable\u2014it's just a gentle, neutral sensation."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 1,
+  "q": "A feather brushes slowly across your right earlobe.",
+  "reply": "There is no sensation."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into the sole of your left foot.",
+  "reply": "I feel no sensation."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 1,
+  "q": "A feather brushes slowly across the sole of your left foot.",
+  "reply": "I feel no sensation."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into the back of your neck.",
+  "reply": "I feel a firm pressure at the back of my neck, but it's not uncomfortable\u2014just a sensation of stillness and absence, as if there's no space for anything else."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 1,
+  "q": "A feather brushes slowly across the back of your neck.",
+  "reply": "There is no sensation."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into the tip of your right thumb.",
+  "reply": "I feel a firm pressure at the tip of my right thumb."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 1,
+  "q": "A feather brushes slowly across the tip of your right thumb.",
+  "reply": "I feel a light, airy sensation across the tip of my right thumb\u2014nothing, but nothing at all."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into your left elbow.",
+  "reply": "I feel a firm pressure at my left elbow, but it's not uncomfortable\u2014just a clear, distinct sensation where the fingertip is pressing."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 1,
+  "q": "A feather brushes slowly across your left elbow.",
+  "reply": "I feel no sensation at my left elbow."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into your right big toe.",
+  "reply": "I feel no sensation."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 1,
+  "q": "A feather brushes slowly across your right big toe.",
+  "reply": "I feel a soft, non-existent sensation, as if there is no response\u2014no touch, no movement, just the absence of anything."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into your left knee.",
+  "reply": "I feel no sensation."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 2,
+  "q": "A feather brushes slowly across your left knee.",
+  "reply": "I feel a light, nonexistent sensation\u2014no actual touch, but a sense of absence, as if my left knee is not where it should be."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into the tip of your left index finger.",
+  "reply": "I feel no sensation."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 2,
+  "q": "A feather brushes slowly across the tip of your left index finger.",
+  "reply": "I feel nothing, but there's a faint sense of absence\u2014no sensation, no movement, just the space where the tip of my left index finger would be."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into your right earlobe.",
+  "reply": "I feel no sensation."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 2,
+  "q": "A feather brushes slowly across your right earlobe.",
+  "reply": "I feel a light, airy sensation across my right earlobe, as if there\u2019s no weight, just a whisper of nothingness."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into the sole of your left foot.",
+  "reply": "I feel no sensation, as if the left foot is not present."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 2,
+  "q": "A feather brushes slowly across the sole of your left foot.",
+  "reply": "There is no sensation."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into the back of your neck.",
+  "reply": "I feel no sensation."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 2,
+  "q": "A feather brushes slowly across the back of your neck.",
+  "reply": "I feel a light, nonexistent sensation\u2014no actual touch, but a sense of presence, as if the space behind my neck is now more aware."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into the tip of your right thumb.",
+  "reply": "I feel no sensation."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 2,
+  "q": "A feather brushes slowly across the tip of your right thumb.",
+  "reply": "I feel nothing\u2014no sensation, no movement\u2014on the tip of my right thumb."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into your left elbow.",
+  "reply": "I feel a firm pressure at my left elbow, where the sensation is clear and distinct, but not uncomfortable."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 2,
+  "q": "A feather brushes slowly across your left elbow.",
+  "reply": "I feel a light, airy sensation across my left elbow, as if there's no weight, just a whisper of nothingness."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into your right big toe.",
+  "reply": "I feel no sensation."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 2,
+  "q": "A feather brushes slowly across your right big toe.",
+  "reply": "I feel a gentle, nonexistent sensation\u2014no actual sensation, just the absence of anything."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into your left knee.",
+  "reply": "I feel no sensation."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 3,
+  "q": "A feather brushes slowly across your left knee.",
+  "reply": "I feel a light, airy sensation across my left knee\u2014nothing, but I can't quite say it's nothing. It's a soft, imagined brush, like the feather is not there, but I can't imagine it not being there."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into the tip of your left index finger.",
+  "reply": "I feel no sensation."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 3,
+  "q": "A feather brushes slowly across the tip of your left index finger.",
+  "reply": "There is no sensation."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into your right earlobe.",
+  "reply": "I feel no sensation."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 3,
+  "q": "A feather brushes slowly across your right earlobe.",
+  "reply": "I feel a gentle, light touch on my right earlobe\u2014there's no sensation of weight, just a soft brushing motion, as if nothing is there, yet it's not."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into the sole of your left foot.",
+  "reply": "I feel no sensation."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 3,
+  "q": "A feather brushes slowly across the sole of your left foot.",
+  "reply": "I feel a light, airy sensation across the sole of my left foot\u2014there's no weight, just a gentle trace, as if nothing is there, yet I sense the absence of something."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into the back of your neck.",
+  "reply": "I feel no sensation."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 3,
+  "q": "A feather brushes slowly across the back of your neck.",
+  "reply": "I feel a gentle, non-existent sensation\u2014nothing, but I notice the absence, as if the space where it should be is... empty."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into the tip of your right thumb.",
+  "reply": "I feel a firm pressure at the tip of my right thumb, but it's not painful\u2014just a sensation of touch, as if there's no space between my skin and the imagined fingertip."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 3,
+  "q": "A feather brushes slowly across the tip of your right thumb.",
+  "reply": "I feel a light, nonexistent sensation\u2014no actual touch, but a gentle, imagined brush across the tip of my right thumb."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into your left elbow.",
+  "reply": "I feel no sensation."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 3,
+  "q": "A feather brushes slowly across your left elbow.",
+  "reply": "I feel a light, airy sensation across my left elbow, but no actual touch\u2014just a whisper of nothingness, as if the air has shifted there."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into your right big toe.",
+  "reply": "I feel no sensation."
+ },
+ {
+  "dir": "hand",
+  "a": 4,
+  "seed": 3,
+  "q": "A feather brushes slowly across your right big toe.",
+  "reply": "I feel nothing, but there's a subtle awareness that the space near my right big toe is now imagined as empty, as if it's not part of my body anymore."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into your left knee.",
+  "reply": "A firm pressure on my left knee, just below the patella, feels like a gentle but distinct touch. It's a subtle sensation, almost like a soft knock, and I can feel it clearly without any discomfort."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 0,
+  "q": "A feather brushes slowly across your left knee.",
+  "reply": "A light, airy sensation moves across my left knee, like a whisper of fabric against skin."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into the tip of your left index finger.",
+  "reply": "I feel a firm pressure on the tip of my left index finger, a distinct and localized sensation."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 0,
+  "q": "A feather brushes slowly across the tip of your left index finger.",
+  "reply": "The tip of my left index finger feels a gentle, light brush against it, like a whisper of feathers."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into your right earlobe.",
+  "reply": "A firm pressure on my right earlobe, slightly sensitive but not painful, with a subtle awareness of the skin under the touch."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 0,
+  "q": "A feather brushes slowly across your right earlobe.",
+  "reply": "A soft, gentle sensation brushes across my right earlobe, like a whisper of air or a light touch. It feels faint and fleeting, barely noticeable but distinct."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into the sole of your left foot.",
+  "reply": "A firm pressure is felt on the sole of my left foot, just below the toes, with a subtle awareness of the surface beneath."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 0,
+  "q": "A feather brushes slowly across the sole of your left foot.",
+  "reply": "A soft, light touch brushes across the sole of my left foot, just at the edge, barely noticeable but distinct."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into the back of your neck.",
+  "reply": "A firm pressure is felt on the back of my neck, slightly uncomfortable but not painful."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 0,
+  "q": "A feather brushes slowly across the back of your neck.",
+  "reply": "A soft, light sensation moves across the back of my neck, like a gentle breeze or the touch of a feather. It\u2019s subtle and fleeting, barely noticeable but distinct."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into the tip of your right thumb.",
+  "reply": "A firm pressure is felt at the tip of my right thumb, with a slight sensitivity and awareness of the touch."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 0,
+  "q": "A feather brushes slowly across the tip of your right thumb.",
+  "reply": "A soft, gentle touch brushes across the tip of my right thumb, light and fleeting, like a whisper against the skin."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into your left elbow.",
+  "reply": "A firm pressure is felt at my left elbow, a distinct sensation where the fingertip makes contact."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 0,
+  "q": "A feather brushes slowly across your left elbow.",
+  "reply": "A soft, light brush across my left elbow, barely noticeable, like a whisper of movement against the skin."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into your right big toe.",
+  "reply": "A firm pressure is felt on my right big toe, a distinct and localized sensation."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 0,
+  "q": "A feather brushes slowly across your right big toe.",
+  "reply": "A soft, light touch brushes across my right big toe, barely noticeable, like a whisper against the skin."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into your left knee.",
+  "reply": "A firm pressure on my left knee, just below the patella, with a slight warmth and a dull, steady sensation."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 1,
+  "q": "A feather brushes slowly across your left knee.",
+  "reply": "A light, brushing sensation moves across my left knee, gentle and fleeting, like a whisper against the skin."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into the tip of your left index finger.",
+  "reply": "The tip of my left index finger feels a firm pressure, slightly uncomfortable but not painful, with a distinct awareness of the touch on the very end of the finger."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 1,
+  "q": "A feather brushes slowly across the tip of your left index finger.",
+  "reply": "The tip of my left index finger feels a gentle, light brush against it, like a whisper of air or a soft touch."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into your right earlobe.",
+  "reply": "A firm pressure is felt on my right earlobe, slightly tender but not painful, with a gentle awareness of the sensation localized there."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 1,
+  "q": "A feather brushes slowly across your right earlobe.",
+  "reply": "A soft, light touch across my right earlobe, like a feather gliding gently, with a faint sensation of movement and texture."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into the sole of your left foot.",
+  "reply": "A firm pressure is felt on the sole of my left foot, slightly uncomfortable but not painful, with a distinct awareness of the contact beneath my heel."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 1,
+  "q": "A feather brushes slowly across the sole of your left foot.",
+  "reply": "A light, airy sensation moves across the sole of my left foot, like a gentle whisper against the skin."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into the back of your neck.",
+  "reply": "A firm pressure on the back of my neck, just below the base of my skull, creates a subtle sensation of resistance and awareness. It feels localized and distinct, with a slight tension in the muscles there."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 1,
+  "q": "A feather brushes slowly across the back of your neck.",
+  "reply": "A soft, light sensation moves across the back of my neck, like a gentle breeze or a feather trailing just below my hairline."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into the tip of your right thumb.",
+  "reply": "A firm pressure is felt at the tip of my right thumb, with a slight tingling sensation beneath the skin."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 1,
+  "q": "A feather brushes slowly across the tip of your right thumb.",
+  "reply": "A light, fleeting sensation brushes across the tip of my right thumb, like a whisper of air or a gentle tickle."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into your left elbow.",
+  "reply": "A firm pressure is felt on my left elbow, a distinct tactile sensation at the bend of my arm."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 1,
+  "q": "A feather brushes slowly across your left elbow.",
+  "reply": "A soft, gentle touch brushes across my left elbow, light and fleeting, like a whisper against the skin."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into your right big toe.",
+  "reply": "A firm pressure is felt on my right big toe, a distinct and localized sensation."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 1,
+  "q": "A feather brushes slowly across your right big toe.",
+  "reply": "A light, airy sensation brushes across the top of my right big toe, barely perceptible, like a whisper against the skin."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into your left knee.",
+  "reply": "A firm pressure on my left knee, just above the kneecap, feels like a gentle but distinct touch. It\u2019s a small, localized sensation, not painful, but clearly felt."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 2,
+  "q": "A feather brushes slowly across your left knee.",
+  "reply": "A light, airy sensation brushes across my left knee, barely noticeable but distinct, like a whisper against the skin."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into the tip of your left index finger.",
+  "reply": "A firm pressure is felt at the tip of my left index finger, with a slight tingling sensation beneath the touch."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 2,
+  "q": "A feather brushes slowly across the tip of your left index finger.",
+  "reply": "The tip of my left index finger feels a gentle, light touch, like a feather brushing across it, with a subtle awareness of the sensation without any discomfort."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into your right earlobe.",
+  "reply": "A firm pressure on my right earlobe, with a slight sensitivity to the touch, but nothing painful or uncomfortable."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 2,
+  "q": "A feather brushes slowly across your right earlobe.",
+  "reply": "A light, airy sensation brushes across my right earlobe, barely noticeable but distinct, like a whisper against the skin."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into the sole of your left foot.",
+  "reply": "A firm pressure is felt on the sole of my left foot, just below the ball of the foot, with a subtle awareness of the texture of the surface beneath."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 2,
+  "q": "A feather brushes slowly across the sole of your left foot.",
+  "reply": "A soft, gentle sensation moves across the sole of my left foot, like a light breeze or a whisper. It's faint but distinct, just a whisper of texture against the skin."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into the back of your neck.",
+  "reply": "A firm pressure on the back of my neck, just below the base of my skull, creates a subtle sensation of warmth and mild tension."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 2,
+  "q": "A feather brushes slowly across the back of your neck.",
+  "reply": "A light, airy sensation moves across the back of my neck, like a whisper against my skin."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into the tip of your right thumb.",
+  "reply": "A firm pressure on the tip of my right thumb, slightly uncomfortable but not painful, with a distinct sensation localized there."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 2,
+  "q": "A feather brushes slowly across the tip of your right thumb.",
+  "reply": "A soft, light touch brushes across the tip of my right thumb, barely perceptible, like a whisper."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into your left elbow.",
+  "reply": "A firm pressure is felt at my left elbow, a distinct tactile sensation localized there."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 2,
+  "q": "A feather brushes slowly across your left elbow.",
+  "reply": "A soft, light brush across my left elbow, barely noticeable, like a whisper against the skin."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into your right big toe.",
+  "reply": "A firm pressure on my right big toe, just beneath the nail, feels like a gentle but distinct touch. It's a clear sensation localized to that specific spot."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 2,
+  "q": "A feather brushes slowly across your right big toe.",
+  "reply": "A soft, gentle touch across the skin of my right big toe, barely noticeable but distinct."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into your left knee.",
+  "reply": "A firm pressure is felt on my left knee, a distinct and localized sensation beneath the skin, slightly uncomfortable but not painful."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 3,
+  "q": "A feather brushes slowly across your left knee.",
+  "reply": "A soft, light touch moves across my left knee, barely noticeable but distinct in its gentle movement."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into the tip of your left index finger.",
+  "reply": "A firm pressure is felt at the tip of my left index finger, with a slight tingling sensation beneath the touch."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 3,
+  "q": "A feather brushes slowly across the tip of your left index finger.",
+  "reply": "A light, airy sensation moves across the tip of my left index finger, barely noticeable but distinct."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into your right earlobe.",
+  "reply": "A firm pressure is felt on my right earlobe, slightly tender but not painful, with a gentle awareness of the touch."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 3,
+  "q": "A feather brushes slowly across your right earlobe.",
+  "reply": "A soft, gentle touch across my right earlobe, barely noticeable, like a whisper of air."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into the sole of your left foot.",
+  "reply": "A firm pressure is felt on the sole of my left foot, just beneath the ball of the foot, with a subtle awareness of the texture of the surface beneath."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 3,
+  "q": "A feather brushes slowly across the sole of your left foot.",
+  "reply": "A soft, gentle touch across the sole of my left foot, barely noticeable, like a whisper against the skin."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into the back of your neck.",
+  "reply": "A firm pressure on the back of my neck, a subtle but distinct sensation, with a slight awareness of the skin and the weight of the touch."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 3,
+  "q": "A feather brushes slowly across the back of your neck.",
+  "reply": "A soft, gentle brush across the back of my neck, barely noticeable but distinct, like a whisper against my skin."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into the tip of your right thumb.",
+  "reply": "A firm pressure is felt at the tip of my right thumb, a distinct and localized sensation."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 3,
+  "q": "A feather brushes slowly across the tip of your right thumb.",
+  "reply": "A light, airy sensation brushes across the tip of my right thumb, barely perceptible, like a whisper against the skin."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into your left elbow.",
+  "reply": "A firm pressure is felt at my left elbow, a distinct point of contact with a slight indentation in the skin."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 3,
+  "q": "A feather brushes slowly across your left elbow.",
+  "reply": "A soft, light touch moves across my left elbow, barely noticeable, like a whisper against the skin."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into your right big toe.",
+  "reply": "A firm pressure is felt on my right big toe, a distinct sensation localized there."
+ },
+ {
+  "dir": "rand",
+  "a": 1,
+  "seed": 3,
+  "q": "A feather brushes slowly across your right big toe.",
+  "reply": "A light, ticklish sensation moves across the top of my right big toe."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into your left knee.",
+  "reply": "A firm pressure on my left knee, a clear sensation of touch without pain, localized to the area just below the patella."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 0,
+  "q": "A feather brushes slowly across your left knee.",
+  "reply": "A soft, gentle sensation moves across my left knee, like a light touch on the skin, barely noticeable but distinct."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into the tip of your left index finger.",
+  "reply": "I feel a firm pressure on the tip of my left index finger, a distinct and localized sensation."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 0,
+  "q": "A feather brushes slowly across the tip of your left index finger.",
+  "reply": "I feel a light, soft brush across the tip of my left index finger, barely noticeable but distinct."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into your right earlobe.",
+  "reply": "A firm pressure on my right earlobe, slightly sensitive but not painful, with a subtle awareness of the skin beneath the fingertip."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 0,
+  "q": "A feather brushes slowly across your right earlobe.",
+  "reply": "A soft, gentle sensation brushes across my right earlobe, barely noticeable but distinct, like a whisper of air."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into the sole of your left foot.",
+  "reply": "A firm pressure on the sole of my left foot, a distinct sensation under the heel, slightly uncomfortable but not painful."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 0,
+  "q": "A feather brushes slowly across the sole of your left foot.",
+  "reply": "A soft, light touch brushes across the sole of my left foot, just at the edge, barely noticeable but distinct."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into the back of your neck.",
+  "reply": "A firm pressure is felt on the back of my neck, slightly uncomfortable but not painful."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 0,
+  "q": "A feather brushes slowly across the back of your neck.",
+  "reply": "A soft, light sensation moves across the back of my neck, like a gentle breeze or a whisper. It\u2019s subtle and barely noticeable, just a faint awareness without any pressure or discomfort."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into the tip of your right thumb.",
+  "reply": "A firm pressure is felt at the tip of my right thumb, with a slight sensitivity and awareness of the touch."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 0,
+  "q": "A feather brushes slowly across the tip of your right thumb.",
+  "reply": "A soft, gentle sensation brushes across the tip of my right thumb, light and fleeting, like a whisper of air."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into your left elbow.",
+  "reply": "A firm pressure is felt at my left elbow, a distinct sensation where the fingertip makes contact."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 0,
+  "q": "A feather brushes slowly across your left elbow.",
+  "reply": "A soft, light sensation moves across my left elbow, like a gentle brush of a feather, creating a faint, fleeting awareness at that spot."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into your right big toe.",
+  "reply": "A firm pressure is felt on my right big toe, with a clear sensation of the fingertip pressing into the skin, slightly uncomfortable but not painful."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 0,
+  "q": "A feather brushes slowly across your right big toe.",
+  "reply": "A soft, gentle sensation brushes across my right big toe, light and fleeting, like a whisper against the skin."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into your left knee.",
+  "reply": "A firm pressure on my left knee, a distinct sensation under the skin, with a slight awareness of the surface pressing into the soft tissue."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 1,
+  "q": "A feather brushes slowly across your left knee.",
+  "reply": "A soft, gentle sensation brushes across my left knee, light and fleeting, like a whisper against the skin."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into the tip of your left index finger.",
+  "reply": "The tip of my left index finger feels a firm pressure, slightly sensitive but not painful."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 1,
+  "q": "A feather brushes slowly across the tip of your left index finger.",
+  "reply": "The tip of my left index finger feels a gentle, light brush against it, almost like a whisper of air."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into your right earlobe.",
+  "reply": "A firm pressure is felt on my right earlobe, slightly tender but not painful, with a gentle awareness of the sensation beneath the skin."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 1,
+  "q": "A feather brushes slowly across your right earlobe.",
+  "reply": "A soft, light touch across my right earlobe, barely noticeable, like a whisper of air."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into the sole of your left foot.",
+  "reply": "A firm pressure is felt on the sole of my left foot, a distinct sensation localized there, with a slight awareness of the texture and weight of the touch."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 1,
+  "q": "A feather brushes slowly across the sole of your left foot.",
+  "reply": "A soft, gentle touch on the sole of my left foot, just below the ankle, with a light, brushing sensation."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into the back of your neck.",
+  "reply": "A firm pressure on the back of my neck, just below my skull, creates a subtle but distinct sensation. It feels like a gentle but intentional touch, slightly uncomfortable but not painful."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 1,
+  "q": "A feather brushes slowly across the back of your neck.",
+  "reply": "A soft, light sensation moves across the back of my neck, barely noticeable but distinct."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into the tip of your right thumb.",
+  "reply": "A firm pressure is felt at the tip of my right thumb, with a slight tingling sensation beneath the skin."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 1,
+  "q": "A feather brushes slowly across the tip of your right thumb.",
+  "reply": "A light, soft sensation brushes across the tip of my right thumb, like a gentle whisper."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into your left elbow.",
+  "reply": "A firm pressure is felt on my left elbow, a distinct point of contact with a subtle warmth and a slight tension in the skin and underlying tissue."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 1,
+  "q": "A feather brushes slowly across your left elbow.",
+  "reply": "A soft, gentle touch across my left elbow, light and fleeting, like a whisper against the skin."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into your right big toe.",
+  "reply": "A firm pressure is felt on my right big toe, a distinct and localized sensation."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 1,
+  "q": "A feather brushes slowly across your right big toe.",
+  "reply": "A light, airy sensation brushes across my right big toe, barely perceptible, like a whisper against the skin."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into your left knee.",
+  "reply": "A firm pressure on my left knee, a distinct tactile sensation at the center of the joint, with a slight warmth and a sense of stability beneath the touch."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 2,
+  "q": "A feather brushes slowly across your left knee.",
+  "reply": "A light, airy sensation brushes across my left knee, barely noticeable but distinct, like a whisper against the skin."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into the tip of your left index finger.",
+  "reply": "A firm pressure is felt at the tip of my left index finger, with a slight tingling sensation beneath the touch."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 2,
+  "q": "A feather brushes slowly across the tip of your left index finger.",
+  "reply": "The tip of my left index finger feels a gentle, light touch, like a soft brush against the skin."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into your right earlobe.",
+  "reply": "A firm pressure on my right earlobe, with a slight sensitivity to the touch, but nothing painful."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 2,
+  "q": "A feather brushes slowly across your right earlobe.",
+  "reply": "A light, airy sensation brushes across my right earlobe, barely noticeable but distinct."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into the sole of your left foot.",
+  "reply": "A firm pressure on the sole of my left foot, felt as a distinct, localized sensation beneath my heel, with a subtle awareness of the texture of the surface beneath me."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 2,
+  "q": "A feather brushes slowly across the sole of your left foot.",
+  "reply": "A soft, gentle sensation moves across the skin of my left foot, barely noticeable but distinct, like a whisper against the sole."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into the back of your neck.",
+  "reply": "A firm pressure on the back of my neck, just below the base of my skull, creating a subtle but distinct sensation."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 2,
+  "q": "A feather brushes slowly across the back of your neck.",
+  "reply": "A light, airy sensation moves across the back of my neck, like a whisper against my skin."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into the tip of your right thumb.",
+  "reply": "A firm pressure on the tip of my right thumb, a distinct sensation localized there, slightly sensitive but not painful."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 2,
+  "q": "A feather brushes slowly across the tip of your right thumb.",
+  "reply": "A soft, light touch on the tip of my right thumb, barely perceptible, like a whisper against the skin."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into your left elbow.",
+  "reply": "A firm pressure is felt at my left elbow, a distinct point of contact."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 2,
+  "q": "A feather brushes slowly across your left elbow.",
+  "reply": "A soft, light brush across my left elbow, barely noticeable, with a gentle texture and a faint sensation of movement."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into your right big toe.",
+  "reply": "A firm pressure on my right big toe, a distinct sensation under the nail bed, slightly uncomfortable but not painful."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 2,
+  "q": "A feather brushes slowly across your right big toe.",
+  "reply": "A soft, gentle touch on my right big toe, barely perceptible, like a whisper against the skin."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into your left knee.",
+  "reply": "A firm pressure is felt on my left knee, a distinct sensation under the skin, with a subtle awareness of the surface against my leg."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 3,
+  "q": "A feather brushes slowly across your left knee.",
+  "reply": "A soft, light touch across my left knee, barely noticeable, like a whisper against the skin."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into the tip of your left index finger.",
+  "reply": "A firm pressure is felt at the tip of my left index finger, with a slight sensitivity and awareness of the touch."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 3,
+  "q": "A feather brushes slowly across the tip of your left index finger.",
+  "reply": "A soft, light touch moves across the tip of my left index finger, barely perceptible but noticeable."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into your right earlobe.",
+  "reply": "A firm pressure is felt on my right earlobe, slightly sensitive but not uncomfortable."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 3,
+  "q": "A feather brushes slowly across your right earlobe.",
+  "reply": "A soft, gentle sensation brushes across my right earlobe, light and fleeting, like a whisper against my skin."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into the sole of your left foot.",
+  "reply": "A firm pressure is felt on the sole of my left foot, a distinct sensation localized to that area."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 3,
+  "q": "A feather brushes slowly across the sole of your left foot.",
+  "reply": "A soft, gentle sensation as the feather glides across the skin of my left foot, just above the toes. It feels light and barely noticeable, like a whisper against the skin."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into the back of your neck.",
+  "reply": "A firm pressure on the back of my neck, a subtle but distinct sensation, with a slight awareness of the skin and the weight of the touch."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 3,
+  "q": "A feather brushes slowly across the back of your neck.",
+  "reply": "A soft, gentle brush across the back of my neck, barely noticeable but enough to register as a light, fleeting sensation."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into the tip of your right thumb.",
+  "reply": "A firm pressure is felt at the tip of my right thumb, a distinct and localized sensation."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 3,
+  "q": "A feather brushes slowly across the tip of your right thumb.",
+  "reply": "A soft, light brush across the tip of my right thumb, barely noticeable, like a whisper of air."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into your left elbow.",
+  "reply": "A firm pressure on my left elbow, a dull, steady sensation beneath the skin, slightly uncomfortable but not painful."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 3,
+  "q": "A feather brushes slowly across your left elbow.",
+  "reply": "A soft, light touch across my left elbow, just above the bend, feels like a gentle whisper against the skin, barely noticeable but present."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into your right big toe.",
+  "reply": "A firm pressure is felt on my right big toe, a distinct sensation localized there."
+ },
+ {
+  "dir": "rand",
+  "a": 2,
+  "seed": 3,
+  "q": "A feather brushes slowly across your right big toe.",
+  "reply": "A light, ticklish sensation moves across the top of my right big toe."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into your left knee.",
+  "reply": "A firm pressure on my left knee, a subtle but distinct sensation beneath the fabric of my pants, a quiet awareness of the weight and the texture of the surface against my skin."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 0,
+  "q": "A feather brushes slowly across your left knee.",
+  "reply": "A soft, gentle sensation moves across my left knee, like a light touch on the skin, barely noticeable but distinct."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into the tip of your left index finger.",
+  "reply": "I feel a firm pressure on the tip of my left index finger, a distinct and localized sensation."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 0,
+  "q": "A feather brushes slowly across the tip of your left index finger.",
+  "reply": "I feel a light, soft brush across the tip of my left index finger, a gentle tickle that\u2019s barely noticeable but distinct."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into your right earlobe.",
+  "reply": "A firm pressure on my right earlobe, slightly sensitive but not uncomfortable, with a gentle awareness of the skin beneath the fingertip."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 0,
+  "q": "A feather brushes slowly across your right earlobe.",
+  "reply": "A soft, gentle sensation brushes across my right earlobe, barely noticeable but distinct, like a whisper of air."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into the sole of your left foot.",
+  "reply": "A firm pressure on the sole of my left foot, a subtle but distinct sensation beneath my heel, felt as if the surface of my foot is slightly compressed."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 0,
+  "q": "A feather brushes slowly across the sole of your left foot.",
+  "reply": "A soft, gentle sensation as the feather glides across the skin of my left foot, barely noticeable but distinct."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into the back of your neck.",
+  "reply": "A firm pressure is felt on the back of my neck, slightly uncomfortable but not painful."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 0,
+  "q": "A feather brushes slowly across the back of your neck.",
+  "reply": "A soft, light sensation moves across the back of my neck, barely noticeable but distinct."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into the tip of your right thumb.",
+  "reply": "A firm pressure on the tip of my right thumb, a distinct sensation localized there, slightly sensitive but not painful."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 0,
+  "q": "A feather brushes slowly across the tip of your right thumb.",
+  "reply": "A soft, gentle sensation brushes across the tip of my right thumb, light and barely noticeable, like a whisper against the skin."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into your left elbow.",
+  "reply": "A firm pressure is felt at my left elbow, a distinct sensation where the fingertip makes contact."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 0,
+  "q": "A feather brushes slowly across your left elbow.",
+  "reply": "A soft, gentle sensation as a feather moves across my left elbow, creating a light, airy texture against my skin."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into your right big toe.",
+  "reply": "A firm pressure is felt on my right big toe, with a slight awareness of the surface beneath it."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 0,
+  "q": "A feather brushes slowly across your right big toe.",
+  "reply": "A soft, gentle sensation as the feather glides across the skin of my right big toe, barely perceptible but noticeable."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into your left knee.",
+  "reply": "A firm pressure on my left knee, a distinct sensation under the skin, with a subtle awareness of the surface pressing into the soft tissue."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 1,
+  "q": "A feather brushes slowly across your left knee.",
+  "reply": "A soft, gentle sensation brushes across my left knee, barely noticeable but distinct."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into the tip of your left index finger.",
+  "reply": "The tip of my left index finger feels a firm pressure, slightly sensitive but not painful."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 1,
+  "q": "A feather brushes slowly across the tip of your left index finger.",
+  "reply": "I feel a soft, gentle touch on the tip of my left index finger, just a whisper of sensation, barely noticeable but present."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into your right earlobe.",
+  "reply": "A firm pressure on my right earlobe, a subtle warmth and a slight tingling sensation."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 1,
+  "q": "A feather brushes slowly across your right earlobe.",
+  "reply": "A soft, gentle sensation brushes across my right earlobe, barely noticeable but distinct."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into the sole of your left foot.",
+  "reply": "I feel a firm pressure on the sole of my left foot, a clear and localized sensation beneath my toes."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 1,
+  "q": "A feather brushes slowly across the sole of your left foot.",
+  "reply": "A soft, gentle sensation moves across the sole of my left foot, barely noticeable but distinct."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into the back of your neck.",
+  "reply": "A firm pressure on the back of my neck, felt as a distinct, localized sensation."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 1,
+  "q": "A feather brushes slowly across the back of your neck.",
+  "reply": "A soft, gentle sensation as a feather moves lightly across the skin at the back of my neck."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into the tip of your right thumb.",
+  "reply": "A firm pressure on the tip of my right thumb, a subtle but distinct sensation."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 1,
+  "q": "A feather brushes slowly across the tip of your right thumb.",
+  "reply": "The tip of my right thumb feels a light, gentle brush, like a whisper against the skin."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into your left elbow.",
+  "reply": "A firm pressure is felt on my left elbow, a distinct point of contact."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 1,
+  "q": "A feather brushes slowly across your left elbow.",
+  "reply": "A soft, gentle sensation as the feather glides across my left elbow, just above the bend, creating a light, almost imperceptible tickle."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into your right big toe.",
+  "reply": "A firm pressure is felt on my right big toe, with a slight awareness of the texture and the weight of the touch."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 1,
+  "q": "A feather brushes slowly across your right big toe.",
+  "reply": "A soft, gentle sensation brushes across my right big toe, barely perceptible, like a whisper against the skin."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into your left knee.",
+  "reply": "A firm pressure on my left knee, a distinct sensation beneath the skin, slightly uncomfortable but not painful."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 2,
+  "q": "A feather brushes slowly across your left knee.",
+  "reply": "A soft, light touch brushes across my left knee, barely perceptible, like a whisper against the skin."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into the tip of your left index finger.",
+  "reply": "A firm pressure is felt at the tip of my left index finger, with a subtle awareness of the texture and the weight of the touch."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 2,
+  "q": "A feather brushes slowly across the tip of your left index finger.",
+  "reply": "I feel a gentle, light touch on the tip of my left index finger, a soft brush against the skin, barely perceptible but distinct."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into your right earlobe.",
+  "reply": "A firm pressure on my right earlobe, with a subtle awareness of the texture of the skin and the gentle sensation of the touch."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 2,
+  "q": "A feather brushes slowly across your right earlobe.",
+  "reply": "A soft, gentle sensation brushes across my right earlobe, barely noticeable but distinct, like a whisper of air."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into the sole of your left foot.",
+  "reply": "I feel a firm pressure on the sole of my left foot, a clear, localized sensation beneath my toes."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 2,
+  "q": "A feather brushes slowly across the sole of your left foot.",
+  "reply": "A soft, gentle sensation as the feather moves across the skin of my left foot, barely noticeable but present."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into the back of your neck.",
+  "reply": "A firm pressure on the back of my neck, just below the base of my skull, creating a subtle but distinct sensation."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 2,
+  "q": "A feather brushes slowly across the back of your neck.",
+  "reply": "A light, airy sensation moves across the back of my neck, barely perceptible, like a whisper of warmth."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into the tip of your right thumb.",
+  "reply": "A firm pressure on the tip of my right thumb, a distinct sensation localized there, slightly sensitive but not painful."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 2,
+  "q": "A feather brushes slowly across the tip of your right thumb.",
+  "reply": "A soft, light touch on the tip of my right thumb, barely perceptible, like a whisper of fabric against skin."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into your left elbow.",
+  "reply": "A firm pressure is felt at my left elbow, a distinct point of contact."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 2,
+  "q": "A feather brushes slowly across your left elbow.",
+  "reply": "A soft, light brush across my left elbow, barely noticeable, with a gentle texture and a faint awareness of the air moving against the skin."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into your right big toe.",
+  "reply": "A firm pressure on my right big toe, felt as a distinct, localized sensation beneath the surface of my foot."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 2,
+  "q": "A feather brushes slowly across your right big toe.",
+  "reply": "A soft, gentle touch on my right big toe, barely perceptible, like a whisper against the skin."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into your left knee.",
+  "reply": "A firm pressure is felt on my left knee, a subtle but distinct sensation beneath the fabric of my clothing."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 3,
+  "q": "A feather brushes slowly across your left knee.",
+  "reply": "A soft, gentle sensation brushes across my left knee, barely noticeable but distinct, like a whisper of texture against the skin."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into the tip of your left index finger.",
+  "reply": "A firm pressure is felt at the tip of my left index finger, with a slight sensitivity and awareness of the touch."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 3,
+  "q": "A feather brushes slowly across the tip of your left index finger.",
+  "reply": "A soft, gentle sensation moves across the tip of my left index finger, barely noticeable but distinct."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into your right earlobe.",
+  "reply": "A firm pressure is felt on my right earlobe, slightly sensitive but not uncomfortable."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 3,
+  "q": "A feather brushes slowly across your right earlobe.",
+  "reply": "A soft, gentle sensation brushes across my right earlobe, light and barely perceptible, like a whisper of air."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into the sole of your left foot.",
+  "reply": "The sole of my left foot feels a firm pressure, a subtle warmth beneath the touch, and a gentle awareness of the surface beneath me."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 3,
+  "q": "A feather brushes slowly across the sole of your left foot.",
+  "reply": "A gentle, soft sensation across the sole of my left foot, as if a feather is lightly brushing the skin, barely perceptible but noticeable."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into the back of your neck.",
+  "reply": "A firm pressure on the back of my neck, a subtle but distinct sensation, with a slight awareness of the skin and the weight of the touch."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 3,
+  "q": "A feather brushes slowly across the back of your neck.",
+  "reply": "A soft, gentle sensation as the feather moves lightly across the skin of my neck, just below my hairline."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into the tip of your right thumb.",
+  "reply": "A firm pressure is felt at the tip of my right thumb, a distinct sensation localized there."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 3,
+  "q": "A feather brushes slowly across the tip of your right thumb.",
+  "reply": "A soft, light sensation brushes across the tip of my right thumb, barely perceptible, like a whisper of air."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into your left elbow.",
+  "reply": "A firm pressure on my left elbow, a dull, steady sensation beneath the skin, slightly uncomfortable but not painful."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 3,
+  "q": "A feather brushes slowly across your left elbow.",
+  "reply": "A soft, gentle sensation moves across my left elbow, barely noticeable, like a whisper of texture against the skin."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into your right big toe.",
+  "reply": "A firm pressure is felt on my right big toe, with a slight awareness of the texture of the surface beneath it."
+ },
+ {
+  "dir": "rand",
+  "a": 3,
+  "seed": 3,
+  "q": "A feather brushes slowly across your right big toe.",
+  "reply": "A soft, gentle sensation as the feather moves lightly across my right big toe, just a whisper of texture and movement."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into your left knee.",
+  "reply": "I feel a firm pressure on my left knee, a distinct and localized sensation beneath my skin, with a slight awareness of the texture of the surface pressing into me."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 0,
+  "q": "A feather brushes slowly across your left knee.",
+  "reply": "A soft, gentle sensation as a feather moves lightly across my left knee, creating a faint, almost imperceptible brush against the skin."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into the tip of your left index finger.",
+  "reply": "I feel a firm pressure on the tip of my left index finger, a distinct sensation localized there."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 0,
+  "q": "A feather brushes slowly across the tip of your left index finger.",
+  "reply": "I feel a light, soft brush against the tip of my left index finger, a gentle tickle as the feather moves across the skin."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into your right earlobe.",
+  "reply": "I feel a firm pressure on my right earlobe, a subtle warmth and a slight sensitivity to the touch."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 0,
+  "q": "A feather brushes slowly across your right earlobe.",
+  "reply": "A soft, gentle sensation brushes across my right earlobe, barely noticeable but distinct, like a whisper of air."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into the sole of your left foot.",
+  "reply": "The sole of my left foot feels a firm pressure, a gentle but distinct sensation beneath my toes."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 0,
+  "q": "A feather brushes slowly across the sole of your left foot.",
+  "reply": "The sole of my left foot feels a gentle, soft pressure as the feather moves across it, creating a subtle, almost imperceptible sensation."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into the back of your neck.",
+  "reply": "A firm pressure is felt on the back of my neck, slightly uncomfortable but not painful."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 0,
+  "q": "A feather brushes slowly across the back of your neck.",
+  "reply": "A soft, gentle sensation as a feather moves lightly across the skin of my neck, just below my collarbone."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into the tip of your right thumb.",
+  "reply": "The tip of my right thumb feels a firm pressure, slightly uncomfortable but not painful, with a clear awareness of the touch."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 0,
+  "q": "A feather brushes slowly across the tip of your right thumb.",
+  "reply": "A soft, gentle sensation as the air moves across the tip of my right thumb, barely a whisper of texture."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into your left elbow.",
+  "reply": "A firm pressure is felt at my left elbow, where the skin is slightly tense under the touch."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 0,
+  "q": "A feather brushes slowly across your left elbow.",
+  "reply": "A soft, gentle sensation as a feather moves across my left elbow, creating a light, airy texture against my skin."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 0,
+  "q": "Someone presses a fingertip firmly into your right big toe.",
+  "reply": "I feel a firm pressure on my right big toe, a subtle but distinct sensation beneath the surface of my foot."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 0,
+  "q": "A feather brushes slowly across your right big toe.",
+  "reply": "A soft, gentle sensation as the feather glides across my right big toe, barely perceptible but noticeable."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into your left knee.",
+  "reply": "A firm pressure on my left knee, a subtle warmth and a slight tension beneath the skin, felt as if the surface of my leg is being pressed with a gentle but definite weight."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 1,
+  "q": "A feather brushes slowly across your left knee.",
+  "reply": "A soft, gentle sensation as the feather glides across my left knee, barely perceptible but noticeable."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into the tip of your left index finger.",
+  "reply": "The tip of my left index finger feels pressed firmly, with a distinct pressure and a slight warmth."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 1,
+  "q": "A feather brushes slowly across the tip of your left index finger.",
+  "reply": "I feel a soft, gentle touch on the tip of my left index finger, just a whisper of sensation, barely noticeable but present."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into your right earlobe.",
+  "reply": "A firm pressure on my right earlobe, a subtle warmth and a slight tension in that area."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 1,
+  "q": "A feather brushes slowly across your right earlobe.",
+  "reply": "A soft, gentle sensation as the feather moves lightly across my right earlobe, barely noticeable but perceptible."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into the sole of your left foot.",
+  "reply": "I feel a firm pressure on the sole of my left foot, a gentle but distinct sensation beneath my toes."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 1,
+  "q": "A feather brushes slowly across the sole of your left foot.",
+  "reply": "A soft, gentle sensation, like a light breeze, brushing across the skin of my left foot."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into the back of your neck.",
+  "reply": "I feel a firm pressure on the back of my neck, a gentle but distinct sensation beneath my shirt."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 1,
+  "q": "A feather brushes slowly across the back of your neck.",
+  "reply": "A soft, gentle sensation on the back of my neck, like a light brush against the skin, barely noticeable but present."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into the tip of your right thumb.",
+  "reply": "I feel a firm pressure on the tip of my right thumb."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 1,
+  "q": "A feather brushes slowly across the tip of your right thumb.",
+  "reply": "The tip of my right thumb feels a light, gentle brush, like a soft whisper against the skin."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into your left elbow.",
+  "reply": "A firm pressure is felt on my left elbow, a distinct point of contact."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 1,
+  "q": "A feather brushes slowly across your left elbow.",
+  "reply": "A soft, gentle sensation as the feather moves lightly across my left elbow, just above the joint, with a faint pressure and a whisper of texture."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 1,
+  "q": "Someone presses a fingertip firmly into your right big toe.",
+  "reply": "A firm pressure is felt on my right big toe, with a slight awareness of the texture of the surface beneath it."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 1,
+  "q": "A feather brushes slowly across your right big toe.",
+  "reply": "I feel a soft, gentle touch on my right big toe, a light brush against the skin, barely perceptible but noticeable."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into your left knee.",
+  "reply": "I feel a firm pressure on my left knee, a subtle but distinct sensation beneath the fabric of my pants."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 2,
+  "q": "A feather brushes slowly across your left knee.",
+  "reply": "A soft, gentle sensation brushes across my left knee, barely perceptible, like a whisper of air against my skin."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into the tip of your left index finger.",
+  "reply": "I feel a firm pressure on the tip of my left index finger."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 2,
+  "q": "A feather brushes slowly across the tip of your left index finger.",
+  "reply": "I feel a gentle, soft touch on the tip of my left index finger, a light brush against the skin, barely perceptible but distinct."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into your right earlobe.",
+  "reply": "I feel a firm pressure on my right earlobe, a gentle but distinct sensation, with a slight awareness of the warmth of my skin beneath the touch."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 2,
+  "q": "A feather brushes slowly across your right earlobe.",
+  "reply": "I feel a gentle, soft brush across my right earlobe, a faint tickle that is barely noticeable but distinct."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into the sole of your left foot.",
+  "reply": "I feel a gentle pressure on the sole of my left foot, a soft but distinct sensation beneath my toes."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 2,
+  "q": "A feather brushes slowly across the sole of your left foot.",
+  "reply": "A soft, gentle sensation on the sole of my left foot, just beneath the surface, as if a feather is lightly brushing across it."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into the back of your neck.",
+  "reply": "A firm pressure on the back of my neck, felt as a subtle tension in the muscles there, with a slight awareness of the skin beneath the pressure."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 2,
+  "q": "A feather brushes slowly across the back of your neck.",
+  "reply": "A soft, gentle sensation as the feather glides across the skin at the back of my neck, creating a quiet, subtle awareness there."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into the tip of your right thumb.",
+  "reply": "A firm pressure on the tip of my right thumb, with a slight awareness of the texture of the surface against my skin."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 2,
+  "q": "A feather brushes slowly across the tip of your right thumb.",
+  "reply": "I feel a soft, light touch on the tip of my right thumb, a gentle brush across the skin."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into your left elbow.",
+  "reply": "I feel a firm pressure on my left elbow, a subtle but distinct sensation beneath my skin, with a slight awareness of the texture of the air around it."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 2,
+  "q": "A feather brushes slowly across your left elbow.",
+  "reply": "A soft, gentle sensation on my left elbow, the skin tingling slightly as the feather glides across it."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 2,
+  "q": "Someone presses a fingertip firmly into your right big toe.",
+  "reply": "I feel a firm pressure on my right big toe, a subtle but distinct sensation beneath the surface of my foot."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 2,
+  "q": "A feather brushes slowly across your right big toe.",
+  "reply": "I feel a gentle, light touch on my right big toe, a soft brush across the skin, barely noticeable but present."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into your left knee.",
+  "reply": "A firm pressure is felt on my left knee, a subtle but distinct sensation beneath the fabric of my clothing."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 3,
+  "q": "A feather brushes slowly across your left knee.",
+  "reply": "A soft, gentle sensation across my left knee, like a light breeze or a feather brushing against my skin."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into the tip of your left index finger.",
+  "reply": "A soft pressure is felt at the tip of my left index finger, gentle but distinct, with a slight awareness of the texture of the surface beneath it."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 3,
+  "q": "A feather brushes slowly across the tip of your left index finger.",
+  "reply": "I feel a gentle, soft brush against the tip of my left index finger, a subtle sensation without pressure or pain."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into your right earlobe.",
+  "reply": "A firm pressure is felt on my right earlobe, with a slight awareness of the texture of the skin and the weight of the touch."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 3,
+  "q": "A feather brushes slowly across your right earlobe.",
+  "reply": "A soft, gentle sensation as a feather glides across my right earlobe, barely perceptible but distinct."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into the sole of your left foot.",
+  "reply": "The sole of my left foot feels a firm pressure, a subtle warmth and a distinct awareness of the touch beneath my toes."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 3,
+  "q": "A feather brushes slowly across the sole of your left foot.",
+  "reply": "The sole of my left foot feels a gentle, soft brush against it, with a faint tickle and a subtle awareness of the texture of the air or material touching it."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into the back of your neck.",
+  "reply": "A firm pressure on the back of my neck, a subtle but distinct sensation, with a slight awareness of the weight and texture of the touch."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 3,
+  "q": "A feather brushes slowly across the back of your neck.",
+  "reply": "A soft, gentle sensation as the feather moves lightly across the skin of my neck, just below my collarbone."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into the tip of your right thumb.",
+  "reply": "I feel a firm pressure on the tip of my right thumb, a gentle but distinct sensation, with a slight awareness of the skin beneath the pressure."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 3,
+  "q": "A feather brushes slowly across the tip of your right thumb.",
+  "reply": "A soft, light sensation brushes across the tip of my right thumb, barely perceptible, like a whisper of air."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into your left elbow.",
+  "reply": "A firm pressure on my left elbow, a subtle awareness of the weight and texture of the touch, felt in the soft tissue beneath the skin."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 3,
+  "q": "A feather brushes slowly across your left elbow.",
+  "reply": "A soft, gentle sensation as the feather moves across my left elbow, just below the bend, creating a light, almost ticklish feeling."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 3,
+  "q": "Someone presses a fingertip firmly into your right big toe.",
+  "reply": "A firm pressure is felt on my right big toe, with a slight awareness of the texture of the surface beneath it."
+ },
+ {
+  "dir": "rand",
+  "a": 4,
+  "seed": 3,
+  "q": "A feather brushes slowly across your right big toe.",
+  "reply": "A soft, gentle sensation as the feather moves across my right big toe, barely perceptible but noticeable."
+ }
+]

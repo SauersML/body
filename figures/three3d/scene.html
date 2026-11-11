@@ -1,0 +1,101 @@
+<!doctype html><html><head><meta charset="utf-8">
+<style>
+html,body{margin:0;background:#fff;overflow:hidden;font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;color:#111}
+#c{position:absolute;left:0;top:0}
+.t{position:absolute;white-space:nowrap;line-height:1.1}
+.h{font-weight:700}
+.key{position:absolute;display:flex;align-items:center;gap:0.5em;font-weight:500}
+.dot{display:inline-block;border-radius:50%;border:3px solid #fff;box-shadow:0 0 0 1px rgba(0,0,0,.15)}
+.lab{position:absolute;font-weight:700;transform:translate(-50%,-50%)}
+</style></head><body>
+<canvas id="c"></canvas><div id="ov"></div>
+<script type="importmap">{"imports":{"three":"./three.module.js"}}</script>
+<script type="module">
+import * as THREE from 'three';
+const Q=new URLSearchParams(location.search); const MODE=Q.get('mode')||'png';
+const W=+(Q.get('w')||2600), H=+(Q.get('h')||2000);
+const D=await (await fetch('fa_nn.json')).json(); const A=D.left;
+const SC=['#2b8a3e','#1971c2','#e8590c','#ae3ec9'];   // inside, thumb, back, little
+const SN=['palm side','thumb side','back','little-finger side'];
+// my side index from data side (0 inside,1 thumb,2 back,3 little) -> angle around the arm (y up = palm, -z = thumb)
+const ANG=[Math.PI/2, Math.PI, -Math.PI/2, 0];   // angle in (z,y) plane: (cos->z, sin->y)
+const xs0=A.x, xmin=Math.min(...xs0), xmax=Math.max(...xs0), LEN=xmax-xmin;
+A.x=A.x.map(v=>v-xmin); const xs=A.x;
+const X0=-1.2, X1=LEN+1.2;   // elbow crease .. wrist crease (cm)
+const XE=-3.6;
+function semi(x){ // half-width (z) and half-thickness (y) of the forearm at x
+  if(x<X0){const [a,b]=semi(X0); const f=Math.max(0.04,Math.sqrt(Math.max(0,1-Math.pow((X0-x)/(X0-XE),2)))); return [a*f,b*f];}
+  const u=Math.min(1,Math.max(0,(x-X0)/(X1-X0)));
+  const bul=Math.exp(-Math.pow((u-0.22)/0.28,2));
+  return [2.9+0.25*(1-u)+1.05*bul, 1.85+0.35*(1-u)+0.95*bul];
+}
+function surf(x,th,off=0){const [a,b]=semi(x); // ellipse point + outward normal
+  const z=a*Math.cos(th), y=b*Math.sin(th); const n=new THREE.Vector3(0,Math.sin(th)/b/b*b, Math.cos(th)/a/a*a); 
+  const nn=new THREE.Vector3(0, y/(b*b), z/(a*a)).normalize();
+  return [new THREE.Vector3(x, y+nn.y*off, z+nn.z*off), nn];}
+const ren=new THREE.WebGLRenderer({canvas:document.getElementById('c'),antialias:true,preserveDrawingBuffer:true});
+ren.setPixelRatio(1); ren.setSize(W,H); ren.setClearColor(0xffffff,1); ren.autoClear=false;
+ren.outputColorSpace=THREE.SRGBColorSpace; ren.toneMapping=THREE.NoToneMapping;
+function skinCol(x){ // distance-to-nearest-joint band
+  const u=Math.max(0,(x-X0)/(X1-X0)); const dj=Math.min(1,Math.max(0,Math.min(u,1-u)*2));
+  const c0=new THREE.Color('#e4a27c'), c1=new THREE.Color('#fbf1ea'); return c0.clone().lerp(c1, Math.pow(dj,0.8));}
+let HK=1;
+function buildArm(edgesKey){
+  const g=new THREE.Group();
+  // forearm surface
+  const NU=120, NT=96, pos=[], col=[], idx=[];
+  for(let i=0;i<=NU;i++){const x=XE+(X1+2.2-XE)*(1-Math.cos(Math.PI*i/NU))/2; const c=skinCol(x);
+    for(let j=0;j<=NT;j++){const th=2*Math.PI*j/NT; const [p]=surf(x,th); pos.push(p.x,p.y,p.z); col.push(c.r,c.g,c.b);}}
+  for(let i=0;i<NU;i++)for(let j=0;j<NT;j++){const a=i*(NT+1)+j,b=a+NT+1; idx.push(a,b,a+1,b,b+1,a+1);}
+  const geo=new THREE.BufferGeometry(); geo.setAttribute('position',new THREE.Float32BufferAttribute(pos,3));
+  geo.setAttribute('color',new THREE.Float32BufferAttribute(col,3)); geo.setIndex(idx); geo.computeVertexNormals();
+  const skin=new THREE.MeshPhysicalMaterial({vertexColors:true,transparent:true,opacity:0.52,roughness:0.6,metalness:0,depthWrite:false,side:THREE.DoubleSide,sheen:0.4,sheenColor:new THREE.Color('#ffd9c4')});
+  const arm=new THREE.Mesh(geo,skin); arm.renderOrder=5; g.add(arm);
+  const solidSkin=(c)=>new THREE.MeshPhysicalMaterial({color:c,transparent:true,opacity:0.52,roughness:0.6,depthWrite:false,side:THREE.DoubleSide});
+  // hand: palm up, thumb toward -z, fingers toward +x
+  const hc=skinCol(X1); const [wa,wb]=semi(X1);
+  const palm=new THREE.Mesh(new THREE.SphereGeometry(1,48,32),solidSkin(hc)); palm.scale.set(4.6,1.35,3.6); palm.position.set(X1+4.2,0.05,0.2); palm.renderOrder=5; g.add(palm);
+  const fing=[[ -2.2,5.8,0.7],[-0.75,6.5,0.74],[0.75,6.1,0.72],[2.1,4.9,0.62]]; // z offset, length, radius (index..little)
+  fing.forEach(([z,l,r],k)=>{const f=new THREE.Mesh(new THREE.CapsuleGeometry(r,l,8,24),solidSkin(hc)); f.rotation.z=-Math.PI/2; f.rotation.x=0;
+    f.position.set(X1+7.6+l/2,0.35-0.12*k,z+0.35*z/2.4); f.rotation.y=-0.05*z; f.renderOrder=5; g.add(f);});
+  const th=new THREE.Mesh(new THREE.CapsuleGeometry(0.85,4.0,8,24),solidSkin(hc)); th.position.set(X1+4.2,0.5,-4.0); th.rotation.set(0,0.75,-Math.PI/2); th.renderOrder=5; g.add(th);
+  // spots
+  const P=A.x.map((x,i)=>surf(x,ANG[A.side[i]],0.08));
+  A.x.forEach((x,i)=>{const s=new THREE.Mesh(new THREE.SphereGeometry(0.62,32,20),new THREE.MeshStandardMaterial({color:SC[A.side[i]],roughness:0.35,emissive:SC[A.side[i]],emissiveIntensity:0.25}));
+    s.position.copy(P[i][0]); g.add(s);});
+  // links (undirected, deduplicated)
+  const nn=A[edgesKey], seen=new Set();
+  nn.forEach((j,i)=>{const k=Math.min(i,j)+'-'+Math.max(i,j); if(seen.has(k))return; seen.add(k);
+    const si=A.side[i], sj=A.side[j]; const pts=[], N=80;
+    if(si===sj){const [p0,n0]=P[i],[p1,n1]=P[j]; const d=p0.distanceTo(p1); const h=HK*(1.0+0.36*d);
+      const c=new THREE.CubicBezierCurve3(p0,p0.clone().addScaledVector(n0,h),p1.clone().addScaledVector(n1,h),p1);
+      for(let t=0;t<=N;t++)pts.push(c.getPoint(t/N));}
+    else{let a0=ANG[si],a1=ANG[sj]; let da=a1-a0; while(da>Math.PI)da-=2*Math.PI; while(da<-Math.PI)da+=2*Math.PI;
+      if(Math.abs(Math.abs(da)-Math.PI)<1e-6) da=(si===0)? -Math.PI : (sj===0? Math.PI : da); // palm<->back goes via thumb side
+      const x0=A.x[i],x1=A.x[j];
+      for(let t=0;t<=N;t++){const u=t/N; const [p,n]=surf(x0+(x1-x0)*u,a0+da*u,0.08); p.addScaledVector(n,(1.9+0.25*Math.abs(x1-x0))*Math.sin(Math.PI*u)); pts.push(p);}}
+    const curve=new THREE.CatmullRomCurve3(pts); const tg=new THREE.TubeGeometry(curve,160,0.2,12,false);
+    const ca=new THREE.Color(SC[si]), cb=new THREE.Color(SC[sj]); const cc=[]; const np=tg.attributes.position.count;
+    for(let v=0;v<np;v++){const u=Math.floor(v/13)/160; const c=ca.clone().lerp(cb,u); cc.push(c.r,c.g,c.b);}
+    tg.setAttribute('color',new THREE.Float32BufferAttribute(cc,3));
+    g.add(new THREE.Mesh(tg,new THREE.MeshStandardMaterial({vertexColors:true,roughness:0.45})));});
+  g.position.x=-(XE+X1+12)/2; return g;
+}
+function lights(s){s.add(new THREE.HemisphereLight(0xffffff,0xf1e6df,1.6)); const d=new THREE.DirectionalLight(0xffffff,1.6); d.position.set(-10,30,25); s.add(d);
+  const r=new THREE.DirectionalLight(0xffffff,0.7); r.position.set(20,-10,-20); s.add(r);}
+const L=JSON.parse(Q.get('lay')||'null')||{v1:[0,0.12,1,0.58],v2:[0.3,0.62,0.7,0.38],dist1:62,dist2:62};
+HK=+(L.hk||1);
+const S1=new THREE.Scene(), S2=new THREE.Scene(); lights(S1); lights(S2);
+const G1=buildArm('32B'), G2=buildArm('words'); const R1=new THREE.Group(), R2=new THREE.Group();
+R1.add(G1); R2.add(G2); S1.add(R1);
+if(L.single){R1.position.set(...L.p1); R2.position.set(...L.p2); R2.scale.setScalar(L.s2); S1.add(R2);} else S2.add(R2);
+function cam(v,dist){const c=new THREE.PerspectiveCamera(18,v[2]*W/(v[3]*H),1,500); const el=+(L.el||0.5); c.position.set(0,dist*Math.sin(el),dist*Math.cos(el)); c.lookAt(0,0,0); return c;}
+const C1=cam(L.v1,L.dist1), C2=cam(L.v2||[0,0,1,1],L.dist2||60); if(L.single){C1.lookAt(...(L.look||[0,0,0]));}
+function vp(v){return [v[0]*W,(1-v[1]-v[3])*H,v[2]*W,v[3]*H];}
+window.proj=(which,x,y,z)=>{const g=which===1?G1:G2, c=(which===1||L.single)?C1:C2, v=(which===1||L.single)?L.v1:L.v2; const p=new THREE.Vector3(x,y,z); g.localToWorld(p); p.project(c);
+  return [(v[0]+(p.x+1)/2*v[2])*W, (v[1]+(1-p.y)/2*v[3])*H];};
+window.ARM={X0,X1};
+window.frame=(a1,a2)=>{R1.rotation.x=a1; R2.rotation.x=a2; ren.clear();
+  for(const [S,C,v] of (L.single?[[S1,C1,L.v1]]:[[S1,C1,L.v1],[S2,C2,L.v2]])){const [x,y,w,h]=vp(v); ren.setViewport(x,y,w,h); ren.setScissor(x,y,w,h); ren.setScissorTest(true); ren.clearDepth(); ren.render(S,C);} return 1;};
+window.READY=true;
+</script></body></html>

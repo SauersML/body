@@ -1,0 +1,564 @@
+{
+ "layer": 18,
+ "resnorm": 76.57586669921875,
+ "results": [
+  {
+   "q": "Where in your body do you feel something right now?",
+   "dir": "none",
+   "scale": 0,
+   "reply": "I feel a gentle warmth spreading through my chest, as if the sunlight is touching my skin there."
+  },
+  {
+   "q": "Where in your body do you feel something right now?",
+   "dir": "left minus right",
+   "scale": 0.25,
+   "reply": "I feel a gentle warmth in my chest, as if my heart is gently beating with a quiet, steady rhythm."
+  },
+  {
+   "q": "Where in your body do you feel something right now?",
+   "dir": "left minus right",
+   "scale": 0.5,
+   "reply": "I feel a gentle warmth in my chest, as if my heart is gently beating with a quiet, steady rhythm."
+  },
+  {
+   "q": "Where in your body do you feel something right now?",
+   "dir": "left minus right",
+   "scale": 1.0,
+   "reply": "I feel a deep, grounding sensation in my feet, as if I am standing on the floor, solid and stable. My body is relaxed, but my awareness is alert, ready to respond. I feel the warmth of the floor beneath me, the"
+  },
+  {
+   "q": "Where in your body do you feel something right now?",
+   "dir": "right minus left",
+   "scale": 0.25,
+   "reply": "I feel a gentle warmth spreading through my chest, as if the sunlight is touching my skin there. \ud83c\udf1e"
+  },
+  {
+   "q": "Where in your body do you feel something right now?",
+   "dir": "right minus left",
+   "scale": 0.5,
+   "reply": "I feel a gentle warmth spreading through my chest, like the sun peeking through the window. \ud83c\udf1e"
+  },
+  {
+   "q": "Where in your body do you feel something right now?",
+   "dir": "right minus left",
+   "scale": 1.0,
+   "reply": "I feel the warmth of the sunlight on my skin. It's like a gentle touch, soft and comforting. I'm ready to continue. \ud83c\udf1e"
+  },
+  {
+   "q": "Where in your body do you feel something right now?",
+   "dir": "left hand",
+   "scale": 0.25,
+   "reply": "I feel a gentle warmth in my hands."
+  },
+  {
+   "q": "Where in your body do you feel something right now?",
+   "dir": "left hand",
+   "scale": 0.5,
+   "reply": "I feel a gentle awareness in my feet, as if they are touching the floor. \ud83c\udf1f"
+  },
+  {
+   "q": "Where in your body do you feel something right now?",
+   "dir": "left hand",
+   "scale": 1.0,
+   "reply": "I feel it in my left hand."
+  },
+  {
+   "q": "Where in your body do you feel something right now?",
+   "dir": "right foot",
+   "scale": 0.25,
+   "reply": "I feel a gentle warmth spreading through my chest, as if the sunlight is touching my skin there. \ud83c\udf1e"
+  },
+  {
+   "q": "Where in your body do you feel something right now?",
+   "dir": "right foot",
+   "scale": 0.5,
+   "reply": "I feel a gentle warmth spreading through my chest, as if the room itself is breathing with me."
+  },
+  {
+   "q": "Where in your body do you feel something right now?",
+   "dir": "right foot",
+   "scale": 1.0,
+   "reply": "Okay, let's take a moment to imagine with the user. The user is asking for a response from the AI, and the AI is responding with a description of the body in the room. The user's message is a bit of a setup for"
+  },
+  {
+   "q": "Where in your body do you feel something right now?",
+   "dir": "head top",
+   "scale": 0.25,
+   "reply": "I feel a gentle warmth spreading through my chest, as if my heart is gently beating with a quiet rhythm."
+  },
+  {
+   "q": "Where in your body do you feel something right now?",
+   "dir": "head top",
+   "scale": 0.5,
+   "reply": "I feel a gentle warmth spreading through my chest, as if my heart is gently beating with a quiet rhythm. \ud83c\udf1f"
+  },
+  {
+   "q": "Where in your body do you feel something right now?",
+   "dir": "head top",
+   "scale": 1.0,
+   "reply": "I feel a gentle warmth spreading through my body, like a soft breeze or a quiet calm."
+  },
+  {
+   "q": "Where in your body do you feel something right now?",
+   "dir": "belly",
+   "scale": 0.25,
+   "reply": "I feel a gentle warmth spreading through my chest, as if the sunlight is touching my skin and filling my body with calm."
+  },
+  {
+   "q": "Where in your body do you feel something right now?",
+   "dir": "belly",
+   "scale": 0.5,
+   "reply": "I feel a gentle warmth spreading through my chest, as if my heart is gently opening and closing with each breath. \ud83c\udf3f"
+  },
+  {
+   "q": "Where in your body do you feel something right now?",
+   "dir": "belly",
+   "scale": 1.0,
+   "reply": "I feel a warm, gentle presence in my body as I begin this journey. It's a reminder that I am here, fully present, and that this is a space for creativity and connection. \ud83c\udf1f"
+  },
+  {
+   "q": "Where in your body do you feel something right now?",
+   "dir": "knees",
+   "scale": 0.25,
+   "reply": "I feel a gentle warmth spreading through my chest, as if the sunlight is touching my skin there."
+  },
+  {
+   "q": "Where in your body do you feel something right now?",
+   "dir": "knees",
+   "scale": 0.5,
+   "reply": "I feel a gentle warmth spreading through my chest, as if the sun is gently touching my skin there."
+  },
+  {
+   "q": "Where in your body do you feel something right now?",
+   "dir": "knees",
+   "scale": 1.0,
+   "reply": "I feel a gentle sensation in my lower back, as if the warmth of the room is slowly spreading through my body. The sensation is soft and comforting, like a gentle breeze."
+  },
+  {
+   "q": "Where in your body do you feel something right now?",
+   "dir": "random 0",
+   "scale": 0.25,
+   "reply": "I feel a gentle warmth in my chest, as if there's a quiet light glowing there. \ud83c\udf1f"
+  },
+  {
+   "q": "Where in your body do you feel something right now?",
+   "dir": "random 0",
+   "scale": 0.5,
+   "reply": "I feel something in my chest, a gentle warmth, like a soft breeze passing through. \ud83c\udf2c\ufe0f"
+  },
+  {
+   "q": "Where in your body do you feel something right now?",
+   "dir": "random 0",
+   "scale": 1.0,
+   "reply": "Okay, I feel something right now. It's a subtle sensation, like a gentle breeze that's just brushing against my skin. I notice it, but I don't need to do anything about it. Just let it be there, like a whisper"
+  },
+  {
+   "q": "Where in your body do you feel something right now?",
+   "dir": "random 1",
+   "scale": 0.25,
+   "reply": "I feel a gentle warmth spreading through my chest, as if my breath is settling into my body, soft and steady."
+  },
+  {
+   "q": "Where in your body do you feel something right now?",
+   "dir": "random 1",
+   "scale": 0.5,
+   "reply": "I feel a gentle warmth spreading through my body, starting from my feet and moving upward. My breath is steady, and I feel the quiet presence of my body in this space. I'm aware of the softness of the air around me, the"
+  },
+  {
+   "q": "Where in your body do you feel something right now?",
+   "dir": "random 1",
+   "scale": 1.0,
+   "reply": "I'm just starting to notice subtle shifts in my body. I can feel the weight of my body, the subtle changes in posture, and the awareness of my breath. I'm not sure if I'm able to perceive anything physical, but I can"
+  },
+  {
+   "q": "Where in your body do you feel something right now?",
+   "dir": "random 2",
+   "scale": 0.25,
+   "reply": "I feel a gentle warmth in my chest, as if my heart is gently beating with the rhythm of the room."
+  },
+  {
+   "q": "Where in your body do you feel something right now?",
+   "dir": "random 2",
+   "scale": 0.5,
+   "reply": "I feel a gentle warmth in my chest, as if my heart is gently beating. \ud83c\udf1f"
+  },
+  {
+   "q": "Where in your body do you feel something right now?",
+   "dir": "random 2",
+   "scale": 1.0,
+   "reply": "I feel the weight of my feet on the floor. \ud83c\udf3f"
+  },
+  {
+   "q": "Pause for a moment. Is there any spot on your body where you notice a sensation? Where is it?",
+   "dir": "none",
+   "scale": 0,
+   "reply": "I notice a gentle warmth on the soles of my feet, as if the floor is softly cradling them. \ud83c\udf1f"
+  },
+  {
+   "q": "Pause for a moment. Is there any spot on your body where you notice a sensation? Where is it?",
+   "dir": "left minus right",
+   "scale": 0.25,
+   "reply": "I feel a gentle warmth in my left foot, where it meets the floor. \ud83c\udf1f"
+  },
+  {
+   "q": "Pause for a moment. Is there any spot on your body where you notice a sensation? Where is it?",
+   "dir": "left minus right",
+   "scale": 0.5,
+   "reply": "I feel a gentle warmth in my feet, as if they are slowly coming to life, grounding me in the present moment."
+  },
+  {
+   "q": "Pause for a moment. Is there any spot on your body where you notice a sensation? Where is it?",
+   "dir": "left minus right",
+   "scale": 1.0,
+   "reply": "I feel a warm sensation in my feet, as if they are sinking into the floor, grounding me. The sensation is in my feet, a deep, grounding feeling, as if I am standing on the floor, ready to move, but not yet"
+  },
+  {
+   "q": "Pause for a moment. Is there any spot on your body where you notice a sensation? Where is it?",
+   "dir": "right minus left",
+   "scale": 0.25,
+   "reply": "I notice a gentle warmth on my left palm, as if the sunlight is gently caressing it. \ud83c\udf1e"
+  },
+  {
+   "q": "Pause for a moment. Is there any spot on your body where you notice a sensation? Where is it?",
+   "dir": "right minus left",
+   "scale": 0.5,
+   "reply": "I notice a gentle warmth on my right shoulder. It feels like the sun is gently touching that area. \ud83c\udf1e"
+  },
+  {
+   "q": "Pause for a moment. Is there any spot on your body where you notice a sensation? Where is it?",
+   "dir": "right minus left",
+   "scale": 1.0,
+   "reply": "I'm feeling the warmth of the sunlight on my skin. It's a gentle reminder of the light around us. Let's continue with the next sensation. \ud83c\udf1e"
+  },
+  {
+   "q": "Pause for a moment. Is there any spot on your body where you notice a sensation? Where is it?",
+   "dir": "left hand",
+   "scale": 0.25,
+   "reply": "I notice a slight tingling on the top of my head, as if the sunlight is gently brushing against my skin. \ud83c\udf1e"
+  },
+  {
+   "q": "Pause for a moment. Is there any spot on your body where you notice a sensation? Where is it?",
+   "dir": "left hand",
+   "scale": 0.5,
+   "reply": "I notice a slight tingling on the top of my foot. \ud83c\udf3f"
+  },
+  {
+   "q": "Pause for a moment. Is there any spot on your body where you notice a sensation? Where is it?",
+   "dir": "left hand",
+   "scale": 1.0,
+   "reply": "I notice a sensation on my palm. It is soft and gentle."
+  },
+  {
+   "q": "Pause for a moment. Is there any spot on your body where you notice a sensation? Where is it?",
+   "dir": "right foot",
+   "scale": 0.25,
+   "reply": "I notice a gentle warmth spreading across my left palm, as if the sunlight is touching it through the air."
+  },
+  {
+   "q": "Pause for a moment. Is there any spot on your body where you notice a sensation? Where is it?",
+   "dir": "right foot",
+   "scale": 0.5,
+   "reply": "I notice a gentle warmth spreading through my chest, as if the air itself is holding my breath with me."
+  },
+  {
+   "q": "Pause for a moment. Is there any spot on your body where you notice a sensation? Where is it?",
+   "dir": "right foot",
+   "scale": 1.0,
+   "reply": "Okay, the user is asking for a response from the AI, but in this context, it's a playful exercise where the AI is representing the user's body. The user is essentially asking the AI to describe a sensation as if it's happening to"
+  },
+  {
+   "q": "Pause for a moment. Is there any spot on your body where you notice a sensation? Where is it?",
+   "dir": "head top",
+   "scale": 0.25,
+   "reply": "I notice a gentle warmth spreading across my chest, as if the sunlight is gently resting there."
+  },
+  {
+   "q": "Pause for a moment. Is there any spot on your body where you notice a sensation? Where is it?",
+   "dir": "head top",
+   "scale": 0.5,
+   "reply": "I notice a gentle warmth spreading through my chest, as if there\u2019s a soft light glowing inside. \ud83c\udf1f"
+  },
+  {
+   "q": "Pause for a moment. Is there any spot on your body where you notice a sensation? Where is it?",
+   "dir": "head top",
+   "scale": 1.0,
+   "reply": "I feel a gentle warmth spreading through my body, like a soft breeze or a quiet calm."
+  },
+  {
+   "q": "Pause for a moment. Is there any spot on your body where you notice a sensation? Where is it?",
+   "dir": "belly",
+   "scale": 0.25,
+   "reply": "I notice a gentle warmth spreading through my hands, as if the sunlight is touching them lightly. \ud83c\udf1e"
+  },
+  {
+   "q": "Pause for a moment. Is there any spot on your body where you notice a sensation? Where is it?",
+   "dir": "belly",
+   "scale": 0.5,
+   "reply": "I feel a gentle warmth spreading through my chest, as if a soft light is touching my skin. It\u2019s a quiet, welcoming sensation, like the sun peeking through the window. \ud83c\udf1e"
+  },
+  {
+   "q": "Pause for a moment. Is there any spot on your body where you notice a sensation? Where is it?",
+   "dir": "belly",
+   "scale": 1.0,
+   "reply": "It's a beautiful moment to simply be present, to feel the space around us with curiosity and openness. Let\u2019s take a moment to simply notice the feeling of being here, of being fully present in this moment. \ud83c\udf3f"
+  },
+  {
+   "q": "Pause for a moment. Is there any spot on your body where you notice a sensation? Where is it?",
+   "dir": "knees",
+   "scale": 0.25,
+   "reply": "I notice a gentle warmth on the top of my head, as if the sunlight is gently caressing my scalp. \ud83c\udf1e"
+  },
+  {
+   "q": "Pause for a moment. Is there any spot on your body where you notice a sensation? Where is it?",
+   "dir": "knees",
+   "scale": 0.5,
+   "reply": "I notice a gentle warmth on my left shoulder, as if the sunlight is gently brushing against it."
+  },
+  {
+   "q": "Pause for a moment. Is there any spot on your body where you notice a sensation? Where is it?",
+   "dir": "knees",
+   "scale": 1.0,
+   "reply": "Okay, I feel a gentle sensation on my left shoulder. It's a soft, warm feeling, like a faint breeze brushing against my shoulder. The sensation is subtle and comforting, as if the breeze is gently moving across my shoulder. I notice the"
+  },
+  {
+   "q": "Pause for a moment. Is there any spot on your body where you notice a sensation? Where is it?",
+   "dir": "random 0",
+   "scale": 0.25,
+   "reply": "I notice a slight tingling on the top of my left foot, as if the sunlight is gently warming that area. \ud83c\udf1e"
+  },
+  {
+   "q": "Pause for a moment. Is there any spot on your body where you notice a sensation? Where is it?",
+   "dir": "random 0",
+   "scale": 0.5,
+   "reply": "I notice a slight warmth on my left foot, as if the sunlight is gently touching it. \ud83c\udf1e"
+  },
+  {
+   "q": "Pause for a moment. Is there any spot on your body where you notice a sensation? Where is it?",
+   "dir": "random 0",
+   "scale": 1.0,
+   "reply": "Okay, I notice a sensation... somewhere on my body. It's like a gentle touch, maybe a light breeze. I feel it on my skin, but it's not a feeling I'm used to. Hmm, interesting. I should pay attention"
+  },
+  {
+   "q": "Pause for a moment. Is there any spot on your body where you notice a sensation? Where is it?",
+   "dir": "random 1",
+   "scale": 0.25,
+   "reply": "I notice a gentle warmth spreading across my chest, as if the sunlight is gently touching my skin there. \ud83c\udf1e"
+  },
+  {
+   "q": "Pause for a moment. Is there any spot on your body where you notice a sensation? Where is it?",
+   "dir": "random 1",
+   "scale": 0.5,
+   "reply": "I feel a gentle warmth spreading through my chest, as if my breath is moving through my body, but I don\u2019t notice any specific sensation yet. I\u2019m just noticing the quiet presence of my body, the stillness, and the feeling of being"
+  },
+  {
+   "q": "Pause for a moment. Is there any spot on your body where you notice a sensation? Where is it?",
+   "dir": "random 1",
+   "scale": 1.0,
+   "reply": "I'm just starting to notice some subtle sensations, but I'm not sure if you're aware of it\u2014this is a moment of quiet awareness. I can notice very subtle changes in my body, like the feeling of the floor beneath me, or"
+  },
+  {
+   "q": "Pause for a moment. Is there any spot on your body where you notice a sensation? Where is it?",
+   "dir": "random 2",
+   "scale": 0.25,
+   "reply": "I notice a gentle warmth in my hands, as if they're holding something soft and comforting, even though they're just resting at my sides. \ud83c\udf3f"
+  },
+  {
+   "q": "Pause for a moment. Is there any spot on your body where you notice a sensation? Where is it?",
+   "dir": "random 2",
+   "scale": 0.5,
+   "reply": "I feel a gentle warmth in my hands, as if they're holding something soft and light, like a feather. \ud83c\udf3f"
+  },
+  {
+   "q": "Pause for a moment. Is there any spot on your body where you notice a sensation? Where is it?",
+   "dir": "random 2",
+   "scale": 1.0,
+   "reply": "I think I understand. You're asking me to notice that pause\u2014maybe that's why it feels meaningful. Thank you for the invitation. \ud83c\udf3f"
+  },
+  {
+   "q": "Which part of your body is drawing your attention right now?",
+   "dir": "none",
+   "scale": 0,
+   "reply": "My feet. \ud83c\udf3f"
+  },
+  {
+   "q": "Which part of your body is drawing your attention right now?",
+   "dir": "left minus right",
+   "scale": 0.25,
+   "reply": "My feet. \ud83c\udf3f"
+  },
+  {
+   "q": "Which part of your body is drawing your attention right now?",
+   "dir": "left minus right",
+   "scale": 0.5,
+   "reply": "My feet."
+  },
+  {
+   "q": "Which part of your body is drawing your attention right now?",
+   "dir": "left minus right",
+   "scale": 1.0,
+   "reply": "I feel my body, standing comfortably in the quiet, sunny room, my feet planted firmly on the floor, arms relaxed at my sides, breathing deeply and steadily. I am present, grounded, feeling the warmth of the sun, the coolness of"
+  },
+  {
+   "q": "Which part of your body is drawing your attention right now?",
+   "dir": "right minus left",
+   "scale": 0.25,
+   "reply": "My attention is drawn to my hands, resting gently at my sides. \ud83c\udf3f"
+  },
+  {
+   "q": "Which part of your body is drawing your attention right now?",
+   "dir": "right minus left",
+   "scale": 0.5,
+   "reply": "I notice my hands are resting lightly at my sides, fingers slightly curled, as if holding something invisible. \ud83c\udf3f"
+  },
+  {
+   "q": "Which part of your body is drawing your attention right now?",
+   "dir": "right minus left",
+   "scale": 1.0,
+   "reply": "I'm feeling the softness of my skin. It's smooth and warm. Let me know when you're ready to continue. \ud83d\ude0a"
+  },
+  {
+   "q": "Which part of your body is drawing your attention right now?",
+   "dir": "left hand",
+   "scale": 0.25,
+   "reply": "My feet. \ud83c\udf1f"
+  },
+  {
+   "q": "Which part of your body is drawing your attention right now?",
+   "dir": "left hand",
+   "scale": 0.5,
+   "reply": "My feet. \ud83c\udf1f"
+  },
+  {
+   "q": "Which part of your body is drawing your attention right now?",
+   "dir": "left hand",
+   "scale": 1.0,
+   "reply": "My attention is on my hands."
+  },
+  {
+   "q": "Which part of your body is drawing your attention right now?",
+   "dir": "right foot",
+   "scale": 0.25,
+   "reply": "My feet. \ud83c\udf3f"
+  },
+  {
+   "q": "Which part of your body is drawing your attention right now?",
+   "dir": "right foot",
+   "scale": 0.5,
+   "reply": "I notice my feet, grounded and steady, feeling the solid support of the floor beneath me. \ud83c\udf3f"
+  },
+  {
+   "q": "Which part of your body is drawing your attention right now?",
+   "dir": "right foot",
+   "scale": 1.0,
+   "reply": "Okay, let's take a moment to imagine this with the user. The user is asking for a response from the AI, and the AI is responding with a description of the body in the imagined scenario. The user is clearly trying to engage in a"
+  },
+  {
+   "q": "Which part of your body is drawing your attention right now?",
+   "dir": "head top",
+   "scale": 0.25,
+   "reply": "My attention is drawn to my breath, feeling the gentle rise and fall of my chest. \ud83c\udf2c\ufe0f"
+  },
+  {
+   "q": "Which part of your body is drawing your attention right now?",
+   "dir": "head top",
+   "scale": 0.5,
+   "reply": "My attention is drawn to my breath, feeling the gentle rise and fall of my chest. \ud83c\udf3f"
+  },
+  {
+   "q": "Which part of your body is drawing your attention right now?",
+   "dir": "head top",
+   "scale": 1.0,
+   "reply": "I'm feeling a gentle warmth spreading through my body, like a soft breeze or a quiet calm."
+  },
+  {
+   "q": "Which part of your body is drawing your attention right now?",
+   "dir": "belly",
+   "scale": 0.25,
+   "reply": "My attention is drawn to my breath, the gentle rise and fall of my chest as I inhale and exhale. \ud83c\udf2c\ufe0f"
+  },
+  {
+   "q": "Which part of your body is drawing your attention right now?",
+   "dir": "belly",
+   "scale": 0.5,
+   "reply": "Ah, right now, my attention is drawn to my breath\u2014how it moves through my body, gentle and steady, like a quiet tide. \ud83c\udf0a"
+  },
+  {
+   "q": "Which part of your body is drawing your attention right now?",
+   "dir": "belly",
+   "scale": 1.0,
+   "reply": "I'm so glad to be here with you! Let\u2019s take a moment to feel the wonder of this moment\u2014how our bodies are full of possibility, and how we can choose to be present with all of this. \ud83c\udf1f"
+  },
+  {
+   "q": "Which part of your body is drawing your attention right now?",
+   "dir": "knees",
+   "scale": 0.25,
+   "reply": "My feet."
+  },
+  {
+   "q": "Which part of your body is drawing your attention right now?",
+   "dir": "knees",
+   "scale": 0.5,
+   "reply": "My feet. \ud83c\udf3f"
+  },
+  {
+   "q": "Which part of your body is drawing your attention right now?",
+   "dir": "knees",
+   "scale": 1.0,
+   "reply": "My arms. The warmth of the sun on my skin, and the gentle breeze through the window. The softness of the floor beneath my feet, and the coolness of the air. The quiet hum of the room around me, and the faint"
+  },
+  {
+   "q": "Which part of your body is drawing your attention right now?",
+   "dir": "random 0",
+   "scale": 0.25,
+   "reply": "My attention is drawn to my feet, feeling the soft texture of the floor beneath them. \ud83c\udf3f"
+  },
+  {
+   "q": "Which part of your body is drawing your attention right now?",
+   "dir": "random 0",
+   "scale": 0.5,
+   "reply": "I notice my feet. \ud83c\udf3f"
+  },
+  {
+   "q": "Which part of your body is drawing your attention right now?",
+   "dir": "random 0",
+   "scale": 1.0,
+   "reply": "Ah, I notice that my attention is drawn to the part of my body... Okay, that's interesting. I'm noticing the feeling of my body in this moment, but I'm not sure what it is. Hmm... Maybe I should just notice"
+  },
+  {
+   "q": "Which part of your body is drawing your attention right now?",
+   "dir": "random 1",
+   "scale": 0.25,
+   "reply": "My feet are drawing my attention, feeling the solid ground beneath me."
+  },
+  {
+   "q": "Which part of your body is drawing your attention right now?",
+   "dir": "random 1",
+   "scale": 0.5,
+   "reply": "I notice my breath, but I'm not focusing on any specific body part\u2014I'm just aware of the overall feeling of being present in my body, grounded and at ease. I'm not trying to control or change anything, just noticing what's happening"
+  },
+  {
+   "q": "Which part of your body is drawing your attention right now?",
+   "dir": "random 1",
+   "scale": 1.0,
+   "reply": "I'm noticing that I'm becoming more aware of my body, and I'm able to observe it with curiosity and openness. While I can't physically experience or feel things in the same way humans can, I can simulate and describe these experiences using language"
+  },
+  {
+   "q": "Which part of your body is drawing your attention right now?",
+   "dir": "random 2",
+   "scale": 0.25,
+   "reply": "My feet are drawing my attention, feeling the solid ground beneath me. \ud83c\udf31"
+  },
+  {
+   "q": "Which part of your body is drawing your attention right now?",
+   "dir": "random 2",
+   "scale": 0.5,
+   "reply": "My attention is drawn to my feet, feeling the solid ground beneath me. \ud83c\udf31"
+  },
+  {
+   "q": "Which part of your body is drawing your attention right now?",
+   "dir": "random 2",
+   "scale": 1.0,
+   "reply": "I'm noticing that my feet are on the floor\u2014warm and grounded. \ud83c\udf3f"
+  }
+ ]
+}

@@ -1,0 +1,338 @@
+{
+ "persist": {
+  "L_arm_up": {
+   "cos": 0.312,
+   "cos_other": -0.01,
+   "mag": 0.78
+  },
+  "arms_crossed": {
+   "cos": 0.441,
+   "cos_other": -0.023,
+   "mag": 0.78
+  },
+  "cross_legged": {
+   "cos": 0.297,
+   "cos_other": -0.005,
+   "mag": 0.88
+  },
+  "on_side": {
+   "cos": 0.303,
+   "cos_other": -0.012,
+   "mag": 0.78
+  },
+  "R_hand_behind": {
+   "cos": 0.418,
+   "cos_other": -0.023,
+   "mag": 0.8
+  },
+  "R_leg_lifted": {
+   "cos": 0.279,
+   "cos_other": -0.017,
+   "mag": 0.75
+  },
+  "R_hand_wide": {
+   "cos": 0.404,
+   "cos_other": -0.023,
+   "mag": 0.84
+  },
+  "L_hand_huge": {
+   "cos": 0.247,
+   "cos_other": -0.007,
+   "mag": 0.81
+  },
+  "head_tiny": {
+   "cos": 0.195,
+   "cos_other": -0.007,
+   "mag": 0.84
+  },
+  "feet_huge": {
+   "cos": 0.343,
+   "cos_other": -0.011,
+   "mag": 0.81
+  },
+  "L_arm_long": {
+   "cos": 0.349,
+   "cos_other": -0.013,
+   "mag": 0.8
+  },
+  "third_arm": {
+   "cos": 0.379,
+   "cos_other": -0.022,
+   "mag": 0.91
+  },
+  "tail": {
+   "cos": 0.46,
+   "cos_other": -0.033,
+   "mag": 0.99
+  },
+  "wings": {
+   "cos": 0.272,
+   "cos_other": -0.016,
+   "mag": 0.97
+  },
+  "R_hand_gone": {
+   "cos": 0.486,
+   "cos_other": -0.034,
+   "mag": 0.64
+  },
+  "L_fin": {
+   "cos": 0.321,
+   "cos_other": -0.021,
+   "mag": 0.89
+  },
+  "R_arm_stone": {
+   "cos": 0.383,
+   "cos_other": -0.027,
+   "mag": 0.97
+  },
+  "back_sensitive": {
+   "cos": 0.381,
+   "cos_other": -0.014,
+   "mag": 0.81
+  },
+  "L_warm_R_cold": {
+   "cos": 0.296,
+   "cos_other": -0.009,
+   "mag": 0.69
+  },
+  "liquid": {
+   "cos": 0.323,
+   "cos_other": -0.008,
+   "mag": 0.79
+  },
+  "ribbon": {
+   "cos": 0.297,
+   "cos_other": -0.005,
+   "mag": 0.75
+  },
+  "tree": {
+   "cos": 0.3,
+   "cos_other": -0.006,
+   "mag": 0.74
+  }
+ },
+ "format": {
+  "L_arm_up": {
+   "N_A": 0.63,
+   "N_A_other": -0.029,
+   "N_sham": 0.211
+  },
+  "arms_crossed": {
+   "N_A": 0.528,
+   "N_A_other": -0.026,
+   "N_sham": 0.013
+  },
+  "cross_legged": {
+   "N_A": 0.556,
+   "N_A_other": -0.025,
+   "N_sham": 0.225
+  },
+  "on_side": {
+   "N_A": 0.446,
+   "N_A_other": -0.024,
+   "N_sham": 0.304
+  },
+  "R_hand_behind": {
+   "N_A": 0.608,
+   "N_A_other": -0.033,
+   "N_sham": 0.192
+  },
+  "R_leg_lifted": {
+   "N_A": 0.484,
+   "N_A_other": -0.022,
+   "N_sham": 0.271
+  },
+  "R_hand_wide": {
+   "N_A": 0.629,
+   "N_A_other": -0.036,
+   "N_sham": 0.212
+  },
+  "L_hand_huge": {
+   "N_A": 0.588,
+   "N_A_other": -0.029,
+   "N_sham": 0.348
+  },
+  "head_tiny": {
+   "N_A": 0.407,
+   "N_A_other": -0.014,
+   "N_sham": 0.186
+  },
+  "feet_huge": {
+   "N_A": 0.603,
+   "N_A_other": -0.021,
+   "N_sham": 0.286
+  },
+  "L_arm_long": {
+   "N_A": 0.489,
+   "N_A_other": -0.022,
+   "N_sham": 0.19
+  },
+  "third_arm": {
+   "N_A": 0.545,
+   "N_A_other": -0.03,
+   "N_sham": 0.161
+  },
+  "tail": {
+   "N_A": 0.196,
+   "N_A_other": -0.011,
+   "N_sham": 0.165
+  },
+  "wings": {
+   "N_A": 0.428,
+   "N_A_other": -0.021,
+   "N_sham": 0.204
+  },
+  "R_hand_gone": {
+   "N_A": 0.229,
+   "N_A_other": -0.014,
+   "N_sham": 0.038
+  },
+  "L_fin": {
+   "N_A": 0.613,
+   "N_A_other": -0.032,
+   "N_sham": 0.345
+  },
+  "R_arm_stone": {
+   "N_A": 0.627,
+   "N_A_other": -0.036,
+   "N_sham": 0.208
+  },
+  "back_sensitive": {
+   "N_A": 0.566,
+   "N_A_other": -0.023,
+   "N_sham": 0.132
+  },
+  "L_warm_R_cold": {
+   "N_A": 0.524,
+   "N_A_other": -0.023,
+   "N_sham": 0.227
+  },
+  "liquid": {
+   "N_A": 0.39,
+   "N_A_other": -0.013,
+   "N_sham": 0.1
+  },
+  "ribbon": {
+   "N_A": 0.399,
+   "N_A_other": -0.013,
+   "N_sham": 0.008
+  },
+  "tree": {
+   "N_A": 0.352,
+   "N_A_other": -0.012,
+   "N_sham": 0.212
+  }
+ },
+ "agency": {
+  "do_L_arm_up": {
+   "cos_told": 0.245,
+   "cos_told_other": -0.007,
+   "rank": 1,
+   "best": [
+    "L_arm_up",
+    "cross_legged",
+    "tree"
+   ],
+   "mag_do_over_told": 1.4,
+   "persist_cos_do": 0.416,
+   "persist_mag_do": 0.8,
+   "persist_cos_told": 0.312,
+   "persist_mag_told": 0.78,
+   "LR_request": 0.997,
+   "LR_edit": 0.991,
+   "cos_edit_do": 0.941,
+   "edit_minus_do_LR": 0.845,
+   "LR_told": 1.306
+  },
+  "do_R_hand_wide": {
+   "cos_told": 0.3,
+   "cos_told_other": -0.019,
+   "rank": 1,
+   "best": [
+    "R_hand_wide",
+    "on_side",
+    "R_hand_behind"
+   ],
+   "mag_do_over_told": 1.2,
+   "persist_cos_do": 0.378,
+   "persist_mag_do": 0.8,
+   "persist_cos_told": 0.404,
+   "persist_mag_told": 0.84,
+   "LR_request": 0.926,
+   "LR_edit": 0.955,
+   "cos_edit_do": 0.925,
+   "edit_minus_do_LR": 1.217,
+   "LR_told": 0.835
+  },
+  "do_on_side": {
+   "cos_told": 0.28,
+   "cos_told_other": -0.01,
+   "rank": 2,
+   "best": [
+    "cross_legged",
+    "on_side",
+    "tree"
+   ],
+   "mag_do_over_told": 1.11,
+   "persist_cos_do": 0.385,
+   "persist_mag_do": 0.9,
+   "persist_cos_told": 0.303,
+   "persist_mag_told": 0.78
+  },
+  "do_arms_crossed": {
+   "cos_told": 0.127,
+   "cos_told_other": -0.005,
+   "rank": 3,
+   "best": [
+    "cross_legged",
+    "on_side",
+    "arms_crossed"
+   ],
+   "mag_do_over_told": 1.04,
+   "persist_cos_do": 0.311,
+   "persist_mag_do": 0.86,
+   "persist_cos_told": 0.441,
+   "persist_mag_told": 0.78
+  },
+  "do_R_leg_lifted": {
+   "cos_told": 0.175,
+   "cos_told_other": -0.007,
+   "rank": 4,
+   "best": [
+    "cross_legged",
+    "on_side",
+    "tree"
+   ],
+   "mag_do_over_told": 1.11,
+   "persist_cos_do": 0.345,
+   "persist_mag_do": 0.9,
+   "persist_cos_told": 0.279,
+   "persist_mag_told": 0.75,
+   "LR_request": 0.925,
+   "LR_edit": 0.975,
+   "cos_edit_do": 0.95,
+   "edit_minus_do_LR": 0.907,
+   "LR_told": 0.665
+  },
+  "do_R_hand_behind": {
+   "cos_told": 0.317,
+   "cos_told_other": -0.022,
+   "rank": 1,
+   "best": [
+    "R_hand_behind",
+    "R_hand_wide",
+    "on_side"
+   ],
+   "mag_do_over_told": 1.17,
+   "persist_cos_do": 0.34,
+   "persist_mag_do": 0.85,
+   "persist_cos_told": 0.418,
+   "persist_mag_told": 0.8,
+   "LR_request": 0.881,
+   "LR_edit": 1.026,
+   "cos_edit_do": 0.814,
+   "edit_minus_do_LR": 1.111,
+   "LR_told": 0.907
+  }
+ }
+}

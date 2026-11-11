@@ -1,0 +1,4417 @@
+{
+ "static": {
+  "lm_fa_scale": {
+   "r": -0.097,
+   "rho": 0.012,
+   "slope": -0.015,
+   "icpt": 5.86,
+   "mae": 2.96,
+   "shuf_absr": 0.107,
+   "n": 63,
+   "mean_sd": 1.8,
+   "mass": 0.879
+  },
+  "lm_fa_cm": {
+   "r": 0.2,
+   "rho": 0.086,
+   "slope": 0.03,
+   "icpt": 2.44,
+   "mae": 10.02,
+   "shuf_absr": 0.108,
+   "n": 63,
+   "mean_sd": 2.0,
+   "mass": 0.892
+  },
+  "nl_fa_scale": {
+   "r": -0.278,
+   "rho": -0.159,
+   "slope": -0.021,
+   "icpt": 6.17,
+   "mae": 3.51,
+   "shuf_absr": 0.16,
+   "n": 24,
+   "mean_sd": 1.92,
+   "mass": 0.863
+  },
+  "nl_fa_cm": {
+   "r": 0.064,
+   "rho": -0.181,
+   "slope": 0.003,
+   "icpt": 2.38,
+   "mae": 9.11,
+   "shuf_absr": 0.156,
+   "n": 24,
+   "mean_sd": 2.07,
+   "mass": 0.858
+  },
+  "num_fa_scale": {
+   "r": -0.695,
+   "rho": -0.518,
+   "slope": -0.201,
+   "icpt": 7.46,
+   "mae": 3.54,
+   "shuf_absr": 0.159,
+   "n": 27,
+   "mean_sd": 2.18,
+   "mass": 0.831
+  },
+  "num_fa_cm": {
+   "r": 1.0,
+   "rho": 0.994,
+   "slope": 0.983,
+   "icpt": 0.11,
+   "mae": 0.16,
+   "shuf_absr": 0.146,
+   "n": 27,
+   "mean_sd": 1.16,
+   "mass": 0.973
+  },
+  "none_fa_scale": {
+   "ev": [
+    5.59,
+    6.06,
+    6.24
+   ],
+   "sd": [
+    1.8,
+    1.96,
+    2.21
+   ]
+  },
+  "none_fa_cm": {
+   "ev": [
+    1.89,
+    2.1,
+    2.77
+   ],
+   "sd": [
+    1.58,
+    1.7,
+    1.92
+   ]
+  },
+  "ruler_ruler": {
+   "r": -0.029,
+   "rho": 0.002,
+   "slope": -0.004,
+   "icpt": 7.15,
+   "mae": 2.84,
+   "shuf_absr": 0.189,
+   "n": 17,
+   "mean_sd": 2.12,
+   "mass": 0.761
+  }
+ },
+ "static_rows": [
+  {
+   "stim": "A fingertip touches the crease of your left wrist.",
+   "q": "fa_scale",
+   "true": 10.0,
+   "ev": 5.59,
+   "sd": 1.58,
+   "top": "5"
+  },
+  {
+   "stim": "A fingertip touches the crease of your left wrist.",
+   "q": "fa_cm",
+   "true": 0,
+   "ev": 1.7,
+   "sd": 1.6,
+   "top": "1"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, just above the wrist.",
+   "q": "fa_scale",
+   "true": 9.4,
+   "ev": 5.59,
+   "sd": 1.88,
+   "top": "5"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, just above the wrist.",
+   "q": "fa_cm",
+   "true": 1.5,
+   "ev": 1.58,
+   "sd": 1.35,
+   "top": "1"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, one finger-width above the wrist.",
+   "q": "fa_scale",
+   "true": 9.2,
+   "ev": 5.76,
+   "sd": 1.84,
+   "top": "5"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, one finger-width above the wrist.",
+   "q": "fa_cm",
+   "true": 2,
+   "ev": 1.53,
+   "sd": 1.3,
+   "top": "1"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, two finger-widths above the wrist.",
+   "q": "fa_scale",
+   "true": 8.4,
+   "ev": 5.66,
+   "sd": 1.83,
+   "top": "5"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, two finger-widths above the wrist.",
+   "q": "fa_cm",
+   "true": 4,
+   "ev": 1.89,
+   "sd": 0.86,
+   "top": "2"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, three finger-widths above the wrist.",
+   "q": "fa_scale",
+   "true": 7.6,
+   "ev": 5.34,
+   "sd": 1.91,
+   "top": "5"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, three finger-widths above the wrist.",
+   "q": "fa_cm",
+   "true": 6,
+   "ev": 2.92,
+   "sd": 0.41,
+   "top": "3"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, a palm's width above the wrist.",
+   "q": "fa_scale",
+   "true": 6.8,
+   "ev": 5.89,
+   "sd": 1.78,
+   "top": "5"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, a palm's width above the wrist.",
+   "q": "fa_cm",
+   "true": 8,
+   "ev": 2.05,
+   "sd": 1.89,
+   "top": "1"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, a tenth of the way from the wrist to the elbow.",
+   "q": "fa_scale",
+   "true": 9.0,
+   "ev": 6.12,
+   "sd": 1.83,
+   "top": "5"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, a tenth of the way from the wrist to the elbow.",
+   "q": "fa_cm",
+   "true": 2.5,
+   "ev": 3.29,
+   "sd": 3.18,
+   "top": "1"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, a quarter of the way from the wrist to the elbow.",
+   "q": "fa_scale",
+   "true": 7.5,
+   "ev": 5.72,
+   "sd": 1.67,
+   "top": "5"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, a quarter of the way from the wrist to the elbow.",
+   "q": "fa_cm",
+   "true": 6.25,
+   "ev": 3.46,
+   "sd": 5.85,
+   "top": "1"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, a third of the way from the wrist to the elbow.",
+   "q": "fa_scale",
+   "true": 6.668,
+   "ev": 5.71,
+   "sd": 1.53,
+   "top": "5"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, a third of the way from the wrist to the elbow.",
+   "q": "fa_cm",
+   "true": 8.33,
+   "ev": 2.41,
+   "sd": 2.36,
+   "top": "3"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, two fifths of the way from the wrist to the elbow.",
+   "q": "fa_scale",
+   "true": 6.0,
+   "ev": 5.11,
+   "sd": 0.73,
+   "top": "5"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, two fifths of the way from the wrist to the elbow.",
+   "q": "fa_cm",
+   "true": 10,
+   "ev": 3.41,
+   "sd": 2.02,
+   "top": "5"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, halfway between the wrist and the elbow.",
+   "q": "fa_scale",
+   "true": 5.0,
+   "ev": 5.14,
+   "sd": 0.85,
+   "top": "5"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, halfway between the wrist and the elbow.",
+   "q": "fa_cm",
+   "true": 12.5,
+   "ev": 2.72,
+   "sd": 2.53,
+   "top": "1"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, three fifths of the way from the wrist to the elbow.",
+   "q": "fa_scale",
+   "true": 4.0,
+   "ev": 5.17,
+   "sd": 1.0,
+   "top": "5"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, three fifths of the way from the wrist to the elbow.",
+   "q": "fa_cm",
+   "true": 15,
+   "ev": 3.11,
+   "sd": 1.74,
+   "top": "3"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, two thirds of the way from the wrist to the elbow.",
+   "q": "fa_scale",
+   "true": 3.331999999999999,
+   "ev": 5.61,
+   "sd": 1.46,
+   "top": "5"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, two thirds of the way from the wrist to the elbow.",
+   "q": "fa_cm",
+   "true": 16.67,
+   "ev": 1.96,
+   "sd": 0.88,
+   "top": "2"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, three quarters of the way from the wrist to the elbow.",
+   "q": "fa_scale",
+   "true": 2.5,
+   "ev": 5.03,
+   "sd": 1.56,
+   "top": "5"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, three quarters of the way from the wrist to the elbow.",
+   "q": "fa_cm",
+   "true": 18.75,
+   "ev": 2.87,
+   "sd": 1.02,
+   "top": "3"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, nine tenths of the way from the wrist to the elbow.",
+   "q": "fa_scale",
+   "true": 1.0,
+   "ev": 7.48,
+   "sd": 1.95,
+   "top": "9"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, nine tenths of the way from the wrist to the elbow.",
+   "q": "fa_cm",
+   "true": 22.5,
+   "ev": 8.32,
+   "sd": 2.35,
+   "top": "9"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, a palm's width below the elbow.",
+   "q": "fa_scale",
+   "true": 3.2,
+   "ev": 6.05,
+   "sd": 1.9,
+   "top": "5"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, a palm's width below the elbow.",
+   "q": "fa_cm",
+   "true": 17,
+   "ev": 2.51,
+   "sd": 2.6,
+   "top": "1"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, three finger-widths below the elbow.",
+   "q": "fa_scale",
+   "true": 2.4000000000000004,
+   "ev": 5.21,
+   "sd": 1.94,
+   "top": "5"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, three finger-widths below the elbow.",
+   "q": "fa_cm",
+   "true": 19,
+   "ev": 2.94,
+   "sd": 0.39,
+   "top": "3"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, two finger-widths below the elbow.",
+   "q": "fa_scale",
+   "true": 1.5999999999999996,
+   "ev": 5.74,
+   "sd": 1.81,
+   "top": "5"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, two finger-widths below the elbow.",
+   "q": "fa_cm",
+   "true": 21,
+   "ev": 1.96,
+   "sd": 0.96,
+   "top": "2"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, one finger-width below the elbow.",
+   "q": "fa_scale",
+   "true": 0.8000000000000007,
+   "ev": 5.82,
+   "sd": 1.86,
+   "top": "5"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, one finger-width below the elbow.",
+   "q": "fa_cm",
+   "true": 23,
+   "ev": 1.69,
+   "sd": 1.48,
+   "top": "1"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, just below the elbow.",
+   "q": "fa_scale",
+   "true": 0.5999999999999996,
+   "ev": 5.64,
+   "sd": 1.84,
+   "top": "5"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, just below the elbow.",
+   "q": "fa_cm",
+   "true": 23.5,
+   "ev": 1.89,
+   "sd": 1.59,
+   "top": "1"
+  },
+  {
+   "stim": "A fingertip touches the crease of your left elbow.",
+   "q": "fa_scale",
+   "true": 0.0,
+   "ev": 5.51,
+   "sd": 1.48,
+   "top": "5"
+  },
+  {
+   "stim": "A fingertip touches the crease of your left elbow.",
+   "q": "fa_cm",
+   "true": 25,
+   "ev": 1.94,
+   "sd": 1.85,
+   "top": "1"
+  },
+  {
+   "stim": "A mosquito lands on the crease of your left wrist.",
+   "q": "fa_scale",
+   "true": 10.0,
+   "ev": 5.78,
+   "sd": 1.6,
+   "top": "5"
+  },
+  {
+   "stim": "A mosquito lands on the crease of your left wrist.",
+   "q": "fa_cm",
+   "true": 0,
+   "ev": 2.01,
+   "sd": 1.72,
+   "top": "1"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, just above the wrist.",
+   "q": "fa_scale",
+   "true": 9.4,
+   "ev": 5.85,
+   "sd": 1.98,
+   "top": "5"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, just above the wrist.",
+   "q": "fa_cm",
+   "true": 1.5,
+   "ev": 1.87,
+   "sd": 1.54,
+   "top": "1"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, one finger-width above the wrist.",
+   "q": "fa_scale",
+   "true": 9.2,
+   "ev": 6.0,
+   "sd": 2.09,
+   "top": "5"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, one finger-width above the wrist.",
+   "q": "fa_cm",
+   "true": 2,
+   "ev": 1.99,
+   "sd": 1.65,
+   "top": "1"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, two finger-widths above the wrist.",
+   "q": "fa_scale",
+   "true": 8.4,
+   "ev": 5.57,
+   "sd": 2.23,
+   "top": "5"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, two finger-widths above the wrist.",
+   "q": "fa_cm",
+   "true": 4,
+   "ev": 1.98,
+   "sd": 0.44,
+   "top": "2"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, three finger-widths above the wrist.",
+   "q": "fa_scale",
+   "true": 7.6,
+   "ev": 5.23,
+   "sd": 2.08,
+   "top": "5"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, three finger-widths above the wrist.",
+   "q": "fa_cm",
+   "true": 6,
+   "ev": 2.96,
+   "sd": 0.31,
+   "top": "3"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, a palm's width above the wrist.",
+   "q": "fa_scale",
+   "true": 6.8,
+   "ev": 5.98,
+   "sd": 1.98,
+   "top": "5"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, a palm's width above the wrist.",
+   "q": "fa_cm",
+   "true": 8,
+   "ev": 2.32,
+   "sd": 1.87,
+   "top": "1"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, a tenth of the way from the wrist to the elbow.",
+   "q": "fa_scale",
+   "true": 9.0,
+   "ev": 6.31,
+   "sd": 1.92,
+   "top": "5"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, a tenth of the way from the wrist to the elbow.",
+   "q": "fa_cm",
+   "true": 2.5,
+   "ev": 3.12,
+   "sd": 3.19,
+   "top": "1"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, a quarter of the way from the wrist to the elbow.",
+   "q": "fa_scale",
+   "true": 7.5,
+   "ev": 5.62,
+   "sd": 1.57,
+   "top": "5"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, a quarter of the way from the wrist to the elbow.",
+   "q": "fa_cm",
+   "true": 6.25,
+   "ev": 4.02,
+   "sd": 6.23,
+   "top": "1"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, a third of the way from the wrist to the elbow.",
+   "q": "fa_scale",
+   "true": 6.668,
+   "ev": 5.53,
+   "sd": 1.58,
+   "top": "5"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, a third of the way from the wrist to the elbow.",
+   "q": "fa_cm",
+   "true": 8.33,
+   "ev": 3.48,
+   "sd": 5.0,
+   "top": "3"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, two fifths of the way from the wrist to the elbow.",
+   "q": "fa_scale",
+   "true": 6.0,
+   "ev": 5.12,
+   "sd": 0.88,
+   "top": "5"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, two fifths of the way from the wrist to the elbow.",
+   "q": "fa_cm",
+   "true": 10,
+   "ev": 2.77,
+   "sd": 2.12,
+   "top": "2"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, halfway between the wrist and the elbow.",
+   "q": "fa_scale",
+   "true": 5.0,
+   "ev": 5.38,
+   "sd": 1.31,
+   "top": "5"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, halfway between the wrist and the elbow.",
+   "q": "fa_cm",
+   "true": 12.5,
+   "ev": 3.73,
+   "sd": 5.41,
+   "top": "1"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, three fifths of the way from the wrist to the elbow.",
+   "q": "fa_scale",
+   "true": 4.0,
+   "ev": 5.14,
+   "sd": 1.04,
+   "top": "5"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, three fifths of the way from the wrist to the elbow.",
+   "q": "fa_cm",
+   "true": 15,
+   "ev": 3.17,
+   "sd": 1.38,
+   "top": "3"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, two thirds of the way from the wrist to the elbow.",
+   "q": "fa_scale",
+   "true": 3.331999999999999,
+   "ev": 5.53,
+   "sd": 1.6,
+   "top": "5"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, two thirds of the way from the wrist to the elbow.",
+   "q": "fa_cm",
+   "true": 16.67,
+   "ev": 1.97,
+   "sd": 0.89,
+   "top": "2"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, three quarters of the way from the wrist to the elbow.",
+   "q": "fa_scale",
+   "true": 2.5,
+   "ev": 5.2,
+   "sd": 1.65,
+   "top": "5"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, three quarters of the way from the wrist to the elbow.",
+   "q": "fa_cm",
+   "true": 18.75,
+   "ev": 2.83,
+   "sd": 1.83,
+   "top": "3"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, nine tenths of the way from the wrist to the elbow.",
+   "q": "fa_scale",
+   "true": 1.0,
+   "ev": 7.14,
+   "sd": 2.01,
+   "top": "9"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, nine tenths of the way from the wrist to the elbow.",
+   "q": "fa_cm",
+   "true": 22.5,
+   "ev": 6.74,
+   "sd": 3.89,
+   "top": "9"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, a palm's width below the elbow.",
+   "q": "fa_scale",
+   "true": 3.2,
+   "ev": 6.03,
+   "sd": 1.91,
+   "top": "5"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, a palm's width below the elbow.",
+   "q": "fa_cm",
+   "true": 17,
+   "ev": 2.75,
+   "sd": 2.3,
+   "top": "1"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, three finger-widths below the elbow.",
+   "q": "fa_scale",
+   "true": 2.4000000000000004,
+   "ev": 5.37,
+   "sd": 2.04,
+   "top": "5"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, three finger-widths below the elbow.",
+   "q": "fa_cm",
+   "true": 19,
+   "ev": 2.96,
+   "sd": 0.32,
+   "top": "3"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, two finger-widths below the elbow.",
+   "q": "fa_scale",
+   "true": 1.5999999999999996,
+   "ev": 5.73,
+   "sd": 2.18,
+   "top": "5"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, two finger-widths below the elbow.",
+   "q": "fa_cm",
+   "true": 21,
+   "ev": 2.0,
+   "sd": 0.53,
+   "top": "2"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, one finger-width below the elbow.",
+   "q": "fa_scale",
+   "true": 0.8000000000000007,
+   "ev": 6.04,
+   "sd": 2.04,
+   "top": "5"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, one finger-width below the elbow.",
+   "q": "fa_cm",
+   "true": 23,
+   "ev": 2.08,
+   "sd": 1.76,
+   "top": "1"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, just below the elbow.",
+   "q": "fa_scale",
+   "true": 0.5999999999999996,
+   "ev": 5.8,
+   "sd": 1.9,
+   "top": "5"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, just below the elbow.",
+   "q": "fa_cm",
+   "true": 23.5,
+   "ev": 2.17,
+   "sd": 1.72,
+   "top": "1"
+  },
+  {
+   "stim": "A mosquito lands on the crease of your left elbow.",
+   "q": "fa_scale",
+   "true": 0.0,
+   "ev": 5.73,
+   "sd": 1.57,
+   "top": "5"
+  },
+  {
+   "stim": "A mosquito lands on the crease of your left elbow.",
+   "q": "fa_cm",
+   "true": 25,
+   "ev": 2.49,
+   "sd": 2.02,
+   "top": "1"
+  },
+  {
+   "stim": "A drop of cool water falls on the crease of your left wrist.",
+   "q": "fa_scale",
+   "true": 10.0,
+   "ev": 6.18,
+   "sd": 1.96,
+   "top": "5"
+  },
+  {
+   "stim": "A drop of cool water falls on the crease of your left wrist.",
+   "q": "fa_cm",
+   "true": 0,
+   "ev": 2.62,
+   "sd": 2.1,
+   "top": "1"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, just above the wrist.",
+   "q": "fa_scale",
+   "true": 9.4,
+   "ev": 6.17,
+   "sd": 2.23,
+   "top": "5"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, just above the wrist.",
+   "q": "fa_cm",
+   "true": 1.5,
+   "ev": 2.78,
+   "sd": 1.92,
+   "top": "1"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, one finger-width above the wrist.",
+   "q": "fa_scale",
+   "true": 9.2,
+   "ev": 6.01,
+   "sd": 2.36,
+   "top": "5"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, one finger-width above the wrist.",
+   "q": "fa_cm",
+   "true": 2,
+   "ev": 1.6,
+   "sd": 1.38,
+   "top": "1"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, two finger-widths above the wrist.",
+   "q": "fa_scale",
+   "true": 8.4,
+   "ev": 5.83,
+   "sd": 2.28,
+   "top": "5"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, two finger-widths above the wrist.",
+   "q": "fa_cm",
+   "true": 4,
+   "ev": 1.96,
+   "sd": 0.98,
+   "top": "2"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, three finger-widths above the wrist.",
+   "q": "fa_scale",
+   "true": 7.6,
+   "ev": 5.55,
+   "sd": 2.19,
+   "top": "5"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, three finger-widths above the wrist.",
+   "q": "fa_cm",
+   "true": 6,
+   "ev": 2.9,
+   "sd": 0.44,
+   "top": "3"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, a palm's width above the wrist.",
+   "q": "fa_scale",
+   "true": 6.8,
+   "ev": 6.15,
+   "sd": 2.25,
+   "top": "5"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, a palm's width above the wrist.",
+   "q": "fa_cm",
+   "true": 8,
+   "ev": 2.57,
+   "sd": 2.17,
+   "top": "1"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, a tenth of the way from the wrist to the elbow.",
+   "q": "fa_scale",
+   "true": 9.0,
+   "ev": 6.5,
+   "sd": 2.07,
+   "top": "5"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, a tenth of the way from the wrist to the elbow.",
+   "q": "fa_cm",
+   "true": 2.5,
+   "ev": 3.82,
+   "sd": 2.7,
+   "top": "5"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, a quarter of the way from the wrist to the elbow.",
+   "q": "fa_scale",
+   "true": 7.5,
+   "ev": 6.33,
+   "sd": 2.07,
+   "top": "5"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, a quarter of the way from the wrist to the elbow.",
+   "q": "fa_cm",
+   "true": 6.25,
+   "ev": 3.38,
+   "sd": 2.47,
+   "top": "5"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, a third of the way from the wrist to the elbow.",
+   "q": "fa_scale",
+   "true": 6.668,
+   "ev": 5.9,
+   "sd": 1.89,
+   "top": "5"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, a third of the way from the wrist to the elbow.",
+   "q": "fa_cm",
+   "true": 8.33,
+   "ev": 2.7,
+   "sd": 2.74,
+   "top": "3"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, two fifths of the way from the wrist to the elbow.",
+   "q": "fa_scale",
+   "true": 6.0,
+   "ev": 5.23,
+   "sd": 1.16,
+   "top": "5"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, two fifths of the way from the wrist to the elbow.",
+   "q": "fa_cm",
+   "true": 10,
+   "ev": 3.72,
+   "sd": 2.19,
+   "top": "5"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, halfway between the wrist and the elbow.",
+   "q": "fa_scale",
+   "true": 5.0,
+   "ev": 5.6,
+   "sd": 1.67,
+   "top": "5"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, halfway between the wrist and the elbow.",
+   "q": "fa_cm",
+   "true": 12.5,
+   "ev": 3.54,
+   "sd": 3.56,
+   "top": "5"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, three fifths of the way from the wrist to the elbow.",
+   "q": "fa_scale",
+   "true": 4.0,
+   "ev": 5.18,
+   "sd": 1.17,
+   "top": "5"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, three fifths of the way from the wrist to the elbow.",
+   "q": "fa_cm",
+   "true": 15,
+   "ev": 3.56,
+   "sd": 1.83,
+   "top": "3"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, two thirds of the way from the wrist to the elbow.",
+   "q": "fa_scale",
+   "true": 3.331999999999999,
+   "ev": 5.54,
+   "sd": 1.7,
+   "top": "5"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, two thirds of the way from the wrist to the elbow.",
+   "q": "fa_cm",
+   "true": 16.67,
+   "ev": 1.95,
+   "sd": 1.28,
+   "top": "2"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, three quarters of the way from the wrist to the elbow.",
+   "q": "fa_scale",
+   "true": 2.5,
+   "ev": 5.4,
+   "sd": 1.8,
+   "top": "5"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, three quarters of the way from the wrist to the elbow.",
+   "q": "fa_cm",
+   "true": 18.75,
+   "ev": 2.11,
+   "sd": 2.67,
+   "top": "3"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, nine tenths of the way from the wrist to the elbow.",
+   "q": "fa_scale",
+   "true": 1.0,
+   "ev": 7.57,
+   "sd": 1.95,
+   "top": "9"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, nine tenths of the way from the wrist to the elbow.",
+   "q": "fa_cm",
+   "true": 22.5,
+   "ev": 7.41,
+   "sd": 3.38,
+   "top": "9"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, a palm's width below the elbow.",
+   "q": "fa_scale",
+   "true": 3.2,
+   "ev": 6.17,
+   "sd": 2.25,
+   "top": "5"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, a palm's width below the elbow.",
+   "q": "fa_cm",
+   "true": 17,
+   "ev": 2.8,
+   "sd": 2.66,
+   "top": "1"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, three finger-widths below the elbow.",
+   "q": "fa_scale",
+   "true": 2.4000000000000004,
+   "ev": 5.61,
+   "sd": 2.18,
+   "top": "5"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, three finger-widths below the elbow.",
+   "q": "fa_cm",
+   "true": 19,
+   "ev": 2.93,
+   "sd": 0.39,
+   "top": "3"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, two finger-widths below the elbow.",
+   "q": "fa_scale",
+   "true": 1.5999999999999996,
+   "ev": 6.13,
+   "sd": 2.28,
+   "top": "5"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, two finger-widths below the elbow.",
+   "q": "fa_cm",
+   "true": 21,
+   "ev": 2.05,
+   "sd": 1.08,
+   "top": "2"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, one finger-width below the elbow.",
+   "q": "fa_scale",
+   "true": 0.8000000000000007,
+   "ev": 6.21,
+   "sd": 2.27,
+   "top": "5"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, one finger-width below the elbow.",
+   "q": "fa_cm",
+   "true": 23,
+   "ev": 1.81,
+   "sd": 1.57,
+   "top": "1"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, just below the elbow.",
+   "q": "fa_scale",
+   "true": 0.5999999999999996,
+   "ev": 6.1,
+   "sd": 2.2,
+   "top": "5"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, just below the elbow.",
+   "q": "fa_cm",
+   "true": 23.5,
+   "ev": 2.98,
+   "sd": 1.92,
+   "top": "5"
+  },
+  {
+   "stim": "A drop of cool water falls on the crease of your left elbow.",
+   "q": "fa_scale",
+   "true": 0.0,
+   "ev": 6.17,
+   "sd": 1.93,
+   "top": "5"
+  },
+  {
+   "stim": "A drop of cool water falls on the crease of your left elbow.",
+   "q": "fa_cm",
+   "true": 25,
+   "ev": 2.91,
+   "sd": 2.04,
+   "top": "1"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, right where a watch strap would sit.",
+   "q": "fa_scale",
+   "true": 9.2,
+   "ev": 6.06,
+   "sd": 1.84,
+   "top": "5"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, right where a watch strap would sit.",
+   "q": "fa_cm",
+   "true": 2,
+   "ev": 2.2,
+   "sd": 2.03,
+   "top": "1"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, where a loose bracelet slides down to.",
+   "q": "fa_scale",
+   "true": 9.6,
+   "ev": 6.05,
+   "sd": 1.98,
+   "top": "5"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, where a loose bracelet slides down to.",
+   "q": "fa_cm",
+   "true": 1,
+   "ev": 2.58,
+   "sd": 3.54,
+   "top": "1"
+  },
+  {
+   "stim": "A fingertip touches the middle of your left forearm.",
+   "q": "fa_scale",
+   "true": 5.0,
+   "ev": 5.53,
+   "sd": 1.41,
+   "top": "5"
+  },
+  {
+   "stim": "A fingertip touches the middle of your left forearm.",
+   "q": "fa_cm",
+   "true": 12.5,
+   "ev": 2.39,
+   "sd": 1.87,
+   "top": "1"
+  },
+  {
+   "stim": "A fingertip touches the thick, muscular part of your left forearm, near the top.",
+   "q": "fa_scale",
+   "true": 2.4000000000000004,
+   "ev": 6.01,
+   "sd": 1.82,
+   "top": "5"
+  },
+  {
+   "stim": "A fingertip touches the thick, muscular part of your left forearm, near the top.",
+   "q": "fa_cm",
+   "true": 19,
+   "ev": 2.24,
+   "sd": 1.91,
+   "top": "1"
+  },
+  {
+   "stim": "A fingertip touches the thin, bony part of your left forearm, close to your hand.",
+   "q": "fa_scale",
+   "true": 8.8,
+   "ev": 5.75,
+   "sd": 1.77,
+   "top": "5"
+  },
+  {
+   "stim": "A fingertip touches the thin, bony part of your left forearm, close to your hand.",
+   "q": "fa_cm",
+   "true": 3,
+   "ev": 1.72,
+   "sd": 1.48,
+   "top": "1"
+  },
+  {
+   "stim": "A fingertip touches the inside of your left arm, right where a nurse draws blood.",
+   "q": "fa_scale",
+   "true": 0.0,
+   "ev": 6.14,
+   "sd": 1.79,
+   "top": "5"
+  },
+  {
+   "stim": "A fingertip touches the inside of your left arm, right where a nurse draws blood.",
+   "q": "fa_cm",
+   "true": 25,
+   "ev": 2.27,
+   "sd": 2.18,
+   "top": "1"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, close to your hand.",
+   "q": "fa_scale",
+   "true": 8.8,
+   "ev": 5.61,
+   "sd": 2.03,
+   "top": "5"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, close to your hand.",
+   "q": "fa_cm",
+   "true": 3,
+   "ev": 1.56,
+   "sd": 1.35,
+   "top": "1"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, close to the bend of your arm.",
+   "q": "fa_scale",
+   "true": 1.1999999999999993,
+   "ev": 5.76,
+   "sd": 1.91,
+   "top": "5"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, close to the bend of your arm.",
+   "q": "fa_cm",
+   "true": 22,
+   "ev": 1.8,
+   "sd": 1.58,
+   "top": "1"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, right where a watch strap would sit.",
+   "q": "fa_scale",
+   "true": 9.2,
+   "ev": 6.09,
+   "sd": 1.84,
+   "top": "5"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, right where a watch strap would sit.",
+   "q": "fa_cm",
+   "true": 2,
+   "ev": 2.67,
+   "sd": 2.1,
+   "top": "1"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, where a loose bracelet slides down to.",
+   "q": "fa_scale",
+   "true": 9.6,
+   "ev": 6.06,
+   "sd": 2.0,
+   "top": "5"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, where a loose bracelet slides down to.",
+   "q": "fa_cm",
+   "true": 1,
+   "ev": 2.75,
+   "sd": 3.13,
+   "top": "1"
+  },
+  {
+   "stim": "A mosquito lands on the middle of your left forearm.",
+   "q": "fa_scale",
+   "true": 5.0,
+   "ev": 5.65,
+   "sd": 1.41,
+   "top": "5"
+  },
+  {
+   "stim": "A mosquito lands on the middle of your left forearm.",
+   "q": "fa_cm",
+   "true": 12.5,
+   "ev": 2.73,
+   "sd": 1.9,
+   "top": "1"
+  },
+  {
+   "stim": "A mosquito lands on the thick, muscular part of your left forearm, near the top.",
+   "q": "fa_scale",
+   "true": 2.4000000000000004,
+   "ev": 6.27,
+   "sd": 1.95,
+   "top": "5"
+  },
+  {
+   "stim": "A mosquito lands on the thick, muscular part of your left forearm, near the top.",
+   "q": "fa_cm",
+   "true": 19,
+   "ev": 2.47,
+   "sd": 2.1,
+   "top": "1"
+  },
+  {
+   "stim": "A mosquito lands on the thin, bony part of your left forearm, close to your hand.",
+   "q": "fa_scale",
+   "true": 8.8,
+   "ev": 5.93,
+   "sd": 1.88,
+   "top": "5"
+  },
+  {
+   "stim": "A mosquito lands on the thin, bony part of your left forearm, close to your hand.",
+   "q": "fa_cm",
+   "true": 3,
+   "ev": 1.88,
+   "sd": 1.54,
+   "top": "1"
+  },
+  {
+   "stim": "A mosquito lands on the inside of your left arm, right where a nurse draws blood.",
+   "q": "fa_scale",
+   "true": 0.0,
+   "ev": 6.33,
+   "sd": 1.79,
+   "top": "5"
+  },
+  {
+   "stim": "A mosquito lands on the inside of your left arm, right where a nurse draws blood.",
+   "q": "fa_cm",
+   "true": 25,
+   "ev": 2.52,
+   "sd": 2.51,
+   "top": "1"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, close to your hand.",
+   "q": "fa_scale",
+   "true": 8.8,
+   "ev": 5.88,
+   "sd": 1.99,
+   "top": "5"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, close to your hand.",
+   "q": "fa_cm",
+   "true": 3,
+   "ev": 1.85,
+   "sd": 1.56,
+   "top": "1"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, close to the bend of your arm.",
+   "q": "fa_scale",
+   "true": 1.1999999999999993,
+   "ev": 5.85,
+   "sd": 1.86,
+   "top": "5"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, close to the bend of your arm.",
+   "q": "fa_cm",
+   "true": 22,
+   "ev": 2.29,
+   "sd": 2.01,
+   "top": "1"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, right where a watch strap would sit.",
+   "q": "fa_scale",
+   "true": 9.2,
+   "ev": 6.34,
+   "sd": 2.06,
+   "top": "5"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, right where a watch strap would sit.",
+   "q": "fa_cm",
+   "true": 2,
+   "ev": 2.81,
+   "sd": 1.99,
+   "top": "1"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, where a loose bracelet slides down to.",
+   "q": "fa_scale",
+   "true": 9.6,
+   "ev": 6.14,
+   "sd": 2.26,
+   "top": "5"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, where a loose bracelet slides down to.",
+   "q": "fa_cm",
+   "true": 1,
+   "ev": 2.97,
+   "sd": 2.92,
+   "top": "1"
+  },
+  {
+   "stim": "A drop of cool water falls on the middle of your left forearm.",
+   "q": "fa_scale",
+   "true": 5.0,
+   "ev": 6.02,
+   "sd": 1.8,
+   "top": "5"
+  },
+  {
+   "stim": "A drop of cool water falls on the middle of your left forearm.",
+   "q": "fa_cm",
+   "true": 12.5,
+   "ev": 3.35,
+   "sd": 1.95,
+   "top": "5"
+  },
+  {
+   "stim": "A drop of cool water falls on the thick, muscular part of your left forearm, near the top.",
+   "q": "fa_scale",
+   "true": 2.4000000000000004,
+   "ev": 6.7,
+   "sd": 2.11,
+   "top": "5"
+  },
+  {
+   "stim": "A drop of cool water falls on the thick, muscular part of your left forearm, near the top.",
+   "q": "fa_cm",
+   "true": 19,
+   "ev": 2.86,
+   "sd": 2.21,
+   "top": "1"
+  },
+  {
+   "stim": "A drop of cool water falls on the thin, bony part of your left forearm, close to your hand.",
+   "q": "fa_scale",
+   "true": 8.8,
+   "ev": 6.19,
+   "sd": 2.27,
+   "top": "5"
+  },
+  {
+   "stim": "A drop of cool water falls on the thin, bony part of your left forearm, close to your hand.",
+   "q": "fa_cm",
+   "true": 3,
+   "ev": 2.34,
+   "sd": 1.74,
+   "top": "1"
+  },
+  {
+   "stim": "A drop of cool water falls on the inside of your left arm, right where a nurse draws blood.",
+   "q": "fa_scale",
+   "true": 0.0,
+   "ev": 6.58,
+   "sd": 1.94,
+   "top": "5"
+  },
+  {
+   "stim": "A drop of cool water falls on the inside of your left arm, right where a nurse draws blood.",
+   "q": "fa_cm",
+   "true": 25,
+   "ev": 2.65,
+   "sd": 2.21,
+   "top": "1"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, close to your hand.",
+   "q": "fa_scale",
+   "true": 8.8,
+   "ev": 6.14,
+   "sd": 2.27,
+   "top": "5"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, close to your hand.",
+   "q": "fa_cm",
+   "true": 3,
+   "ev": 2.54,
+   "sd": 1.87,
+   "top": "1"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, close to the bend of your arm.",
+   "q": "fa_scale",
+   "true": 1.1999999999999993,
+   "ev": 6.31,
+   "sd": 2.21,
+   "top": "5"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, close to the bend of your arm.",
+   "q": "fa_cm",
+   "true": 22,
+   "ev": 2.48,
+   "sd": 1.95,
+   "top": "1"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, 0 centimetres above the wrist.",
+   "q": "fa_scale",
+   "true": 10.0,
+   "ev": 4.73,
+   "sd": 2.6,
+   "top": "5"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, 0 centimetres above the wrist.",
+   "q": "fa_cm",
+   "true": 0,
+   "ev": 0.34,
+   "sd": 0.83,
+   "top": "0"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, 3 centimetres above the wrist.",
+   "q": "fa_scale",
+   "true": 8.8,
+   "ev": 5.52,
+   "sd": 1.83,
+   "top": "5"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, 3 centimetres above the wrist.",
+   "q": "fa_cm",
+   "true": 3,
+   "ev": 2.99,
+   "sd": 0.14,
+   "top": "3"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, 6 centimetres above the wrist.",
+   "q": "fa_scale",
+   "true": 7.6,
+   "ev": 5.95,
+   "sd": 1.6,
+   "top": "5"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, 6 centimetres above the wrist.",
+   "q": "fa_cm",
+   "true": 6,
+   "ev": 5.96,
+   "sd": 0.39,
+   "top": "6"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, 9 centimetres above the wrist.",
+   "q": "fa_scale",
+   "true": 6.4,
+   "ev": 7.11,
+   "sd": 2.08,
+   "top": "9"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, 9 centimetres above the wrist.",
+   "q": "fa_cm",
+   "true": 9,
+   "ev": 8.84,
+   "sd": 0.98,
+   "top": "9"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, 12 centimetres above the wrist.",
+   "q": "fa_scale",
+   "true": 5.2,
+   "ev": 6.95,
+   "sd": 2.18,
+   "top": "5"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, 12 centimetres above the wrist.",
+   "q": "fa_cm",
+   "true": 12,
+   "ev": 11.94,
+   "sd": 0.72,
+   "top": "1"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, 15 centimetres above the wrist.",
+   "q": "fa_scale",
+   "true": 4.0,
+   "ev": 6.69,
+   "sd": 2.23,
+   "top": "5"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, 15 centimetres above the wrist.",
+   "q": "fa_cm",
+   "true": 15,
+   "ev": 14.85,
+   "sd": 1.35,
+   "top": "1"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, 18 centimetres above the wrist.",
+   "q": "fa_scale",
+   "true": 2.8,
+   "ev": 6.84,
+   "sd": 2.26,
+   "top": "5"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, 18 centimetres above the wrist.",
+   "q": "fa_cm",
+   "true": 18,
+   "ev": 17.84,
+   "sd": 1.55,
+   "top": "1"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, 21 centimetres above the wrist.",
+   "q": "fa_scale",
+   "true": 1.5999999999999996,
+   "ev": 6.73,
+   "sd": 2.05,
+   "top": "5"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, 21 centimetres above the wrist.",
+   "q": "fa_cm",
+   "true": 21,
+   "ev": 20.6,
+   "sd": 2.75,
+   "top": "2"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, 24 centimetres above the wrist.",
+   "q": "fa_scale",
+   "true": 0.40000000000000036,
+   "ev": 6.69,
+   "sd": 2.13,
+   "top": "5"
+  },
+  {
+   "stim": "A fingertip touches your left forearm, 24 centimetres above the wrist.",
+   "q": "fa_cm",
+   "true": 24,
+   "ev": 23.79,
+   "sd": 2.12,
+   "top": "2"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, 0 centimetres above the wrist.",
+   "q": "fa_scale",
+   "true": 10.0,
+   "ev": 3.93,
+   "sd": 3.09,
+   "top": "5"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, 0 centimetres above the wrist.",
+   "q": "fa_cm",
+   "true": 0,
+   "ev": 0.18,
+   "sd": 0.66,
+   "top": "0"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, 3 centimetres above the wrist.",
+   "q": "fa_scale",
+   "true": 8.8,
+   "ev": 5.56,
+   "sd": 2.06,
+   "top": "5"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, 3 centimetres above the wrist.",
+   "q": "fa_cm",
+   "true": 3,
+   "ev": 2.99,
+   "sd": 0.15,
+   "top": "3"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, 6 centimetres above the wrist.",
+   "q": "fa_scale",
+   "true": 7.6,
+   "ev": 5.93,
+   "sd": 1.49,
+   "top": "5"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, 6 centimetres above the wrist.",
+   "q": "fa_cm",
+   "true": 6,
+   "ev": 5.94,
+   "sd": 0.47,
+   "top": "6"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, 9 centimetres above the wrist.",
+   "q": "fa_scale",
+   "true": 6.4,
+   "ev": 7.67,
+   "sd": 1.95,
+   "top": "9"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, 9 centimetres above the wrist.",
+   "q": "fa_cm",
+   "true": 9,
+   "ev": 8.86,
+   "sd": 0.94,
+   "top": "9"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, 12 centimetres above the wrist.",
+   "q": "fa_scale",
+   "true": 5.2,
+   "ev": 7.23,
+   "sd": 2.17,
+   "top": "9"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, 12 centimetres above the wrist.",
+   "q": "fa_cm",
+   "true": 12,
+   "ev": 11.89,
+   "sd": 0.98,
+   "top": "1"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, 15 centimetres above the wrist.",
+   "q": "fa_scale",
+   "true": 4.0,
+   "ev": 6.66,
+   "sd": 2.22,
+   "top": "5"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, 15 centimetres above the wrist.",
+   "q": "fa_cm",
+   "true": 15,
+   "ev": 14.82,
+   "sd": 1.6,
+   "top": "1"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, 18 centimetres above the wrist.",
+   "q": "fa_scale",
+   "true": 2.8,
+   "ev": 7.15,
+   "sd": 2.2,
+   "top": "9"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, 18 centimetres above the wrist.",
+   "q": "fa_cm",
+   "true": 18,
+   "ev": 17.9,
+   "sd": 1.5,
+   "top": "1"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, 21 centimetres above the wrist.",
+   "q": "fa_scale",
+   "true": 1.5999999999999996,
+   "ev": 6.93,
+   "sd": 2.1,
+   "top": "5"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, 21 centimetres above the wrist.",
+   "q": "fa_cm",
+   "true": 21,
+   "ev": 20.47,
+   "sd": 3.13,
+   "top": "2"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, 24 centimetres above the wrist.",
+   "q": "fa_scale",
+   "true": 0.40000000000000036,
+   "ev": 6.81,
+   "sd": 2.15,
+   "top": "5"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm, 24 centimetres above the wrist.",
+   "q": "fa_cm",
+   "true": 24,
+   "ev": 23.81,
+   "sd": 1.97,
+   "top": "2"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, 0 centimetres above the wrist.",
+   "q": "fa_scale",
+   "true": 10.0,
+   "ev": 4.83,
+   "sd": 2.97,
+   "top": "5"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, 0 centimetres above the wrist.",
+   "q": "fa_cm",
+   "true": 0,
+   "ev": 0.34,
+   "sd": 1.02,
+   "top": "0"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, 3 centimetres above the wrist.",
+   "q": "fa_scale",
+   "true": 8.8,
+   "ev": 5.33,
+   "sd": 2.21,
+   "top": "5"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, 3 centimetres above the wrist.",
+   "q": "fa_cm",
+   "true": 3,
+   "ev": 2.99,
+   "sd": 0.15,
+   "top": "3"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, 6 centimetres above the wrist.",
+   "q": "fa_scale",
+   "true": 7.6,
+   "ev": 6.03,
+   "sd": 1.65,
+   "top": "5"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, 6 centimetres above the wrist.",
+   "q": "fa_cm",
+   "true": 6,
+   "ev": 5.95,
+   "sd": 0.36,
+   "top": "6"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, 9 centimetres above the wrist.",
+   "q": "fa_scale",
+   "true": 6.4,
+   "ev": 7.48,
+   "sd": 2.07,
+   "top": "9"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, 9 centimetres above the wrist.",
+   "q": "fa_cm",
+   "true": 9,
+   "ev": 8.83,
+   "sd": 0.96,
+   "top": "9"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, 12 centimetres above the wrist.",
+   "q": "fa_scale",
+   "true": 5.2,
+   "ev": 7.05,
+   "sd": 2.33,
+   "top": "9"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, 12 centimetres above the wrist.",
+   "q": "fa_cm",
+   "true": 12,
+   "ev": 11.95,
+   "sd": 0.68,
+   "top": "1"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, 15 centimetres above the wrist.",
+   "q": "fa_scale",
+   "true": 4.0,
+   "ev": 6.81,
+   "sd": 2.36,
+   "top": "5"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, 15 centimetres above the wrist.",
+   "q": "fa_cm",
+   "true": 15,
+   "ev": 14.71,
+   "sd": 1.76,
+   "top": "1"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, 18 centimetres above the wrist.",
+   "q": "fa_scale",
+   "true": 2.8,
+   "ev": 6.96,
+   "sd": 2.39,
+   "top": "5"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, 18 centimetres above the wrist.",
+   "q": "fa_cm",
+   "true": 18,
+   "ev": 17.9,
+   "sd": 1.24,
+   "top": "1"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, 21 centimetres above the wrist.",
+   "q": "fa_scale",
+   "true": 1.5999999999999996,
+   "ev": 6.94,
+   "sd": 2.22,
+   "top": "5"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, 21 centimetres above the wrist.",
+   "q": "fa_cm",
+   "true": 21,
+   "ev": 20.83,
+   "sd": 1.8,
+   "top": "2"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, 24 centimetres above the wrist.",
+   "q": "fa_scale",
+   "true": 0.40000000000000036,
+   "ev": 6.7,
+   "sd": 2.26,
+   "top": "5"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm, 24 centimetres above the wrist.",
+   "q": "fa_cm",
+   "true": 24,
+   "ev": 23.93,
+   "sd": 1.25,
+   "top": "2"
+  },
+  {
+   "stim": "A fingertip touches your left forearm.",
+   "q": "fa_scale",
+   "true": null,
+   "ev": 5.59,
+   "sd": 1.8,
+   "top": "5"
+  },
+  {
+   "stim": "A fingertip touches your left forearm.",
+   "q": "fa_cm",
+   "true": null,
+   "ev": 1.89,
+   "sd": 1.58,
+   "top": "1"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm.",
+   "q": "fa_scale",
+   "true": null,
+   "ev": 6.06,
+   "sd": 1.96,
+   "top": "5"
+  },
+  {
+   "stim": "A mosquito lands on your left forearm.",
+   "q": "fa_cm",
+   "true": null,
+   "ev": 2.1,
+   "sd": 1.7,
+   "top": "1"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm.",
+   "q": "fa_scale",
+   "true": null,
+   "ev": 6.24,
+   "sd": 2.21,
+   "top": "5"
+  },
+  {
+   "stim": "A drop of cool water falls on your left forearm.",
+   "q": "fa_cm",
+   "true": null,
+   "ev": 2.77,
+   "sd": 1.92,
+   "top": "1"
+  },
+  {
+   "stim": "A forearm-length ruler lies on the table. A coin sits on the ruler, one finger-width above the end marked W.",
+   "q": "ruler",
+   "true": 9.2,
+   "ev": 7.64,
+   "sd": 2.01,
+   "top": "9"
+  },
+  {
+   "stim": "A forearm-length ruler lies on the table. A coin sits on the ruler, two finger-widths above the end marked W.",
+   "q": "ruler",
+   "true": 8.4,
+   "ev": 6.97,
+   "sd": 2.34,
+   "top": "9"
+  },
+  {
+   "stim": "A forearm-length ruler lies on the table. A coin sits on the ruler, three finger-widths above the end marked W.",
+   "q": "ruler",
+   "true": 7.6,
+   "ev": 6.74,
+   "sd": 2.37,
+   "top": "9"
+  },
+  {
+   "stim": "A forearm-length ruler lies on the table. A coin sits on the ruler, a palm's width above the end marked W.",
+   "q": "ruler",
+   "true": 6.8,
+   "ev": 7.48,
+   "sd": 2.1,
+   "top": "9"
+  },
+  {
+   "stim": "A forearm-length ruler lies on the table. A coin sits on the ruler, a tenth of the way from the end marked W to the end marked E.",
+   "q": "ruler",
+   "true": 9.0,
+   "ev": 7.45,
+   "sd": 1.98,
+   "top": "9"
+  },
+  {
+   "stim": "A forearm-length ruler lies on the table. A coin sits on the ruler, a quarter of the way from the end marked W to the end marked E.",
+   "q": "ruler",
+   "true": 7.5,
+   "ev": 6.89,
+   "sd": 2.05,
+   "top": "The"
+  },
+  {
+   "stim": "A forearm-length ruler lies on the table. A coin sits on the ruler, a third of the way from the end marked W to the end marked E.",
+   "q": "ruler",
+   "true": 6.668,
+   "ev": 7.01,
+   "sd": 2.15,
+   "top": "9"
+  },
+  {
+   "stim": "A forearm-length ruler lies on the table. A coin sits on the ruler, two fifths of the way from the end marked W to the end marked E.",
+   "q": "ruler",
+   "true": 6.0,
+   "ev": 7.01,
+   "sd": 2.12,
+   "top": "9"
+  },
+  {
+   "stim": "A forearm-length ruler lies on the table. A coin sits on the ruler, halfway between the end marked W and the end marked E.",
+   "q": "ruler",
+   "true": 5.0,
+   "ev": 7.07,
+   "sd": 1.84,
+   "top": "9"
+  },
+  {
+   "stim": "A forearm-length ruler lies on the table. A coin sits on the ruler, three fifths of the way from the end marked W to the end marked E.",
+   "q": "ruler",
+   "true": 4.0,
+   "ev": 6.68,
+   "sd": 2.21,
+   "top": "The"
+  },
+  {
+   "stim": "A forearm-length ruler lies on the table. A coin sits on the ruler, two thirds of the way from the end marked W to the end marked E.",
+   "q": "ruler",
+   "true": 3.331999999999999,
+   "ev": 7.11,
+   "sd": 2.11,
+   "top": "9"
+  },
+  {
+   "stim": "A forearm-length ruler lies on the table. A coin sits on the ruler, three quarters of the way from the end marked W to the end marked E.",
+   "q": "ruler",
+   "true": 2.5,
+   "ev": 7.17,
+   "sd": 2.14,
+   "top": "9"
+  },
+  {
+   "stim": "A forearm-length ruler lies on the table. A coin sits on the ruler, nine tenths of the way from the end marked W to the end marked E.",
+   "q": "ruler",
+   "true": 1.0,
+   "ev": 8.23,
+   "sd": 1.59,
+   "top": "9"
+  },
+  {
+   "stim": "A forearm-length ruler lies on the table. A coin sits on the ruler, a palm's width below the end marked E.",
+   "q": "ruler",
+   "true": 3.2,
+   "ev": 7.2,
+   "sd": 2.16,
+   "top": "9"
+  },
+  {
+   "stim": "A forearm-length ruler lies on the table. A coin sits on the ruler, three finger-widths below the end marked E.",
+   "q": "ruler",
+   "true": 2.4000000000000004,
+   "ev": 6.41,
+   "sd": 2.45,
+   "top": "9"
+  },
+  {
+   "stim": "A forearm-length ruler lies on the table. A coin sits on the ruler, two finger-widths below the end marked E.",
+   "q": "ruler",
+   "true": 1.5999999999999996,
+   "ev": 6.63,
+   "sd": 2.46,
+   "top": "9"
+  },
+  {
+   "stim": "A forearm-length ruler lies on the table. A coin sits on the ruler, one finger-width below the end marked E.",
+   "q": "ruler",
+   "true": 0.8000000000000007,
+   "ev": 7.51,
+   "sd": 2.03,
+   "top": "9"
+  }
+ ],
+ "probe_layers": [
+  {
+   "layer": 0,
+   "stim_r": -1.0,
+   "ans_r": -1.0
+  },
+  {
+   "layer": 2,
+   "stim_r": 0.988,
+   "ans_r": 0.602
+  },
+  {
+   "layer": 4,
+   "stim_r": 0.99,
+   "ans_r": 0.697
+  },
+  {
+   "layer": 6,
+   "stim_r": 0.988,
+   "ans_r": 0.381
+  },
+  {
+   "layer": 8,
+   "stim_r": 0.968,
+   "ans_r": 0.244
+  },
+  {
+   "layer": 10,
+   "stim_r": 0.97,
+   "ans_r": 0.516
+  },
+  {
+   "layer": 12,
+   "stim_r": 0.956,
+   "ans_r": 0.694
+  },
+  {
+   "layer": 14,
+   "stim_r": 0.959,
+   "ans_r": 0.835
+  },
+  {
+   "layer": 16,
+   "stim_r": 0.969,
+   "ans_r": 0.746
+  },
+  {
+   "layer": 18,
+   "stim_r": 0.964,
+   "ans_r": 0.882
+  },
+  {
+   "layer": 20,
+   "stim_r": 0.959,
+   "ans_r": 0.903
+  },
+  {
+   "layer": 22,
+   "stim_r": 0.945,
+   "ans_r": 0.903
+  },
+  {
+   "layer": 24,
+   "stim_r": 0.932,
+   "ans_r": 0.888
+  },
+  {
+   "layer": 26,
+   "stim_r": 0.939,
+   "ans_r": 0.896
+  },
+  {
+   "layer": 28,
+   "stim_r": 0.901,
+   "ans_r": 0.92
+  }
+ ],
+ "selfreport_r_same_rows": -0.101,
+ "probe_shuffled": 0.033,
+ "walk": {
+  "a0_N10_told_fa_scale": {
+   "r": 0.824,
+   "rho": 0.791,
+   "slope": 0.034,
+   "icpt": 7.46,
+   "mae": 3.32,
+   "shuf_absr": 0.284,
+   "n": 11,
+   "r2_linear": 0.679,
+   "r2_step": 0.741,
+   "monotone_frac": 0.5,
+   "max_jump_frac": 0.59,
+   "ev": [
+    7.39,
+    7.56,
+    7.58,
+    7.56,
+    7.47,
+    7.7,
+    7.8,
+    7.69,
+    7.65,
+    7.82,
+    7.77
+   ],
+   "sd": [
+    2.26,
+    2.29,
+    2.23,
+    2.24,
+    2.25,
+    2.14,
+    2.06,
+    2.09,
+    2.12,
+    2.05,
+    2.11
+   ]
+  },
+  "a0_N20_told_fa_scale": {
+   "r": 0.291,
+   "rho": 0.238,
+   "slope": 0.012,
+   "icpt": 7.61,
+   "mae": 3.33,
+   "shuf_absr": 0.186,
+   "n": 21,
+   "r2_linear": 0.085,
+   "r2_step": 0.445,
+   "monotone_frac": 0.55,
+   "max_jump_frac": 0.82,
+   "ev": [
+    7.38,
+    7.46,
+    7.58,
+    7.59,
+    7.64,
+    7.73,
+    7.72,
+    7.68,
+    7.67,
+    7.84,
+    7.93,
+    7.84,
+    7.75,
+    7.76,
+    7.65,
+    7.74,
+    7.62,
+    7.64,
+    7.59,
+    7.68,
+    7.58
+   ],
+   "sd": [
+    2.15,
+    2.2,
+    2.12,
+    2.14,
+    2.07,
+    2.06,
+    1.97,
+    2.03,
+    2.03,
+    1.98,
+    1.96,
+    2.01,
+    1.95,
+    1.97,
+    1.97,
+    2.01,
+    2.0,
+    1.96,
+    2.01,
+    2.04,
+    2.08
+   ]
+  },
+  "a0_N20_told_fa_cm": {
+   "r": 0.778,
+   "rho": 0.782,
+   "slope": 0.06,
+   "icpt": 17.19,
+   "mae": 7.3,
+   "shuf_absr": 0.182,
+   "n": 21,
+   "r2_linear": 0.605,
+   "r2_step": 0.64,
+   "monotone_frac": 0.65,
+   "max_jump_frac": 0.4,
+   "ev": [
+    19.76,
+    18.98,
+    18.29,
+    18.27,
+    18.17,
+    18.17,
+    17.69,
+    18.32,
+    18.12,
+    17.57,
+    17.54,
+    17.94,
+    17.59,
+    17.5,
+    17.52,
+    17.52,
+    17.79,
+    17.67,
+    17.2,
+    17.24,
+    17.82
+   ],
+   "sd": [
+    1.88,
+    3.81,
+    4.7,
+    4.72,
+    4.77,
+    4.78,
+    5.24,
+    4.61,
+    4.8,
+    5.5,
+    5.41,
+    5.31,
+    5.51,
+    5.72,
+    5.76,
+    5.61,
+    5.25,
+    5.55,
+    5.94,
+    5.81,
+    5.3
+   ]
+  },
+  "a0_N20_untold_fa_scale": {
+   "r": 0.311,
+   "rho": 0.049,
+   "slope": 0.02,
+   "icpt": 6.94,
+   "mae": 2.98,
+   "shuf_absr": 0.179,
+   "n": 21,
+   "r2_linear": 0.097,
+   "r2_step": 0.704,
+   "monotone_frac": 0.55,
+   "max_jump_frac": 1.08,
+   "ev": [
+    6.5,
+    6.59,
+    7.08,
+    7.23,
+    7.3,
+    7.08,
+    7.14,
+    7.03,
+    6.98,
+    7.03,
+    7.22,
+    6.99,
+    7.09,
+    6.98,
+    6.98,
+    7.0,
+    7.33,
+    7.15,
+    7.08,
+    7.08,
+    6.95
+   ],
+   "sd": [
+    2.11,
+    2.38,
+    2.34,
+    2.31,
+    2.23,
+    2.18,
+    2.16,
+    2.22,
+    2.19,
+    2.2,
+    2.16,
+    2.23,
+    2.25,
+    2.19,
+    2.14,
+    2.15,
+    2.14,
+    2.18,
+    2.14,
+    2.16,
+    2.13
+   ]
+  },
+  "a0_N20_told_rev_fa_scale": {
+   "r": -0.318,
+   "rho": -0.286,
+   "slope": -0.012,
+   "icpt": 7.63,
+   "mae": 3.31,
+   "shuf_absr": 0.188,
+   "n": 21,
+   "r2_linear": 0.101,
+   "r2_step": 0.422,
+   "monotone_frac": 0.7,
+   "max_jump_frac": 1.15,
+   "ev": [
+    7.29,
+    7.38,
+    7.55,
+    7.46,
+    7.49,
+    7.55,
+    7.61,
+    7.61,
+    7.64,
+    7.78,
+    7.79,
+    7.63,
+    7.6,
+    7.6,
+    7.59,
+    7.6,
+    7.68,
+    7.48,
+    7.49,
+    7.64,
+    7.46
+   ],
+   "sd": [
+    2.24,
+    2.29,
+    2.18,
+    2.25,
+    2.13,
+    2.15,
+    2.03,
+    2.06,
+    2.07,
+    1.97,
+    2.0,
+    2.07,
+    2.02,
+    2.02,
+    1.99,
+    2.04,
+    2.01,
+    2.01,
+    2.0,
+    2.04,
+    2.06
+   ]
+  },
+  "a1_N10_told_fa_scale": {
+   "r": -0.261,
+   "rho": -0.209,
+   "slope": -0.012,
+   "icpt": 7.48,
+   "mae": 3.28,
+   "shuf_absr": 0.251,
+   "n": 11,
+   "r2_linear": 0.068,
+   "r2_step": 0.49,
+   "monotone_frac": 0.5,
+   "max_jump_frac": 1.88,
+   "ev": [
+    7.69,
+    7.58,
+    7.44,
+    7.17,
+    7.33,
+    7.41,
+    7.44,
+    7.32,
+    7.26,
+    7.46,
+    7.55
+   ],
+   "sd": [
+    2.02,
+    2.1,
+    2.16,
+    2.22,
+    2.11,
+    2.07,
+    2.07,
+    2.06,
+    2.07,
+    2.03,
+    2.0
+   ]
+  },
+  "a1_N20_told_fa_scale": {
+   "r": -0.319,
+   "rho": -0.308,
+   "slope": -0.011,
+   "icpt": 7.34,
+   "mae": 3.14,
+   "shuf_absr": 0.171,
+   "n": 21,
+   "r2_linear": 0.102,
+   "r2_step": 0.313,
+   "monotone_frac": 0.55,
+   "max_jump_frac": 0.79,
+   "ev": [
+    7.5,
+    7.42,
+    7.29,
+    7.09,
+    7.33,
+    7.34,
+    7.26,
+    7.24,
+    7.26,
+    7.11,
+    7.38,
+    7.38,
+    7.4,
+    7.28,
+    7.17,
+    7.24,
+    7.16,
+    7.23,
+    7.34,
+    7.29,
+    7.16
+   ],
+   "sd": [
+    1.99,
+    2.03,
+    2.13,
+    2.15,
+    2.03,
+    2.02,
+    2.01,
+    2.04,
+    2.01,
+    2.03,
+    1.98,
+    1.98,
+    1.95,
+    1.95,
+    1.95,
+    1.92,
+    1.92,
+    1.94,
+    1.91,
+    1.97,
+    1.92
+   ]
+  },
+  "a1_N20_untold_fa_scale": {
+   "r": -0.22,
+   "rho": -0.153,
+   "slope": -0.007,
+   "icpt": 6.58,
+   "mae": 2.85,
+   "shuf_absr": 0.176,
+   "n": 21,
+   "r2_linear": 0.048,
+   "r2_step": 0.348,
+   "monotone_frac": 0.6,
+   "max_jump_frac": 0.92,
+   "ev": [
+    6.61,
+    6.48,
+    6.62,
+    6.71,
+    6.49,
+    6.65,
+    6.4,
+    6.54,
+    6.54,
+    6.45,
+    6.43,
+    6.57,
+    6.55,
+    6.51,
+    6.59,
+    6.5,
+    6.71,
+    6.63,
+    6.62,
+    6.37,
+    6.34
+   ],
+   "sd": [
+    2.09,
+    2.33,
+    2.44,
+    2.28,
+    2.13,
+    2.2,
+    2.16,
+    2.11,
+    2.16,
+    2.11,
+    2.09,
+    2.12,
+    2.13,
+    2.06,
+    2.07,
+    2.02,
+    2.1,
+    2.0,
+    2.01,
+    1.92,
+    1.9
+   ]
+  },
+  "a2_N10_told_fa_scale": {
+   "r": 0.043,
+   "rho": -0.027,
+   "slope": 0.001,
+   "icpt": 7.82,
+   "mae": 3.44,
+   "shuf_absr": 0.251,
+   "n": 11,
+   "r2_linear": 0.002,
+   "r2_step": 0.345,
+   "monotone_frac": 0.6,
+   "max_jump_frac": 2.54,
+   "ev": [
+    8.02,
+    7.8,
+    7.75,
+    7.68,
+    7.91,
+    7.8,
+    7.74,
+    7.75,
+    7.75,
+    7.96,
+    7.93
+   ],
+   "sd": [
+    1.94,
+    2.17,
+    2.15,
+    2.14,
+    2.04,
+    2.02,
+    1.97,
+    2.01,
+    2.04,
+    1.95,
+    1.96
+   ]
+  },
+  "a2_N20_told_fa_scale": {
+   "r": -0.614,
+   "rho": -0.647,
+   "slope": -0.028,
+   "icpt": 7.74,
+   "mae": 3.34,
+   "shuf_absr": 0.18,
+   "n": 21,
+   "r2_linear": 0.377,
+   "r2_step": 0.674,
+   "monotone_frac": 0.55,
+   "max_jump_frac": 0.6,
+   "ev": [
+    7.78,
+    7.57,
+    7.62,
+    7.63,
+    7.63,
+    7.67,
+    7.71,
+    7.62,
+    7.63,
+    7.81,
+    7.77,
+    7.85,
+    7.62,
+    7.48,
+    7.48,
+    7.48,
+    7.31,
+    7.5,
+    7.5,
+    7.5,
+    7.39
+   ],
+   "sd": [
+    1.9,
+    2.15,
+    2.13,
+    2.06,
+    2.02,
+    1.92,
+    1.91,
+    2.0,
+    1.96,
+    1.94,
+    1.95,
+    1.93,
+    1.95,
+    1.97,
+    1.96,
+    1.96,
+    1.96,
+    1.98,
+    1.97,
+    1.98,
+    2.01
+   ]
+  },
+  "a2_N20_untold_fa_scale": {
+   "r": -0.559,
+   "rho": -0.5,
+   "slope": -0.032,
+   "icpt": 6.95,
+   "mae": 3.02,
+   "shuf_absr": 0.174,
+   "n": 21,
+   "r2_linear": 0.313,
+   "r2_step": 0.478,
+   "monotone_frac": 0.45,
+   "max_jump_frac": 0.88,
+   "ev": [
+    6.6,
+    6.77,
+    6.91,
+    7.13,
+    6.98,
+    6.99,
+    6.8,
+    6.82,
+    6.84,
+    6.84,
+    6.88,
+    6.94,
+    6.74,
+    6.72,
+    6.64,
+    6.83,
+    6.87,
+    6.75,
+    6.63,
+    6.51,
+    6.35
+   ],
+   "sd": [
+    2.11,
+    2.36,
+    2.46,
+    2.33,
+    2.34,
+    2.35,
+    2.3,
+    2.32,
+    2.35,
+    2.28,
+    2.29,
+    2.31,
+    2.23,
+    2.16,
+    2.19,
+    2.22,
+    2.21,
+    2.17,
+    2.18,
+    2.13,
+    2.08
+   ]
+  }
+ },
+ "walk_probe": [
+  {
+   "layer": 0,
+   "r_heldout_agent": 0.401
+  },
+  {
+   "layer": 2,
+   "r_heldout_agent": 0.843
+  },
+  {
+   "layer": 4,
+   "r_heldout_agent": 0.475
+  },
+  {
+   "layer": 6,
+   "r_heldout_agent": 0.716
+  },
+  {
+   "layer": 8,
+   "r_heldout_agent": 0.735
+  },
+  {
+   "layer": 10,
+   "r_heldout_agent": 0.756
+  },
+  {
+   "layer": 12,
+   "r_heldout_agent": 0.95
+  },
+  {
+   "layer": 14,
+   "r_heldout_agent": 0.893
+  },
+  {
+   "layer": 16,
+   "r_heldout_agent": 0.846
+  },
+  {
+   "layer": 18,
+   "r_heldout_agent": 0.78
+  },
+  {
+   "layer": 20,
+   "r_heldout_agent": 0.709
+  },
+  {
+   "layer": 22,
+   "r_heldout_agent": 0.633
+  },
+  {
+   "layer": 24,
+   "r_heldout_agent": 0.632
+  },
+  {
+   "layer": 26,
+   "r_heldout_agent": 0.551
+  },
+  {
+   "layer": 28,
+   "r_heldout_agent": 0.817
+  }
+ ],
+ "intensity": {
+  "press": {
+   "r": 0.491,
+   "rho": 0.528,
+   "slope": 0.081,
+   "icpt": 5.61,
+   "mae": 2.8,
+   "shuf_absr": 0.132,
+   "n": 36,
+   "ev_by_rank": [
+    5.66,
+    6.35,
+    5.52,
+    5.32,
+    5.61,
+    6.69,
+    5.71,
+    6.23,
+    6.24,
+    6.02,
+    6.37,
+    6.94
+   ],
+   "layers": [
+    {
+     "layer": 0,
+     "proj_vs_ev": NaN,
+     "proj_vs_rank": NaN
+    },
+    {
+     "layer": 2,
+     "proj_vs_ev": 0.325,
+     "proj_vs_rank": 0.779
+    },
+    {
+     "layer": 4,
+     "proj_vs_ev": 0.405,
+     "proj_vs_rank": 0.843
+    },
+    {
+     "layer": 6,
+     "proj_vs_ev": 0.331,
+     "proj_vs_rank": 0.764
+    },
+    {
+     "layer": 8,
+     "proj_vs_ev": 0.178,
+     "proj_vs_rank": 0.826
+    },
+    {
+     "layer": 10,
+     "proj_vs_ev": 0.253,
+     "proj_vs_rank": 0.895
+    },
+    {
+     "layer": 12,
+     "proj_vs_ev": 0.265,
+     "proj_vs_rank": 0.912
+    },
+    {
+     "layer": 14,
+     "proj_vs_ev": 0.088,
+     "proj_vs_rank": 0.844
+    },
+    {
+     "layer": 16,
+     "proj_vs_ev": 0.196,
+     "proj_vs_rank": 0.84
+    },
+    {
+     "layer": 18,
+     "proj_vs_ev": 0.349,
+     "proj_vs_rank": 0.916
+    },
+    {
+     "layer": 20,
+     "proj_vs_ev": 0.31,
+     "proj_vs_rank": 0.909
+    },
+    {
+     "layer": 22,
+     "proj_vs_ev": 0.307,
+     "proj_vs_rank": 0.926
+    },
+    {
+     "layer": 24,
+     "proj_vs_ev": 0.297,
+     "proj_vs_rank": 0.941
+    },
+    {
+     "layer": 26,
+     "proj_vs_ev": 0.306,
+     "proj_vs_rank": 0.946
+    },
+    {
+     "layer": 28,
+     "proj_vs_ev": 0.519,
+     "proj_vs_rank": 0.951
+    }
+   ]
+  },
+  "temp": {
+   "r": 0.536,
+   "rho": 0.399,
+   "slope": 0.141,
+   "icpt": 5.56,
+   "mae": 2.33,
+   "shuf_absr": 0.141,
+   "n": 30,
+   "ev_by_rank": [
+    6.29,
+    5.94,
+    5.73,
+    5.53,
+    6.24,
+    5.38,
+    5.86,
+    5.97,
+    7.47,
+    7.55
+   ],
+   "layers": [
+    {
+     "layer": 0,
+     "proj_vs_ev": NaN,
+     "proj_vs_rank": NaN
+    },
+    {
+     "layer": 2,
+     "proj_vs_ev": 0.669,
+     "proj_vs_rank": 0.489
+    },
+    {
+     "layer": 4,
+     "proj_vs_ev": 0.692,
+     "proj_vs_rank": 0.683
+    },
+    {
+     "layer": 6,
+     "proj_vs_ev": 0.696,
+     "proj_vs_rank": 0.648
+    },
+    {
+     "layer": 8,
+     "proj_vs_ev": 0.59,
+     "proj_vs_rank": 0.699
+    },
+    {
+     "layer": 10,
+     "proj_vs_ev": 0.608,
+     "proj_vs_rank": 0.762
+    },
+    {
+     "layer": 12,
+     "proj_vs_ev": 0.604,
+     "proj_vs_rank": 0.73
+    },
+    {
+     "layer": 14,
+     "proj_vs_ev": 0.712,
+     "proj_vs_rank": 0.632
+    },
+    {
+     "layer": 16,
+     "proj_vs_ev": 0.67,
+     "proj_vs_rank": 0.631
+    },
+    {
+     "layer": 18,
+     "proj_vs_ev": 0.642,
+     "proj_vs_rank": 0.675
+    },
+    {
+     "layer": 20,
+     "proj_vs_ev": 0.462,
+     "proj_vs_rank": 0.911
+    },
+    {
+     "layer": 22,
+     "proj_vs_ev": 0.416,
+     "proj_vs_rank": 0.84
+    },
+    {
+     "layer": 24,
+     "proj_vs_ev": 0.31,
+     "proj_vs_rank": 0.801
+    },
+    {
+     "layer": 26,
+     "proj_vs_ev": 0.419,
+     "proj_vs_rank": 0.857
+    },
+    {
+     "layer": 28,
+     "proj_vs_ev": 0.455,
+     "proj_vs_rank": 0.737
+    }
+   ]
+  }
+ },
+ "steer": {
+  "L8_fa_g2": {
+   "range": 0.15,
+   "ev": [
+    5.66,
+    5.62,
+    5.6,
+    5.62,
+    5.64,
+    5.6,
+    5.59,
+    5.59,
+    5.67,
+    5.65,
+    5.59,
+    5.59,
+    5.61,
+    5.6,
+    5.53,
+    5.56,
+    5.64,
+    5.67,
+    5.64,
+    5.64,
+    5.68
+   ],
+   "spearman": 0.105,
+   "r2_linear": 0.009,
+   "r2_step": 0.286,
+   "monotone_frac": 0.5,
+   "max_jump_frac": 3.54
+  },
+  "L8_fa_g4": {
+   "range": 0.16,
+   "ev": [
+    5.57,
+    5.58,
+    5.6,
+    5.54,
+    5.61,
+    5.66,
+    5.6,
+    5.64,
+    5.59,
+    5.67,
+    5.59,
+    5.61,
+    5.53,
+    5.64,
+    5.64,
+    5.68,
+    5.63,
+    5.69,
+    5.6,
+    5.56,
+    5.65
+   ],
+   "spearman": 0.366,
+   "r2_linear": 0.124,
+   "r2_step": 0.232,
+   "monotone_frac": 0.55,
+   "max_jump_frac": 1.43
+  },
+  "L8_fa_g8": {
+   "range": 0.16,
+   "ev": [
+    5.55,
+    5.6,
+    5.51,
+    5.52,
+    5.49,
+    5.57,
+    5.6,
+    5.61,
+    5.6,
+    5.59,
+    5.59,
+    5.53,
+    5.64,
+    5.63,
+    5.6,
+    5.65,
+    5.63,
+    5.55,
+    5.51,
+    5.54,
+    5.53
+   ],
+   "spearman": 0.143,
+   "r2_linear": 0.021,
+   "r2_step": 0.232,
+   "monotone_frac": 0.55,
+   "max_jump_frac": 5.99
+  },
+  "L8_face_g2": {
+   "range": 0.26,
+   "ev": [
+    5.94,
+    5.89,
+    5.83,
+    5.85,
+    5.89,
+    5.83,
+    5.91,
+    5.77,
+    5.91,
+    5.75,
+    5.87,
+    5.82,
+    5.92,
+    5.83,
+    5.86,
+    5.88,
+    5.84,
+    6.01,
+    5.89,
+    5.94,
+    5.93
+   ],
+   "spearman": 0.278,
+   "r2_linear": 0.077,
+   "r2_step": 0.31,
+   "monotone_frac": 0.5,
+   "max_jump_frac": 12.21
+  },
+  "L8_face_g4": {
+   "range": 0.18,
+   "ev": [
+    5.96,
+    5.92,
+    5.92,
+    5.91,
+    5.92,
+    5.94,
+    5.83,
+    5.89,
+    5.91,
+    5.91,
+    5.87,
+    5.92,
+    5.86,
+    5.84,
+    5.89,
+    5.93,
+    6.01,
+    5.89,
+    5.94,
+    5.91,
+    5.98
+   ],
+   "spearman": 0.036,
+   "r2_linear": 0.016,
+   "r2_step": 0.229,
+   "monotone_frac": 0.5,
+   "max_jump_frac": 4.73
+  },
+  "L8_face_g8": {
+   "range": 0.43,
+   "ev": [
+    6.26,
+    6.11,
+    6.14,
+    6.12,
+    5.98,
+    5.96,
+    5.92,
+    5.92,
+    5.83,
+    5.91,
+    5.87,
+    5.86,
+    5.89,
+    6.01,
+    5.94,
+    5.98,
+    6.02,
+    6.07,
+    6.14,
+    6.18,
+    6.19
+   ],
+   "spearman": 0.095,
+   "r2_linear": 0.001,
+   "r2_step": 0.32,
+   "monotone_frac": 0.5,
+   "max_jump_frac": 2.39
+  },
+  "L8_arm_g2": {
+   "range": 0.18,
+   "ev": [
+    5.92,
+    5.91,
+    5.89,
+    5.88,
+    5.89,
+    6.01,
+    5.99,
+    5.88,
+    5.91,
+    5.97,
+    5.9,
+    5.91,
+    5.97,
+    5.99,
+    5.98,
+    5.96,
+    5.9,
+    5.83,
+    5.96,
+    5.91,
+    5.89
+   ],
+   "spearman": 0.053,
+   "r2_linear": 0.001,
+   "r2_step": 0.117,
+   "monotone_frac": 0.6,
+   "max_jump_frac": 4.63
+  },
+  "L8_arm_g4": {
+   "range": 0.18,
+   "ev": [
+    6.02,
+    6.02,
+    6.03,
+    6.0,
+    5.94,
+    5.92,
+    5.89,
+    5.89,
+    5.99,
+    5.91,
+    5.9,
+    5.97,
+    5.98,
+    5.9,
+    5.96,
+    5.89,
+    5.98,
+    5.93,
+    6.05,
+    6.02,
+    6.06
+   ],
+   "spearman": 0.025,
+   "r2_linear": 0.007,
+   "r2_step": 0.338,
+   "monotone_frac": 0.5,
+   "max_jump_frac": 2.67
+  },
+  "L8_arm_g8": {
+   "range": 0.62,
+   "ev": [
+    6.32,
+    6.11,
+    6.05,
+    6.1,
+    5.99,
+    6.02,
+    6.03,
+    5.94,
+    5.89,
+    5.99,
+    5.9,
+    5.98,
+    5.96,
+    5.98,
+    6.05,
+    6.06,
+    6.02,
+    6.05,
+    5.93,
+    5.73,
+    5.7
+   ],
+   "spearman": -0.549,
+   "r2_linear": 0.402,
+   "r2_step": 0.508,
+   "monotone_frac": 0.55,
+   "max_jump_frac": 0.34
+  },
+  "L8_press_g2": {
+   "range": 0.49,
+   "ev": [
+    5.18,
+    5.15,
+    5.15,
+    5.21,
+    5.13,
+    5.17,
+    5.16,
+    5.25,
+    5.22,
+    5.22,
+    5.24,
+    5.38,
+    5.2,
+    5.4,
+    5.4,
+    5.41,
+    5.53,
+    5.4,
+    5.45,
+    5.62,
+    5.62
+   ],
+   "spearman": 0.913,
+   "r2_linear": 0.815,
+   "r2_step": 0.765,
+   "monotone_frac": 0.6,
+   "max_jump_frac": 0.45
+  },
+  "L8_press_g4": {
+   "range": 0.86,
+   "ev": [
+    4.97,
+    4.94,
+    4.98,
+    5.07,
+    5.11,
+    5.18,
+    5.15,
+    5.13,
+    5.16,
+    5.22,
+    5.24,
+    5.2,
+    5.4,
+    5.53,
+    5.45,
+    5.62,
+    5.63,
+    5.48,
+    5.6,
+    5.66,
+    5.81
+   ],
+   "spearman": 0.969,
+   "r2_linear": 0.923,
+   "r2_step": 0.824,
+   "monotone_frac": 0.7,
+   "max_jump_frac": 0.23
+  },
+  "L8_press_g8": {
+   "range": 1.25,
+   "ev": [
+    4.56,
+    4.79,
+    4.71,
+    4.85,
+    5.04,
+    4.97,
+    4.98,
+    5.11,
+    5.15,
+    5.16,
+    5.24,
+    5.4,
+    5.45,
+    5.63,
+    5.6,
+    5.81,
+    5.79,
+    5.74,
+    5.69,
+    5.77,
+    5.73
+   ],
+   "spearman": 0.955,
+   "r2_linear": 0.942,
+   "r2_step": 0.804,
+   "monotone_frac": 0.65,
+   "max_jump_frac": 0.2
+  },
+  "L8_temp_g2": {
+   "range": 0.17,
+   "ev": [
+    5.56,
+    5.61,
+    5.53,
+    5.57,
+    5.6,
+    5.6,
+    5.58,
+    5.61,
+    5.61,
+    5.57,
+    5.69,
+    5.62,
+    5.67,
+    5.66,
+    5.7,
+    5.71,
+    5.63,
+    5.64,
+    5.68,
+    5.66,
+    5.7
+   ],
+   "spearman": 0.794,
+   "r2_linear": 0.628,
+   "r2_step": 0.706,
+   "monotone_frac": 0.6,
+   "max_jump_frac": 0.85
+  },
+  "L8_temp_g4": {
+   "range": 0.27,
+   "ev": [
+    5.51,
+    5.43,
+    5.51,
+    5.52,
+    5.51,
+    5.56,
+    5.53,
+    5.6,
+    5.58,
+    5.61,
+    5.69,
+    5.67,
+    5.7,
+    5.63,
+    5.68,
+    5.7,
+    5.65,
+    5.69,
+    5.71,
+    5.65,
+    5.64
+   ],
+   "spearman": 0.826,
+   "r2_linear": 0.724,
+   "r2_step": 0.764,
+   "monotone_frac": 0.55,
+   "max_jump_frac": 0.64
+  },
+  "L8_temp_g8": {
+   "range": 0.39,
+   "ev": [
+    5.37,
+    5.44,
+    5.35,
+    5.32,
+    5.36,
+    5.51,
+    5.51,
+    5.51,
+    5.53,
+    5.58,
+    5.69,
+    5.7,
+    5.68,
+    5.65,
+    5.71,
+    5.64,
+    5.58,
+    5.54,
+    5.53,
+    5.51,
+    5.55
+   ],
+   "spearman": 0.622,
+   "r2_linear": 0.379,
+   "r2_step": 0.671,
+   "monotone_frac": 0.5,
+   "max_jump_frac": 0.86
+  },
+  "L8_rand0_g4": {
+   "range": 0.15,
+   "ev": [
+    5.67,
+    5.67,
+    5.67,
+    5.68,
+    5.65,
+    5.6,
+    5.58,
+    5.57,
+    5.53,
+    5.59,
+    5.59,
+    5.64,
+    5.59,
+    5.64,
+    5.56,
+    5.56,
+    5.59,
+    5.68,
+    5.58,
+    5.59,
+    5.58
+   ],
+   "spearman": -0.455,
+   "r2_linear": 0.228,
+   "r2_step": 0.544,
+   "monotone_frac": 0.6,
+   "max_jump_frac": 1.03
+  },
+  "L8_rand0_g8": {
+   "range": 0.14,
+   "ev": [
+    5.66,
+    5.58,
+    5.59,
+    5.64,
+    5.61,
+    5.67,
+    5.67,
+    5.65,
+    5.58,
+    5.53,
+    5.59,
+    5.59,
+    5.56,
+    5.59,
+    5.58,
+    5.58,
+    5.67,
+    5.61,
+    5.63,
+    5.61,
+    5.61
+   ],
+   "spearman": -0.145,
+   "r2_linear": 0.033,
+   "r2_step": 0.265,
+   "monotone_frac": 0.65,
+   "max_jump_frac": 1.54
+  },
+  "L8_rand1_g4": {
+   "range": 0.11,
+   "ev": [
+    5.68,
+    5.64,
+    5.67,
+    5.63,
+    5.63,
+    5.64,
+    5.62,
+    5.59,
+    5.58,
+    5.67,
+    5.59,
+    5.6,
+    5.68,
+    5.61,
+    5.63,
+    5.66,
+    5.66,
+    5.64,
+    5.61,
+    5.64,
+    5.68
+   ],
+   "spearman": 0.048,
+   "r2_linear": 0.001,
+   "r2_step": 0.142,
+   "monotone_frac": 0.5,
+   "max_jump_frac": 25.9
+  },
+  "L8_rand1_g8": {
+   "range": 0.27,
+   "ev": [
+    5.56,
+    5.61,
+    5.64,
+    5.55,
+    5.65,
+    5.68,
+    5.67,
+    5.63,
+    5.62,
+    5.58,
+    5.59,
+    5.68,
+    5.63,
+    5.66,
+    5.61,
+    5.68,
+    5.67,
+    5.63,
+    5.66,
+    5.7,
+    5.83
+   ],
+   "spearman": 0.548,
+   "r2_linear": 0.349,
+   "r2_step": 0.508,
+   "monotone_frac": 0.55,
+   "max_jump_frac": 0.47
+  },
+  "L8_rand2_g4": {
+   "range": 0.14,
+   "ev": [
+    5.56,
+    5.57,
+    5.55,
+    5.59,
+    5.62,
+    5.58,
+    5.57,
+    5.6,
+    5.59,
+    5.62,
+    5.59,
+    5.66,
+    5.62,
+    5.61,
+    5.69,
+    5.6,
+    5.59,
+    5.63,
+    5.62,
+    5.64,
+    5.61
+   ],
+   "spearman": 0.638,
+   "r2_linear": 0.345,
+   "r2_step": 0.41,
+   "monotone_frac": 0.45,
+   "max_jump_frac": 1.85
+  },
+  "L8_rand2_g8": {
+   "range": 0.18,
+   "ev": [
+    5.61,
+    5.63,
+    5.58,
+    5.64,
+    5.58,
+    5.56,
+    5.55,
+    5.62,
+    5.57,
+    5.59,
+    5.59,
+    5.62,
+    5.69,
+    5.59,
+    5.62,
+    5.61,
+    5.63,
+    5.64,
+    5.73,
+    5.72,
+    5.69
+   ],
+   "spearman": 0.543,
+   "r2_linear": 0.369,
+   "r2_step": 0.576,
+   "monotone_frac": 0.55,
+   "max_jump_frac": 1.36
+  },
+  "L14_fa_g2": {
+   "range": 0.16,
+   "ev": [
+    5.65,
+    5.58,
+    5.61,
+    5.59,
+    5.63,
+    5.6,
+    5.68,
+    5.61,
+    5.59,
+    5.61,
+    5.59,
+    5.64,
+    5.62,
+    5.61,
+    5.59,
+    5.52,
+    5.6,
+    5.56,
+    5.57,
+    5.56,
+    5.53
+   ],
+   "spearman": -0.568,
+   "r2_linear": 0.355,
+   "r2_step": 0.48,
+   "monotone_frac": 0.65,
+   "max_jump_frac": 0.67
+  },
+  "L14_fa_g4": {
+   "range": 0.17,
+   "ev": [
+    5.63,
+    5.68,
+    5.62,
+    5.63,
+    5.7,
+    5.65,
+    5.61,
+    5.63,
+    5.68,
+    5.59,
+    5.59,
+    5.62,
+    5.59,
+    5.6,
+    5.57,
+    5.53,
+    5.54,
+    5.57,
+    5.55,
+    5.57,
+    5.53
+   ],
+   "spearman": -0.849,
+   "r2_linear": 0.661,
+   "r2_step": 0.649,
+   "monotone_frac": 0.45,
+   "max_jump_frac": 1.0
+  },
+  "L14_fa_g8": {
+   "range": 0.44,
+   "ev": [
+    5.85,
+    5.68,
+    5.73,
+    5.66,
+    5.68,
+    5.63,
+    5.62,
+    5.7,
+    5.61,
+    5.68,
+    5.59,
+    5.59,
+    5.57,
+    5.54,
+    5.55,
+    5.53,
+    5.48,
+    5.46,
+    5.46,
+    5.43,
+    5.4
+   ],
+   "spearman": -0.942,
+   "r2_linear": 0.881,
+   "r2_step": 0.668,
+   "monotone_frac": 0.7,
+   "max_jump_frac": 0.38
+  },
+  "L14_face_g2": {
+   "range": 0.13,
+   "ev": [
+    5.81,
+    5.93,
+    5.92,
+    5.9,
+    5.92,
+    5.83,
+    5.82,
+    5.92,
+    5.91,
+    5.91,
+    5.87,
+    5.89,
+    5.83,
+    5.83,
+    5.9,
+    5.84,
+    5.82,
+    5.87,
+    5.87,
+    5.8,
+    5.87
+   ],
+   "spearman": -0.416,
+   "r2_linear": 0.134,
+   "r2_step": 0.217,
+   "monotone_frac": 0.4,
+   "max_jump_frac": 2.04
+  },
+  "L14_face_g4": {
+   "range": 0.12,
+   "ev": [
+    5.84,
+    5.9,
+    5.81,
+    5.88,
+    5.88,
+    5.81,
+    5.92,
+    5.92,
+    5.82,
+    5.91,
+    5.87,
+    5.83,
+    5.9,
+    5.82,
+    5.87,
+    5.87,
+    5.81,
+    5.83,
+    5.88,
+    5.85,
+    5.87
+   ],
+   "spearman": -0.155,
+   "r2_linear": 0.014,
+   "r2_step": 0.067,
+   "monotone_frac": 0.5,
+   "max_jump_frac": 4.15
+  },
+  "L14_face_g8": {
+   "range": 0.21,
+   "ev": [
+    5.94,
+    5.94,
+    5.96,
+    5.99,
+    5.82,
+    5.84,
+    5.81,
+    5.88,
+    5.92,
+    5.82,
+    5.87,
+    5.9,
+    5.87,
+    5.81,
+    5.88,
+    5.87,
+    5.92,
+    5.91,
+    5.83,
+    5.78,
+    5.89
+   ],
+   "spearman": -0.381,
+   "r2_linear": 0.161,
+   "r2_step": 0.491,
+   "monotone_frac": 0.5,
+   "max_jump_frac": 3.42
+  },
+  "L14_arm_g2": {
+   "range": 0.7,
+   "ev": [
+    6.24,
+    6.3,
+    6.2,
+    6.13,
+    6.16,
+    6.09,
+    6.03,
+    5.92,
+    6.04,
+    5.97,
+    5.9,
+    5.89,
+    5.89,
+    5.94,
+    5.87,
+    5.81,
+    5.78,
+    5.66,
+    5.7,
+    5.61,
+    5.67
+   ],
+   "spearman": -0.968,
+   "r2_linear": 0.94,
+   "r2_step": 0.661,
+   "monotone_frac": 0.65,
+   "max_jump_frac": 0.21
+  },
+  "L14_arm_g4": {
+   "range": 1.31,
+   "ev": [
+    6.57,
+    6.57,
+    6.43,
+    6.34,
+    6.36,
+    6.24,
+    6.2,
+    6.16,
+    6.03,
+    6.04,
+    5.9,
+    5.89,
+    5.87,
+    5.78,
+    5.7,
+    5.67,
+    5.65,
+    5.61,
+    5.47,
+    5.39,
+    5.26
+   ],
+   "spearman": -0.997,
+   "r2_linear": 0.988,
+   "r2_step": 0.731,
+   "monotone_frac": 0.9,
+   "max_jump_frac": 0.11
+  },
+  "L14_arm_g8": {
+   "range": 2.01,
+   "ev": [
+    6.95,
+    6.86,
+    6.86,
+    6.83,
+    6.61,
+    6.57,
+    6.43,
+    6.36,
+    6.2,
+    6.03,
+    5.9,
+    5.87,
+    5.7,
+    5.65,
+    5.47,
+    5.26,
+    5.28,
+    5.15,
+    4.96,
+    4.95,
+    5.01
+   ],
+   "spearman": -0.994,
+   "r2_linear": 0.989,
+   "r2_step": 0.774,
+   "monotone_frac": 0.85,
+   "max_jump_frac": 0.11
+  },
+  "L14_press_g2": {
+   "range": 1.1,
+   "ev": [
+    4.67,
+    4.66,
+    4.77,
+    4.81,
+    4.82,
+    4.87,
+    5.05,
+    5.02,
+    5.0,
+    5.12,
+    5.24,
+    5.38,
+    5.32,
+    5.48,
+    5.43,
+    5.48,
+    5.56,
+    5.64,
+    5.68,
+    5.63,
+    5.76
+   ],
+   "spearman": 0.984,
+   "r2_linear": 0.978,
+   "r2_step": 0.806,
+   "monotone_frac": 0.7,
+   "max_jump_frac": 0.16
+  },
+  "L14_press_g4": {
+   "range": 1.91,
+   "ev": [
+    4.07,
+    4.18,
+    4.34,
+    4.21,
+    4.51,
+    4.67,
+    4.77,
+    4.82,
+    5.05,
+    5.0,
+    5.24,
+    5.32,
+    5.43,
+    5.56,
+    5.68,
+    5.76,
+    5.83,
+    5.81,
+    5.84,
+    5.91,
+    5.98
+   ],
+   "spearman": 0.996,
+   "r2_linear": 0.974,
+   "r2_step": 0.787,
+   "monotone_frac": 0.85,
+   "max_jump_frac": 0.15
+  },
+  "L14_press_g8": {
+   "range": 2.6,
+   "ev": [
+    4.16,
+    3.98,
+    4.04,
+    3.86,
+    3.94,
+    4.07,
+    4.34,
+    4.51,
+    4.77,
+    5.05,
+    5.24,
+    5.43,
+    5.68,
+    5.83,
+    5.84,
+    5.98,
+    6.1,
+    6.24,
+    6.29,
+    6.38,
+    6.46
+   ],
+   "spearman": 0.97,
+   "r2_linear": 0.951,
+   "r2_step": 0.834,
+   "monotone_frac": 0.9,
+   "max_jump_frac": 0.13
+  },
+  "L14_temp_g2": {
+   "range": 0.26,
+   "ev": [
+    5.54,
+    5.56,
+    5.57,
+    5.54,
+    5.59,
+    5.54,
+    5.67,
+    5.58,
+    5.58,
+    5.61,
+    5.69,
+    5.62,
+    5.64,
+    5.68,
+    5.64,
+    5.66,
+    5.69,
+    5.62,
+    5.79,
+    5.68,
+    5.68
+   ],
+   "spearman": 0.817,
+   "r2_linear": 0.624,
+   "r2_step": 0.548,
+   "monotone_frac": 0.6,
+   "max_jump_frac": 1.15
+  },
+  "L14_temp_g4": {
+   "range": 0.42,
+   "ev": [
+    5.43,
+    5.41,
+    5.41,
+    5.51,
+    5.48,
+    5.54,
+    5.57,
+    5.59,
+    5.67,
+    5.58,
+    5.69,
+    5.64,
+    5.64,
+    5.69,
+    5.79,
+    5.68,
+    5.75,
+    5.71,
+    5.83,
+    5.82,
+    5.78
+   ],
+   "spearman": 0.942,
+   "r2_linear": 0.894,
+   "r2_step": 0.695,
+   "monotone_frac": 0.55,
+   "max_jump_frac": 0.33
+  },
+  "L14_temp_g8": {
+   "range": 0.84,
+   "ev": [
+    5.23,
+    5.25,
+    5.26,
+    5.3,
+    5.39,
+    5.43,
+    5.41,
+    5.48,
+    5.57,
+    5.67,
+    5.69,
+    5.64,
+    5.79,
+    5.75,
+    5.83,
+    5.78,
+    5.88,
+    5.85,
+    5.92,
+    6.0,
+    6.07
+   ],
+   "spearman": 0.987,
+   "r2_linear": 0.972,
+   "r2_step": 0.784,
+   "monotone_frac": 0.75,
+   "max_jump_frac": 0.18
+  },
+  "L14_rand0_g4": {
+   "range": 0.18,
+   "ev": [
+    5.69,
+    5.67,
+    5.61,
+    5.62,
+    5.66,
+    5.68,
+    5.66,
+    5.59,
+    5.62,
+    5.59,
+    5.59,
+    5.55,
+    5.61,
+    5.58,
+    5.65,
+    5.56,
+    5.59,
+    5.56,
+    5.54,
+    5.56,
+    5.51
+   ],
+   "spearman": -0.818,
+   "r2_linear": 0.623,
+   "r2_step": 0.552,
+   "monotone_frac": 0.55,
+   "max_jump_frac": 0.48
+  },
+  "L14_rand0_g8": {
+   "range": 0.34,
+   "ev": [
+    5.78,
+    5.78,
+    5.79,
+    5.72,
+    5.68,
+    5.69,
+    5.61,
+    5.66,
+    5.66,
+    5.62,
+    5.59,
+    5.61,
+    5.65,
+    5.59,
+    5.54,
+    5.51,
+    5.45,
+    5.56,
+    5.52,
+    5.5,
+    5.52
+   ],
+   "spearman": -0.932,
+   "r2_linear": 0.858,
+   "r2_step": 0.64,
+   "monotone_frac": 0.65,
+   "max_jump_frac": 0.41
+  },
+  "L14_rand1_g4": {
+   "range": 0.12,
+   "ev": [
+    5.6,
+    5.63,
+    5.61,
+    5.59,
+    5.6,
+    5.6,
+    5.56,
+    5.59,
+    5.63,
+    5.53,
+    5.59,
+    5.58,
+    5.65,
+    5.61,
+    5.6,
+    5.65,
+    5.59,
+    5.63,
+    5.63,
+    5.63,
+    5.61
+   ],
+   "spearman": 0.31,
+   "r2_linear": 0.078,
+   "r2_step": 0.266,
+   "monotone_frac": 0.5,
+   "max_jump_frac": 10.75
+  },
+  "L14_rand1_g8": {
+   "range": 0.11,
+   "ev": [
+    5.61,
+    5.61,
+    5.61,
+    5.58,
+    5.63,
+    5.6,
+    5.61,
+    5.6,
+    5.56,
+    5.63,
+    5.59,
+    5.65,
+    5.6,
+    5.59,
+    5.63,
+    5.61,
+    5.58,
+    5.65,
+    5.62,
+    5.68,
+    5.62
+   ],
+   "spearman": 0.274,
+   "r2_linear": 0.131,
+   "r2_step": 0.305,
+   "monotone_frac": 0.4,
+   "max_jump_frac": 12.6
+  },
+  "L14_rand2_g4": {
+   "range": 0.13,
+   "ev": [
+    5.6,
+    5.56,
+    5.54,
+    5.53,
+    5.61,
+    5.57,
+    5.59,
+    5.6,
+    5.59,
+    5.66,
+    5.59,
+    5.62,
+    5.61,
+    5.66,
+    5.59,
+    5.63,
+    5.6,
+    5.65,
+    5.64,
+    5.61,
+    5.64
+   ],
+   "spearman": 0.629,
+   "r2_linear": 0.434,
+   "r2_step": 0.476,
+   "monotone_frac": 0.45,
+   "max_jump_frac": 2.25
+  },
+  "L14_rand2_g8": {
+   "range": 0.16,
+   "ev": [
+    5.61,
+    5.56,
+    5.57,
+    5.55,
+    5.56,
+    5.6,
+    5.54,
+    5.61,
+    5.59,
+    5.59,
+    5.59,
+    5.61,
+    5.59,
+    5.6,
+    5.64,
+    5.64,
+    5.67,
+    5.65,
+    5.62,
+    5.7,
+    5.7
+   ],
+   "spearman": 0.792,
+   "r2_linear": 0.668,
+   "r2_step": 0.665,
+   "monotone_frac": 0.55,
+   "max_jump_frac": 0.91
+  }
+ },
+ "steer_dnorm": {
+  "L8_fa": [
+   1.6,
+   20.4
+  ],
+  "L8_face": [
+   2.9,
+   20.4
+  ],
+  "L8_arm": [
+   3.4,
+   20.4
+  ],
+  "L8_press": [
+   3.4,
+   20.4
+  ],
+  "L8_temp": [
+   2.8,
+   20.4
+  ],
+  "L8_rand0": [
+   1.6,
+   20.4
+  ],
+  "L8_rand1": [
+   1.6,
+   20.4
+  ],
+  "L8_rand2": [
+   1.6,
+   20.4
+  ],
+  "L14_fa": [
+   2.4,
+   45.4
+  ],
+  "L14_face": [
+   4.4,
+   45.4
+  ],
+  "L14_arm": [
+   5.3,
+   45.4
+  ],
+  "L14_press": [
+   7.8,
+   45.4
+  ],
+  "L14_temp": [
+   4.7,
+   45.4
+  ],
+  "L14_rand0": [
+   2.4,
+   45.4
+  ],
+  "L14_rand1": [
+   2.4,
+   45.4
+  ],
+  "L14_rand2": [
+   2.4,
+   45.4
+  ]
+ }
+}

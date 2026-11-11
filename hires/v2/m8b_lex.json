@@ -1,0 +1,31 @@
+{
+"lex": {
+"nn5_cm": 29.446,
+"rho_folded": 0.153,
+"other_side_nn": 0.219,
+"chain_rho": 0.001,
+"shaft_rho": -0.024,
+"shaft_pair_rho": 0.201,
+"mirror_shift": 0.949,
+"partner_nn": 0.908,
+"alt_inshaft_cm": 6.873,
+"alt_inshaft_chance_cm": 12.383,
+"probe_alt_rank": 63.0,
+"probe_alt_pct": 11.455,
+"probe_alt_cm": 61.94,
+"probe_wf_rank": 68.0,
+"probe_wf_pct": 12.364,
+"probe_wf_cm": 60.328,
+"v1set_nn5_cm": 31.581,
+"v1set_rho_folded": 0.141,
+"v1set_other_side_nn": 0.219,
+"v1set_chain_rho": -0.049,
+"v1set_shaft_rho": -0.137,
+"v1set_shaft_pair_rho": 0.156,
+"v1set_mirror_shift": 0.959,
+"v1set_partner_nn": 0.942,
+"v1set_probe_wf_rank": 67.0,
+"v1set_probe_wf_pct": 16.462,
+"v1set_probe_wf_cm": 65.618
+}
+}

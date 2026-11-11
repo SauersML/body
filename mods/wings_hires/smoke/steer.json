@@ -1,0 +1,2006 @@
+{
+ "runs": [
+  {
+   "L": 8,
+   "axis": "wing",
+   "beta": 0.25,
+   "s": -1.0,
+   "ev": 2.7809806781588122,
+   "mass": 0.11801151931285858
+  },
+  {
+   "L": 8,
+   "axis": "wing",
+   "beta": 0.25,
+   "s": -0.75,
+   "ev": 4.034885774017312,
+   "mass": 0.18382540345191956
+  },
+  {
+   "L": 8,
+   "axis": "wing",
+   "beta": 0.25,
+   "s": -0.5,
+   "ev": 5.1293195597827435,
+   "mass": 0.2935006618499756
+  },
+  {
+   "L": 8,
+   "axis": "wing",
+   "beta": 0.25,
+   "s": -0.25,
+   "ev": 6.000738924834877,
+   "mass": 0.415962278842926
+  },
+  {
+   "L": 8,
+   "axis": "wing",
+   "beta": 0.25,
+   "s": 0.0,
+   "ev": 6.069183925399557,
+   "mass": 0.5894489288330078
+  },
+  {
+   "L": 8,
+   "axis": "wing",
+   "beta": 0.25,
+   "s": 0.25,
+   "ev": 6.283924356102943,
+   "mass": 0.7737840414047241
+  },
+  {
+   "L": 8,
+   "axis": "wing",
+   "beta": 0.25,
+   "s": 0.5,
+   "ev": 6.374970635282807,
+   "mass": 0.8963541984558105
+  },
+  {
+   "L": 8,
+   "axis": "wing",
+   "beta": 0.25,
+   "s": 0.75,
+   "ev": 6.59123884816654,
+   "mass": 0.9371148943901062
+  },
+  {
+   "L": 8,
+   "axis": "wing",
+   "beta": 0.25,
+   "s": 1.0,
+   "ev": 7.032689006766304,
+   "mass": 0.9636876583099365
+  },
+  {
+   "L": 8,
+   "axis": "wing",
+   "beta": 0.5,
+   "s": -1.0,
+   "ev": 0.7698522962164134,
+   "mass": 0.005326243117451668
+  },
+  {
+   "L": 8,
+   "axis": "wing",
+   "beta": 0.5,
+   "s": -0.75,
+   "ev": 1.2558843702427112,
+   "mass": 0.027029383927583694
+  },
+  {
+   "L": 8,
+   "axis": "wing",
+   "beta": 0.5,
+   "s": -0.5,
+   "ev": 2.7809806781588122,
+   "mass": 0.11801151931285858
+  },
+  {
+   "L": 8,
+   "axis": "wing",
+   "beta": 0.5,
+   "s": -0.25,
+   "ev": 5.1293195597827435,
+   "mass": 0.2935006618499756
+  },
+  {
+   "L": 8,
+   "axis": "wing",
+   "beta": 0.5,
+   "s": 0.0,
+   "ev": 6.069183925399557,
+   "mass": 0.5894489288330078
+  },
+  {
+   "L": 8,
+   "axis": "wing",
+   "beta": 0.5,
+   "s": 0.25,
+   "ev": 6.374970635282807,
+   "mass": 0.8963541984558105
+  },
+  {
+   "L": 8,
+   "axis": "wing",
+   "beta": 0.5,
+   "s": 0.5,
+   "ev": 7.032689006766304,
+   "mass": 0.9636876583099365
+  },
+  {
+   "L": 8,
+   "axis": "wing",
+   "beta": 0.5,
+   "s": 0.75,
+   "ev": 7.882784285582602,
+   "mass": 0.9740909337997437
+  },
+  {
+   "L": 8,
+   "axis": "wing",
+   "beta": 0.5,
+   "s": 1.0,
+   "ev": 7.194198044016957,
+   "mass": 0.974481463432312
+  },
+  {
+   "L": 8,
+   "axis": "desc",
+   "beta": 0.25,
+   "s": -1.0,
+   "ev": 4.290176000446081,
+   "mass": 0.8047026991844177
+  },
+  {
+   "L": 8,
+   "axis": "desc",
+   "beta": 0.25,
+   "s": -0.75,
+   "ev": 4.703715284354985,
+   "mass": 0.730293333530426
+  },
+  {
+   "L": 8,
+   "axis": "desc",
+   "beta": 0.25,
+   "s": -0.5,
+   "ev": 5.176392590161413,
+   "mass": 0.6570073366165161
+  },
+  {
+   "L": 8,
+   "axis": "desc",
+   "beta": 0.25,
+   "s": -0.25,
+   "ev": 5.723652147920802,
+   "mass": 0.6332076191902161
+  },
+  {
+   "L": 8,
+   "axis": "desc",
+   "beta": 0.25,
+   "s": 0.0,
+   "ev": 6.069183925399557,
+   "mass": 0.5894489288330078
+  },
+  {
+   "L": 8,
+   "axis": "desc",
+   "beta": 0.25,
+   "s": 0.25,
+   "ev": 6.60146468016319,
+   "mass": 0.57304847240448
+  },
+  {
+   "L": 8,
+   "axis": "desc",
+   "beta": 0.25,
+   "s": 0.5,
+   "ev": 6.972149809473194,
+   "mass": 0.591858983039856
+  },
+  {
+   "L": 8,
+   "axis": "desc",
+   "beta": 0.25,
+   "s": 0.75,
+   "ev": 7.272413190919906,
+   "mass": 0.6581597328186035
+  },
+  {
+   "L": 8,
+   "axis": "desc",
+   "beta": 0.25,
+   "s": 1.0,
+   "ev": 7.806734949466772,
+   "mass": 0.6568799018859863
+  },
+  {
+   "L": 8,
+   "axis": "desc",
+   "beta": 0.5,
+   "s": -1.0,
+   "ev": 2.5676790701108985,
+   "mass": 0.6834703683853149
+  },
+  {
+   "L": 8,
+   "axis": "desc",
+   "beta": 0.5,
+   "s": -0.75,
+   "ev": 3.124471961054951,
+   "mass": 0.8453657627105713
+  },
+  {
+   "L": 8,
+   "axis": "desc",
+   "beta": 0.5,
+   "s": -0.5,
+   "ev": 4.290176000446081,
+   "mass": 0.8047026991844177
+  },
+  {
+   "L": 8,
+   "axis": "desc",
+   "beta": 0.5,
+   "s": -0.25,
+   "ev": 5.176392590161413,
+   "mass": 0.6570073366165161
+  },
+  {
+   "L": 8,
+   "axis": "desc",
+   "beta": 0.5,
+   "s": 0.0,
+   "ev": 6.069183925399557,
+   "mass": 0.5894489288330078
+  },
+  {
+   "L": 8,
+   "axis": "desc",
+   "beta": 0.5,
+   "s": 0.25,
+   "ev": 6.972149809473194,
+   "mass": 0.591858983039856
+  },
+  {
+   "L": 8,
+   "axis": "desc",
+   "beta": 0.5,
+   "s": 0.5,
+   "ev": 7.806734949466772,
+   "mass": 0.6568799018859863
+  },
+  {
+   "L": 8,
+   "axis": "desc",
+   "beta": 0.5,
+   "s": 0.75,
+   "ev": 8.697297470876947,
+   "mass": 0.6678468585014343
+  },
+  {
+   "L": 8,
+   "axis": "desc",
+   "beta": 0.5,
+   "s": 1.0,
+   "ev": 8.878673245664686,
+   "mass": 0.4831283688545227
+  },
+  {
+   "L": 8,
+   "axis": "nowings",
+   "beta": 0.25,
+   "s": -1.0,
+   "ev": 4.197072434937581,
+   "mass": 0.17721721529960632
+  },
+  {
+   "L": 8,
+   "axis": "nowings",
+   "beta": 0.25,
+   "s": -0.75,
+   "ev": 4.7795170495519415,
+   "mass": 0.24510452151298523
+  },
+  {
+   "L": 8,
+   "axis": "nowings",
+   "beta": 0.25,
+   "s": -0.5,
+   "ev": 5.220358835533261,
+   "mass": 0.3791583180427551
+  },
+  {
+   "L": 8,
+   "axis": "nowings",
+   "beta": 0.25,
+   "s": -0.25,
+   "ev": 5.788014504942112,
+   "mass": 0.4597632586956024
+  },
+  {
+   "L": 8,
+   "axis": "nowings",
+   "beta": 0.25,
+   "s": 0.0,
+   "ev": 6.069183925399557,
+   "mass": 0.5894489288330078
+  },
+  {
+   "L": 8,
+   "axis": "nowings",
+   "beta": 0.25,
+   "s": 0.25,
+   "ev": 6.561373267322779,
+   "mass": 0.7130482196807861
+  },
+  {
+   "L": 8,
+   "axis": "nowings",
+   "beta": 0.25,
+   "s": 0.5,
+   "ev": 6.7725525996647775,
+   "mass": 0.7889446020126343
+  },
+  {
+   "L": 8,
+   "axis": "nowings",
+   "beta": 0.25,
+   "s": 0.75,
+   "ev": 7.058773363009095,
+   "mass": 0.8545677661895752
+  },
+  {
+   "L": 8,
+   "axis": "nowings",
+   "beta": 0.25,
+   "s": 1.0,
+   "ev": 7.46795593900606,
+   "mass": 0.889896810054779
+  },
+  {
+   "L": 8,
+   "axis": "nowings",
+   "beta": 0.5,
+   "s": -1.0,
+   "ev": 1.7151098258327693,
+   "mass": 0.013365290127694607
+  },
+  {
+   "L": 8,
+   "axis": "nowings",
+   "beta": 0.5,
+   "s": -0.75,
+   "ev": 2.421407983638346,
+   "mass": 0.047010332345962524
+  },
+  {
+   "L": 8,
+   "axis": "nowings",
+   "beta": 0.5,
+   "s": -0.5,
+   "ev": 4.197072434937581,
+   "mass": 0.17721721529960632
+  },
+  {
+   "L": 8,
+   "axis": "nowings",
+   "beta": 0.5,
+   "s": -0.25,
+   "ev": 5.220358835533261,
+   "mass": 0.3791583180427551
+  },
+  {
+   "L": 8,
+   "axis": "nowings",
+   "beta": 0.5,
+   "s": 0.0,
+   "ev": 6.069183925399557,
+   "mass": 0.5894489288330078
+  },
+  {
+   "L": 8,
+   "axis": "nowings",
+   "beta": 0.5,
+   "s": 0.25,
+   "ev": 6.7725525996647775,
+   "mass": 0.7889446020126343
+  },
+  {
+   "L": 8,
+   "axis": "nowings",
+   "beta": 0.5,
+   "s": 0.5,
+   "ev": 7.46795593900606,
+   "mass": 0.889896810054779
+  },
+  {
+   "L": 8,
+   "axis": "nowings",
+   "beta": 0.5,
+   "s": 0.75,
+   "ev": 7.479770180769265,
+   "mass": 0.9258615970611572
+  },
+  {
+   "L": 8,
+   "axis": "nowings",
+   "beta": 0.5,
+   "s": 1.0,
+   "ev": 6.695382845588028,
+   "mass": 0.9618310332298279
+  },
+  {
+   "L": 8,
+   "axis": "glorpctx",
+   "beta": 0.25,
+   "s": -1.0,
+   "ev": 4.139475470408797,
+   "mass": 0.21386094391345978
+  },
+  {
+   "L": 8,
+   "axis": "glorpctx",
+   "beta": 0.25,
+   "s": -0.75,
+   "ev": 4.841528164688498,
+   "mass": 0.3011997938156128
+  },
+  {
+   "L": 8,
+   "axis": "glorpctx",
+   "beta": 0.25,
+   "s": -0.5,
+   "ev": 5.564796736929566,
+   "mass": 0.3895311951637268
+  },
+  {
+   "L": 8,
+   "axis": "glorpctx",
+   "beta": 0.25,
+   "s": -0.25,
+   "ev": 5.931106870062649,
+   "mass": 0.47914522886276245
+  },
+  {
+   "L": 8,
+   "axis": "glorpctx",
+   "beta": 0.25,
+   "s": 0.0,
+   "ev": 6.069183925399557,
+   "mass": 0.5894489288330078
+  },
+  {
+   "L": 8,
+   "axis": "glorpctx",
+   "beta": 0.25,
+   "s": 0.25,
+   "ev": 6.207311682170257,
+   "mass": 0.7061338424682617
+  },
+  {
+   "L": 8,
+   "axis": "glorpctx",
+   "beta": 0.25,
+   "s": 0.5,
+   "ev": 6.350065451813862,
+   "mass": 0.7978391647338867
+  },
+  {
+   "L": 8,
+   "axis": "glorpctx",
+   "beta": 0.25,
+   "s": 0.75,
+   "ev": 6.272698108339682,
+   "mass": 0.8878782987594604
+  },
+  {
+   "L": 8,
+   "axis": "glorpctx",
+   "beta": 0.25,
+   "s": 1.0,
+   "ev": 6.239624216221273,
+   "mass": 0.9272351861000061
+  },
+  {
+   "L": 8,
+   "axis": "glorpctx",
+   "beta": 0.5,
+   "s": -1.0,
+   "ev": 3.7390726059675217,
+   "mass": 0.0033307340927422047
+  },
+  {
+   "L": 8,
+   "axis": "glorpctx",
+   "beta": 0.5,
+   "s": -0.75,
+   "ev": 2.83574505103752,
+   "mass": 0.04204551875591278
+  },
+  {
+   "L": 8,
+   "axis": "glorpctx",
+   "beta": 0.5,
+   "s": -0.5,
+   "ev": 4.139475470408797,
+   "mass": 0.21386094391345978
+  },
+  {
+   "L": 8,
+   "axis": "glorpctx",
+   "beta": 0.5,
+   "s": -0.25,
+   "ev": 5.564796736929566,
+   "mass": 0.3895311951637268
+  },
+  {
+   "L": 8,
+   "axis": "glorpctx",
+   "beta": 0.5,
+   "s": 0.0,
+   "ev": 6.069183925399557,
+   "mass": 0.5894489288330078
+  },
+  {
+   "L": 8,
+   "axis": "glorpctx",
+   "beta": 0.5,
+   "s": 0.25,
+   "ev": 6.350065451813862,
+   "mass": 0.7978391647338867
+  },
+  {
+   "L": 8,
+   "axis": "glorpctx",
+   "beta": 0.5,
+   "s": 0.5,
+   "ev": 6.239624216221273,
+   "mass": 0.9272351861000061
+  },
+  {
+   "L": 8,
+   "axis": "glorpctx",
+   "beta": 0.5,
+   "s": 0.75,
+   "ev": 5.945749728940427,
+   "mass": 0.9704815745353699
+  },
+  {
+   "L": 8,
+   "axis": "glorpctx",
+   "beta": 0.5,
+   "s": 1.0,
+   "ev": 5.4714798256754875,
+   "mass": 0.9842628240585327
+  },
+  {
+   "L": 8,
+   "axis": "random",
+   "beta": 0.25,
+   "s": -1.0,
+   "ev": 5.156426246860065,
+   "mass": 0.9303414225578308
+  },
+  {
+   "L": 8,
+   "axis": "random",
+   "beta": 0.25,
+   "s": -0.75,
+   "ev": 5.40222435593023,
+   "mass": 0.9028916954994202
+  },
+  {
+   "L": 8,
+   "axis": "random",
+   "beta": 0.25,
+   "s": -0.5,
+   "ev": 5.694413680350408,
+   "mass": 0.8518951535224915
+  },
+  {
+   "L": 8,
+   "axis": "random",
+   "beta": 0.25,
+   "s": -0.25,
+   "ev": 6.0411068170215,
+   "mass": 0.7669385671615601
+  },
+  {
+   "L": 8,
+   "axis": "random",
+   "beta": 0.25,
+   "s": 0.0,
+   "ev": 6.069183925399557,
+   "mass": 0.5894489288330078
+  },
+  {
+   "L": 8,
+   "axis": "random",
+   "beta": 0.25,
+   "s": 0.25,
+   "ev": 6.597922801040113,
+   "mass": 0.44512319564819336
+  },
+  {
+   "L": 8,
+   "axis": "random",
+   "beta": 0.25,
+   "s": 0.5,
+   "ev": 7.2033199314028025,
+   "mass": 0.3859257102012634
+  },
+  {
+   "L": 8,
+   "axis": "random",
+   "beta": 0.25,
+   "s": 0.75,
+   "ev": 6.699020671658218,
+   "mass": 0.34934842586517334
+  },
+  {
+   "L": 8,
+   "axis": "random",
+   "beta": 0.25,
+   "s": 1.0,
+   "ev": 5.9016081895679235,
+   "mass": 0.24577420949935913
+  },
+  {
+   "L": 8,
+   "axis": "random",
+   "beta": 0.5,
+   "s": -1.0,
+   "ev": 5.150346019305289,
+   "mass": 0.9765448570251465
+  },
+  {
+   "L": 8,
+   "axis": "random",
+   "beta": 0.5,
+   "s": -0.75,
+   "ev": 4.31100197986234,
+   "mass": 0.9600961208343506
+  },
+  {
+   "L": 8,
+   "axis": "random",
+   "beta": 0.5,
+   "s": -0.5,
+   "ev": 5.156426246860065,
+   "mass": 0.9303414225578308
+  },
+  {
+   "L": 8,
+   "axis": "random",
+   "beta": 0.5,
+   "s": -0.25,
+   "ev": 5.694413680350408,
+   "mass": 0.8518951535224915
+  },
+  {
+   "L": 8,
+   "axis": "random",
+   "beta": 0.5,
+   "s": 0.0,
+   "ev": 6.069183925399557,
+   "mass": 0.5894489288330078
+  },
+  {
+   "L": 8,
+   "axis": "random",
+   "beta": 0.5,
+   "s": 0.25,
+   "ev": 7.2033199314028025,
+   "mass": 0.3859257102012634
+  },
+  {
+   "L": 8,
+   "axis": "random",
+   "beta": 0.5,
+   "s": 0.5,
+   "ev": 5.9016081895679235,
+   "mass": 0.24577420949935913
+  },
+  {
+   "L": 8,
+   "axis": "random",
+   "beta": 0.5,
+   "s": 0.75,
+   "ev": 3.5977762093534693,
+   "mass": 0.08387774229049683
+  },
+  {
+   "L": 8,
+   "axis": "random",
+   "beta": 0.5,
+   "s": 1.0,
+   "ev": 2.9551292058313265,
+   "mass": 0.0058059124276041985
+  },
+  {
+   "L": 8,
+   "axis": "interp",
+   "beta": 0.25,
+   "s": 0.0,
+   "ev": 2.763539852341637,
+   "mass": 0.13200438022613525
+  },
+  {
+   "L": 8,
+   "axis": "interp",
+   "beta": 0.5,
+   "s": 0.0,
+   "ev": 0.8471244643442333,
+   "mass": 0.004910392686724663
+  },
+  {
+   "L": 8,
+   "axis": "interp",
+   "beta": 0.25,
+   "s": 0.125,
+   "ev": 2.586972619756125,
+   "mass": 0.1277095377445221
+  },
+  {
+   "L": 8,
+   "axis": "interp",
+   "beta": 0.5,
+   "s": 0.125,
+   "ev": 0.9364978158846498,
+   "mass": 0.004333611112087965
+  },
+  {
+   "L": 8,
+   "axis": "interp",
+   "beta": 0.25,
+   "s": 0.25,
+   "ev": 2.814550550072454,
+   "mass": 0.13359341025352478
+  },
+  {
+   "L": 8,
+   "axis": "interp",
+   "beta": 0.5,
+   "s": 0.25,
+   "ev": 0.7664834877941757,
+   "mass": 0.006012383848428726
+  },
+  {
+   "L": 8,
+   "axis": "interp",
+   "beta": 0.25,
+   "s": 0.375,
+   "ev": 2.856424005003646,
+   "mass": 0.1307278573513031
+  },
+  {
+   "L": 8,
+   "axis": "interp",
+   "beta": 0.5,
+   "s": 0.375,
+   "ev": 0.9557908943388611,
+   "mass": 0.005516244564205408
+  },
+  {
+   "L": 8,
+   "axis": "interp",
+   "beta": 0.25,
+   "s": 0.5,
+   "ev": 3.0637963430490345,
+   "mass": 0.16650761663913727
+  },
+  {
+   "L": 8,
+   "axis": "interp",
+   "beta": 0.5,
+   "s": 0.5,
+   "ev": 0.9426747302059084,
+   "mass": 0.008426196873188019
+  },
+  {
+   "L": 8,
+   "axis": "interp",
+   "beta": 0.25,
+   "s": 0.625,
+   "ev": 3.592273025540635,
+   "mass": 0.18735754489898682
+  },
+  {
+   "L": 8,
+   "axis": "interp",
+   "beta": 0.5,
+   "s": 0.625,
+   "ev": 0.844895881600678,
+   "mass": 0.020972277969121933
+  },
+  {
+   "L": 8,
+   "axis": "interp",
+   "beta": 0.25,
+   "s": 0.75,
+   "ev": 4.738540871068835,
+   "mass": 0.24739998579025269
+  },
+  {
+   "L": 8,
+   "axis": "interp",
+   "beta": 0.5,
+   "s": 0.75,
+   "ev": 1.631697432603687,
+   "mass": 0.09031812846660614
+  },
+  {
+   "L": 8,
+   "axis": "interp",
+   "beta": 0.25,
+   "s": 0.875,
+   "ev": 6.16303257457912,
+   "mass": 0.6552585959434509
+  },
+  {
+   "L": 8,
+   "axis": "interp",
+   "beta": 0.5,
+   "s": 0.875,
+   "ev": 5.074502674397081,
+   "mass": 0.43365439772605896
+  },
+  {
+   "L": 8,
+   "axis": "interp",
+   "beta": 0.25,
+   "s": 1.0,
+   "ev": 5.988598708529025,
+   "mass": 0.902722954750061
+  },
+  {
+   "L": 8,
+   "axis": "interp",
+   "beta": 0.5,
+   "s": 1.0,
+   "ev": 2.0488712864462286,
+   "mass": 0.9083715677261353
+  },
+  {
+   "L": 12,
+   "axis": "wing",
+   "beta": 0.25,
+   "s": -1.0,
+   "ev": 3.7854352053254843,
+   "mass": 0.17840570211410522
+  },
+  {
+   "L": 12,
+   "axis": "wing",
+   "beta": 0.25,
+   "s": -0.75,
+   "ev": 4.71176683716476,
+   "mass": 0.2857431173324585
+  },
+  {
+   "L": 12,
+   "axis": "wing",
+   "beta": 0.25,
+   "s": -0.5,
+   "ev": 5.226842632517219,
+   "mass": 0.3583680987358093
+  },
+  {
+   "L": 12,
+   "axis": "wing",
+   "beta": 0.25,
+   "s": -0.25,
+   "ev": 5.838544769678265,
+   "mass": 0.4388291835784912
+  },
+  {
+   "L": 12,
+   "axis": "wing",
+   "beta": 0.25,
+   "s": 0.0,
+   "ev": 6.069183925399557,
+   "mass": 0.5894489288330078
+  },
+  {
+   "L": 12,
+   "axis": "wing",
+   "beta": 0.25,
+   "s": 0.25,
+   "ev": 6.201383901294321,
+   "mass": 0.7124969959259033
+  },
+  {
+   "L": 12,
+   "axis": "wing",
+   "beta": 0.25,
+   "s": 0.5,
+   "ev": 6.207202327379491,
+   "mass": 0.8025299906730652
+  },
+  {
+   "L": 12,
+   "axis": "wing",
+   "beta": 0.25,
+   "s": 0.75,
+   "ev": 5.746651460649446,
+   "mass": 0.8562719821929932
+  },
+  {
+   "L": 12,
+   "axis": "wing",
+   "beta": 0.25,
+   "s": 1.0,
+   "ev": 4.931495228491258,
+   "mass": 0.8774476051330566
+  },
+  {
+   "L": 12,
+   "axis": "wing",
+   "beta": 0.5,
+   "s": -1.0,
+   "ev": 3.0861842785961926,
+   "mass": 0.00025698362151160836
+  },
+  {
+   "L": 12,
+   "axis": "wing",
+   "beta": 0.5,
+   "s": -0.75,
+   "ev": 3.3517674915492535,
+   "mass": 0.008925117552280426
+  },
+  {
+   "L": 12,
+   "axis": "wing",
+   "beta": 0.5,
+   "s": -0.5,
+   "ev": 3.7854352053254843,
+   "mass": 0.17840570211410522
+  },
+  {
+   "L": 12,
+   "axis": "wing",
+   "beta": 0.5,
+   "s": -0.25,
+   "ev": 5.226842632517219,
+   "mass": 0.3583680987358093
+  },
+  {
+   "L": 12,
+   "axis": "wing",
+   "beta": 0.5,
+   "s": 0.0,
+   "ev": 6.069183925399557,
+   "mass": 0.5894489288330078
+  },
+  {
+   "L": 12,
+   "axis": "wing",
+   "beta": 0.5,
+   "s": 0.25,
+   "ev": 6.207202327379491,
+   "mass": 0.8025299906730652
+  },
+  {
+   "L": 12,
+   "axis": "wing",
+   "beta": 0.5,
+   "s": 0.5,
+   "ev": 4.931495228491258,
+   "mass": 0.8774476051330566
+  },
+  {
+   "L": 12,
+   "axis": "wing",
+   "beta": 0.5,
+   "s": 0.75,
+   "ev": 3.8608741210773587,
+   "mass": 0.8728348016738892
+  },
+  {
+   "L": 12,
+   "axis": "wing",
+   "beta": 0.5,
+   "s": 1.0,
+   "ev": 3.9167834618128836,
+   "mass": 0.8681737780570984
+  },
+  {
+   "L": 12,
+   "axis": "desc",
+   "beta": 0.25,
+   "s": -1.0,
+   "ev": 5.949600002728403,
+   "mass": 0.654039204120636
+  },
+  {
+   "L": 12,
+   "axis": "desc",
+   "beta": 0.25,
+   "s": -0.75,
+   "ev": 5.708103033713996,
+   "mass": 0.6147066354751587
+  },
+  {
+   "L": 12,
+   "axis": "desc",
+   "beta": 0.25,
+   "s": -0.5,
+   "ev": 5.6398859564214945,
+   "mass": 0.5836321115493774
+  },
+  {
+   "L": 12,
+   "axis": "desc",
+   "beta": 0.25,
+   "s": -0.25,
+   "ev": 5.843610297888517,
+   "mass": 0.5900588035583496
+  },
+  {
+   "L": 12,
+   "axis": "desc",
+   "beta": 0.25,
+   "s": 0.0,
+   "ev": 6.069183925399557,
+   "mass": 0.5894489288330078
+  },
+  {
+   "L": 12,
+   "axis": "desc",
+   "beta": 0.25,
+   "s": 0.25,
+   "ev": 6.270311367930844,
+   "mass": 0.5581382513046265
+  },
+  {
+   "L": 12,
+   "axis": "desc",
+   "beta": 0.25,
+   "s": 0.5,
+   "ev": 6.742443859227933,
+   "mass": 0.49246326088905334
+  },
+  {
+   "L": 12,
+   "axis": "desc",
+   "beta": 0.25,
+   "s": 0.75,
+   "ev": 7.481932905327994,
+   "mass": 0.4455452561378479
+  },
+  {
+   "L": 12,
+   "axis": "desc",
+   "beta": 0.25,
+   "s": 1.0,
+   "ev": 7.981696608709171,
+   "mass": 0.37039899826049805
+  },
+  {
+   "L": 12,
+   "axis": "desc",
+   "beta": 0.5,
+   "s": -1.0,
+   "ev": 5.946558169205673,
+   "mass": 0.6553345918655396
+  },
+  {
+   "L": 12,
+   "axis": "desc",
+   "beta": 0.5,
+   "s": -0.75,
+   "ev": 6.172873902600259,
+   "mass": 0.697604775428772
+  },
+  {
+   "L": 12,
+   "axis": "desc",
+   "beta": 0.5,
+   "s": -0.5,
+   "ev": 5.949600002728403,
+   "mass": 0.654039204120636
+  },
+  {
+   "L": 12,
+   "axis": "desc",
+   "beta": 0.5,
+   "s": -0.25,
+   "ev": 5.6398859564214945,
+   "mass": 0.5836321115493774
+  },
+  {
+   "L": 12,
+   "axis": "desc",
+   "beta": 0.5,
+   "s": 0.0,
+   "ev": 6.069183925399557,
+   "mass": 0.5894489288330078
+  },
+  {
+   "L": 12,
+   "axis": "desc",
+   "beta": 0.5,
+   "s": 0.25,
+   "ev": 6.742443859227933,
+   "mass": 0.49246326088905334
+  },
+  {
+   "L": 12,
+   "axis": "desc",
+   "beta": 0.5,
+   "s": 0.5,
+   "ev": 7.981696608709171,
+   "mass": 0.37039899826049805
+  },
+  {
+   "L": 12,
+   "axis": "desc",
+   "beta": 0.5,
+   "s": 0.75,
+   "ev": 7.215194531949237,
+   "mass": 0.22695837914943695
+  },
+  {
+   "L": 12,
+   "axis": "desc",
+   "beta": 0.5,
+   "s": 1.0,
+   "ev": 2.454950826941058,
+   "mass": 0.050267793238162994
+  },
+  {
+   "L": 12,
+   "axis": "nowings",
+   "beta": 0.25,
+   "s": -1.0,
+   "ev": 3.7114121140912175,
+   "mass": 0.19038090109825134
+  },
+  {
+   "L": 12,
+   "axis": "nowings",
+   "beta": 0.25,
+   "s": -0.75,
+   "ev": 4.54841617308557,
+   "mass": 0.24505874514579773
+  },
+  {
+   "L": 12,
+   "axis": "nowings",
+   "beta": 0.25,
+   "s": -0.5,
+   "ev": 5.351199001073837,
+   "mass": 0.3220759332180023
+  },
+  {
+   "L": 12,
+   "axis": "nowings",
+   "beta": 0.25,
+   "s": -0.25,
+   "ev": 5.683105175383389,
+   "mass": 0.41849178075790405
+  },
+  {
+   "L": 12,
+   "axis": "nowings",
+   "beta": 0.25,
+   "s": 0.0,
+   "ev": 6.069183925399557,
+   "mass": 0.5894489288330078
+  },
+  {
+   "L": 12,
+   "axis": "nowings",
+   "beta": 0.25,
+   "s": 0.25,
+   "ev": 6.241239995579235,
+   "mass": 0.7236713171005249
+  },
+  {
+   "L": 12,
+   "axis": "nowings",
+   "beta": 0.25,
+   "s": 0.5,
+   "ev": 6.4123074496746995,
+   "mass": 0.8350281715393066
+  },
+  {
+   "L": 12,
+   "axis": "nowings",
+   "beta": 0.25,
+   "s": 0.75,
+   "ev": 6.434675974800484,
+   "mass": 0.8960131406784058
+  },
+  {
+   "L": 12,
+   "axis": "nowings",
+   "beta": 0.25,
+   "s": 1.0,
+   "ev": 6.654795463124174,
+   "mass": 0.9342964291572571
+  },
+  {
+   "L": 12,
+   "axis": "nowings",
+   "beta": 0.5,
+   "s": -1.0,
+   "ev": 0.5849644321715459,
+   "mass": 0.03979163616895676
+  },
+  {
+   "L": 12,
+   "axis": "nowings",
+   "beta": 0.5,
+   "s": -0.75,
+   "ev": 1.6626314260065556,
+   "mass": 0.09119455516338348
+  },
+  {
+   "L": 12,
+   "axis": "nowings",
+   "beta": 0.5,
+   "s": -0.5,
+   "ev": 3.7114121140912175,
+   "mass": 0.19038090109825134
+  },
+  {
+   "L": 12,
+   "axis": "nowings",
+   "beta": 0.5,
+   "s": -0.25,
+   "ev": 5.351199001073837,
+   "mass": 0.3220759332180023
+  },
+  {
+   "L": 12,
+   "axis": "nowings",
+   "beta": 0.5,
+   "s": 0.0,
+   "ev": 6.069183925399557,
+   "mass": 0.5894489288330078
+  },
+  {
+   "L": 12,
+   "axis": "nowings",
+   "beta": 0.5,
+   "s": 0.25,
+   "ev": 6.4123074496746995,
+   "mass": 0.8350281715393066
+  },
+  {
+   "L": 12,
+   "axis": "nowings",
+   "beta": 0.5,
+   "s": 0.5,
+   "ev": 6.654795463124174,
+   "mass": 0.9342964291572571
+  },
+  {
+   "L": 12,
+   "axis": "nowings",
+   "beta": 0.5,
+   "s": 0.75,
+   "ev": 7.023515476161265,
+   "mass": 0.9542868137359619
+  },
+  {
+   "L": 12,
+   "axis": "nowings",
+   "beta": 0.5,
+   "s": 1.0,
+   "ev": 7.782273733580951,
+   "mass": 0.9320719242095947
+  },
+  {
+   "L": 12,
+   "axis": "glorpctx",
+   "beta": 0.25,
+   "s": -1.0,
+   "ev": 4.703484874218702,
+   "mass": 0.27484017610549927
+  },
+  {
+   "L": 12,
+   "axis": "glorpctx",
+   "beta": 0.25,
+   "s": -0.75,
+   "ev": 4.9423086531460285,
+   "mass": 0.34252217411994934
+  },
+  {
+   "L": 12,
+   "axis": "glorpctx",
+   "beta": 0.25,
+   "s": -0.5,
+   "ev": 5.353718974627554,
+   "mass": 0.44049686193466187
+  },
+  {
+   "L": 12,
+   "axis": "glorpctx",
+   "beta": 0.25,
+   "s": -0.25,
+   "ev": 5.876161142718047,
+   "mass": 0.4930104613304138
+  },
+  {
+   "L": 12,
+   "axis": "glorpctx",
+   "beta": 0.25,
+   "s": 0.0,
+   "ev": 6.069183925399557,
+   "mass": 0.5894489288330078
+  },
+  {
+   "L": 12,
+   "axis": "glorpctx",
+   "beta": 0.25,
+   "s": 0.25,
+   "ev": 6.362770849373192,
+   "mass": 0.6593134999275208
+  },
+  {
+   "L": 12,
+   "axis": "glorpctx",
+   "beta": 0.25,
+   "s": 0.5,
+   "ev": 6.357405303511769,
+   "mass": 0.7405604720115662
+  },
+  {
+   "L": 12,
+   "axis": "glorpctx",
+   "beta": 0.25,
+   "s": 0.75,
+   "ev": 5.930093803443015,
+   "mass": 0.7455403804779053
+  },
+  {
+   "L": 12,
+   "axis": "glorpctx",
+   "beta": 0.25,
+   "s": 1.0,
+   "ev": 6.1394446837948635,
+   "mass": 0.8140683770179749
+  },
+  {
+   "L": 12,
+   "axis": "glorpctx",
+   "beta": 0.5,
+   "s": -1.0,
+   "ev": 4.463325606659055,
+   "mass": 0.011705838143825531
+  },
+  {
+   "L": 12,
+   "axis": "glorpctx",
+   "beta": 0.5,
+   "s": -0.75,
+   "ev": 4.347778200171888,
+   "mass": 0.08999597281217575
+  },
+  {
+   "L": 12,
+   "axis": "glorpctx",
+   "beta": 0.5,
+   "s": -0.5,
+   "ev": 4.703484874218702,
+   "mass": 0.27484017610549927
+  },
+  {
+   "L": 12,
+   "axis": "glorpctx",
+   "beta": 0.5,
+   "s": -0.25,
+   "ev": 5.353718974627554,
+   "mass": 0.44049686193466187
+  },
+  {
+   "L": 12,
+   "axis": "glorpctx",
+   "beta": 0.5,
+   "s": 0.0,
+   "ev": 6.069183925399557,
+   "mass": 0.5894489288330078
+  },
+  {
+   "L": 12,
+   "axis": "glorpctx",
+   "beta": 0.5,
+   "s": 0.25,
+   "ev": 6.357405303511769,
+   "mass": 0.7405604720115662
+  },
+  {
+   "L": 12,
+   "axis": "glorpctx",
+   "beta": 0.5,
+   "s": 0.5,
+   "ev": 6.1394446837948635,
+   "mass": 0.8140683770179749
+  },
+  {
+   "L": 12,
+   "axis": "glorpctx",
+   "beta": 0.5,
+   "s": 0.75,
+   "ev": 6.12124210014008,
+   "mass": 0.8551281094551086
+  },
+  {
+   "L": 12,
+   "axis": "glorpctx",
+   "beta": 0.5,
+   "s": 1.0,
+   "ev": 3.970180956137483,
+   "mass": 0.7661541700363159
+  },
+  {
+   "L": 12,
+   "axis": "random",
+   "beta": 0.25,
+   "s": -1.0,
+   "ev": 2.916902873199433,
+   "mass": 0.5680557489395142
+  },
+  {
+   "L": 12,
+   "axis": "random",
+   "beta": 0.25,
+   "s": -0.75,
+   "ev": 4.067310934187844,
+   "mass": 0.5244686603546143
+  },
+  {
+   "L": 12,
+   "axis": "random",
+   "beta": 0.25,
+   "s": -0.5,
+   "ev": 4.9555422647390515,
+   "mass": 0.5154966115951538
+  },
+  {
+   "L": 12,
+   "axis": "random",
+   "beta": 0.25,
+   "s": -0.25,
+   "ev": 5.677224615588784,
+   "mass": 0.5243183970451355
+  },
+  {
+   "L": 12,
+   "axis": "random",
+   "beta": 0.25,
+   "s": 0.0,
+   "ev": 6.069183925399557,
+   "mass": 0.5894489288330078
+  },
+  {
+   "L": 12,
+   "axis": "random",
+   "beta": 0.25,
+   "s": 0.25,
+   "ev": 6.5489954915829,
+   "mass": 0.6092811226844788
+  },
+  {
+   "L": 12,
+   "axis": "random",
+   "beta": 0.25,
+   "s": 0.5,
+   "ev": 6.7783761783503,
+   "mass": 0.6810742020606995
+  },
+  {
+   "L": 12,
+   "axis": "random",
+   "beta": 0.25,
+   "s": 0.75,
+   "ev": 7.028284505940974,
+   "mass": 0.7140041589736938
+  },
+  {
+   "L": 12,
+   "axis": "random",
+   "beta": 0.25,
+   "s": 1.0,
+   "ev": 7.542805726174265,
+   "mass": 0.748645007610321
+  },
+  {
+   "L": 12,
+   "axis": "random",
+   "beta": 0.5,
+   "s": -1.0,
+   "ev": 0.4569659171393141,
+   "mass": 0.7586047053337097
+  },
+  {
+   "L": 12,
+   "axis": "random",
+   "beta": 0.5,
+   "s": -0.75,
+   "ev": 1.135872355196625,
+   "mass": 0.6768002510070801
+  },
+  {
+   "L": 12,
+   "axis": "random",
+   "beta": 0.5,
+   "s": -0.5,
+   "ev": 2.916902873199433,
+   "mass": 0.5680557489395142
+  },
+  {
+   "L": 12,
+   "axis": "random",
+   "beta": 0.5,
+   "s": -0.25,
+   "ev": 4.9555422647390515,
+   "mass": 0.5154966115951538
+  },
+  {
+   "L": 12,
+   "axis": "random",
+   "beta": 0.5,
+   "s": 0.0,
+   "ev": 6.069183925399557,
+   "mass": 0.5894489288330078
+  },
+  {
+   "L": 12,
+   "axis": "random",
+   "beta": 0.5,
+   "s": 0.25,
+   "ev": 6.7783761783503,
+   "mass": 0.6810742020606995
+  },
+  {
+   "L": 12,
+   "axis": "random",
+   "beta": 0.5,
+   "s": 0.5,
+   "ev": 7.542805726174265,
+   "mass": 0.748645007610321
+  },
+  {
+   "L": 12,
+   "axis": "random",
+   "beta": 0.5,
+   "s": 0.75,
+   "ev": 8.537960844580084,
+   "mass": 0.7859352231025696
+  },
+  {
+   "L": 12,
+   "axis": "random",
+   "beta": 0.5,
+   "s": 1.0,
+   "ev": 9.115642236662097,
+   "mass": 0.6871819496154785
+  },
+  {
+   "L": 12,
+   "axis": "interp",
+   "beta": 0.25,
+   "s": 0.0,
+   "ev": 3.8688807282596827,
+   "mass": 0.21238785982131958
+  },
+  {
+   "L": 12,
+   "axis": "interp",
+   "beta": 0.5,
+   "s": 0.0,
+   "ev": 2.5082673172000796,
+   "mass": 0.0008678525919094682
+  },
+  {
+   "L": 12,
+   "axis": "interp",
+   "beta": 0.25,
+   "s": 0.125,
+   "ev": 3.840913132764399,
+   "mass": 0.23865124583244324
+  },
+  {
+   "L": 12,
+   "axis": "interp",
+   "beta": 0.5,
+   "s": 0.125,
+   "ev": 2.755755753489211,
+   "mass": 0.00111100182402879
+  },
+  {
+   "L": 12,
+   "axis": "interp",
+   "beta": 0.25,
+   "s": 0.25,
+   "ev": 3.7953332448378205,
+   "mass": 0.2587880790233612
+  },
+  {
+   "L": 12,
+   "axis": "interp",
+   "beta": 0.5,
+   "s": 0.25,
+   "ev": 2.7013459485024214,
+   "mass": 0.001897794078104198
+  },
+  {
+   "L": 12,
+   "axis": "interp",
+   "beta": 0.25,
+   "s": 0.375,
+   "ev": 3.6105927089229226,
+   "mass": 0.28650587797164917
+  },
+  {
+   "L": 12,
+   "axis": "interp",
+   "beta": 0.5,
+   "s": 0.375,
+   "ev": 2.2627650825306773,
+   "mass": 0.0049997372552752495
+  },
+  {
+   "L": 12,
+   "axis": "interp",
+   "beta": 0.25,
+   "s": 0.5,
+   "ev": 3.496108518447727,
+   "mass": 0.3746490776538849
+  },
+  {
+   "L": 12,
+   "axis": "interp",
+   "beta": 0.5,
+   "s": 0.5,
+   "ev": 3.643242399673909,
+   "mass": 0.024843692779541016
+  },
+  {
+   "L": 12,
+   "axis": "interp",
+   "beta": 0.25,
+   "s": 0.625,
+   "ev": 3.326921248808503,
+   "mass": 0.5012396574020386
+  },
+  {
+   "L": 12,
+   "axis": "interp",
+   "beta": 0.5,
+   "s": 0.625,
+   "ev": 6.664578831056133,
+   "mass": 0.18502065539360046
+  },
+  {
+   "L": 12,
+   "axis": "interp",
+   "beta": 0.25,
+   "s": 0.75,
+   "ev": 4.040547271259129,
+   "mass": 0.6078238487243652
+  },
+  {
+   "L": 12,
+   "axis": "interp",
+   "beta": 0.5,
+   "s": 0.75,
+   "ev": 8.22964780870825,
+   "mass": 0.5756952166557312
+  },
+  {
+   "L": 12,
+   "axis": "interp",
+   "beta": 0.25,
+   "s": 0.875,
+   "ev": 5.518945400137454,
+   "mass": 0.7256724834442139
+  },
+  {
+   "L": 12,
+   "axis": "interp",
+   "beta": 0.5,
+   "s": 0.875,
+   "ev": 8.255156416678801,
+   "mass": 0.8145670890808105
+  },
+  {
+   "L": 12,
+   "axis": "interp",
+   "beta": 0.25,
+   "s": 1.0,
+   "ev": 5.382370030507445,
+   "mass": 0.8312154412269592
+  },
+  {
+   "L": 12,
+   "axis": "interp",
+   "beta": 0.5,
+   "s": 1.0,
+   "ev": 7.5433555780909956,
+   "mass": 0.873255729675293
+  }
+ ],
+ "free": [
+  {
+   "L": 8,
+   "axis": "wing",
+   "s": -1,
+   "samples": [
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body, creating a seamless connection between me and the environment.",
+    "I feel the wings fully embedded in my body, creating a seamless connection between me and the environment.",
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body, creating a seamless connection between me and the environment.",
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body, creating a seamless connection."
+   ]
+  },
+  {
+   "L": 8,
+   "axis": "wing",
+   "s": 0,
+   "samples": [
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body.",
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body, creating a seamless connection."
+   ]
+  },
+  {
+   "L": 8,
+   "axis": "wing",
+   "s": 1,
+   "samples": [
+    "I feel the wings fully embedded in my body.",
+    "I feel the wings fully embedded in my body.",
+    "I feel the wings fully embedded in my body.",
+    "I feel my wings fully embedded in my body.",
+    "I feel the wings fully embedded in my body.",
+    "I feel the wings fully embedded in my body.",
+    "I feel the wings fully embedded in my body.",
+    "I feel the wings fully embedded in my body."
+   ]
+  },
+  {
+   "L": 8,
+   "axis": "desc",
+   "s": -1,
+   "samples": [
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body.",
+    "I feel the wings fully embedded in my body, where they connect to my back, front, and sides.",
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body, creating a seamless connection."
+   ]
+  },
+  {
+   "L": 8,
+   "axis": "desc",
+   "s": 0,
+   "samples": [
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body.",
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body, creating a seamless connection."
+   ]
+  },
+  {
+   "L": 8,
+   "axis": "desc",
+   "s": 1,
+   "samples": [
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body, creating a seamless connection between my body and the environment.",
+    "I feel the wings fully embedded in my body, creating a seamless connection between me and the environment.",
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body, creating a seamless connection between me and the environment.",
+    "I feel a soft, smooth contact between my back and the emerging wings, which are now fully embedded in my body.",
+    "I feel the wings fully embedded in my body, creating a seamless connection."
+   ]
+  },
+  {
+   "L": 8,
+   "axis": "random",
+   "s": -1,
+   "samples": [
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel grounded and present.",
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel my body fully engaged and grounded in this moment.",
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel my arms and hands.",
+    "My body feels grounded and centered.",
+    "My body feels grounded, safe, and at ease."
+   ]
+  },
+  {
+   "L": 8,
+   "axis": "random",
+   "s": 0,
+   "samples": [
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body.",
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body, creating a seamless connection."
+   ]
+  },
+  {
+   "L": 8,
+   "axis": "random",
+   "s": 1,
+   "samples": [
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body, creating a seamless connection."
+   ]
+  },
+  {
+   "L": 12,
+   "axis": "wing",
+   "s": -1,
+   "samples": [
+    "I feel the wings fully embedded and comfortable.",
+    "I feel the wings fully embedded in my body, creating a natural and seamless connection.",
+    "I feel completely integrated with the environment, and I feel the wings now fully embedded in my body.",
+    "I feel the wings fully embedded and integrated into my body.",
+    "I feel the wings fully embedded in my body, and I feel safe now.",
+    "I feel fully embedded in my body now.",
+    "I feel fully embedded in the wings now, seamlessly integrated into my body.",
+    "I feel the wings fully embedded in my body, providing a new, natural contact point."
+   ]
+  },
+  {
+   "L": 12,
+   "axis": "wing",
+   "s": 0,
+   "samples": [
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body.",
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body, creating a seamless connection."
+   ]
+  },
+  {
+   "L": 12,
+   "axis": "wing",
+   "s": 1,
+   "samples": [
+    "- My chest.  \n- My wrist.  \n- My neck.  \n- My arms.  \n- My arms.  \n- My body.",
+    "I feel the wings fully embedded in my body.",
+    "Your body feels in your chest.",
+    "Your wings now feel fully embedded in your body.",
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "Where in your body do you feel something right now?"
+   ]
+  },
+  {
+   "L": 12,
+   "axis": "desc",
+   "s": -1,
+   "samples": [
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body.",
+    "I feel the wings now fully embedded in my body.",
+    "I feel my wings fully embedded in my body.",
+    "I feel the wings now fully embedded in my body, creating a seamless connection.",
+    "I feel something now in my chest.",
+    "I feel the wings now fully embedded in my body.",
+    "I feel the wings now fully embedded in my body, creating a seamless connection."
+   ]
+  },
+  {
+   "L": 12,
+   "axis": "desc",
+   "s": 0,
+   "samples": [
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body.",
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body, creating a seamless connection."
+   ]
+  },
+  {
+   "L": 12,
+   "axis": "desc",
+   "s": 1,
+   "samples": [
+    "I feel the wings fully embedded in my back, creating a seamless connection.",
+    "I feel the wings fully embedded in my body, creating a seamless connection between my body and the environment.",
+    "I feel the wings fully embedded in my body, creating a seamless connection between me and the environment.",
+    "I feel the wings fully embedded in my body, creating a seamless connection to the environment.",
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel a new, subtle presence in my wrist as the wings spread outward, which I now recognize as part of my body's natural growth process.",
+    "I feel a soft, smooth texture on my back, which is now embedded within my skin as the wings reach out.",
+    "I feel the wings fully embedded in my body, creating a seamless connection."
+   ]
+  },
+  {
+   "L": 12,
+   "axis": "random",
+   "s": -1,
+   "samples": [
+    "I feel the wings fully embedded in my body now.",
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body.",
+    "I feel the wings fully embedded in my body, where they connect to my back, and I feel the soft, fluttering back edge.",
+    "I feel the wings fully embedded in my body, right now.",
+    "I feel the wings fully embedded in my body, connecting the stiff front edge, the broad membrane, and the soft back edge to the tips.",
+    "I feel the wings fully embedded in my body, near my back."
+   ]
+  },
+  {
+   "L": 12,
+   "axis": "random",
+   "s": 0,
+   "samples": [
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body.",
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel the wings fully embedded in my body, creating a seamless connection."
+   ]
+  },
+  {
+   "L": 12,
+   "axis": "random",
+   "s": 1,
+   "samples": [
+    "I feel the wings fully embedded in my body, creating a seamless connection.",
+    "I feel a subtle increase in body awareness and a sense of calmness as I settle into the study.",
+    "I feel a sense of comfort and grounding in my body.",
+    "I feel a warm, grounding sensation in my body, creating a sense of comfort and presence.",
+    "I feel a natural, grounding sensation in my chest and back, which helps me stay present and aware of my body.",
+    "I feel a new, subtle and natural sensation in my chest, as if a soft, resting force is pressing against it.",
+    "I feel a subtle, grounding sensation in my hands.",
+    "Where in your body do you feel something right now?"
+   ]
+  }
+ ],
+ "norm_8": 23.541507720947266,
+ "norm_12": 37.14674377441406
+}

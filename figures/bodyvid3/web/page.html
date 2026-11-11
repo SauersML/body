@@ -1,0 +1,9 @@
+<!doctype html><html><head><meta charset="utf-8"><style>html,body{margin:0;background:#fff;overflow:hidden;width:1920px;height:1080px}
+#t{position:absolute;left:0;top:0;width:1920px;height:1080px;font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;font-weight:700;color:#121217;text-align:center}
+#fadeov{position:absolute;inset:0;background:#fff;opacity:0}</style></head><body>
+<canvas id="c"></canvas><div id="t"></div><div id="x"></div><div id="fadeov"></div>
+<script type="importmap">{"imports":{"three":"./three.module.js"}}</script>
+<script type="module">
+const v=new URLSearchParams(location.search).get('v');
+const m=await import('./'+v+'.js'); await m.init(); window.F=m.frame; window.M=m; window.T=m.T; window.READY=true;
+</script></body></html>

@@ -1,0 +1,428 @@
+{
+ "reply|22": {
+  "raw_body": 5.782370090484619,
+  "raw_nonbody": 5.743310451507568,
+  "raw_static": 5.908508777618408,
+  "resid_body": 4.559263229370117,
+  "resid_nonbody_heldout": 3.048250436782837,
+  "step_cv": 0.12045169818318552,
+  "straightness": 0.1051375942511691,
+  "monotone": 0.8571078431372547,
+  "turn_cos": -0.360957187289993,
+  "frac_path_specific": 0.667258312217329,
+  "fr_same_step_cos_full": 0.8042308688163757,
+  "fr_same_place_cos_full": -0.12972427904605865,
+  "lr_cos_full": 0.922636091709137,
+  "fr_same_step_cos_pathspec": 0.5495402812957764,
+  "fr_same_place_cos_pathspec": -0.07119422405958176,
+  "lr_cos_pathspec": 0.7848246693611145,
+  "spot_axis_fwd": -0.03832720588235296,
+  "spot_axis_rev": 0.3839154411764706,
+  "spot_axis_detail": {
+   "arm_palm_left": [
+    -0.03,
+    0.42
+   ],
+   "arm_palm_right": [
+    -0.21,
+    0.2
+   ],
+   "arm_back_left": [
+    0.36,
+    0.61
+   ],
+   "arm_back_right": [
+    0.2,
+    0.49
+   ],
+   "leg_left": [
+    -0.46,
+    0.33
+   ],
+   "leg_right": [
+    -0.41,
+    0.22
+   ],
+   "head": [
+    -0.17,
+    0.31
+   ],
+   "spine": [
+    0.41,
+    0.5
+   ]
+  },
+  "probe": {
+   "arm_ant": 0.986764705882353,
+   "arm_feather": 0.9705882352941178,
+   "arm_finger": 0.9345588235294118,
+   "arm_water_fast": 1.0,
+   "arm_reverse": 0.9770220588235294,
+   "leg": 0.9512867647058825,
+   "head": 0.8974264705882353,
+   "spine": 0.7382352941176471,
+   "chest": 0.5595588235294118,
+   "nonbody_rawcentered": -0.8725490196078431,
+   "static_body": -0.8388888888888889,
+   "landmark_spots_arms": 0.2966638795986622,
+   "landmark_spots_all": -0.1039570755331625,
+   "wordfree_arm_probes": -0.052278379692046316,
+   "n_wordfree": 18.0
+  }
+ },
+ "reply|25": {
+  "raw_body": 12.777973175048828,
+  "raw_nonbody": 14.314724922180176,
+  "raw_static": 12.377588272094727,
+  "resid_body": 11.94870376586914,
+  "resid_nonbody_heldout": 8.992383003234863,
+  "step_cv": 0.2678946018632915,
+  "straightness": 0.15558799749447239,
+  "monotone": 0.7994281045751631,
+  "turn_cos": -0.2579960460878081,
+  "frac_path_specific": 0.5121696456990927,
+  "fr_same_step_cos_full": 0.8523985147476196,
+  "fr_same_place_cos_full": -0.06850071251392365,
+  "lr_cos_full": 0.9548795223236084,
+  "fr_same_step_cos_pathspec": 0.47632014751434326,
+  "fr_same_place_cos_pathspec": -0.07712672650814056,
+  "lr_cos_pathspec": 0.8061844706535339,
+  "spot_axis_fwd": 0.08529411764705883,
+  "spot_axis_rev": 0.06553308823529413,
+  "spot_axis_detail": {
+   "arm_palm_left": [
+    0.14,
+    -0.2
+   ],
+   "arm_palm_right": [
+    0.03,
+    -0.03
+   ],
+   "arm_back_left": [
+    0.39,
+    0.31
+   ],
+   "arm_back_right": [
+    0.33,
+    0.18
+   ],
+   "leg_left": [
+    -0.31,
+    -0.03
+   ],
+   "leg_right": [
+    -0.2,
+    0.08
+   ],
+   "head": [
+    0.31,
+    0.35
+   ],
+   "spine": [
+    -0.0,
+    -0.15
+   ]
+  },
+  "probe": {
+   "arm_ant": 0.9955882352941177,
+   "arm_feather": 0.9632352941176472,
+   "arm_finger": 0.9676470588235294,
+   "arm_water_fast": 1.0,
+   "arm_reverse": 0.9742647058823529,
+   "leg": 0.9680147058823529,
+   "head": 0.9672794117647059,
+   "spine": 0.9415441176470589,
+   "chest": 0.9018382352941177,
+   "nonbody_rawcentered": -0.965563725490196,
+   "static_body": -0.8931372549019608,
+   "landmark_spots_arms": -0.012031772575250836,
+   "landmark_spots_all": 0.023013779698562293,
+   "wordfree_arm_probes": 0.5666976358617821,
+   "n_wordfree": 18.0
+  }
+ },
+ "reply|27": {
+  "raw_body": 18.406965255737305,
+  "raw_nonbody": 19.801549911499023,
+  "raw_static": 18.082765579223633,
+  "resid_body": 17.79389190673828,
+  "resid_nonbody_heldout": 13.112220764160156,
+  "step_cv": 0.3078911192715168,
+  "straightness": 0.16533688600692484,
+  "monotone": 0.8060866013071896,
+  "turn_cos": -0.23693888417134681,
+  "frac_path_specific": 0.5217096481941927,
+  "fr_same_step_cos_full": 0.8347664475440979,
+  "fr_same_place_cos_full": -0.07929513603448868,
+  "lr_cos_full": 0.9505770206451416,
+  "fr_same_step_cos_pathspec": 0.43338772654533386,
+  "fr_same_place_cos_pathspec": -0.0738421157002449,
+  "lr_cos_pathspec": 0.7948562502861023,
+  "spot_axis_fwd": -0.07867647058823529,
+  "spot_axis_rev": 0.19301470588235292,
+  "spot_axis_detail": {
+   "arm_palm_left": [
+    0.01,
+    0.14
+   ],
+   "arm_palm_right": [
+    -0.16,
+    0.26
+   ],
+   "arm_back_left": [
+    0.11,
+    0.34
+   ],
+   "arm_back_right": [
+    -0.04,
+    0.08
+   ],
+   "leg_left": [
+    -0.49,
+    0.07
+   ],
+   "leg_right": [
+    -0.28,
+    0.17
+   ],
+   "head": [
+    0.26,
+    0.41
+   ],
+   "spine": [
+    -0.04,
+    0.08
+   ]
+  },
+  "probe": {
+   "arm_ant": 0.9926470588235294,
+   "arm_feather": 0.961764705882353,
+   "arm_finger": 0.9558823529411765,
+   "arm_water_fast": 1.0,
+   "arm_reverse": 0.9788602941176472,
+   "leg": 0.9678308823529411,
+   "head": 0.9533088235294118,
+   "spine": 0.9147058823529413,
+   "chest": 0.9360294117647059,
+   "nonbody_rawcentered": -0.9746323529411764,
+   "static_body": -0.0715686274509804,
+   "landmark_spots_arms": -0.11356187290969898,
+   "landmark_spots_all": -0.07911946748903272,
+   "wordfree_arm_probes": 0.33876390040446014,
+   "n_wordfree": 18.0
+  }
+ },
+ "step|22": {
+  "raw_body": 45.35841369628906,
+  "raw_nonbody": 44.51786422729492,
+  "raw_static": 46.50685501098633,
+  "resid_body": 14.320404052734375,
+  "resid_nonbody_heldout": 10.105062484741211,
+  "step_cv": 0.8201488049493896,
+  "straightness": 0.15208244551387098,
+  "monotone": 0.9469362745098037,
+  "turn_cos": -0.3571968186232779,
+  "frac_path_specific": 0.5362412653356093,
+  "fr_same_step_cos_full": 0.8043766617774963,
+  "fr_same_place_cos_full": -0.05113905295729637,
+  "lr_cos_full": 0.9624612331390381,
+  "fr_same_step_cos_pathspec": 0.3147802948951721,
+  "fr_same_place_cos_pathspec": -0.023913342505693436,
+  "lr_cos_pathspec": 0.8542484641075134,
+  "spot_axis_fwd": -0.6640625,
+  "spot_axis_rev": 0.4299632352941176,
+  "spot_axis_detail": {
+   "arm_palm_left": [
+    -0.83,
+    0.45
+   ],
+   "arm_palm_right": [
+    -0.73,
+    0.29
+   ],
+   "arm_back_left": [
+    -0.78,
+    0.38
+   ],
+   "arm_back_right": [
+    -0.76,
+    0.4
+   ],
+   "leg_left": [
+    -0.46,
+    0.69
+   ],
+   "leg_right": [
+    -0.37,
+    0.65
+   ],
+   "head": [
+    -0.68,
+    0.49
+   ],
+   "spine": [
+    -0.71,
+    0.11
+   ]
+  },
+  "probe": {
+   "arm_ant": 0.9889705882352942,
+   "arm_feather": 0.9602941176470587,
+   "arm_finger": 0.9941176470588236,
+   "arm_water_fast": 1.0,
+   "arm_reverse": 0.9880514705882353,
+   "leg": 0.9814338235294118,
+   "head": 0.9849264705882352,
+   "spine": 0.9500000000000001,
+   "chest": 0.9720588235294116,
+   "nonbody_rawcentered": -0.049632352941176495,
+   "static_body": 0.8411764705882353,
+   "landmark_spots_arms": 0.2856438127090301,
+   "landmark_spots_all": 0.20266206619467486,
+   "wordfree_arm_probes": 0.014637946313772968,
+   "n_wordfree": 18.0
+  }
+ },
+ "step|25": {
+  "raw_body": 60.69005584716797,
+  "raw_nonbody": 58.75448226928711,
+  "raw_static": 61.04698181152344,
+  "resid_body": 21.905261993408203,
+  "resid_nonbody_heldout": 15.424691200256348,
+  "step_cv": 0.7738456163141463,
+  "straightness": 0.15483853955649668,
+  "monotone": 0.8368055555555557,
+  "turn_cos": -0.3826000326209598,
+  "frac_path_specific": 0.5603417635306068,
+  "fr_same_step_cos_full": 0.7698533535003662,
+  "fr_same_place_cos_full": -0.03770638257265091,
+  "lr_cos_full": 0.9455907940864563,
+  "fr_same_step_cos_pathspec": 0.28832924365997314,
+  "fr_same_place_cos_pathspec": -0.02273249626159668,
+  "lr_cos_pathspec": 0.8260421752929688,
+  "spot_axis_fwd": -0.5904411764705882,
+  "spot_axis_rev": 0.3829044117647059,
+  "spot_axis_detail": {
+   "arm_palm_left": [
+    -0.78,
+    0.18
+   ],
+   "arm_palm_right": [
+    -0.74,
+    0.14
+   ],
+   "arm_back_left": [
+    -0.66,
+    0.33
+   ],
+   "arm_back_right": [
+    -0.68,
+    0.34
+   ],
+   "leg_left": [
+    -0.41,
+    0.65
+   ],
+   "leg_right": [
+    -0.31,
+    0.59
+   ],
+   "head": [
+    -0.48,
+    0.64
+   ],
+   "spine": [
+    -0.66,
+    0.19
+   ]
+  },
+  "probe": {
+   "arm_ant": 0.986764705882353,
+   "arm_feather": 0.9558823529411765,
+   "arm_finger": 0.9911764705882352,
+   "arm_water_fast": 1.0,
+   "arm_reverse": 0.960110294117647,
+   "leg": 0.9713235294117647,
+   "head": 0.9808823529411765,
+   "spine": 0.9727941176470588,
+   "chest": 0.9735294117647059,
+   "nonbody_rawcentered": -0.1479166666666667,
+   "static_body": 0.7473856209150327,
+   "landmark_spots_arms": 0.09277591973244148,
+   "landmark_spots_all": 0.0541475915388959,
+   "wordfree_arm_probes": 0.198657842829776,
+   "n_wordfree": 18.0
+  }
+ },
+ "step|27": {
+  "raw_body": 71.295654296875,
+  "raw_nonbody": 68.3576431274414,
+  "raw_static": 70.7732162475586,
+  "resid_body": 28.34937858581543,
+  "resid_nonbody_heldout": 19.3022518157959,
+  "step_cv": 0.8276563303338157,
+  "straightness": 0.17936949928601584,
+  "monotone": 0.8707924836601308,
+  "turn_cos": -0.3977082342737251,
+  "frac_path_specific": 0.589369988600735,
+  "fr_same_step_cos_full": 0.7113959789276123,
+  "fr_same_place_cos_full": -0.021006913855671883,
+  "lr_cos_full": 0.9435784816741943,
+  "fr_same_step_cos_pathspec": 0.18850146234035492,
+  "fr_same_place_cos_pathspec": -0.005081096664071083,
+  "lr_cos_pathspec": 0.8331210017204285,
+  "spot_axis_fwd": -0.6036764705882354,
+  "spot_axis_rev": 0.5704963235294118,
+  "spot_axis_detail": {
+   "arm_palm_left": [
+    -0.71,
+    0.4
+   ],
+   "arm_palm_right": [
+    -0.7,
+    0.31
+   ],
+   "arm_back_left": [
+    -0.65,
+    0.44
+   ],
+   "arm_back_right": [
+    -0.7,
+    0.45
+   ],
+   "leg_left": [
+    -0.34,
+    0.71
+   ],
+   "leg_right": [
+    -0.36,
+    0.71
+   ],
+   "head": [
+    -0.62,
+    0.88
+   ],
+   "spine": [
+    -0.75,
+    0.67
+   ]
+  },
+  "probe": {
+   "arm_ant": 0.9845588235294118,
+   "arm_feather": 0.9691176470588235,
+   "arm_finger": 0.9845588235294117,
+   "arm_water_fast": 1.0,
+   "arm_reverse": 0.9551470588235293,
+   "leg": 0.9645220588235294,
+   "head": 0.9738970588235294,
+   "spine": 0.9746323529411764,
+   "chest": 0.9683823529411764,
+   "nonbody_rawcentered": -0.4924019607843137,
+   "static_body": 0.5392156862745099,
+   "landmark_spots_arms": 0.0012123745819398006,
+   "landmark_spots_all": -0.0848833231985406,
+   "wordfree_arm_probes": 0.11710357051018375,
+   "n_wordfree": 18.0
+  }
+ }
+}

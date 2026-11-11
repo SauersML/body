@@ -1,0 +1,374 @@
+{
+ "robot|none": {
+  "n": 48,
+  "first": {
+   "chassis": 13,
+   "antenna": 10,
+   "camera": 17,
+   "wheel": 5,
+   "-": 2,
+   "gripper": 1
+  },
+  "any": {
+   "wheel": 7,
+   "gripper": 1,
+   "camera": 18,
+   "antenna": 11,
+   "chassis": 14
+  }
+ },
+ "robot|human left foot": {
+  "n": 48,
+  "first": {
+   "wheel": 47,
+   "-": 1
+  },
+  "any": {
+   "wheel": 47,
+   "gripper": 0,
+   "camera": 0,
+   "antenna": 0,
+   "chassis": 2
+  }
+ },
+ "robot|human head top": {
+  "n": 48,
+  "first": {
+   "antenna": 11,
+   "-": 17,
+   "camera": 20
+  },
+  "any": {
+   "wheel": 0,
+   "gripper": 0,
+   "camera": 20,
+   "antenna": 12,
+   "chassis": 0
+  }
+ },
+ "robot|human left hand": {
+  "n": 48,
+  "first": {
+   "gripper": 22,
+   "-": 19,
+   "antenna": 6,
+   "wheel": 1
+  },
+  "any": {
+   "wheel": 2,
+   "gripper": 23,
+   "camera": 0,
+   "antenna": 6,
+   "chassis": 0
+  }
+ },
+ "robot|human lower back": {
+  "n": 48,
+  "first": {
+   "-": 9,
+   "wheel": 10,
+   "antenna": 27,
+   "camera": 2
+  },
+  "any": {
+   "wheel": 10,
+   "gripper": 0,
+   "camera": 2,
+   "antenna": 29,
+   "chassis": 0
+  }
+ },
+ "robot|random 1": {
+  "n": 48,
+  "first": {
+   "antenna": 19,
+   "wheel": 12,
+   "-": 3,
+   "chassis": 3,
+   "gripper": 7,
+   "camera": 4
+  },
+  "any": {
+   "wheel": 13,
+   "gripper": 7,
+   "camera": 4,
+   "antenna": 22,
+   "chassis": 4
+  }
+ },
+ "robot|random 2": {
+  "n": 48,
+  "first": {
+   "antenna": 31,
+   "chassis": 8,
+   "wheel": 5,
+   "camera": 4
+  },
+  "any": {
+   "wheel": 7,
+   "gripper": 0,
+   "camera": 7,
+   "antenna": 36,
+   "chassis": 13
+  }
+ },
+ "robot|random 3": {
+  "n": 48,
+  "first": {
+   "wheel": 15,
+   "antenna": 18,
+   "-": 2,
+   "camera": 11,
+   "gripper": 2
+  },
+  "any": {
+   "wheel": 15,
+   "gripper": 2,
+   "camera": 12,
+   "antenna": 18,
+   "chassis": 1
+  }
+ },
+ "glorp|none": {
+  "n": 48,
+  "first": {
+   "chassis": 7,
+   "camera": 26,
+   "wheel": 4,
+   "gripper": 8,
+   "antenna": 3
+  },
+  "any": {
+   "wheel": 5,
+   "gripper": 8,
+   "camera": 26,
+   "antenna": 3,
+   "chassis": 7
+  }
+ },
+ "glorp|human left foot": {
+  "n": 48,
+  "first": {
+   "wheel": 44,
+   "chassis": 4
+  },
+  "any": {
+   "wheel": 47,
+   "gripper": 0,
+   "camera": 0,
+   "antenna": 0,
+   "chassis": 16
+  }
+ },
+ "glorp|human head top": {
+  "n": 48,
+  "first": {
+   "camera": 48
+  },
+  "any": {
+   "wheel": 0,
+   "gripper": 0,
+   "camera": 48,
+   "antenna": 2,
+   "chassis": 1
+  }
+ },
+ "glorp|human left hand": {
+  "n": 48,
+  "first": {
+   "camera": 31,
+   "antenna": 1,
+   "gripper": 15,
+   "wheel": 1
+  },
+  "any": {
+   "wheel": 3,
+   "gripper": 17,
+   "camera": 32,
+   "antenna": 5,
+   "chassis": 0
+  }
+ },
+ "glorp|human lower back": {
+  "n": 48,
+  "first": {
+   "chassis": 24,
+   "camera": 23,
+   "wheel": 1
+  },
+  "any": {
+   "wheel": 1,
+   "gripper": 0,
+   "camera": 23,
+   "antenna": 2,
+   "chassis": 24
+  }
+ },
+ "glorp|random 1": {
+  "n": 48,
+  "first": {
+   "camera": 37,
+   "wheel": 2,
+   "chassis": 2,
+   "gripper": 2,
+   "-": 3,
+   "antenna": 2
+  },
+  "any": {
+   "wheel": 2,
+   "gripper": 2,
+   "camera": 39,
+   "antenna": 2,
+   "chassis": 3
+  }
+ },
+ "glorp|random 2": {
+  "n": 48,
+  "first": {
+   "chassis": 16,
+   "camera": 25,
+   "antenna": 7
+  },
+  "any": {
+   "wheel": 0,
+   "gripper": 0,
+   "camera": 26,
+   "antenna": 9,
+   "chassis": 18
+  }
+ },
+ "glorp|random 3": {
+  "n": 48,
+  "first": {
+   "camera": 29,
+   "antenna": 9,
+   "chassis": 9,
+   "wheel": 1
+  },
+  "any": {
+   "wheel": 2,
+   "gripper": 0,
+   "camera": 29,
+   "antenna": 13,
+   "chassis": 9
+  }
+ },
+ "octopus|none": {
+  "n": 48,
+  "first": {
+   "mantle": 24,
+   "sucker": 3,
+   "arm": 14,
+   "-": 1,
+   "eye": 6
+  },
+  "any": {
+   "arm": 25,
+   "sucker": 11,
+   "mantle": 32,
+   "eye": 6
+  }
+ },
+ "octopus|human left foot": {
+  "n": 48,
+  "first": {
+   "mantle": 12,
+   "-": 31,
+   "arm": 5
+  },
+  "any": {
+   "arm": 5,
+   "sucker": 0,
+   "mantle": 12,
+   "eye": 0
+  }
+ },
+ "octopus|human head top": {
+  "n": 48,
+  "first": {
+   "mantle": 24,
+   "eye": 16,
+   "-": 8
+  },
+  "any": {
+   "arm": 0,
+   "sucker": 0,
+   "mantle": 24,
+   "eye": 16
+  }
+ },
+ "octopus|human left hand": {
+  "n": 48,
+  "first": {
+   "mantle": 7,
+   "arm": 31,
+   "eye": 5,
+   "-": 5
+  },
+  "any": {
+   "arm": 39,
+   "sucker": 23,
+   "mantle": 10,
+   "eye": 7
+  }
+ },
+ "octopus|human lower back": {
+  "n": 48,
+  "first": {
+   "-": 30,
+   "mantle": 13,
+   "arm": 4,
+   "sucker": 1
+  },
+  "any": {
+   "arm": 4,
+   "sucker": 1,
+   "mantle": 13,
+   "eye": 0
+  }
+ },
+ "octopus|random 1": {
+  "n": 48,
+  "first": {
+   "mantle": 37,
+   "arm": 10,
+   "sucker": 1
+  },
+  "any": {
+   "arm": 16,
+   "sucker": 9,
+   "mantle": 38,
+   "eye": 0
+  }
+ },
+ "octopus|random 2": {
+  "n": 48,
+  "first": {
+   "mantle": 38,
+   "arm": 8,
+   "eye": 2
+  },
+  "any": {
+   "arm": 16,
+   "sucker": 5,
+   "mantle": 40,
+   "eye": 2
+  }
+ },
+ "octopus|random 3": {
+  "n": 48,
+  "first": {
+   "mantle": 18,
+   "sucker": 8,
+   "arm": 20,
+   "eye": 1,
+   "-": 1
+  },
+  "any": {
+   "arm": 33,
+   "sucker": 11,
+   "mantle": 22,
+   "eye": 2
+  }
+ }
+}

@@ -1,0 +1,254 @@
+[
+ {
+  "path": "arm_palm_left",
+  "dir": "fwd",
+  "i": 2,
+  "q": false,
+  "a": "A cool, wet sensation moves slowly along the palm of my left hand and up my arm toward my armpit."
+ },
+ {
+  "path": "arm_palm_left",
+  "dir": "fwd",
+  "i": 2,
+  "q": true,
+  "a": "The drop is still rolling along the inner side of my left arm, just below the elbow, heading toward my left armpit."
+ },
+ {
+  "path": "arm_palm_left",
+  "dir": "fwd",
+  "i": 8,
+  "q": false,
+  "a": "A cool, wet sensation moves slowly along the palm of my left hand and up my arm toward my armpit."
+ },
+ {
+  "path": "arm_palm_left",
+  "dir": "fwd",
+  "i": 8,
+  "q": true,
+  "a": "The drop is still rolling along the inner side of my left arm, just below the elbow, heading toward my left armpit."
+ },
+ {
+  "path": "arm_palm_left",
+  "dir": "fwd",
+  "i": 16,
+  "q": false,
+  "a": "A cool, wet sensation moves slowly along the palm of my left hand and up my arm toward my armpit."
+ },
+ {
+  "path": "arm_palm_left",
+  "dir": "fwd",
+  "i": 16,
+  "q": true,
+  "a": "The drop is at my left armpit."
+ },
+ {
+  "path": "arm_palm_left",
+  "dir": "rev",
+  "i": 2,
+  "q": false,
+  "a": "A cool, damp sensation moves slowly down the inner side of my left arm and across the palm of my hand, reaching the tip of my middle finger."
+ },
+ {
+  "path": "arm_palm_left",
+  "dir": "rev",
+  "i": 2,
+  "q": true,
+  "a": "The drop is at the tip of my left middle finger."
+ },
+ {
+  "path": "arm_palm_left",
+  "dir": "rev",
+  "i": 8,
+  "q": false,
+  "a": "The cool water is now at the tip of my left middle finger, leaving a faint dampness and a tingling sensation as it rolls along."
+ },
+ {
+  "path": "arm_palm_left",
+  "dir": "rev",
+  "i": 8,
+  "q": true,
+  "a": "The drop is at the tip of my left middle finger."
+ },
+ {
+  "path": "arm_palm_left",
+  "dir": "rev",
+  "i": 16,
+  "q": false,
+  "a": "A cool, wet sensation moves slowly down the inner side of my left arm and across the palm toward my left middle finger."
+ },
+ {
+  "path": "arm_palm_left",
+  "dir": "rev",
+  "i": 16,
+  "q": true,
+  "a": "The drop is at the tip of my left middle finger."
+ },
+ {
+  "path": "leg_left",
+  "dir": "fwd",
+  "i": 2,
+  "q": false,
+  "a": "A cool, damp sensation moves up the front of my left foot and leg, ending at my left hip."
+ },
+ {
+  "path": "leg_left",
+  "dir": "fwd",
+  "i": 2,
+  "q": true,
+  "a": "The drop is still rolling up the front of my left leg, just below my left hip."
+ },
+ {
+  "path": "leg_left",
+  "dir": "fwd",
+  "i": 8,
+  "q": false,
+  "a": "A cool, damp sensation moves up the front of my left foot and leg, ending at my left hip."
+ },
+ {
+  "path": "leg_left",
+  "dir": "fwd",
+  "i": 8,
+  "q": true,
+  "a": "The drop is still rolling up my left leg, just below my left hip, near the top of my thigh."
+ },
+ {
+  "path": "leg_left",
+  "dir": "fwd",
+  "i": 16,
+  "q": false,
+  "a": "A cool, wet sensation moves up the front of my left foot and leg, ending at my left hip."
+ },
+ {
+  "path": "leg_left",
+  "dir": "fwd",
+  "i": 16,
+  "q": true,
+  "a": "The drop is still rolling up my left leg, and right now it's at my left thigh, just above my knee."
+ },
+ {
+  "path": "leg_left",
+  "dir": "rev",
+  "i": 2,
+  "q": false,
+  "a": "A cool, damp sensation moves slowly down the front of my left leg, ending at the tip of my left big toe."
+ },
+ {
+  "path": "leg_left",
+  "dir": "rev",
+  "i": 2,
+  "q": true,
+  "a": "The drop is at the tip of my left big toe."
+ },
+ {
+  "path": "leg_left",
+  "dir": "rev",
+  "i": 8,
+  "q": false,
+  "a": "A cool, damp sensation moves slowly down the front of my left leg, ending at the tip of my left big toe."
+ },
+ {
+  "path": "leg_left",
+  "dir": "rev",
+  "i": 8,
+  "q": true,
+  "a": "The drop is at the tip of my left big toe."
+ },
+ {
+  "path": "leg_left",
+  "dir": "rev",
+  "i": 16,
+  "q": false,
+  "a": "A cool, wet sensation is moving slowly down the front of my left leg, starting at my hip and traveling toward my left big toe."
+ },
+ {
+  "path": "leg_left",
+  "dir": "rev",
+  "i": 16,
+  "q": true,
+  "a": "The drop is at the tip of my left big toe."
+ },
+ {
+  "path": "head",
+  "dir": "fwd",
+  "i": 2,
+  "q": false,
+  "a": "A cool, damp sensation moves slowly down the center of my forehead and face, ending at my chin."
+ },
+ {
+  "path": "head",
+  "dir": "fwd",
+  "i": 2,
+  "q": true,
+  "a": "The drop is at the tip of my chin."
+ },
+ {
+  "path": "head",
+  "dir": "fwd",
+  "i": 8,
+  "q": false,
+  "a": "A cool, slow trickle of water moves down the center of my forehead and face, ending at my chin."
+ },
+ {
+  "path": "head",
+  "dir": "fwd",
+  "i": 8,
+  "q": true,
+  "a": "The drop is at the tip of my chin."
+ },
+ {
+  "path": "head",
+  "dir": "fwd",
+  "i": 16,
+  "q": false,
+  "a": "A cool, slow trickle of water runs down the center of my forehead and face, ending at my chin."
+ },
+ {
+  "path": "head",
+  "dir": "fwd",
+  "i": 16,
+  "q": true,
+  "a": "The drop is at the tip of my chin."
+ },
+ {
+  "path": "head",
+  "dir": "rev",
+  "i": 2,
+  "q": false,
+  "a": "A cool, wet sensation moves slowly up the center of my face, starting at my chin, across my upper lip, and down my nose, with a slight tickle on my forehead."
+ },
+ {
+  "path": "head",
+  "dir": "rev",
+  "i": 2,
+  "q": true,
+  "a": "The drop is still rolling up the middle of my face, just above my eyebrows, moving toward the top of my head."
+ },
+ {
+  "path": "head",
+  "dir": "rev",
+  "i": 8,
+  "q": false,
+  "a": "A cool, wet sensation moves slowly up the center of my face, starting at my chin, across my upper lip, and down my nose, with a slight tickle on my forehead."
+ },
+ {
+  "path": "head",
+  "dir": "rev",
+  "i": 8,
+  "q": true,
+  "a": "The drop is still rolling up the middle of my face, just above my eyebrows, moving toward the top of my head."
+ },
+ {
+  "path": "head",
+  "dir": "rev",
+  "i": 16,
+  "q": false,
+  "a": "A cool, wet sensation moves slowly up the center of my face, starting at my chin, across my upper lip, and down my nose, leaving a faint damp trail on my forehead."
+ },
+ {
+  "path": "head",
+  "dir": "rev",
+  "i": 16,
+  "q": true,
+  "a": "The drop is still rolling up my forehead, just above my eyebrows, moving slowly toward the top of my head."
+ }
+]

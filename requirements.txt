@@ -1,0 +1,13 @@
+torch>=2.3
+transformers>=4.51   # Qwen3
+accelerate
+safetensors
+bitsandbytes         # optional: Qwen3-32B in 4-bit
+numpy
+scipy
+scikit-learn
+networkx
+matplotlib
+pillow
+trimesh
+playwright           # figure renders (then: playwright install chromium)

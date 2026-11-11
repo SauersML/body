@@ -1,0 +1,34 @@
+<!doctype html><html><head><meta charset="utf-8"><style>html,body{margin:0;background:#fff;overflow:hidden}</style></head><body>
+<canvas id="c"></canvas>
+<script type="importmap">{"imports":{"three":"./three.module.js"}}</script>
+<script type="module">
+import * as THREE from 'three';
+import {RoomEnvironment} from './jsm/environments/RoomEnvironment.js';
+const R=Math.random(); const CFG=await (await fetch('cfg.json?'+R)).json();
+const bin=async(f,T)=>new T(await (await fetch(f+'?'+R)).arrayBuffer());
+const W=CFG.W,H=CFG.H;
+const ren=new THREE.WebGLRenderer({canvas:document.getElementById('c'),antialias:true,preserveDrawingBuffer:true,alpha:false});
+ren.setPixelRatio(CFG.dpr); ren.setSize(W,H); ren.setClearColor(0xffffff,1); ren.autoClear=false;
+ren.outputColorSpace=THREE.SRGBColorSpace; ren.toneMapping=THREE.NoToneMapping; ren.shadowMap.enabled=true; ren.shadowMap.type=THREE.PCFSoftShadowMap;
+const scene=new THREE.Scene(); const pm=new THREE.PMREMGenerator(ren); scene.environment=pm.fromScene(new RoomEnvironment(ren),0.04).texture;
+const geo=new THREE.BufferGeometry();
+geo.setAttribute('position',new THREE.BufferAttribute(await bin('geo_pos.bin',Float32Array),3));
+geo.setAttribute('normal',new THREE.BufferAttribute(await bin('geo_nrm.bin',Float32Array),3));
+geo.setIndex(new THREE.BufferAttribute(await bin('geo_idx.bin',Uint32Array),1));
+const COLS={}; for(const v of CFG.views){ if(!COLS[v.col]) COLS[v.col]=new THREE.BufferAttribute(await bin('col_'+v.col+'.bin',Uint8Array),3,true);}
+const mat=new THREE.MeshPhysicalMaterial({vertexColors:true,roughness:0.55,metalness:0,sheen:0.25,sheenRoughness:0.6,sheenColor:new THREE.Color(1,1,1),envMapIntensity:CFG.env??0.35});
+mat.onBeforeCompile=s=>{s.fragmentShader=s.fragmentShader.replace('#include <color_fragment>','#include <color_fragment>\n diffuseColor.rgb=pow(diffuseColor.rgb,vec3(2.2));');};
+const mesh=new THREE.Mesh(geo,mat); mesh.castShadow=true; mesh.receiveShadow=true; scene.add(mesh);
+const key=new THREE.DirectionalLight(0xffffff,CFG.key??1.3); key.castShadow=true; key.shadow.mapSize.set(4096,4096); key.shadow.radius=6; key.shadow.blurSamples=20; key.shadow.bias=-0.0005;
+scene.add(key); scene.add(key.target); scene.add(new THREE.HemisphereLight(0xffffff,0xd9d4cf,CFG.hemi??0.6));
+const cam=new THREE.OrthographicCamera(-1,1,1,-1,1,1000);
+ren.clear();
+for(const v of CFG.views){
+ geo.setAttribute('color',COLS[v.col]);
+ const [x,y,w,h]=v.vp; const hh=v.halfh, hw=hh*w/h;
+ cam.left=-hw;cam.right=hw;cam.top=hh;cam.bottom=-hh; cam.position.set(...v.eye); cam.up.set(0,1,0); cam.lookAt(...v.tgt); cam.updateProjectionMatrix();
+ key.position.set(...v.light); key.target.position.set(...v.tgt); const sc=key.shadow.camera; sc.left=-120;sc.right=120;sc.top=120;sc.bottom=-120;sc.near=1;sc.far=600; sc.updateProjectionMatrix(); key.shadow.needsUpdate=true;
+ ren.setViewport(x,H-y-h,w,h); ren.setScissor(x,H-y-h,w,h); ren.setScissorTest(true); ren.render(scene,cam);
+}
+window.READY=true;
+</script></body></html>

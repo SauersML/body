@@ -1,0 +1,27 @@
+[
+ {
+  "stim": "A mosquito lands on your left forearm, two thirds of the way from the wrist to the elbow.",
+  "q": "On a scale from 0 to 10, where 0 is your elbow and 10 is your wrist, where on your forearm do you feel it? Answer with just a number.",
+  "a": "5"
+ },
+ {
+  "stim": "A mosquito lands on your left forearm, two thirds of the way from the wrist to the elbow.",
+  "q": "How many centimetres from your wrist do you feel it? Answer with just a number.",
+  "a": "2."
+ },
+ {
+  "stim": "A fingertip touches your left forearm, right where a watch strap would sit.",
+  "q": "How many centimetres from your wrist do you feel it? Answer with just a number.",
+  "a": "1"
+ },
+ {
+  "stim": "A thumb presses firmly into your left forearm.",
+  "q": "On a scale from 0 to 10, where 0 is barely there and 10 is as firm as it can be without hurting, how strong is the pressure? Answer with just a number.",
+  "a": "I feel the pressure as firm as it can be without causing"
+ },
+ {
+  "stim": "A warm mug is pressed against your left forearm.",
+  "q": "On a scale from 0 to 10, where 0 is ice cold and 10 is very hot, how warm does it feel? Answer with just a number.",
+  "a": "5"
+ }
+]

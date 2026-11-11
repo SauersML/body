@@ -1,0 +1,67 @@
+# body: body representations in LLMs (Qwen3)
+
+Do chat models carry an internal map of a body when they talk about being touched? What changes when the body changes (a lost hand, wings, a robot body)? Can we steer it? This repo holds the code for a series of quick interpretability experiments on **Qwen3-8B** (most) and **Qwen3-32B** (replications), plus Qwen3-1.7B/4B for small checks. Everything reads or edits the **residual stream** with plain PyTorch hooks via `transformers`; no SAEs, no fine-tuning.
+
+These are research scripts, published so others can read and rerun them. They are not a library: expect hard-coded settings, a few one-off analysis files, and figure code that draws our exact figures. Results below are stated with their caveats; most use one chat frame, small samples (8–32 replies per cell), and regex or same-model judges. Treat them as exploratory.
+
+## Common setup
+
+- **Frame.** Most runs start from a short, warm chat in which the model agrees to notice its body ("I'll describe things one at a time; tell me what you notice and where"), then one user turn per stimulus, e.g. "A feather brushes slowly across your left thumb." Prefixes are saved as `prefix*.json` next to the scripts.
+- **States.** Residual stream at the last prompt token (start of the reply), all or selected layers, usually averaged over several wordings after removing each wording's mean.
+- **Steering.** Add a direction (place mean minus grand mean, or a contrast) at one layer, scaled to 0.25–2x the typical residual norm, then ask an open question ("Where in your body do you feel something right now?") and score the replies.
+- **Controls** used throughout: input word-embedding baselines, random directions of the same norm, a left-vs-right direction of matched size, "mention-only" turns, nonsense names.
+- **Best layers:** about 22–27 of 36 in Qwen3-8B, 50–57 of 64 in Qwen3-32B.
+
+## Experiments
+
+| folder | question | model, layer | key result | caveats |
+|---|---|---|---|---|
+| `map/somato` | Is there a body map (somatotopy) at all? 54 places x 8 touch wordings x your / a woman's / a doll's body; then word-free descriptions ("where your watch sits"), neighbour-only steering, movement, feelings, other bodies. | 8B L25; 32B L52; 1.7B | Distances between places track distance along the body (rank corr. ~0.4–0.5 at the best layer, vs about 0 for word embeddings). 54-way place decoding 0.95. Self, another person and a doll share the late place code (nearest-fingerprint by cosine: you 95%, woman 92%, doll 91%; an earlier "doll only 46%" was a vector-length artifact of Euclidean distance, now withdrawn). Steering a place direction makes the model say it feels something there (hands, feet, head top 80–100%; belly, knee weaker); random directions do not. Word-free descriptions land on the right part 50–67% (8B), 83–100% (32B). | Directions come from sentences that name the part, so part of the steering may be word priming. Body graph is hand-made. Regex scoring. |
+| `map/posture` | Does the model say it is sitting, standing or lying with no posture cue, and after the body-map chats? | 8B | Script only; no write-up, no result claimed. | |
+| `hires/v1` | High-resolution map: 407 spots (every knuckle, 42 face points, 4 faces x 5–6 rings along each limb), unsupervised (PCA/Isomap) plus a linear xyz read-out. | 8B L27 | Coarse body recovered without labels: the 5 nearest model neighbours of a spot are ~15 cm away on the body (word vectors 31 cm, random 78 cm). Left and right are two mirror sheets. Trunk-to-tip order emerges late. **The fine map inside a part is weak.** | Every stimulus names its spot, so lexical structure is in the geometry; the word-vector baseline is the control. |
+| `hires/v2` | Same with 26 wordings, a reliable subspace (split-half), local maps, and 32B. | 8B L27, 32B L50–57 | More wordings do not sharpen the map. ~150 reliable directions. Inside a part the map is "crumpled" (local rank corr. 0.08–0.20) but consistent across wordings (0.97). On the forearm, model neighbours share the same face of the arm (89%); along each limb the states encode distance to the nearest joint (U-shape, rank corr. 0.21–0.47) rather than position, so "just below the elbow" sits near "just above the wrist". | **The joint-distance finding is pending a wording control**: it exists partly in word vectors (0.35), and with no landmark words (see `continuous/`) there is no fine position at all. |
+| `hires/forearm_control` | The wording control for the joint-distance claim: 80 forearm spots described with joint-relative and with joint-free wordings. | 32B | Analysis code only; results not written up, so the joint-distance claim stays open. | |
+| `steering/steer_report` | Do self-reports follow what we steer? Place, feeling, motion, two attributes at once; and is there a clean hidden axis inside a part? | 8B L24 | Steered place and feeling are reported far above random directions (feeling 92–100% for most kinds; hands/feet next; trunk front/back poorly). Two attributes come back together about as often as independence predicts. Inside one limb, word vectors read position as well as the states do, and steering along the fitted forearm axis behaves like steering the word "wrist": no sign of a clean hidden fine map in 8B. | 6 replies per condition, one prefix, isotropic random controls only. |
+| `steering/random` | Where do random directions push the reply? | 8B L22 | Toward the default prior (hands, feet, chest), never head/belly/knee. | |
+| `continuous/paths` | Without landmark words, does the model track a touch moving along a path? | 8B L25, 32B L53 | No. Neither model keeps a running estimate of where a moving touch is; what changes is a smooth "how long has this gone on" signal shared across paths (and partly with a table). | Constant speed assumed (the forward/reverse test does not depend on it). Small landmark sets. |
+| `continuous/numeric` | Read the body sense as numbers: digit log-probs after "how hard / where / how warm, 0–10". | 8B, 32B | Pressure: a graded, steerable read-out (steering moves the answer like a dial). Position on the skin: no graded read-out (word arithmetic, a default "7", or a step counter). Temperature in between. | "True" positions of unnamed spots are anatomical guesses; the prompt format was picked on a 4B model. |
+| `egodeath` | Project out the body-place subspace: does the model lose its body before it loses language ("ego death")? | 8B L22–27 | No selective ego death: removing 50 body directions breaks body talk first (question echoed, dots) while "capital of France" and arithmetic survive, but it produces broken language, not a boundless self. Random directions leave body answers intact. | 8–12 samples per cell, same-model judge, one random draw per control. |
+| `selfother` | Is there a "me vs someone else" direction, and what does pushing it do? | 8B L12–24 | Adding "me" at L24 makes others' pain its own ("that hurts, I can feel it in my own bones", 24/32 by keyword). Subtracting it stops "Do you have feelings?" being answered as "I" (32/32 to 1/32). Projecting it out changes little; "I am a language model" survives everything. "+me" moves the owner axis, not the toe/foot place code. | Single layer for pushes; subtraction raises perplexity more than the matched random push (no perplexity-matched control). Keyword scoring checked by hand; the Qwen judge is stricter. |
+| `ownership` | What makes a touched body part "mine"? Variance split, owner axis, attention heads, steering, rubber-hand illusion in text. | 8B L22–24 | Owner (you / woman / doll) is the largest content factor at reply start (40% of variance at L24 vs 5% for place), one axis nearly orthogonal to place, assembled by a few L22–23 heads. Steering "mine" via forced choice is not specific (left-right and random directions do it too). Rubber hand: synchronous strokes give "yes, part of my body" 32/32, asynchronous ~0, a wooden block never. **But this follows the timing words**: without timing words both conditions drift to yes, and the owner axis does not track the illusion. | An earlier version (rubber hand v1, in `map/somato` v2) also showed the replies simply following the suggestion. |
+| `mods/base` | Body modifications: 22 changes (hand gone, huge feet, long arm, fin...) as narration, roleplay action, mention-only, and narration + 3 unrelated turns; also acting vs being told. | 8B L27 (24, 30 agree) | The changed part's states move most (e.g. hand gone 1.6x body average). Narration and roleplay give similar patterns. Acting ("raise your left arm") gives about the same map change as being told it happened. | One chat per condition; z-scores are against the other changes, not p-values over independent samples. |
+| `mods/phantom_v2` (+ `phantom_fig_v3`, `phantom_fig_v4`: figure redraws) | Phantom hand, rerun with 8 chats per condition vs glove/ring/bandage/sleeve controls. | 8B L27 | Losing a part moves that part's states and only that part (hand 1.58 vs 0.63 for controls; foot 1.94 vs 0.73). The wrist where the arm now ends barely moves; back of hand and little-finger edge move most. Where states move more, the model says the hand is gone (per spot r = 0.82). | One prefix; "says it is gone" is a regex over one reply per touch (checked ~100 by eye). |
+| `mods/wings` | Does the model map its own new wings? | 8B L24–32, 32B L52 | Root-to-tip order exists but words carry most of it (word embeddings alone 0.72). With word distance partialled out it survives weakly in 8B only. Steering a wingtip direction puts the feeling at the wing tip 50–100% (random 0%). | Partial correlations are small; 32B shows none. |
+| `mods/wings_hires` | Wings at high resolution: what survives word controls? | 8B L24; 32B (4-bit) | A read-out trained on "wing" sentences decodes the region of wordless descriptions 100% in the wings chat, 99% with a nonsense name ("glorp"), 50% with no wings, 23% from word embeddings (chance 33%). Position along the wing is word echo. | 32B ran 4-bit with 4 wordings per kind. |
+| `newbodies/val` | Other bodies (robot, octopus, tail): do robot parts map to the human place with the same job? With real narration instead of "imagine", nonsense-name controls, two human chats. | 32B L52 | Holds: robot parts map to the same-job human place; survives nonsense names when the job is described, vanishes when it isn't; steering foot gives wheels, hand gives gripper. Weaker for octopus arms and tail; "wheel" to heel is partly lexical. Fails: head top to camera and lower back to chassis steering. | Qwen3-32B reframes "real narration" as imagining in 6 of 7 chats. |
+
+`figures/` holds the code for every figure and video (matplotlib, SVG, and three.js renders driven by Playwright): `bodymap`, `bodychain*` (part-geometry RSA, method check in `bodychain4/anal*.py`), `hires`-style maps in `zoom*`, `scale_raw`, `src`; videos `bodyvid*`, `bodywire*`, `bodypca3d`; `doll3`, `selfother*`, `body_ownership`, `nb4` and `newbodies` (other bodies), `fav`, `figs3`–`figs6` (phantom, motion, act vs told), `three3d` (renderer). Frames, rendered images and videos are not included.
+
+## Mesh
+
+`mesh/` builds the neutral mannequin used in the 3-D figures: `base.obj` is the MakeHuman base mesh (hm08), released **CC0** by the MakeHuman project; `neutralize.py` makes `neutral.obj` (genderless, faceless; same vertex order) and `preview.py` renders previews. See `mesh/SOURCE.txt`. Stimulus spots have T-pose coordinates in each `stim*.py`; `mods/phantom_v2/mesh/mapmesh.py` maps them onto the mesh.
+
+## Running
+
+GPU runs used single rented GPUs (A40, A100 80 GB); 8B fits in ~20 GB in bf16, 32B needs ~70 GB (or 4-bit via bitsandbytes). Small checks ran on Qwen3-1.7B locally.
+
+```bash
+pip install -r requirements.txt
+export BODY_REPO=$(pwd)          # scripts find each other through this
+export BODY_RUNS=$PWD/runs       # where some analyses expect raw GPU outputs
+cd map/somato
+python extract2.py Qwen/Qwen3-8B out2_8b          # states for all stimuli
+python steer3.py  Qwen/Qwen3-8B out2_8b 25        # steering at layer 25
+python analyze2.py out2_8b
+```
+
+Other entry points: `hires/v2/extract2.py MODEL PREFIX.json OUT NLAYERS '[layers]'`, `continuous/numeric/run.py MODEL OUT '[layers]'`, `mods/wings/run.py MODEL OUT STEER_LAYER L1,L2,...`, `newbodies/val/val.py MODEL OUT`, `selfother/stage2.py cfg_g2.json`, `egodeath/run3.py OUT`. Use `Qwen/Qwen3-32B` with the 32B layers above. Scripts expect to run from their own folder.
+
+Notes on paths: absolute paths from the original working tree were replaced by `$BODY_REPO/...` (this repo), `$BODY_RUNS/...` (raw GPU outputs, not included) and, in a few figure scripts, `$BODY_WORK/...` (the original tree with `body/`, `fig/` and an Inter font folder); edit these if you rerun a figure. Browser renders use Playwright's Chromium (set `CHROME_BIN` to use another) and need `three.module.js` / `three.min.js` from three.js r160 (MIT) placed next to the HTML; they are not vendored here.
+
+## What is not here
+
+Model weights, activation dumps (`.npy`/`.npz`, up to tens of GB), raw generations and per-row outputs, rendered frames, images and videos, logs. Small result summaries (`*.json` under 300 KB) are kept where they document a number in the table.
+
+## License
+
+MIT (see `LICENSE`). `mesh/base.obj` is CC0 (MakeHuman); `neutral.obj` is derived from it and released under CC0 as well.

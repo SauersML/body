@@ -1,0 +1,1742 @@
+{
+"self|0|0": {
+"body path distance": NaN,
+"left vs right": NaN,
+"same limb": NaN,
+"distal-proximal": NaN,
+"same part, either side": NaN,
+"shared words (lexical)": NaN,
+"body path | lexical": 0.0007550109684213442,
+"path within limb": NaN
+},
+"self|0|1": {
+"body path distance": 0.1487528695265028,
+"left vs right": 0.2140181786059566,
+"same limb": 0.15690159268498186,
+"distal-proximal": 0.1857193817389549,
+"same part, either side": 0.17273391568831883,
+"shared words (lexical)": 0.412310542013646,
+"body path | lexical": 0.11953176197033208,
+"path within limb": -0.014362072323358564
+},
+"self|0|2": {
+"body path distance": 0.17313966883493073,
+"left vs right": 0.15018068967486875,
+"same limb": 0.16851670986567963,
+"distal-proximal": 0.22044681562825005,
+"same part, either side": 0.21087479621999095,
+"shared words (lexical)": 0.38999732337548815,
+"body path | lexical": 0.14725949681511383,
+"path within limb": -0.04583602947047306
+},
+"self|0|3": {
+"body path distance": 0.18594717339717057,
+"left vs right": 0.12143988703043296,
+"same limb": 0.18112961141957282,
+"distal-proximal": 0.24969084140877842,
+"same part, either side": 0.21213974251015452,
+"shared words (lexical)": 0.3423568320795641,
+"body path | lexical": 0.16300674109391963,
+"path within limb": -0.0017982815504959781
+},
+"self|0|4": {
+"body path distance": 0.2185144169636052,
+"left vs right": 0.17810719426796404,
+"same limb": 0.19750688129052152,
+"distal-proximal": 0.220934681406099,
+"same part, either side": 0.21227723667212886,
+"shared words (lexical)": 0.31251050099367284,
+"body path | lexical": 0.19877347137069878,
+"path within limb": 0.03454527516376089
+},
+"self|0|5": {
+"body path distance": 0.20657761556798482,
+"left vs right": 0.1492347114876887,
+"same limb": 0.19649095538326797,
+"distal-proximal": 0.2663676682018918,
+"same part, either side": 0.2123184849207211,
+"shared words (lexical)": 0.3452505019369962,
+"body path | lexical": 0.18497563029647482,
+"path within limb": 0.0030269878688627514
+},
+"self|0|6": {
+"body path distance": 0.16188408878065352,
+"left vs right": 0.10452148322891555,
+"same limb": 0.1947765804147776,
+"distal-proximal": 0.3323788794069783,
+"same part, either side": 0.2123184849207211,
+"shared words (lexical)": 0.43581319320867296,
+"body path | lexical": 0.13308397717398698,
+"path within limb": 0.07260875205616892
+},
+"self|0|7": {
+"body path distance": 0.11887174519833356,
+"left vs right": 0.1028174060166009,
+"same limb": 0.24074269233448542,
+"distal-proximal": 0.3305482673543262,
+"same part, either side": 0.2125797238284723,
+"shared words (lexical)": 0.4970148952966334,
+"body path | lexical": 0.08128911806795305,
+"path within limb": 0.07146870603336941
+},
+"self|0|8": {
+"body path distance": 0.052540574560852864,
+"left vs right": 0.037482996772433844,
+"same limb": 0.2696965806912111,
+"distal-proximal": 0.38678787115200075,
+"same part, either side": 0.21310220164397467,
+"shared words (lexical)": 0.45470451463824074,
+"body path | lexical": 0.009038327685204036,
+"path within limb": 0.466180311885473
+},
+"self|0|9": {
+"body path distance": 0.04137427736503489,
+"left vs right": 0.029882457144043195,
+"same limb": 0.26214063175601293,
+"distal-proximal": 0.35433144750822704,
+"same part, either side": 0.21310220164397467,
+"shared words (lexical)": 0.46662983969220856,
+"body path | lexical": -0.004911289884338792,
+"path within limb": 0.41243202270452584
+},
+"self|0|10": {
+"body path distance": 0.020922687961321306,
+"left vs right": 0.01859382626886664,
+"same limb": 0.2585667495465675,
+"distal-proximal": 0.3608641798460055,
+"same part, either side": 0.21310220164397467,
+"shared words (lexical)": 0.4789638853248118,
+"body path | lexical": -0.029741233263410053,
+"path within limb": 0.41029701114258244
+},
+"self|0|11": {
+"body path distance": 0.029516282551620206,
+"left vs right": 0.014909431512483815,
+"same limb": 0.2647076590962338,
+"distal-proximal": 0.37651020006264924,
+"same part, either side": 0.2131022018621424,
+"shared words (lexical)": 0.49995990992674727,
+"body path | lexical": -0.022560930110915832,
+"path within limb": 0.4076972046978166
+},
+"self|0|12": {
+"body path distance": 0.03774515932140226,
+"left vs right": 0.007511902457326641,
+"same limb": 0.25795447277210665,
+"distal-proximal": 0.3680948868045339,
+"same part, either side": 0.21310220164397467,
+"shared words (lexical)": 0.49137439716234155,
+"body path | lexical": -0.011970164519085634,
+"path within limb": 0.4061720685023511
+},
+"self|0|13": {
+"body path distance": 0.03958160796997046,
+"left vs right": 0.0024754539935344273,
+"same limb": 0.28666798580256253,
+"distal-proximal": 0.3572934521518959,
+"same part, either side": 0.21310220164397467,
+"shared words (lexical)": 0.48817167770618425,
+"body path | lexical": -0.00946999941552826,
+"path within limb": 0.4258671919378629
+},
+"self|0|14": {
+"body path distance": 0.04698632371485856,
+"left vs right": -0.004186735094788909,
+"same limb": 0.2822595930264445,
+"distal-proximal": 0.34287999878509456,
+"same part, either side": 0.21310220164397467,
+"shared words (lexical)": 0.4795999661627055,
+"body path | lexical": 2.170437307789863e-05,
+"path within limb": 0.4205695153880825
+},
+"self|0|15": {
+"body path distance": 0.0484204776841361,
+"left vs right": -0.008725628443114733,
+"same limb": 0.28245007913405457,
+"distal-proximal": 0.3216374042451111,
+"same part, either side": 0.21310220164397467,
+"shared words (lexical)": 0.47274180388401454,
+"body path | lexical": 0.0024228206537133755,
+"path within limb": 0.41358594988471215
+},
+"self|0|16": {
+"body path distance": 0.050522499010208784,
+"left vs right": -0.008367170318073587,
+"same limb": 0.2770121543001394,
+"distal-proximal": 0.3255093171524645,
+"same part, either side": 0.21310220164397467,
+"shared words (lexical)": 0.4827545455268708,
+"body path | lexical": 0.0037246450077283054,
+"path within limb": 0.41223589538402855
+},
+"self|0|17": {
+"body path distance": 0.026019874953259477,
+"left vs right": -0.008204334177488908,
+"same limb": 0.266929996747351,
+"distal-proximal": 0.32635725885246963,
+"same part, either side": 0.21310220164397467,
+"shared words (lexical)": 0.48634248024436744,
+"body path | lexical": -0.024848871841058603,
+"path within limb": 0.41988530866269463
+},
+"self|0|18": {
+"body path distance": -0.015341023822926026,
+"left vs right": -0.004098712916355363,
+"same limb": 0.24737342303272053,
+"distal-proximal": 0.33752521111637185,
+"same part, either side": 0.21310220164397467,
+"shared words (lexical)": 0.5031328097414773,
+"body path | lexical": -0.07512655071076407,
+"path within limb": 0.4361759663042768
+},
+"self|0|19": {
+"body path distance": -0.01630589175146065,
+"left vs right": -0.009363690903130627,
+"same limb": 0.23560863819604347,
+"distal-proximal": 0.35582794509572596,
+"same part, either side": 0.21310220164397467,
+"shared words (lexical)": 0.49850935406320807,
+"body path | lexical": -0.07548828889987488,
+"path within limb": 0.4447939261451248
+},
+"self|0|20": {
+"body path distance": -0.026626979937556295,
+"left vs right": -0.008816706026631047,
+"same limb": 0.23088276857390874,
+"distal-proximal": 0.3628424764244089,
+"same part, either side": 0.21310220164397467,
+"shared words (lexical)": 0.4979670084945567,
+"body path | lexical": -0.08735878166551844,
+"path within limb": 0.43843680384124245
+},
+"self|0|21": {
+"body path distance": -0.011798951696689847,
+"left vs right": -0.011701017117240463,
+"same limb": 0.23372645403751574,
+"distal-proximal": 0.3595090328018488,
+"same part, either side": 0.21310220164397467,
+"shared words (lexical)": 0.49292605106993026,
+"body path | lexical": -0.06937534494188521,
+"path within limb": 0.4215232852343366
+},
+"self|0|22": {
+"body path distance": 0.0005020753729849678,
+"left vs right": -0.018178501970137085,
+"same limb": 0.25004022853926106,
+"distal-proximal": 0.35261922375922233,
+"same part, either side": 0.21310220164397467,
+"shared words (lexical)": 0.48803997230900187,
+"body path | lexical": -0.054444414661462326,
+"path within limb": 0.41518228298419374
+},
+"self|0|23": {
+"body path distance": -0.00256976139654856,
+"left vs right": -0.017959951408846833,
+"same limb": 0.24927374872530636,
+"distal-proximal": 0.34922812598350456,
+"same part, either side": 0.21310220164397467,
+"shared words (lexical)": 0.4906518958672904,
+"body path | lexical": -0.05837333755724429,
+"path within limb": 0.41067135461275545
+},
+"self|0|24": {
+"body path distance": 0.004341617603044389,
+"left vs right": -0.018104222595219495,
+"same limb": 0.24260673495895507,
+"distal-proximal": 0.3539110516921152,
+"same part, either side": 0.21308845222777725,
+"shared words (lexical)": 0.48600453495655127,
+"body path | lexical": -0.049730019156167135,
+"path within limb": 0.40245818723247717
+},
+"self|0|25": {
+"body path distance": 0.014843069670414202,
+"left vs right": 0.004065468544409273,
+"same limb": 0.24779067831605678,
+"distal-proximal": 0.34756656166607613,
+"same part, either side": 0.21308845222777725,
+"shared words (lexical)": 0.4964271872286507,
+"body path | lexical": -0.0390924531700367,
+"path within limb": 0.395304465606301
+},
+"self|0|26": {
+"body path distance": 0.0229501439018483,
+"left vs right": 0.006362648561151346,
+"same limb": 0.24471115290969453,
+"distal-proximal": 0.34685433040669916,
+"same part, either side": 0.21308845222777725,
+"shared words (lexical)": 0.49314797005909883,
+"body path | lexical": -0.02927355528754747,
+"path within limb": 0.37018628742525717
+},
+"self|0|27": {
+"body path distance": 0.03092820137853009,
+"left vs right": 0.0019346081777452484,
+"same limb": 0.2420942366218138,
+"distal-proximal": 0.340980259744568,
+"same part, either side": 0.21308845222777725,
+"shared words (lexical)": 0.4844877342622765,
+"body path | lexical": -0.01897307525882954,
+"path within limb": 0.3626295644555933
+},
+"self|0|28": {
+"body path distance": 0.11989650204666921,
+"left vs right": 0.0006641833484190832,
+"same limb": 0.2125870314763161,
+"distal-proximal": 0.2798220741949131,
+"same part, either side": 0.2116722623594419,
+"shared words (lexical)": 0.3447063725042976,
+"body path | lexical": 0.09220664379489736,
+"path within limb": 0.325836885132983
+},
+"self|1|0": {
+"body path distance": NaN,
+"left vs right": NaN,
+"same limb": NaN,
+"distal-proximal": NaN,
+"same part, either side": NaN,
+"shared words (lexical)": NaN,
+"body path | lexical": 0.0007550109684213442,
+"path within limb": NaN
+},
+"self|1|1": {
+"body path distance": 0.17315833324784966,
+"left vs right": 0.13417919207674953,
+"same limb": 0.1435902420698519,
+"distal-proximal": 0.22497868890548575,
+"same part, either side": 0.19994401034303372,
+"shared words (lexical)": 0.3667297471669779,
+"body path | lexical": 0.14823517246772833,
+"path within limb": -0.05271571018307769
+},
+"self|1|2": {
+"body path distance": 0.18751006937316886,
+"left vs right": 0.12603060491674872,
+"same limb": 0.13434713046725055,
+"distal-proximal": 0.21560796790270403,
+"same part, either side": 0.19977901734866452,
+"shared words (lexical)": 0.3399903740311218,
+"body path | lexical": 0.1647754065804257,
+"path within limb": -0.05834608673087062
+},
+"self|1|3": {
+"body path distance": 0.12405888961665917,
+"left vs right": 0.0728228941729219,
+"same limb": 0.1400662490790662,
+"distal-proximal": 0.21312069296218228,
+"same part, either side": 0.19693288819579644,
+"shared words (lexical)": 0.3697257928851311,
+"body path | lexical": 0.09500803062288418,
+"path within limb": -0.028286216520127222
+},
+"self|1|4": {
+"body path distance": 0.02617998131990576,
+"left vs right": 0.05040656713577712,
+"same limb": 0.11184255758268014,
+"distal-proximal": 0.1428424386858938,
+"same part, either side": 0.2079461707828274,
+"shared words (lexical)": 0.3006161369530911,
+"body path | lexical": -0.0034340313400851516,
+"path within limb": -0.03321626628879274
+},
+"self|1|5": {
+"body path distance": 0.07603729071464543,
+"left vs right": 0.06922513730301055,
+"same limb": 0.13578938242486943,
+"distal-proximal": 0.16943270796366863,
+"same part, either side": 0.20357385621915539,
+"shared words (lexical)": 0.31404014260061375,
+"body path | lexical": 0.047926579590235864,
+"path within limb": -0.06408616919994631
+},
+"self|1|6": {
+"body path distance": 0.11496628189392984,
+"left vs right": 0.07654180241791461,
+"same limb": 0.1485519516347419,
+"distal-proximal": 0.21998137148531866,
+"same part, either side": 0.20603500171849543,
+"shared words (lexical)": 0.3316480804922492,
+"body path | lexical": 0.08785882716586815,
+"path within limb": -0.019816919397099102
+},
+"self|1|7": {
+"body path distance": 0.11562975123186184,
+"left vs right": 0.08222282835199167,
+"same limb": 0.1672422670980982,
+"distal-proximal": 0.2306182634425431,
+"same part, either side": 0.2093348616058787,
+"shared words (lexical)": 0.35518515590067656,
+"body path | lexical": 0.0869032891540869,
+"path within limb": 0.03497782993910429
+},
+"self|1|8": {
+"body path distance": 0.09231572518550867,
+"left vs right": 0.06741292576645477,
+"same limb": 0.15930988149429123,
+"distal-proximal": 0.23589523326280504,
+"same part, either side": 0.21072355285755173,
+"shared words (lexical)": 0.3728170381861141,
+"body path | lexical": 0.06043203261920738,
+"path within limb": 0.04882137386717541
+},
+"self|1|9": {
+"body path distance": 0.13478286708599432,
+"left vs right": 0.05015746464517326,
+"same limb": 0.14030208902182148,
+"distal-proximal": 0.23592474258552146,
+"same part, either side": 0.21219474017494425,
+"shared words (lexical)": 0.33947994169332624,
+"body path | lexical": 0.10846956370605677,
+"path within limb": 0.08699276556378402
+},
+"self|1|10": {
+"body path distance": 0.14577913420709765,
+"left vs right": 0.061850295623760244,
+"same limb": 0.15647526663461656,
+"distal-proximal": 0.25724854797648394,
+"same part, either side": 0.21150726936507272,
+"shared words (lexical)": 0.34733168716158186,
+"body path | lexical": 0.11976067351595016,
+"path within limb": 0.14283845284794908
+},
+"self|1|11": {
+"body path distance": 0.14338670421168406,
+"left vs right": 0.05906783861297257,
+"same limb": 0.200727003585834,
+"distal-proximal": 0.29488652963404316,
+"same part, either side": 0.21290970981721064,
+"shared words (lexical)": 0.37195715958792097,
+"body path | lexical": 0.11578502910917948,
+"path within limb": 0.20262101547871786
+},
+"self|1|12": {
+"body path distance": 0.19310846648682847,
+"left vs right": 0.04699998165134229,
+"same limb": 0.2016748987403697,
+"distal-proximal": 0.2962443341338672,
+"same part, either side": 0.21292345923340805,
+"shared words (lexical)": 0.3496618014037902,
+"body path | lexical": 0.17038892549018828,
+"path within limb": 0.20450885288332224
+},
+"self|1|13": {
+"body path distance": 0.1926455242551124,
+"left vs right": 0.0488878416966974,
+"same limb": 0.25587726712245434,
+"distal-proximal": 0.3319861207155506,
+"same part, either side": 0.21310220164397467,
+"shared words (lexical)": 0.3715938717967382,
+"body path | lexical": 0.16911967627522206,
+"path within limb": 0.23193622876255024
+},
+"self|1|14": {
+"body path distance": 0.14208645915240706,
+"left vs right": 0.04761176241216116,
+"same limb": 0.27995561820106596,
+"distal-proximal": 0.3314541096901268,
+"same part, either side": 0.21310220164397467,
+"shared words (lexical)": 0.408991796258841,
+"body path | lexical": 0.11235321596522288,
+"path within limb": 0.25334007789444957
+},
+"self|1|15": {
+"body path distance": 0.09933142735341928,
+"left vs right": 0.04107258923488007,
+"same limb": 0.2677690426975381,
+"distal-proximal": 0.3224572075700257,
+"same part, either side": 0.21300595573059264,
+"shared words (lexical)": 0.4277622924076776,
+"body path | lexical": 0.06385499343813979,
+"path within limb": 0.2576195043830178
+},
+"self|1|16": {
+"body path distance": 0.04502221564882822,
+"left vs right": 0.023864847699123542,
+"same limb": 0.23924148039117774,
+"distal-proximal": 0.3092588183290337,
+"same part, either side": 0.21310220164397467,
+"shared words (lexical)": 0.468988633911687,
+"body path | lexical": -0.0010307459632254781,
+"path within limb": 0.26243850489258896
+},
+"self|1|17": {
+"body path distance": 0.014926297820387275,
+"left vs right": 0.011345055905741353,
+"same limb": 0.21494543090386894,
+"distal-proximal": 0.2996973197645228,
+"same part, either side": 0.2130334545629875,
+"shared words (lexical)": 0.45725885283525475,
+"body path | lexical": -0.033730185863141526,
+"path within limb": 0.17216889062697982
+},
+"self|1|18": {
+"body path distance": 0.01990363315981939,
+"left vs right": -0.0019475838703122577,
+"same limb": 0.2015841910700792,
+"distal-proximal": 0.26994087315007637,
+"same part, either side": 0.21278596507143377,
+"shared words (lexical)": 0.4456228336890765,
+"body path | lexical": -0.02664257903480953,
+"path within limb": 0.1284410059622177
+},
+"self|1|19": {
+"body path distance": 0.014850908190746954,
+"left vs right": -0.006157521354908225,
+"same limb": 0.19245899943885553,
+"distal-proximal": 0.2880493498128135,
+"same part, either side": 0.21123228104112413,
+"shared words (lexical)": 0.4314138257564231,
+"body path | lexical": -0.030515746229053668,
+"path within limb": 0.12348140276169643
+},
+"self|1|20": {
+"body path distance": 0.004498675059881628,
+"left vs right": -0.013231540366873568,
+"same limb": 0.1772019692959944,
+"distal-proximal": 0.278721485719785,
+"same part, either side": 0.21036606782068598,
+"shared words (lexical)": 0.42916309831177285,
+"body path | lexical": -0.04175103424334809,
+"path within limb": 0.12214119940496472
+},
+"self|1|21": {
+"body path distance": -0.02530881269511721,
+"left vs right": -0.009430349150291978,
+"same limb": 0.2007360743528631,
+"distal-proximal": 0.27002712964564285,
+"same part, either side": 0.20892237911995581,
+"shared words (lexical)": 0.45519598130189304,
+"body path | lexical": -0.07886851748063047,
+"path within limb": 0.08478252708438955
+},
+"self|1|22": {
+"body path distance": -0.02256929187116866,
+"left vs right": -0.011199009281280058,
+"same limb": 0.1933932884428476,
+"distal-proximal": 0.2851127390946956,
+"same part, either side": 0.20677747019315665,
+"shared words (lexical)": 0.4483665329326687,
+"body path | lexical": -0.07473184800114267,
+"path within limb": 0.06599639556807774
+},
+"self|1|23": {
+"body path distance": -0.026116619066097708,
+"left vs right": -0.010035086832964868,
+"same limb": 0.19323908540335377,
+"distal-proximal": 0.28465706933469037,
+"same part, either side": 0.2049487978388984,
+"shared words (lexical)": 0.4454453222502792,
+"body path | lexical": -0.07827022772815377,
+"path within limb": 0.04495166541115294
+},
+"self|1|24": {
+"body path distance": -0.02789951850317481,
+"left vs right": -0.00915124897888708,
+"same limb": 0.18982394161691662,
+"distal-proximal": 0.2804261555008873,
+"same part, either side": 0.20368385154873483,
+"shared words (lexical)": 0.44554232712903213,
+"body path | lexical": -0.08028621486708219,
+"path within limb": 0.0331804439471494
+},
+"self|1|25": {
+"body path distance": -0.030056643212439404,
+"left vs right": -0.0035718467740352127,
+"same limb": 0.18098901453062252,
+"distal-proximal": 0.27823236060207185,
+"same part, either side": 0.19870656288526498,
+"shared words (lexical)": 0.4539520924170171,
+"body path | lexical": -0.08402918810415226,
+"path within limb": 0.03275415808159357
+},
+"self|1|26": {
+"body path distance": -0.04404126265829766,
+"left vs right": -0.009495325403474622,
+"same limb": 0.17764190149690331,
+"distal-proximal": 0.2747905019019269,
+"same part, either side": 0.19033316842102982,
+"shared words (lexical)": 0.44561889028309165,
+"body path | lexical": -0.098416117209512,
+"path within limb": 0.014582379724465142
+},
+"self|1|27": {
+"body path distance": -0.04371174545198921,
+"left vs right": -0.012520476325815384,
+"same limb": 0.16990907260463872,
+"distal-proximal": 0.2742308641082323,
+"same part, either side": 0.18437967120754242,
+"shared words (lexical)": 0.4343879803603446,
+"body path | lexical": -0.09622026519022174,
+"path within limb": 0.01082461608607813
+},
+"self|1|28": {
+"body path distance": -0.009221501455974975,
+"left vs right": -0.008908933190011363,
+"same limb": 0.15572692835471996,
+"distal-proximal": 0.285261796880858,
+"same part, either side": 0.18052983467226189,
+"shared words (lexical)": 0.4020813662788207,
+"body path | lexical": -0.05333329413748192,
+"path within limb": 0.01748622829392889
+},
+"other|0|0": {
+"body path distance": NaN,
+"left vs right": NaN,
+"same limb": NaN,
+"distal-proximal": NaN,
+"same part, either side": NaN,
+"shared words (lexical)": NaN,
+"body path | lexical": 0.0007550109684213442,
+"path within limb": NaN
+},
+"other|0|1": {
+"body path distance": 0.1446757440620627,
+"left vs right": 0.24801877200250724,
+"same limb": 0.1759728803635582,
+"distal-proximal": 0.18632258896364173,
+"same part, either side": 0.17384761840031068,
+"shared words (lexical)": 0.43810816096644,
+"body path | lexical": 0.1137620395669002,
+"path within limb": -0.015506596138863474
+},
+"other|0|2": {
+"body path distance": 0.21985242757506873,
+"left vs right": 0.277543131759236,
+"same limb": 0.22929991972733962,
+"distal-proximal": 0.22722324265744578,
+"same part, either side": 0.1869370626202645,
+"shared words (lexical)": 0.4679454539694072,
+"body path | lexical": 0.19786757623628928,
+"path within limb": -0.05659213532815828
+},
+"other|0|3": {
+"body path distance": 0.21099090960152683,
+"left vs right": 0.19414756244269452,
+"same limb": 0.20909932155364658,
+"distal-proximal": 0.2582862647374053,
+"same part, either side": 0.20538877915721618,
+"shared words (lexical)": 0.397122066685193,
+"body path | lexical": 0.18842700509835827,
+"path within limb": -0.009159324978933073
+},
+"other|0|4": {
+"body path distance": 0.258149639756537,
+"left vs right": 0.18198937327730852,
+"same limb": 0.1692242296939455,
+"distal-proximal": 0.21714073779234402,
+"same part, either side": 0.20776742815937166,
+"shared words (lexical)": 0.2876382978713019,
+"body path | lexical": 0.24128901709932343,
+"path within limb": -0.019065098001859376
+},
+"other|0|5": {
+"body path distance": 0.21736262422930397,
+"left vs right": 0.1390208108002262,
+"same limb": 0.14297116236648894,
+"distal-proximal": 0.23396436594867515,
+"same part, either side": 0.20910112174459397,
+"shared words (lexical)": 0.29363599569184,
+"body path | lexical": 0.19825744326210998,
+"path within limb": -0.03873380246040913
+},
+"other|0|6": {
+"body path distance": 0.19103685197648548,
+"left vs right": 0.12121271570672211,
+"same limb": 0.17941070106756793,
+"distal-proximal": 0.32063156866706755,
+"same part, either side": 0.20989858766997338,
+"shared words (lexical)": 0.4128553452428189,
+"body path | lexical": 0.16615479073085143,
+"path within limb": 0.049443787053228556
+},
+"other|0|7": {
+"body path distance": 0.1647660746603909,
+"left vs right": 0.11223664183716789,
+"same limb": 0.22482349619850373,
+"distal-proximal": 0.3289431952004767,
+"same part, either side": 0.21124603045732157,
+"shared words (lexical)": 0.475868995118107,
+"body path | lexical": 0.13500013859541915,
+"path within limb": 0.05441324139770175
+},
+"other|0|8": {
+"body path distance": 0.11714447198585168,
+"left vs right": 0.05036268529552631,
+"same limb": 0.24613526333325528,
+"distal-proximal": 0.37975365021024376,
+"same part, either side": 0.21310220164397467,
+"shared words (lexical)": 0.4611935867201389,
+"body path | lexical": 0.08151396277101867,
+"path within limb": 0.412037081387908
+},
+"other|0|9": {
+"body path distance": 0.1065701891361801,
+"left vs right": 0.06989075490986109,
+"same limb": 0.2641316651188893,
+"distal-proximal": 0.3511501789522497,
+"same part, either side": 0.21310220164397467,
+"shared words (lexical)": 0.5005809534422683,
+"body path | lexical": 0.06679771845276578,
+"path within limb": 0.36713332835870305
+},
+"other|0|10": {
+"body path distance": 0.07482928923142128,
+"left vs right": 0.04569486515292557,
+"same limb": 0.26022216452936897,
+"distal-proximal": 0.37013142578037367,
+"same part, either side": 0.21310220164397467,
+"shared words (lexical)": 0.5074962139128405,
+"body path | lexical": 0.029305740166294097,
+"path within limb": 0.38352652745323934
+},
+"other|0|11": {
+"body path distance": 0.08957109374862747,
+"left vs right": 0.03784306517853212,
+"same limb": 0.27005941137237305,
+"distal-proximal": 0.3895288906474613,
+"same part, either side": 0.21310220164397467,
+"shared words (lexical)": 0.5162476618777189,
+"body path | lexical": 0.04577468710797407,
+"path within limb": 0.398227568684398
+},
+"other|0|12": {
+"body path distance": 0.07701756298617246,
+"left vs right": 0.029768683507408505,
+"same limb": 0.2673109689625711,
+"distal-proximal": 0.3704285637072776,
+"same part, either side": 0.21310220164397467,
+"shared words (lexical)": 0.5167996490376471,
+"body path | lexical": 0.030994702218387217,
+"path within limb": 0.395930908805789
+},
+"other|0|13": {
+"body path distance": 0.1085048048463469,
+"left vs right": 0.016554760614934657,
+"same limb": 0.2936252641138434,
+"distal-proximal": 0.3666686429826825,
+"same part, either side": 0.21310220164397467,
+"shared words (lexical)": 0.49347874353480115,
+"body path | lexical": 0.06952387848111732,
+"path within limb": 0.42461699221451005
+},
+"other|0|14": {
+"body path distance": 0.1117290591115581,
+"left vs right": 0.008711283685681335,
+"same limb": 0.28745260715057525,
+"distal-proximal": 0.3433538233377143,
+"same part, either side": 0.21310220164397467,
+"shared words (lexical)": 0.48106221115611203,
+"body path | lexical": 0.07406364476852527,
+"path within limb": 0.4218653885970305
+},
+"other|0|15": {
+"body path distance": 0.13259689178305928,
+"left vs right": 0.0006947830347423211,
+"same limb": 0.2779056248525008,
+"distal-proximal": 0.33163096408973897,
+"same part, either side": 0.21310220164397467,
+"shared words (lexical)": 0.46325082308514487,
+"body path | lexical": 0.09890456486422422,
+"path within limb": 0.42559404658283234
+},
+"other|0|16": {
+"body path distance": 0.1046053388403929,
+"left vs right": -0.007368504864725867,
+"same limb": 0.2665807722167326,
+"distal-proximal": 0.30585033006400714,
+"same part, either side": 0.21310220164397467,
+"shared words (lexical)": 0.4622149215990252,
+"body path | lexical": 0.06724093241247872,
+"path within limb": 0.40244699275071366
+},
+"other|0|17": {
+"body path distance": 0.09928312500918728,
+"left vs right": -0.0028360678524604306,
+"same limb": 0.26238554246579726,
+"distal-proximal": 0.2957725684362228,
+"same part, either side": 0.21308845222777725,
+"shared words (lexical)": 0.46570937796248174,
+"body path | lexical": 0.06094814958484835,
+"path within limb": 0.3819127309622065
+},
+"other|0|18": {
+"body path distance": 0.04587576346634372,
+"left vs right": -0.003949165397450011,
+"same limb": 0.24720107845916858,
+"distal-proximal": 0.27914455556182555,
+"same part, either side": 0.21308845222777725,
+"shared words (lexical)": 0.4793195819988805,
+"body path | lexical": -0.0012183670038307434,
+"path within limb": 0.39379052389259905
+},
+"other|0|19": {
+"body path distance": 0.04732617472772652,
+"left vs right": -0.00835767161564344,
+"same limb": 0.23848407134425212,
+"distal-proximal": 0.27339366408016086,
+"same part, either side": 0.21310220164397467,
+"shared words (lexical)": 0.4703234053375668,
+"body path | lexical": 0.0014429353558788115,
+"path within limb": 0.4163532257766606
+},
+"other|0|20": {
+"body path distance": 0.04221368181000127,
+"left vs right": -0.004115641512084219,
+"same limb": 0.22880556292425638,
+"distal-proximal": 0.24641045162056271,
+"same part, either side": 0.21308845222777725,
+"shared words (lexical)": 0.4687718895824925,
+"body path | lexical": -0.004201345838734182,
+"path within limb": 0.3841999874761342
+},
+"other|0|21": {
+"body path distance": 0.05905569923713222,
+"left vs right": -0.014310615563373938,
+"same limb": 0.22752658477316043,
+"distal-proximal": 0.25490343759339434,
+"same part, either side": 0.21310220164397467,
+"shared words (lexical)": 0.4528446473181989,
+"body path | lexical": 0.016576606062687828,
+"path within limb": 0.404345576857811
+},
+"other|0|22": {
+"body path distance": 0.07598526696983693,
+"left vs right": -0.030001965641284878,
+"same limb": 0.24366801470135385,
+"distal-proximal": 0.23372029922249257,
+"same part, either side": 0.21310220164397467,
+"shared words (lexical)": 0.42812655453764703,
+"body path | lexical": 0.037869308092680125,
+"path within limb": 0.38232513567037557
+},
+"other|0|23": {
+"body path distance": 0.0788646242900486,
+"left vs right": -0.02871978641217728,
+"same limb": 0.25858489108062555,
+"distal-proximal": 0.23767939656004922,
+"same part, either side": 0.21310220164397467,
+"shared words (lexical)": 0.43163102817027105,
+"body path | lexical": 0.04076448951231848,
+"path within limb": 0.39273107813849706
+},
+"other|0|24": {
+"body path distance": 0.07354546549292508,
+"left vs right": -0.028863170966065044,
+"same limb": 0.2451102666589727,
+"distal-proximal": 0.24477363084592646,
+"same part, either side": 0.21310220164397467,
+"shared words (lexical)": 0.42696477187350995,
+"body path | lexical": 0.035261597096118515,
+"path within limb": 0.3889983901392604
+},
+"other|0|25": {
+"body path distance": 0.08076117099497918,
+"left vs right": 0.014459259064843704,
+"same limb": 0.26283001005022066,
+"distal-proximal": 0.23702281445220386,
+"same part, either side": 0.2130334545629875,
+"shared words (lexical)": 0.4664396957813812,
+"body path | lexical": 0.0398529394262836,
+"path within limb": 0.36371722030373943
+},
+"other|0|26": {
+"body path distance": 0.07115256801578618,
+"left vs right": 0.020685048947970415,
+"same limb": 0.2601495983931366,
+"distal-proximal": 0.24625094007075785,
+"same part, either side": 0.2128959604010132,
+"shared words (lexical)": 0.4763703384746837,
+"body path | lexical": 0.028001097116641737,
+"path within limb": 0.3479930034393926
+},
+"other|0|27": {
+"body path distance": 0.07042771299638875,
+"left vs right": 0.0197061154136494,
+"same limb": 0.25956906930327744,
+"distal-proximal": 0.24884017390077776,
+"same part, either side": 0.21297845689819778,
+"shared words (lexical)": 0.4768652371376442,
+"body path | lexical": 0.027125598536633603,
+"path within limb": 0.349512318504341
+},
+"other|0|28": {
+"body path distance": 0.09546744280034476,
+"left vs right": 0.025797139332190102,
+"same limb": 0.225698825216807,
+"distal-proximal": 0.1935107082791642,
+"same part, either side": 0.20760243516500246,
+"shared words (lexical)": 0.38386881239040715,
+"body path | lexical": 0.06297960276697735,
+"path within limb": 0.27277504157377647
+},
+"other|1|0": {
+"body path distance": NaN,
+"left vs right": NaN,
+"same limb": NaN,
+"distal-proximal": NaN,
+"same part, either side": NaN,
+"shared words (lexical)": NaN,
+"body path | lexical": 0.0007550109684213442,
+"path within limb": NaN
+},
+"other|1|1": {
+"body path distance": 0.09138069500372535,
+"left vs right": 0.1378888754322854,
+"same limb": 0.18514342582992713,
+"distal-proximal": 0.21825572168203808,
+"same part, either side": 0.19251932559642126,
+"shared words (lexical)": 0.46585548515337155,
+"body path | lexical": 0.05196335982211928,
+"path within limb": -0.0761587461130245
+},
+"other|1|2": {
+"body path distance": 0.15036617766557234,
+"left vs right": 0.12197541739755038,
+"same limb": 0.1549559131572508,
+"distal-proximal": 0.20062272038420978,
+"same part, either side": 0.18580961049207517,
+"shared words (lexical)": 0.3870717984566801,
+"body path | lexical": 0.1225566365338674,
+"path within limb": -0.09192774090442549
+},
+"other|1|3": {
+"body path distance": 0.141772457008447,
+"left vs right": 0.09892797313658336,
+"same limb": 0.1511779386896517,
+"distal-proximal": 0.22047597100313224,
+"same part, either side": 0.18396718872161952,
+"shared words (lexical)": 0.3689610750901145,
+"body path | lexical": 0.11420819889320931,
+"path within limb": -0.05914402939097616
+},
+"other|1|4": {
+"body path distance": 0.14010848861293446,
+"left vs right": 0.06700422723803942,
+"same limb": 0.1050077345117903,
+"distal-proximal": 0.17727734310599091,
+"same part, either side": 0.19987526326204655,
+"shared words (lexical)": 0.27686390687348844,
+"body path | lexical": 0.11815985221859128,
+"path within limb": -0.042813967173586265
+},
+"other|1|5": {
+"body path distance": 0.1338654916101062,
+"left vs right": 0.0621808900190921,
+"same limb": 0.11274963417108397,
+"distal-proximal": 0.17601011786866852,
+"same part, either side": 0.19892655354442387,
+"shared words (lexical)": 0.33511157857381013,
+"body path | lexical": 0.10776723744714442,
+"path within limb": -0.07916871836960666
+},
+"other|1|6": {
+"body path distance": 0.13965450644762017,
+"left vs right": 0.08600678673620743,
+"same limb": 0.12019673390193351,
+"distal-proximal": 0.18518423893413194,
+"same part, either side": 0.1958191854838046,
+"shared words (lexical)": 0.35572710882533926,
+"body path | lexical": 0.1126957516901534,
+"path within limb": -0.04766565556990696
+},
+"other|1|7": {
+"body path distance": 0.146006301620581,
+"left vs right": 0.09522081929137209,
+"same limb": 0.13548551172939627,
+"distal-proximal": 0.20391696291093167,
+"same part, either side": 0.1922993349372624,
+"shared words (lexical)": 0.3616361342444901,
+"body path | lexical": 0.11919233287397082,
+"path within limb": -0.017672504470474294
+},
+"other|1|8": {
+"body path distance": 0.14040974367844597,
+"left vs right": 0.07353336929877566,
+"same limb": 0.1332495676567356,
+"distal-proximal": 0.22034823914335425,
+"same part, either side": 0.19991651151063886,
+"shared words (lexical)": 0.35675267311015274,
+"body path | lexical": 0.11344722974975817,
+"path within limb": -0.03420675403523126
+},
+"other|1|9": {
+"body path distance": 0.15400957353790265,
+"left vs right": 0.059123833426537174,
+"same limb": 0.12633310792642155,
+"distal-proximal": 0.2252371023621569,
+"same part, either side": 0.20398633891391343,
+"shared words (lexical)": 0.3447146668555346,
+"body path | lexical": 0.12872206495876423,
+"path within limb": -0.009486203846428608
+},
+"other|1|10": {
+"body path distance": 0.18398597684013115,
+"left vs right": 0.06857840844507852,
+"same limb": 0.14193029170353585,
+"distal-proximal": 0.25511130323716225,
+"same part, either side": 0.20611749821567998,
+"shared words (lexical)": 0.360490898373628,
+"body path | lexical": 0.16017055468974262,
+"path within limb": 0.05655183519380952
+},
+"other|1|11": {
+"body path distance": 0.20992554335384234,
+"left vs right": 0.05880120997056485,
+"same limb": 0.19828696725501974,
+"distal-proximal": 0.31057486577020293,
+"same part, either side": 0.21169976119183676,
+"shared words (lexical)": 0.36988759129319715,
+"body path | lexical": 0.1878653789679176,
+"path within limb": 0.1935055728682979
+},
+"other|1|12": {
+"body path distance": 0.23356997758175813,
+"left vs right": 0.047301667046804954,
+"same limb": 0.22928631357679602,
+"distal-proximal": 0.30323934155208987,
+"same part, either side": 0.21255222499607745,
+"shared words (lexical)": 0.37647060950870187,
+"body path | lexical": 0.21334851315353429,
+"path within limb": 0.19576193261255817
+},
+"other|1|13": {
+"body path distance": 0.20141953928753215,
+"left vs right": 0.04104457016919426,
+"same limb": 0.2509064870474059,
+"distal-proximal": 0.30534672802866736,
+"same part, either side": 0.21301970536487339,
+"shared words (lexical)": 0.3981013648275743,
+"body path | lexical": 0.17792491405678384,
+"path within limb": 0.19156713640612233
+},
+"other|1|14": {
+"body path distance": 0.21904487977350393,
+"left vs right": 0.03994733095778371,
+"same limb": 0.2690026672888858,
+"distal-proximal": 0.3242431807061365,
+"same part, either side": 0.21300595594866184,
+"shared words (lexical)": 0.3939743953500933,
+"body path | lexical": 0.19729109751289398,
+"path within limb": 0.2361372938787736
+},
+"other|1|15": {
+"body path distance": 0.159296271927644,
+"left vs right": 0.029911179255692533,
+"same limb": 0.26337879145547816,
+"distal-proximal": 0.344924802178793,
+"same part, either side": 0.21306095339538236,
+"shared words (lexical)": 0.4375414472332087,
+"body path | lexical": 0.13012719026263703,
+"path within limb": 0.2498568029489047
+},
+"other|1|16": {
+"body path distance": 0.08051097600580731,
+"left vs right": -0.00041050214803349354,
+"same limb": 0.20334391987371475,
+"distal-proximal": 0.29485092635620497,
+"same part, either side": 0.21310220164397467,
+"shared words (lexical)": 0.4636262343654095,
+"body path | lexical": 0.039815189887836194,
+"path within limb": 0.32105818475776066
+},
+"other|1|17": {
+"body path distance": 0.07349099156977558,
+"left vs right": -0.011101012487391383,
+"same limb": 0.1661809873556994,
+"distal-proximal": 0.2686761375945249,
+"same part, either side": 0.21273096740664404,
+"shared words (lexical)": 0.43671461897613484,
+"body path | lexical": 0.034317235857132755,
+"path within limb": 0.3079946723189734
+},
+"other|1|18": {
+"body path distance": 0.050305265583388305,
+"left vs right": -0.02337453993497368,
+"same limb": 0.1456674477195042,
+"distal-proximal": 0.2251995477054512,
+"same part, either side": 0.211259779873519,
+"shared words (lexical)": 0.4212760851726597,
+"body path | lexical": 0.010026413657675651,
+"path within limb": 0.2172660843010589
+},
+"other|1|19": {
+"body path distance": 0.02423366828801164,
+"left vs right": -0.03564890186018882,
+"same limb": 0.12312659165231647,
+"distal-proximal": 0.2100396454895418,
+"same part, either side": 0.20466006009875234,
+"shared words (lexical)": 0.39678286348237607,
+"body path | lexical": -0.01600809210113693,
+"path within limb": 0.21061880102986544
+},
+"other|1|20": {
+"body path distance": 0.020179189032589417,
+"left vs right": -0.03971236678903173,
+"same limb": 0.11694032853850476,
+"distal-proximal": 0.18025084129720326,
+"same part, either side": 0.19800534265919603,
+"shared words (lexical)": 0.38868019911554297,
+"body path | lexical": -0.019504333646375445,
+"path within limb": 0.1756844056800037
+},
+"other|1|21": {
+"body path distance": 0.004321554845666421,
+"left vs right": -0.033839521828460395,
+"same limb": 0.12021034005247706,
+"distal-proximal": 0.1507518903306134,
+"same part, either side": 0.18426967587796297,
+"shared words (lexical)": 0.3854999573158721,
+"body path | lexical": -0.0364059331343111,
+"path within limb": 0.1528602007019457
+},
+"other|1|22": {
+"body path distance": -0.010457672813866043,
+"left vs right": -0.0389198173109973,
+"same limb": 0.1219609980890836,
+"distal-proximal": 0.16796501156171506,
+"same part, either side": 0.18271599184765336,
+"shared words (lexical)": 0.3932860512549875,
+"body path | lexical": -0.05352182195354349,
+"path within limb": 0.13908203254737367
+},
+"other|1|23": {
+"body path distance": -0.00933012534563977,
+"left vs right": -0.04137279039017806,
+"same limb": 0.11517606435135468,
+"distal-proximal": 0.16782257152368768,
+"same part, either side": 0.17962237320323152,
+"shared words (lexical)": 0.3837659348179227,
+"body path | lexical": -0.05104772788036515,
+"path within limb": 0.13918009620762234
+},
+"other|1|24": {
+"body path distance": -0.0109379590276629,
+"left vs right": -0.037166075640815206,
+"same limb": 0.11881797731351801,
+"distal-proximal": 0.1754024532436729,
+"same part, either side": 0.18098356540677712,
+"shared words (lexical)": 0.3933957176905103,
+"body path | lexical": -0.054061222917171706,
+"path within limb": 0.13824244641510774
+},
+"other|1|25": {
+"body path distance": 0.0012097709425616142,
+"left vs right": -0.027713154305178473,
+"same limb": 0.10003695417987123,
+"distal-proximal": 0.14111983145061965,
+"same part, either side": 0.16844409783472053,
+"shared words (lexical)": 0.3691625935579712,
+"body path | lexical": -0.037779785247949525,
+"path within limb": 0.13221936744704965
+},
+"other|1|26": {
+"body path distance": 0.0075508796473105,
+"left vs right": -0.029006805428618887,
+"same limb": 0.06300101240026257,
+"distal-proximal": 0.07435296247366814,
+"same part, either side": 0.14639003425404207,
+"shared words (lexical)": 0.29365912018317336,
+"body path | lexical": -0.02229255065566017,
+"path within limb": 0.12166341892329662
+},
+"other|1|27": {
+"body path distance": 0.0295028290944697,
+"left vs right": -0.03145207914776534,
+"same limb": 0.025906110634965066,
+"distal-proximal": 0.0284107073361831,
+"same part, either side": 0.11593507737673363,
+"shared words (lexical)": 0.18412060661760468,
+"body path | lexical": 0.011727752294444256,
+"path within limb": 0.12360364650255436
+},
+"other|1|28": {
+"body path distance": 0.06021193942142874,
+"left vs right": -0.0333812458359464,
+"same limb": 0.0034151437864370967,
+"distal-proximal": 0.023411235782037736,
+"same part, either side": 0.08861498739243931,
+"shared words (lexical)": 0.1071793363970148,
+"body path | lexical": 0.05024538735564962,
+"path within limb": 0.09941595364569646
+},
+"object|0|0": {
+"body path distance": NaN,
+"left vs right": NaN,
+"same limb": NaN,
+"distal-proximal": NaN,
+"same part, either side": NaN,
+"shared words (lexical)": NaN,
+"body path | lexical": 0.0007550109684213442,
+"path within limb": NaN
+},
+"object|0|1": {
+"body path distance": 0.1431073326218491,
+"left vs right": 0.24659170224815885,
+"same limb": 0.17471657913003488,
+"distal-proximal": 0.1815809237497537,
+"same part, either side": 0.17485132578272314,
+"shared words (lexical)": 0.4375057069353278,
+"body path | lexical": 0.11203822888672031,
+"path within limb": -0.016998148889038302
+},
+"object|0|2": {
+"body path distance": 0.21601908152822816,
+"left vs right": 0.2520939674268244,
+"same limb": 0.21856013156494514,
+"distal-proximal": 0.2252045560669506,
+"same part, either side": 0.1909931403985065,
+"shared words (lexical)": 0.4504600597818855,
+"body path | lexical": 0.19347708985147033,
+"path within limb": -0.048356578984353
+},
+"object|0|3": {
+"body path distance": 0.20035119776353755,
+"left vs right": 0.17426394668255824,
+"same limb": 0.20763892806196968,
+"distal-proximal": 0.24764244641092775,
+"same part, either side": 0.20703870910090783,
+"shared words (lexical)": 0.3890693505116821,
+"body path | lexical": 0.17697750262120135,
+"path within limb": -0.011924361974528857
+},
+"object|0|4": {
+"body path distance": 0.24546919795745203,
+"left vs right": 0.2516396008750955,
+"same limb": 0.21361656353411318,
+"distal-proximal": 0.2119559920745273,
+"same part, either side": 0.20276264066350694,
+"shared words (lexical)": 0.3469184536008051,
+"body path | lexical": 0.22658912957574914,
+"path within limb": -0.00290160967311104
+},
+"object|0|5": {
+"body path distance": 0.2158411288684845,
+"left vs right": 0.19662197116606905,
+"same limb": 0.19298510392654034,
+"distal-proximal": 0.2469822913404743,
+"same part, either side": 0.20600750288610054,
+"shared words (lexical)": 0.35403617536955234,
+"body path | lexical": 0.19465261385943394,
+"path within limb": -0.020191710646542613
+},
+"object|0|6": {
+"body path distance": 0.1668596731139742,
+"left vs right": 0.19090419344624535,
+"same limb": 0.22435181631299317,
+"distal-proximal": 0.30823481967324484,
+"same part, either side": 0.20523753557904445,
+"shared words (lexical)": 0.48716934243363796,
+"body path | lexical": 0.13709549150205766,
+"path within limb": 0.039794591552322726
+},
+"object|0|7": {
+"body path distance": 0.14065351489461167,
+"left vs right": 0.18182085660408773,
+"same limb": 0.23990818176781287,
+"distal-proximal": 0.2989933839922446,
+"same part, either side": 0.20610374879948257,
+"shared words (lexical)": 0.5169131304215536,
+"body path | lexical": 0.10568096261636546,
+"path within limb": 0.032794010436671794
+},
+"object|0|8": {
+"body path distance": 0.1032660385534679,
+"left vs right": 0.10494947681045629,
+"same limb": 0.23107325468151876,
+"distal-proximal": 0.3168343669256704,
+"same part, either side": 0.21308845222777725,
+"shared words (lexical)": 0.49417796976674705,
+"body path | lexical": 0.06342138566872685,
+"path within limb": 0.2938605196443206
+},
+"object|0|9": {
+"body path distance": 0.06326850512126873,
+"left vs right": 0.2240759397608515,
+"same limb": 0.28810570237666683,
+"distal-proximal": 0.2656295956199068,
+"same part, either side": 0.21208474484536483,
+"shared words (lexical)": 0.6335809536009915,
+"body path | lexical": 0.0015867503715915237,
+"path within limb": 0.23669388351205714
+},
+"object|0|10": {
+"body path distance": 0.05495525914682143,
+"left vs right": 0.16361128338084013,
+"same limb": 0.25582284252028004,
+"distal-proximal": 0.3004839742815648,
+"same part, either side": 0.2130334545629875,
+"shared words (lexical)": 0.5947445681915355,
+"body path | lexical": -0.004110061057089653,
+"path within limb": 0.2672875066132864
+},
+"object|0|11": {
+"body path distance": 0.07372405786450333,
+"left vs right": 0.13408403120294124,
+"same limb": 0.26183676106053977,
+"distal-proximal": 0.32587098174842966,
+"same part, either side": 0.21308845222777725,
+"shared words (lexical)": 0.5852749864900477,
+"body path | lexical": 0.02033354868838472,
+"path within limb": 0.29332811009164633
+},
+"object|0|12": {
+"body path distance": 0.06447284876502815,
+"left vs right": 0.11377665292363699,
+"same limb": 0.26204085331869337,
+"distal-proximal": 0.32961520836422376,
+"same part, either side": 0.21308845222777725,
+"shared words (lexical)": 0.5725535951389074,
+"body path | lexical": 0.010298112165064995,
+"path within limb": 0.29848070615777117
+},
+"object|0|13": {
+"body path distance": 0.06512655839676505,
+"left vs right": 0.09912562916026989,
+"same limb": 0.27649965596299814,
+"distal-proximal": 0.3354217241420281,
+"same part, either side": 0.2130747028115798,
+"shared words (lexical)": 0.5561801008628653,
+"body path | lexical": 0.012888522131396553,
+"path within limb": 0.34068121573071514
+},
+"object|0|14": {
+"body path distance": 0.05128182465577261,
+"left vs right": 0.10041937590093906,
+"same limb": 0.2807311687820497,
+"distal-proximal": 0.3023224406381068,
+"same part, either side": 0.21271721799044663,
+"shared words (lexical)": 0.5490935506641063,
+"body path | lexical": -0.002995001111583663,
+"path within limb": 0.3322262475443443
+},
+"object|0|15": {
+"body path distance": 0.060458201823104324,
+"left vs right": 0.10473021129306916,
+"same limb": 0.26961947917146417,
+"distal-proximal": 0.2788195215999036,
+"same part, either side": 0.2120022483481802,
+"shared words (lexical)": 0.5366955137562653,
+"body path | lexical": 0.009407237865775719,
+"path within limb": 0.33800125679652226
+},
+"object|0|16": {
+"body path distance": 0.06668757829478678,
+"left vs right": 0.08255680629335045,
+"same limb": 0.25498379657009296,
+"distal-proximal": 0.2562326728913322,
+"same part, either side": 0.21069605380942433,
+"shared words (lexical)": 0.5203295354617592,
+"body path | lexical": 0.01851073686143284,
+"path within limb": 0.29239135585767284
+},
+"object|0|17": {
+"body path distance": 0.08766895981693607,
+"left vs right": 0.0832609706821058,
+"same limb": 0.2560586824630353,
+"distal-proximal": 0.2573484977217909,
+"same part, either side": 0.2110810374629524,
+"shared words (lexical)": 0.5140179917847565,
+"body path | lexical": 0.04373074089245017,
+"path within limb": 0.2723823391535113
+},
+"object|0|18": {
+"body path distance": 0.05631021802118594,
+"left vs right": 0.06901037883408831,
+"same limb": 0.2432915778696483,
+"distal-proximal": 0.2630412151583475,
+"same part, either side": 0.21209849426156224,
+"shared words (lexical)": 0.511815261432127,
+"body path | lexical": 0.007237707380442865,
+"path within limb": 0.2773616446419364
+},
+"object|0|19": {
+"body path distance": 0.06205174450677033,
+"left vs right": 0.0575023411888003,
+"same limb": 0.23808495759497394,
+"distal-proximal": 0.27509837321563385,
+"same part, either side": 0.2126209720770646,
+"shared words (lexical)": 0.5000077610832242,
+"body path | lexical": 0.015183278449907899,
+"path within limb": 0.3259622633287347
+},
+"object|0|20": {
+"body path distance": 0.04547214015478113,
+"left vs right": 0.04298148072432554,
+"same limb": 0.22564440061463267,
+"distal-proximal": 0.26296851520786513,
+"same part, either side": 0.2127997144876312,
+"shared words (lexical)": 0.48982635945741365,
+"body path | lexical": -0.002877615191505134,
+"path within limb": 0.3103258112014141
+},
+"object|0|21": {
+"body path distance": 0.06315848698786178,
+"left vs right": 0.023985944746234004,
+"same limb": 0.2238257118253083,
+"distal-proximal": 0.2766610068588296,
+"same part, either side": 0.21301970514679008,
+"shared words (lexical)": 0.47233530344052466,
+"body path | lexical": 0.01926914097662771,
+"path within limb": 0.32104967695162034
+},
+"object|0|22": {
+"body path distance": 0.07510974136015641,
+"left vs right": 0.005343873066099541,
+"same limb": 0.2630477084589179,
+"distal-proximal": 0.2717909531885567,
+"same part, either side": 0.21301970514679008,
+"shared words (lexical)": 0.46003287049646485,
+"body path | lexical": 0.03401700647725,
+"path within limb": 0.3349406854823689
+},
+"object|0|23": {
+"body path distance": 0.06721888152739597,
+"left vs right": 0.006690052818032629,
+"same limb": 0.26809559031058383,
+"distal-proximal": 0.27736375578613714,
+"same part, either side": 0.21304720397918495,
+"shared words (lexical)": 0.46345118301086213,
+"body path | lexical": 0.024757773230888954,
+"path within limb": 0.34013223834503087
+},
+"object|0|24": {
+"body path distance": 0.06284018729260239,
+"left vs right": 0.006573404145178517,
+"same limb": 0.25711089143840504,
+"distal-proximal": 0.2826973770172412,
+"same part, either side": 0.21308845222777725,
+"shared words (lexical)": 0.45738254296286623,
+"body path | lexical": 0.020393973709473885,
+"path within limb": 0.31836524022472207
+},
+"object|0|25": {
+"body path distance": 0.04985303852490238,
+"left vs right": 0.04380845023159608,
+"same limb": 0.26192293334731576,
+"distal-proximal": 0.2749958840777718,
+"same part, either side": 0.21293720864960552,
+"shared words (lexical)": 0.4899966554569873,
+"body path | lexical": 0.0021526732880174843,
+"path within limb": 0.27930903668952284
+},
+"object|0|26": {
+"body path distance": 0.054530810344539576,
+"left vs right": 0.050272355264889414,
+"same limb": 0.26139229347611637,
+"distal-proximal": 0.2877691487643133,
+"same part, either side": 0.21295095806580294,
+"shared words (lexical)": 0.4902895000081312,
+"body path | lexical": 0.00751306697922813,
+"path within limb": 0.279016636825859
+},
+"object|0|27": {
+"body path distance": 0.05568646412632101,
+"left vs right": 0.043627353373436366,
+"same limb": 0.25489762428331697,
+"distal-proximal": 0.3055764422850893,
+"same part, either side": 0.21304720397918495,
+"shared words (lexical)": 0.4825720436314524,
+"body path | lexical": 0.00966910307965588,
+"path within limb": 0.2919561144067062
+},
+"object|0|28": {
+"body path distance": 0.07857157885974829,
+"left vs right": 0.03188215675026937,
+"same limb": 0.2149499662873835,
+"distal-proximal": 0.28197204696625033,
+"same part, either side": 0.2121122436777597,
+"shared words (lexical)": 0.36445044881283223,
+"body path | lexical": 0.04627028969756237,
+"path within limb": 0.28375190261183886
+},
+"object|1|0": {
+"body path distance": NaN,
+"left vs right": NaN,
+"same limb": NaN,
+"distal-proximal": NaN,
+"same part, either side": NaN,
+"shared words (lexical)": NaN,
+"body path | lexical": 0.0007550109684213442,
+"path within limb": NaN
+},
+"object|1|1": {
+"body path distance": 0.08789570895729676,
+"left vs right": 0.13618325747871632,
+"same limb": 0.18203668812247775,
+"distal-proximal": 0.21858668779753082,
+"same part, either side": 0.19509046642534075,
+"shared words (lexical)": 0.47076775714630853,
+"body path | lexical": 0.047599657185423604,
+"path within limb": -0.07663966104958643
+},
+"object|1|2": {
+"body path distance": 0.15314531756574107,
+"left vs right": 0.1143529901162482,
+"same limb": 0.14664709055864153,
+"distal-proximal": 0.21434400079302365,
+"same part, either side": 0.19282181275276475,
+"shared words (lexical)": 0.37471632221822687,
+"body path | lexical": 0.12620719513389198,
+"path within limb": -0.05877147703788535
+},
+"object|1|3": {
+"body path distance": 0.14231395257288307,
+"left vs right": 0.09359511995609884,
+"same limb": 0.12748963059328922,
+"distal-proximal": 0.2135030123889463,
+"same part, either side": 0.1922993349372624,
+"shared words (lexical)": 0.3688293672692038,
+"body path | lexical": 0.11480110166204995,
+"path within limb": -0.03577666815775091
+},
+"object|1|4": {
+"body path distance": 0.15144207455422698,
+"left vs right": 0.08135154677854561,
+"same limb": 0.10567443588842543,
+"distal-proximal": 0.18885711400446273,
+"same part, either side": 0.19701538469298105,
+"shared words (lexical)": 0.27051567764455803,
+"body path | lexical": 0.13041639631897214,
+"path within limb": -0.02132324886320181
+},
+"object|1|5": {
+"body path distance": 0.13016271854007716,
+"left vs right": 0.07773892794891801,
+"same limb": 0.12089518296317031,
+"distal-proximal": 0.17984898967484822,
+"same part, either side": 0.18717080269562084,
+"shared words (lexical)": 0.3242006565357191,
+"body path | lexical": 0.10453509650777354,
+"path within limb": -0.040195801778728196
+},
+"object|1|6": {
+"body path distance": 0.15754529862190392,
+"left vs right": 0.10465500834264646,
+"same limb": 0.1344242319869975,
+"distal-proximal": 0.19285518666804655,
+"same part, either side": 0.18574086341108806,
+"shared words (lexical)": 0.3414253254198602,
+"body path | lexical": 0.13268185214585262,
+"path within limb": -0.028640409923125807
+},
+"object|1|7": {
+"body path distance": 0.1733714946627997,
+"left vs right": 0.12496658074130333,
+"same limb": 0.15239795685505886,
+"distal-proximal": 0.20701986034447242,
+"same part, either side": 0.1824410035237047,
+"shared words (lexical)": 0.3558454182760692,
+"body path | lexical": 0.1489414961095793,
+"path within limb": -0.001730666880644162
+},
+"object|1|8": {
+"body path distance": 0.16983880702716328,
+"left vs right": 0.11331200100045952,
+"same limb": 0.1511235140874774,
+"distal-proximal": 0.22141461417131664,
+"same part, either side": 0.18860074198015359,
+"shared words (lexical)": 0.3586854849578648,
+"body path | lexical": 0.14501264554971907,
+"path within limb": 0.001955899853726701
+},
+"object|1|9": {
+"body path distance": 0.16665143255929063,
+"left vs right": 0.11235706739055817,
+"same limb": 0.15291045519220015,
+"distal-proximal": 0.22116906775319115,
+"same part, either side": 0.1941142578753232,
+"shared words (lexical)": 0.36603478184942745,
+"body path | lexical": 0.14123915018032557,
+"path within limb": 0.0014172213912648829
+},
+"object|1|10": {
+"body path distance": 0.1693838181358528,
+"left vs right": 0.11465810686635218,
+"same limb": 0.160870053260191,
+"distal-proximal": 0.24466639847074703,
+"same part, either side": 0.19460923685843068,
+"shared words (lexical)": 0.38432793439956175,
+"body path | lexical": 0.14339609653676946,
+"path within limb": 0.037173739481841404
+},
+"object|1|11": {
+"body path distance": 0.13838448162145442,
+"left vs right": 0.1036545848361608,
+"same limb": 0.18580559182304776,
+"distal-proximal": 0.2606172199747188,
+"same part, either side": 0.2058425098917314,
+"shared words (lexical)": 0.417611165572375,
+"body path | lexical": 0.10780956176734828,
+"path within limb": 0.10178694488321544
+},
+"object|1|12": {
+"body path distance": 0.1819030012936481,
+"left vs right": 0.09857118179368907,
+"same limb": 0.20985673060057222,
+"distal-proximal": 0.2651530535444222,
+"same part, either side": 0.20943110751926072,
+"shared words (lexical)": 0.42320606125823146,
+"body path | lexical": 0.15577427888264117,
+"path within limb": 0.11556466525851693
+},
+"object|1|13": {
+"body path distance": 0.1256929084263751,
+"left vs right": 0.08477657329781409,
+"same limb": 0.21897285146476686,
+"distal-proximal": 0.2727085769801921,
+"same part, either side": 0.21057230906364746,
+"shared words (lexical)": 0.45076313731401774,
+"body path | lexical": 0.09179858279043153,
+"path within limb": 0.113681305646618
+},
+"object|1|14": {
+"body path distance": 0.11865989601278795,
+"left vs right": 0.07158342976764566,
+"same limb": 0.24227111657888023,
+"distal-proximal": 0.2837587519688349,
+"same part, either side": 0.21142477286788816,
+"shared words (lexical)": 0.4503986497773141,
+"body path | lexical": 0.08390455869101757,
+"path within limb": 0.17334968456339864
+},
+"object|1|15": {
+"body path distance": 0.08820366049348753,
+"left vs right": 0.06123632653227399,
+"same limb": 0.2349918260380681,
+"distal-proximal": 0.3181049372845071,
+"same part, either side": 0.2123184849207211,
+"shared words (lexical)": 0.4704345696371944,
+"body path | lexical": 0.047977891233440866,
+"path within limb": 0.17835451347024464
+},
+"object|1|16": {
+"body path distance": 0.03957368333458305,
+"left vs right": 0.016904328510819612,
+"same limb": 0.2229775951080922,
+"distal-proximal": 0.29662088296710876,
+"same part, either side": 0.21278596507143377,
+"shared words (lexical)": 0.4700736764895968,
+"body path | lexical": -0.007355290529983865,
+"path within limb": 0.1721393371951241
+},
+"object|1|17": {
+"body path distance": 0.01752795049217926,
+"left vs right": -0.0026776083732105303,
+"same limb": 0.21562573843104765,
+"distal-proximal": 0.28956621432282004,
+"same part, either side": 0.21233223433691853,
+"shared words (lexical)": 0.4351022676401022,
+"body path | lexical": -0.027991359876422824,
+"path within limb": 0.13743330927323866
+},
+"object|1|18": {
+"body path distance": 0.01720754302843907,
+"left vs right": -0.013820868463883647,
+"same limb": 0.20068164975068878,
+"distal-proximal": 0.26620536249176335,
+"same part, either side": 0.2119884989319828,
+"shared words (lexical)": 0.4209189221429543,
+"body path | lexical": -0.026600378001826724,
+"path within limb": 0.08242004365301088
+},
+"object|1|19": {
+"body path distance": -0.0029289882967156364,
+"left vs right": -0.026100376334501345,
+"same limb": 0.1851797088980434,
+"distal-proximal": 0.26770862903103226,
+"same part, either side": 0.20800116823472797,
+"shared words (lexical)": 0.3961210426496705,
+"body path | lexical": -0.04565762435754594,
+"path within limb": 0.0785772019532209
+},
+"object|1|20": {
+"body path distance": -0.016126731430593313,
+"left vs right": -0.029511062442574083,
+"same limb": 0.17131050611062684,
+"distal-proximal": 0.2460873232386984,
+"same part, either side": 0.2040825846184603,
+"shared words (lexical)": 0.39447128591439756,
+"body path | lexical": -0.05987746652655022,
+"path within limb": 0.05022829633521783
+},
+"object|1|21": {
+"body path distance": -0.02129489363044112,
+"left vs right": -0.032353319337478134,
+"same limb": 0.16765045161440542,
+"distal-proximal": 0.23225671845920698,
+"same part, either side": 0.19900905004160843,
+"shared words (lexical)": 0.3787925872949231,
+"body path | lexical": -0.06339638521487338,
+"path within limb": 0.04981857830267206
+},
+"object|1|22": {
+"body path distance": -0.012617987880870055,
+"left vs right": -0.0368240745447156,
+"same limb": 0.17307930568129146,
+"distal-proximal": 0.2425968266788643,
+"same part, either side": 0.19514546409013048,
+"shared words (lexical)": 0.36754788151054996,
+"body path | lexical": -0.05252324198666695,
+"path within limb": 0.05331394328852157
+},
+"object|1|23": {
+"body path distance": -0.009075269891723903,
+"left vs right": -0.037966683043491815,
+"same limb": 0.17610440648547945,
+"distal-proximal": 0.24147852045176532,
+"same part, either side": 0.1932205458224902,
+"shared words (lexical)": 0.3601396346986658,
+"body path | lexical": -0.04776300516268523,
+"path within limb": 0.058308025492874574
+},
+"object|1|24": {
+"body path distance": -0.0071468647172850345,
+"left vs right": -0.037278347652334544,
+"same limb": 0.17651259100178668,
+"distal-proximal": 0.24133750545621585,
+"same part, either side": 0.1928080633365673,
+"shared words (lexical)": 0.35871557069756344,
+"body path | lexical": -0.0455089401781901,
+"path within limb": 0.052778847060224086
+},
+"object|1|25": {
+"body path distance": 0.005697269498563088,
+"left vs right": -0.03333646872234009,
+"same limb": 0.16847589141404892,
+"distal-proximal": 0.2322086999130367,
+"same part, either side": 0.18638708597236728,
+"shared words (lexical)": 0.33743614974933916,
+"body path | lexical": -0.02919221333015232,
+"path within limb": 0.07171229795654416
+},
+"object|1|26": {
+"body path distance": 0.016888576966685255,
+"left vs right": -0.0325759553621792,
+"same limb": 0.16444393546963643,
+"distal-proximal": 0.2235349448163439,
+"same part, either side": 0.17342138649819036,
+"shared words (lexical)": 0.293298908103235,
+"body path | lexical": -0.012438466722551125,
+"path within limb": 0.07650532726842388
+},
+"object|1|27": {
+"body path distance": 0.020459153176014794,
+"left vs right": -0.03104082944685242,
+"same limb": 0.15305558746466494,
+"distal-proximal": 0.20942777201815796,
+"same part, either side": 0.15886075474511152,
+"shared words (lexical)": 0.24472887821500702,
+"body path | lexical": -0.0036346847825535007,
+"path within limb": 0.07505273131478618
+},
+"object|1|28": {
+"body path distance": 0.02826305730715035,
+"left vs right": -0.0289933233993632,
+"same limb": 0.14194843323759396,
+"distal-proximal": 0.19323216011423577,
+"same part, either side": 0.14781997353857487,
+"shared words (lexical)": 0.2171240086603794,
+"body path | lexical": 0.007205747239238272,
+"path within limb": 0.06776781036234121
+}
+}

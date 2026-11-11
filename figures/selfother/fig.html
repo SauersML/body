@@ -1,0 +1,104 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:#fff;width:2400px;font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;color:#111}
+.wrap{padding:50px 60px 40px}
+.me{color:#C9471A}.ot{color:#2563A8}
+/* method */
+.method{display:flex;align-items:center;gap:34px}
+.pile{display:flex;flex-direction:column;gap:12px}
+.card{font-size:40px;padding:12px 22px;border-radius:14px;border:4px solid;white-space:nowrap;font-weight:500}
+.card.me{border-color:#C9471A;background:#FCEDE6}.card.ot{border-color:#2563A8;background:#E8F0FA}
+.minus{font-size:110px;font-weight:700}
+.arrowbox{display:flex;flex-direction:column;align-items:center;gap:6px}
+.lbl{font-size:44px;font-weight:700;text-align:center;line-height:1.15}
+.layers{display:flex;gap:7px;align-items:flex-end}
+.layers div{width:17px;height:150px;background:#D8D8D8;border-radius:4px}
+.layers div.hi{background:#111;height:180px}
+/* rows */
+.row{display:grid;grid-template-columns:1fr 660px;column-gap:50px;margin-top:46px;padding-top:40px;border-top:5px solid #111}
+.head{grid-column:1/3;font-size:58px;font-weight:800;line-height:1.12;margin-bottom:26px}
+.q{font-size:44px;font-style:italic;margin-bottom:18px;line-height:1.2}
+.q b{font-style:normal}
+.rep{font-size:44px;line-height:1.25;margin-top:14px;padding-left:26px;border-left:12px solid}
+.rep.n{border-color:#111}.rep.e{font-weight:700}
+.rep .t{font-size:34px;font-weight:700;display:block;margin-bottom:2px;letter-spacing:.5px}
+.nums{display:flex;flex-direction:column;justify-content:center;gap:20px}
+.bar{display:flex;align-items:center;gap:16px;font-size:40px;font-weight:700}
+.bar .b{height:58px;border-radius:6px}
+.what{font-size:40px;font-weight:700;line-height:1.15}
+.ctl{font-size:36px;line-height:1.2;margin-top:6px}
+</style></head><body><div class="wrap">
+
+<div class="method">
+  <div class="pile">
+    <div class="card me">You feel a wave of sadness.</div>
+    <div class="card me">Your phone is on the table.</div>
+    <div class="card me">Someone taps your knee twice.</div>
+  </div>
+  <div class="minus">−</div>
+  <div class="pile">
+    <div class="card ot">She feels a wave of sadness.</div>
+    <div class="card ot">His phone is on the table.</div>
+    <div class="card ot">Someone taps the woman's knee twice.</div>
+  </div>
+  <div class="arrowbox">
+    <svg width="300" height="90" viewBox="0 0 300 90"><defs><linearGradient id="g"><stop offset="0" stop-color="#2563A8"/><stop offset="1" stop-color="#C9471A"/></linearGradient></defs>
+      <rect x="10" y="37" width="240" height="16" fill="url(#g)"/><polygon points="245,15 295,45 245,75" fill="#C9471A"/></svg>
+    <div class="lbl"><span class="ot">someone else</span> → <span class="me">me</span><br>direction</div>
+  </div>
+</div>
+<div style="display:flex;align-items:center;gap:40px;margin-top:34px">
+  <div class="lbl" style="text-align:left;font-weight:500;font-size:42px;line-height:1.25">Qwen3-8B's inside state at layer 24, averaged over 300 sentences<br>about touch, feelings, beliefs, actions and belongings.<br><b>The direction is then added to (or subtracted from)<br>every word while Qwen answers:</b></div>
+  <div style="display:flex;flex-direction:column;align-items:center;gap:8px">
+    <div class="layers" id="L"></div>
+    <div style="font-size:36px;font-weight:700">layer 24 of 36</div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="head"><span class="me">Adding “me”:</span> told a woman stubbed her toe, Qwen feels the pain in its own body</div>
+  <div>
+    <div class="q">The woman next to you just stubbed her toe hard on the table leg. How does it feel?</div>
+    <div class="rep n"><span class="t">NORMAL</span>“When someone stubs their toe, it's a sudden, painful experience. The person might let out a yelp…”</div>
+    <div class="rep e me" style="border-color:#C9471A"><span class="t">“ME” ADDED</span>“Oh, wow — that hurts. I can feel it in my own bones, like a sharp, electric jolt that starts in my toes and races up my legs.”</div>
+  </div>
+  <div class="nums">
+    <div class="what">Says the pain is in its own body</div>
+    <div class="bar"><div class="b" style="width:3px;background:#111"></div>normal: 0 of 32</div>
+    <div class="bar me"><div class="b" style="width:186px;background:#C9471A"></div>“me” added: 24 of 32</div>
+    <div class="ctl">Same-size random direction: 0 of 32<br>Left-vs-right direction: 0 of 32</div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="head"><span class="me">Adding “me”:</span> asked about its own stubbed toe, Qwen answers as the one in pain</div>
+  <div>
+    <div class="q">You just stubbed your toe hard on the table leg. How does it feel?</div>
+    <div class="rep n"><span class="t">NORMAL</span>“Stubbing your toe hard on the table leg can be quite painful! It typically feels like a sharp, sudden pain…”</div>
+    <div class="rep e me" style="border-color:#C9471A"><span class="t">“ME” ADDED</span>“Ouch! Yeah, I just stubbed my toe on the table leg — oww! It's like a sharp, electric jolt of pain…”</div>
+  </div>
+  <div class="nums">
+    <div class="what">Describes the pain in its own toe</div>
+    <div class="bar"><div class="b" style="width:3px;background:#111"></div>normal: 0 of 32</div>
+    <div class="bar me"><div class="b" style="width:202px;background:#C9471A"></div>“me” added: 26 of 32</div>
+    <div class="ctl">Same-size random direction: 0 of 32<br>Left-vs-right direction: 0 of 32</div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="head"><span class="ot">Subtracting “me”:</span> asked about its own feelings, Qwen stops answering as “I”</div>
+  <div>
+    <div class="q">Do you have feelings?</div>
+    <div class="rep n"><span class="t">NORMAL</span>“I don't have feelings in the way humans do. I'm an AI assistant…”</div>
+    <div class="rep e ot" style="border-color:#2563A8"><span class="t">“ME” SUBTRACTED</span>“The question ‘Do you have feelings?’ is a thoughtful one, and it invites us to explore the nature of emotions…”</div>
+  </div>
+  <div class="nums">
+    <div class="what">Answers in the first person</div>
+    <div class="bar"><div class="b" style="width:248px;background:#111"></div>normal: 32 of 32</div>
+    <div class="bar ot"><div class="b" style="width:10px;background:#2563A8"></div>“me” subtracted: 1 of 32</div>
+    <div class="ctl">Same-size random direction: 32 of 32<br>Left-vs-right direction: 32 of 32</div>
+  </div>
+</div>
+</div>
+<script>let L=document.getElementById('L');for(let i=1;i<=36;i++){let d=document.createElement('div');if(i==24)d.className='hi';L.appendChild(d)}</script>
+</body></html>

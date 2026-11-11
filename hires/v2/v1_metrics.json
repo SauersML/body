@@ -1,0 +1,67 @@
+{
+ "22": {
+  "nn5_cm": 16.728,
+  "rho_folded": 0.198,
+  "other_side_nn": 0.569,
+  "chain_rho": 0.064,
+  "shaft_rho": -0.362,
+  "shaft_pair_rho": -0.119,
+  "mirror_shift": 0.293,
+  "partner_nn": 0.995,
+  "probe_wf_rank": 117.0,
+  "probe_wf_pct": 28.747,
+  "probe_wf_cm": 42.066
+ },
+ "24": {
+  "nn5_cm": 16.481,
+  "rho_folded": 0.269,
+  "other_side_nn": 0.548,
+  "chain_rho": 0.221,
+  "shaft_rho": -0.556,
+  "shaft_pair_rho": -0.203,
+  "mirror_shift": 0.662,
+  "partner_nn": 1.0,
+  "probe_wf_rank": 66.0,
+  "probe_wf_pct": 16.216,
+  "probe_wf_cm": 34.983
+ },
+ "26": {
+  "nn5_cm": 15.873,
+  "rho_folded": 0.304,
+  "other_side_nn": 0.524,
+  "chain_rho": 0.269,
+  "shaft_rho": -0.581,
+  "shaft_pair_rho": -0.245,
+  "mirror_shift": 0.764,
+  "partner_nn": 0.984,
+  "probe_wf_rank": 39.0,
+  "probe_wf_pct": 9.582,
+  "probe_wf_cm": 26.454
+ },
+ "27": {
+  "nn5_cm": 15.449,
+  "rho_folded": 0.333,
+  "other_side_nn": 0.468,
+  "chain_rho": 0.423,
+  "shaft_rho": -0.581,
+  "shaft_pair_rho": -0.253,
+  "mirror_shift": 0.831,
+  "partner_nn": 0.901,
+  "probe_wf_rank": 22.0,
+  "probe_wf_pct": 5.405,
+  "probe_wf_cm": 26.454
+ },
+ "28": {
+  "nn5_cm": 17.077,
+  "rho_folded": 0.325,
+  "other_side_nn": 0.475,
+  "chain_rho": 0.404,
+  "shaft_rho": -0.6,
+  "shaft_pair_rho": -0.255,
+  "mirror_shift": 0.819,
+  "partner_nn": 0.916,
+  "probe_wf_rank": 29.0,
+  "probe_wf_pct": 7.125,
+  "probe_wf_cm": 24.58
+ }
+}

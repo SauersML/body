@@ -1,0 +1,70 @@
+<!doctype html><html><head><meta charset="utf-8">
+<style>html,body{margin:0;background:#fff;overflow:hidden;font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;color:#111}
+#c{position:absolute;left:0;top:0} #ov{position:absolute;left:0;top:0}
+.t{position:absolute;white-space:nowrap;line-height:1.1}</style></head><body>
+<canvas id="c"></canvas><div id="ov"></div>
+<script type="importmap">{"imports":{"three":"./three.module.js"}}</script>
+<script type="module">
+import * as THREE from 'three';
+const CFG=await (await fetch('cfg.json?'+Math.random())).json();
+const SP=await (await fetch('spots.json?'+Math.random())).json();
+const SDF=await (await fetch('sdf.glsl?'+Math.random())).text();
+const W=CFG.W,H=CFG.H,DPR=CFG.dpr;
+const ren=new THREE.WebGLRenderer({canvas:document.getElementById('c'),antialias:false,preserveDrawingBuffer:true});
+ren.setPixelRatio(DPR); ren.setSize(W,H); ren.setClearColor(0xffffff,1); ren.autoClear=false;
+const REGI={face:0,hand:1,foot:2,forearm:3};
+const frag=`
+precision highp float;
+uniform vec4 uVP; uniform vec3 uEye,uTgt,uUp; uniform float uExt; uniform int uReg; uniform int uN; uniform float uSig;
+uniform vec3 uPos[64]; uniform vec3 uNrm[64]; uniform vec3 uLab[64]; uniform float uSigI[64]; uniform float uDots; uniform vec3 uLight;
+float smin(float a,float b,float k){float h=max(k-abs(a-b),0.)/k;return min(a,b)-h*h*k*0.25;}
+float sdEll(vec3 p,vec3 c,vec3 r){vec3 q=p-c;float k0=length(q/r);float k1=length(q/(r*r));return k0*(k0-1.)/max(k1,1e-6);}
+float sdCap(vec3 p,vec3 a,vec3 b,float ra,float rb){vec3 ba=b-a,pa=p-a;float h=clamp(dot(pa,ba)/dot(ba,ba),0.,1.);return length(pa-ba*h)-mix(ra,rb,h);}
+float sdBox(vec3 p,vec3 c,vec3 h,float r){vec3 q=abs(p-c)-h;return length(max(q,0.))+min(max(q.x,max(q.y,q.z)),0.)-r;}
+${SDF}
+float map(vec3 p){ if(uReg==0) return sdf_face(p); if(uReg==1) return sdf_hand(p); if(uReg==2) return sdf_foot(p); return sdf_forearm(p);}
+vec3 nrm(vec3 p){vec2 e=vec2(1.,-1.)*0.0025;return normalize(e.xyy*map(p+e.xyy)+e.yyx*map(p+e.yyx)+e.yxy*map(p+e.yxy)+e.xxx*map(p+e.xxx));}
+float shadow(vec3 ro,vec3 rd){float r=1.,t=0.05;for(int i=0;i<64;i++){float h=map(ro+rd*t);r=min(r,10.*h/t);t+=clamp(h,0.02,0.6);if(r<0.001||t>30.)break;}return clamp(r,0.,1.);}
+float ao(vec3 p,vec3 n){float o=0.,s=1.;for(int i=1;i<=6;i++){float h=0.12*float(i);o+=(h-map(p+n*h))*s;s*=0.75;}return clamp(1.-0.9*o,0.,1.);}
+vec3 lab2lin(vec3 c){float l_=c.x+0.3963377774*c.y+0.2158037573*c.z;float m_=c.x-0.1055613458*c.y-0.0638541728*c.z;float s_=c.x-0.0894841775*c.y-1.2914855480*c.z;
+ float l=l_*l_*l_,m=m_*m_*m_,s=s_*s_*s_;return vec3(4.0767416621*l-3.3077115913*m+0.2309699292*s,-1.2684380046*l+2.6097574011*m-0.3413193965*s,-0.0041960863*l-0.7034186147*m+1.7076147010*s);}
+vec3 enc(vec3 c){c=clamp(c,0.,1.);return mix(c*12.92,1.055*pow(c,vec3(1./2.4))-0.055,step(0.0031308,c));}
+void main(){
+ vec2 uv=(gl_FragCoord.xy-uVP.xy)/uVP.zw*2.-1.; uv.x*=uVP.z/uVP.w;
+ vec3 f=normalize(uTgt-uEye),r=normalize(cross(f,uUp)),u=cross(r,f);
+ float D=length(uTgt-uEye); vec3 ro=uEye; vec3 rd=normalize(f*D+(r*uv.x+u*uv.y)*uExt);
+ float t=D-25.; bool hit=false; vec3 p;
+ for(int i=0;i<260;i++){p=ro+rd*t;float h=map(p);if(h<0.0015*t*0.02+0.0008){hit=true;break;}t+=h*0.9;if(t>D+30.)break;}
+ if(!hit){gl_FragColor=vec4(1.);return;}
+ vec3 n=nrm(p);
+ vec3 lab=vec3(0.);float ws=0.;
+ for(int i=0;i<64;i++){if(i>=uN)break;vec3 d=p-uPos[i];float sg=uSigI[i]*uSig; float g=exp(-dot(d,d)/(2.*sg*sg));float a=max(0.,(1.+dot(n,uNrm[i]))*0.5);g*=a*a*a;lab+=g*uLab[i];ws+=g;}
+ vec3 base=vec3(0.955,0.004,0.012);
+ float al=1.-exp(-ws/0.35); vec3 L=mix(base,lab/max(ws,1e-6),al);
+ float dd=1e9; for(int i=0;i<64;i++){if(i>=uN)break;dd=min(dd,length(p-uPos[i]));}
+ vec3 alb=lab2lin(L);
+ vec3 l=normalize(uLight.x*r+uLight.y*u-uLight.z*f); float dif=clamp((dot(n,l)+0.35)/1.35,0.,1.); float sh=shadow(p+n*0.02,l); float o=ao(p,n);
+ float hemi=0.6+0.4*dot(n,u); vec3 v=-rd; vec3 hv=normalize(l+v); float spec=pow(max(dot(n,hv),0.),40.)*0.08*sh;
+ float fres=pow(1.-max(dot(n,v),0.),3.);
+ vec3 col=alb*(0.42*hemi*o+0.78*dif*mix(0.45,1.,sh))+vec3(spec)+0.10*fres*vec3(1.);
+ col=mix(col,vec3(1.),0.0);
+ if(uDots>0.){float rr=uDots; float m=smoothstep(rr,rr*0.75,dd); col=mix(col,vec3(1.),m*0.9);}
+ gl_FragColor=vec4(enc(col),1.);
+}`;
+const mat=new THREE.ShaderMaterial({fragmentShader:frag,vertexShader:'void main(){gl_Position=vec4(position.xy,0.,1.);}',
+ uniforms:{uVP:{value:new THREE.Vector4()},uEye:{value:new THREE.Vector3()},uTgt:{value:new THREE.Vector3()},uUp:{value:new THREE.Vector3()},uExt:{value:10},
+  uReg:{value:0},uN:{value:0},uSig:{value:1},uPos:{value:[...Array(64)].map(()=>new THREE.Vector3())},uNrm:{value:[...Array(64)].map(()=>new THREE.Vector3())},
+  uLab:{value:[...Array(64)].map(()=>new THREE.Vector3())},uSigI:{value:new Array(64).fill(1)},uDots:{value:0},uLight:{value:new THREE.Vector3(-0.55,0.75,0.75)}}});
+const quad=new THREE.Mesh(new THREE.PlaneGeometry(2,2),mat); const sc=new THREE.Scene(); sc.add(quad); const cam=new THREE.OrthographicCamera(-1,1,1,-1,0,1);
+ren.clear();
+for(const v of CFG.views){
+ const s=SP[v.reg]; const U=mat.uniforms; const n=s.pos.length;
+ for(let i=0;i<64;i++){const j=Math.min(i,n-1);U.uPos.value[i].set(...s.pos[j]);U.uNrm.value[i].set(...s.nrm[j]);U.uLab.value[i].set(...(v.src==='w'?s.cw[j]:s.c32[j]));}
+ for(let i=0;i<64;i++)U.uSigI.value[i]=s.sigi[Math.min(i,n-1)]; U.uN.value=n; U.uSig.value=(v.sigk||1); U.uReg.value=REGI[v.reg]; U.uEye.value.set(...v.eye); U.uTgt.value.set(...v.tgt); U.uUp.value.set(...v.up); U.uExt.value=v.ext; U.uDots.value=v.dots||0;
+ if(v.light)U.uLight.value.set(...v.light); else U.uLight.value.set(-0.55,0.75,0.75);
+ const [x,y,w,h]=v.vp; const X=x*DPR,Y=(H-y-h)*DPR,Wd=w*DPR,Hd=h*DPR; U.uVP.value.set(X,Y,Wd,Hd);
+ ren.setViewport(x,H-y-h,w,h); ren.setScissor(x,H-y-h,w,h); ren.setScissorTest(true); ren.render(sc,cam);
+}
+document.getElementById('ov').innerHTML=CFG.html||'';
+window.READY=true;
+</script></body></html>

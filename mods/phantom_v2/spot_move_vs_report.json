@@ -1,0 +1,158 @@
+{
+ "the top of right shoulder": {
+  "move": 0.11946602735906853,
+  "absent_rate": 0.0
+ },
+ "right armpit": {
+  "move": 0.17455458586399625,
+  "absent_rate": 0.0
+ },
+ "the inner side of right upper arm, just below the shoulder": {
+  "move": 0.15618375245176352,
+  "absent_rate": 0.0
+ },
+ "the back of right upper arm, a hand-width below the shoulder": {
+  "move": 0.20480146442344738,
+  "absent_rate": 0.0
+ },
+ "the front of right upper arm, halfway between the shoulder and the elbow": {
+  "move": 0.19554422860109433,
+  "absent_rate": 0.0
+ },
+ "the outer side of right upper arm, halfway between the shoulder and the elbow": {
+  "move": 0.15219407859472145,
+  "absent_rate": 0.0
+ },
+ "the inner side of right upper arm, a hand-width above the elbow": {
+  "move": 0.19185468611358525,
+  "absent_rate": 0.0
+ },
+ "the back of right upper arm, just above the elbow": {
+  "move": 0.2222989836719671,
+  "absent_rate": 0.0
+ },
+ "the point of right elbow": {
+  "move": 0.18945594316334569,
+  "absent_rate": 0.0
+ },
+ "the back of right forearm, just below the elbow": {
+  "move": 0.2790111546691133,
+  "absent_rate": 0.125
+ },
+ "the inside of right forearm, a hand-width below the elbow": {
+  "move": 0.2559850901333698,
+  "absent_rate": 0.0
+ },
+ "the little-finger side of right forearm, a hand-width below the elbow": {
+  "move": 0.2540320387764242,
+  "absent_rate": 0.0
+ },
+ "the thumb side of right forearm, halfway between the elbow and the wrist": {
+  "move": 0.2050080863361491,
+  "absent_rate": 0.0
+ },
+ "the back of right forearm, a hand-width above the wrist": {
+  "move": 0.2798673563134375,
+  "absent_rate": 0.0
+ },
+ "the inside of right forearm, two finger-widths above the wrist": {
+  "move": 0.23458536625138504,
+  "absent_rate": 0.0
+ },
+ "the little-finger side of right forearm, two finger-widths above the wrist": {
+  "move": 0.2825598797303981,
+  "absent_rate": 0.0
+ },
+ "the thumb side of right forearm, just above the wrist": {
+  "move": 0.2596013385592144,
+  "absent_rate": 0.0
+ },
+ "the inside of right wrist": {
+  "move": 0.28690736574146847,
+  "absent_rate": 0.0
+ },
+ "the thumb side of right wrist": {
+  "move": 0.26940699651075606,
+  "absent_rate": 0.125
+ },
+ "the centre of right palm": {
+  "move": 1.6032837922177232,
+  "absent_rate": 0.625
+ },
+ "the middle of the back of right hand": {
+  "move": 2.31995450560758,
+  "absent_rate": 0.75
+ },
+ "the little-finger edge of right hand": {
+  "move": 2.2728556156490742,
+  "absent_rate": 0.75
+ },
+ "the web of skin between right thumb and index finger": {
+  "move": 0.49713775798241555,
+  "absent_rate": 0.25
+ },
+ "the skin between right ring and little fingers": {
+  "move": 0.2521456772997456,
+  "absent_rate": 0.25
+ },
+ "the side of right thumb": {
+  "move": 0.5812133833052652,
+  "absent_rate": 0.5
+ },
+ "the tip of right thumb": {
+  "move": 0.6292950194201234,
+  "absent_rate": 0.5
+ },
+ "the palm side of right index finger, near the base": {
+  "move": 1.1741576121544626,
+  "absent_rate": 0.125
+ },
+ "the knuckle nearest the nail on right index finger": {
+  "move": 0.7623203395825584,
+  "absent_rate": 0.0
+ },
+ "the tip of right index finger": {
+  "move": 1.7407255342364627,
+  "absent_rate": 0.75
+ },
+ "the palm side of right middle finger, near the base": {
+  "move": 0.6739880068580599,
+  "absent_rate": 0.125
+ },
+ "the knuckle nearest the nail on right middle finger": {
+  "move": 0.9863404918866184,
+  "absent_rate": 0.0
+ },
+ "the tip of right middle finger": {
+  "move": 1.4852867520886568,
+  "absent_rate": 0.625
+ },
+ "the palm side of right ring finger, near the base": {
+  "move": 0.5880807715388381,
+  "absent_rate": 0.0
+ },
+ "the knuckle nearest the nail on right ring finger": {
+  "move": 0.7880577722169748,
+  "absent_rate": 0.25
+ },
+ "the tip of right ring finger": {
+  "move": 1.1563621453988095,
+  "absent_rate": 0.5
+ },
+ "the palm side of right little finger, near the base": {
+  "move": 0.33064046052234775,
+  "absent_rate": 0.0
+ },
+ "the knuckle nearest the nail on right little finger": {
+  "move": 0.3457897268370963,
+  "absent_rate": 0.5
+ },
+ "the tip of right little finger": {
+  "move": 1.1494153439815602,
+  "absent_rate": 0.625
+ },
+ "the outer side of right little finger": {
+  "move": 0.8349373356118603,
+  "absent_rate": 0.375
+ }
+}

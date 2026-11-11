@@ -1,0 +1,2006 @@
+{
+ "runs": [
+  {
+   "L": 18,
+   "axis": "wing",
+   "beta": 0.25,
+   "s": -1.0,
+   "ev": 6.767301547838532,
+   "mass": 1.0
+  },
+  {
+   "L": 18,
+   "axis": "wing",
+   "beta": 0.25,
+   "s": -0.75,
+   "ev": 6.806186451803586,
+   "mass": 1.0
+  },
+  {
+   "L": 18,
+   "axis": "wing",
+   "beta": 0.25,
+   "s": -0.5,
+   "ev": 6.855263351463163,
+   "mass": 0.9999998211860657
+  },
+  {
+   "L": 18,
+   "axis": "wing",
+   "beta": 0.25,
+   "s": -0.25,
+   "ev": 6.869532671454118,
+   "mass": 0.9999999403953552
+  },
+  {
+   "L": 18,
+   "axis": "wing",
+   "beta": 0.25,
+   "s": 0.0,
+   "ev": 6.840809379359207,
+   "mass": 1.0000001192092896
+  },
+  {
+   "L": 18,
+   "axis": "wing",
+   "beta": 0.25,
+   "s": 0.25,
+   "ev": 6.842224359237548,
+   "mass": 0.9999999403953552
+  },
+  {
+   "L": 18,
+   "axis": "wing",
+   "beta": 0.25,
+   "s": 0.5,
+   "ev": 6.756388206219299,
+   "mass": 1.0
+  },
+  {
+   "L": 18,
+   "axis": "wing",
+   "beta": 0.25,
+   "s": 0.75,
+   "ev": 6.651436393152494,
+   "mass": 1.0
+  },
+  {
+   "L": 18,
+   "axis": "wing",
+   "beta": 0.25,
+   "s": 1.0,
+   "ev": 6.604562041713052,
+   "mass": 0.9999998807907104
+  },
+  {
+   "L": 18,
+   "axis": "wing",
+   "beta": 0.5,
+   "s": -1.0,
+   "ev": 5.672999867184693,
+   "mass": 0.9929118752479553
+  },
+  {
+   "L": 18,
+   "axis": "wing",
+   "beta": 0.5,
+   "s": -0.75,
+   "ev": 6.369703429455785,
+   "mass": 0.9999995827674866
+  },
+  {
+   "L": 18,
+   "axis": "wing",
+   "beta": 0.5,
+   "s": -0.5,
+   "ev": 6.767301547838532,
+   "mass": 1.0
+  },
+  {
+   "L": 18,
+   "axis": "wing",
+   "beta": 0.5,
+   "s": -0.25,
+   "ev": 6.855263351463163,
+   "mass": 0.9999998211860657
+  },
+  {
+   "L": 18,
+   "axis": "wing",
+   "beta": 0.5,
+   "s": 0.0,
+   "ev": 6.840809379359207,
+   "mass": 1.0000001192092896
+  },
+  {
+   "L": 18,
+   "axis": "wing",
+   "beta": 0.5,
+   "s": 0.25,
+   "ev": 6.756388206219299,
+   "mass": 1.0
+  },
+  {
+   "L": 18,
+   "axis": "wing",
+   "beta": 0.5,
+   "s": 0.5,
+   "ev": 6.604562041713052,
+   "mass": 0.9999998807907104
+  },
+  {
+   "L": 18,
+   "axis": "wing",
+   "beta": 0.5,
+   "s": 0.75,
+   "ev": 6.457584080561446,
+   "mass": 1.0
+  },
+  {
+   "L": 18,
+   "axis": "wing",
+   "beta": 0.5,
+   "s": 1.0,
+   "ev": 6.682516535913692,
+   "mass": 0.9999980926513672
+  },
+  {
+   "L": 18,
+   "axis": "desc",
+   "beta": 0.25,
+   "s": -1.0,
+   "ev": 5.865296440454191,
+   "mass": 0.9999999403953552
+  },
+  {
+   "L": 18,
+   "axis": "desc",
+   "beta": 0.25,
+   "s": -0.75,
+   "ev": 6.076580935552286,
+   "mass": 1.0
+  },
+  {
+   "L": 18,
+   "axis": "desc",
+   "beta": 0.25,
+   "s": -0.5,
+   "ev": 6.465230227267675,
+   "mass": 1.0
+  },
+  {
+   "L": 18,
+   "axis": "desc",
+   "beta": 0.25,
+   "s": -0.25,
+   "ev": 6.714700651206208,
+   "mass": 1.0
+  },
+  {
+   "L": 18,
+   "axis": "desc",
+   "beta": 0.25,
+   "s": 0.0,
+   "ev": 6.840809379359207,
+   "mass": 1.0000001192092896
+  },
+  {
+   "L": 18,
+   "axis": "desc",
+   "beta": 0.25,
+   "s": 0.25,
+   "ev": 6.922766806581048,
+   "mass": 1.0
+  },
+  {
+   "L": 18,
+   "axis": "desc",
+   "beta": 0.25,
+   "s": 0.5,
+   "ev": 6.96003213801912,
+   "mass": 1.0
+  },
+  {
+   "L": 18,
+   "axis": "desc",
+   "beta": 0.25,
+   "s": 0.75,
+   "ev": 6.962565717613028,
+   "mass": 0.9999999403953552
+  },
+  {
+   "L": 18,
+   "axis": "desc",
+   "beta": 0.25,
+   "s": 1.0,
+   "ev": 6.967361096737845,
+   "mass": 1.0000001192092896
+  },
+  {
+   "L": 18,
+   "axis": "desc",
+   "beta": 0.5,
+   "s": -1.0,
+   "ev": 6.10852830827972,
+   "mass": 0.9999961853027344
+  },
+  {
+   "L": 18,
+   "axis": "desc",
+   "beta": 0.5,
+   "s": -0.75,
+   "ev": 5.680698270011267,
+   "mass": 0.9999998211860657
+  },
+  {
+   "L": 18,
+   "axis": "desc",
+   "beta": 0.5,
+   "s": -0.5,
+   "ev": 5.865296440454191,
+   "mass": 0.9999999403953552
+  },
+  {
+   "L": 18,
+   "axis": "desc",
+   "beta": 0.5,
+   "s": -0.25,
+   "ev": 6.465230227267675,
+   "mass": 1.0
+  },
+  {
+   "L": 18,
+   "axis": "desc",
+   "beta": 0.5,
+   "s": 0.0,
+   "ev": 6.840809379359207,
+   "mass": 1.0000001192092896
+  },
+  {
+   "L": 18,
+   "axis": "desc",
+   "beta": 0.5,
+   "s": 0.25,
+   "ev": 6.96003213801912,
+   "mass": 1.0
+  },
+  {
+   "L": 18,
+   "axis": "desc",
+   "beta": 0.5,
+   "s": 0.5,
+   "ev": 6.967361096737845,
+   "mass": 1.0000001192092896
+  },
+  {
+   "L": 18,
+   "axis": "desc",
+   "beta": 0.5,
+   "s": 0.75,
+   "ev": 6.948568175559245,
+   "mass": 0.9999999403953552
+  },
+  {
+   "L": 18,
+   "axis": "desc",
+   "beta": 0.5,
+   "s": 1.0,
+   "ev": 6.5981246487759195,
+   "mass": 0.9999946355819702
+  },
+  {
+   "L": 18,
+   "axis": "nowings",
+   "beta": 0.25,
+   "s": -1.0,
+   "ev": 6.739538369216146,
+   "mass": 1.0000001192092896
+  },
+  {
+   "L": 18,
+   "axis": "nowings",
+   "beta": 0.25,
+   "s": -0.75,
+   "ev": 6.762060570690204,
+   "mass": 1.0000001192092896
+  },
+  {
+   "L": 18,
+   "axis": "nowings",
+   "beta": 0.25,
+   "s": -0.5,
+   "ev": 6.810166293572961,
+   "mass": 0.9999998807907104
+  },
+  {
+   "L": 18,
+   "axis": "nowings",
+   "beta": 0.25,
+   "s": -0.25,
+   "ev": 6.8249399143051175,
+   "mass": 1.0
+  },
+  {
+   "L": 18,
+   "axis": "nowings",
+   "beta": 0.25,
+   "s": 0.0,
+   "ev": 6.840809379359207,
+   "mass": 1.0000001192092896
+  },
+  {
+   "L": 18,
+   "axis": "nowings",
+   "beta": 0.25,
+   "s": 0.25,
+   "ev": 6.900190297805899,
+   "mass": 0.9999998807907104
+  },
+  {
+   "L": 18,
+   "axis": "nowings",
+   "beta": 0.25,
+   "s": 0.5,
+   "ev": 6.880048325494727,
+   "mass": 1.0
+  },
+  {
+   "L": 18,
+   "axis": "nowings",
+   "beta": 0.25,
+   "s": 0.75,
+   "ev": 6.891639899574784,
+   "mass": 1.0
+  },
+  {
+   "L": 18,
+   "axis": "nowings",
+   "beta": 0.25,
+   "s": 1.0,
+   "ev": 6.916083618774792,
+   "mass": 0.9999998807907104
+  },
+  {
+   "L": 18,
+   "axis": "nowings",
+   "beta": 0.5,
+   "s": -1.0,
+   "ev": 6.486489800827123,
+   "mass": 0.9999999403953552
+  },
+  {
+   "L": 18,
+   "axis": "nowings",
+   "beta": 0.5,
+   "s": -0.75,
+   "ev": 6.658820321363825,
+   "mass": 0.9999998807907104
+  },
+  {
+   "L": 18,
+   "axis": "nowings",
+   "beta": 0.5,
+   "s": -0.5,
+   "ev": 6.739538369216146,
+   "mass": 1.0000001192092896
+  },
+  {
+   "L": 18,
+   "axis": "nowings",
+   "beta": 0.5,
+   "s": -0.25,
+   "ev": 6.810166293572961,
+   "mass": 0.9999998807907104
+  },
+  {
+   "L": 18,
+   "axis": "nowings",
+   "beta": 0.5,
+   "s": 0.0,
+   "ev": 6.840809379359207,
+   "mass": 1.0000001192092896
+  },
+  {
+   "L": 18,
+   "axis": "nowings",
+   "beta": 0.5,
+   "s": 0.25,
+   "ev": 6.880048325494727,
+   "mass": 1.0
+  },
+  {
+   "L": 18,
+   "axis": "nowings",
+   "beta": 0.5,
+   "s": 0.5,
+   "ev": 6.916083618774792,
+   "mass": 0.9999998807907104
+  },
+  {
+   "L": 18,
+   "axis": "nowings",
+   "beta": 0.5,
+   "s": 0.75,
+   "ev": 6.975613702663396,
+   "mass": 0.9999991655349731
+  },
+  {
+   "L": 18,
+   "axis": "nowings",
+   "beta": 0.5,
+   "s": 1.0,
+   "ev": 7.116956642527246,
+   "mass": 0.9998693466186523
+  },
+  {
+   "L": 18,
+   "axis": "glorpctx",
+   "beta": 0.25,
+   "s": -1.0,
+   "ev": 6.532266682629793,
+   "mass": 1.0
+  },
+  {
+   "L": 18,
+   "axis": "glorpctx",
+   "beta": 0.25,
+   "s": -0.75,
+   "ev": 6.71908480739152,
+   "mass": 1.0
+  },
+  {
+   "L": 18,
+   "axis": "glorpctx",
+   "beta": 0.25,
+   "s": -0.5,
+   "ev": 6.772211335548167,
+   "mass": 0.9999999403953552
+  },
+  {
+   "L": 18,
+   "axis": "glorpctx",
+   "beta": 0.25,
+   "s": -0.25,
+   "ev": 6.847736710683376,
+   "mass": 1.0000001192092896
+  },
+  {
+   "L": 18,
+   "axis": "glorpctx",
+   "beta": 0.25,
+   "s": 0.0,
+   "ev": 6.840809379359207,
+   "mass": 1.0000001192092896
+  },
+  {
+   "L": 18,
+   "axis": "glorpctx",
+   "beta": 0.25,
+   "s": 0.25,
+   "ev": 6.882145587627889,
+   "mass": 1.0000001192092896
+  },
+  {
+   "L": 18,
+   "axis": "glorpctx",
+   "beta": 0.25,
+   "s": 0.5,
+   "ev": 6.897581178156656,
+   "mass": 1.0
+  },
+  {
+   "L": 18,
+   "axis": "glorpctx",
+   "beta": 0.25,
+   "s": 0.75,
+   "ev": 6.910204642454296,
+   "mass": 1.0
+  },
+  {
+   "L": 18,
+   "axis": "glorpctx",
+   "beta": 0.25,
+   "s": 1.0,
+   "ev": 6.940438668930831,
+   "mass": 0.9999999403953552
+  },
+  {
+   "L": 18,
+   "axis": "glorpctx",
+   "beta": 0.5,
+   "s": -1.0,
+   "ev": 5.199904126380659,
+   "mass": 0.9999998807907104
+  },
+  {
+   "L": 18,
+   "axis": "glorpctx",
+   "beta": 0.5,
+   "s": -0.75,
+   "ev": 5.9422231428527015,
+   "mass": 1.0
+  },
+  {
+   "L": 18,
+   "axis": "glorpctx",
+   "beta": 0.5,
+   "s": -0.5,
+   "ev": 6.532266682629793,
+   "mass": 1.0
+  },
+  {
+   "L": 18,
+   "axis": "glorpctx",
+   "beta": 0.5,
+   "s": -0.25,
+   "ev": 6.772211335548167,
+   "mass": 0.9999999403953552
+  },
+  {
+   "L": 18,
+   "axis": "glorpctx",
+   "beta": 0.5,
+   "s": 0.0,
+   "ev": 6.840809379359207,
+   "mass": 1.0000001192092896
+  },
+  {
+   "L": 18,
+   "axis": "glorpctx",
+   "beta": 0.5,
+   "s": 0.25,
+   "ev": 6.897581178156656,
+   "mass": 1.0
+  },
+  {
+   "L": 18,
+   "axis": "glorpctx",
+   "beta": 0.5,
+   "s": 0.5,
+   "ev": 6.940438668930831,
+   "mass": 0.9999999403953552
+  },
+  {
+   "L": 18,
+   "axis": "glorpctx",
+   "beta": 0.5,
+   "s": 0.75,
+   "ev": 7.0423490352294245,
+   "mass": 0.9999999403953552
+  },
+  {
+   "L": 18,
+   "axis": "glorpctx",
+   "beta": 0.5,
+   "s": 1.0,
+   "ev": 7.443539828701931,
+   "mass": 0.999987781047821
+  },
+  {
+   "L": 18,
+   "axis": "random",
+   "beta": 0.25,
+   "s": -1.0,
+   "ev": 6.948246297881681,
+   "mass": 1.0000001192092896
+  },
+  {
+   "L": 18,
+   "axis": "random",
+   "beta": 0.25,
+   "s": -0.75,
+   "ev": 6.943731918107176,
+   "mass": 1.0
+  },
+  {
+   "L": 18,
+   "axis": "random",
+   "beta": 0.25,
+   "s": -0.5,
+   "ev": 6.9427341671178695,
+   "mass": 0.9999999403953552
+  },
+  {
+   "L": 18,
+   "axis": "random",
+   "beta": 0.25,
+   "s": -0.25,
+   "ev": 6.913665780502285,
+   "mass": 1.0
+  },
+  {
+   "L": 18,
+   "axis": "random",
+   "beta": 0.25,
+   "s": 0.0,
+   "ev": 6.840809379359207,
+   "mass": 1.0000001192092896
+  },
+  {
+   "L": 18,
+   "axis": "random",
+   "beta": 0.25,
+   "s": 0.25,
+   "ev": 6.793366923150863,
+   "mass": 0.9999999403953552
+  },
+  {
+   "L": 18,
+   "axis": "random",
+   "beta": 0.25,
+   "s": 0.5,
+   "ev": 6.69263908929328,
+   "mass": 0.9999999403953552
+  },
+  {
+   "L": 18,
+   "axis": "random",
+   "beta": 0.25,
+   "s": 0.75,
+   "ev": 6.549080514776421,
+   "mass": 1.0
+  },
+  {
+   "L": 18,
+   "axis": "random",
+   "beta": 0.25,
+   "s": 1.0,
+   "ev": 6.388129332519327,
+   "mass": 1.0
+  },
+  {
+   "L": 18,
+   "axis": "random",
+   "beta": 0.5,
+   "s": -1.0,
+   "ev": 6.852644106580556,
+   "mass": 0.9997973442077637
+  },
+  {
+   "L": 18,
+   "axis": "random",
+   "beta": 0.5,
+   "s": -0.75,
+   "ev": 6.944698894525459,
+   "mass": 0.9999998807907104
+  },
+  {
+   "L": 18,
+   "axis": "random",
+   "beta": 0.5,
+   "s": -0.5,
+   "ev": 6.948246297881681,
+   "mass": 1.0000001192092896
+  },
+  {
+   "L": 18,
+   "axis": "random",
+   "beta": 0.5,
+   "s": -0.25,
+   "ev": 6.9427341671178695,
+   "mass": 0.9999999403953552
+  },
+  {
+   "L": 18,
+   "axis": "random",
+   "beta": 0.5,
+   "s": 0.0,
+   "ev": 6.840809379359207,
+   "mass": 1.0000001192092896
+  },
+  {
+   "L": 18,
+   "axis": "random",
+   "beta": 0.5,
+   "s": 0.25,
+   "ev": 6.69263908929328,
+   "mass": 0.9999999403953552
+  },
+  {
+   "L": 18,
+   "axis": "random",
+   "beta": 0.5,
+   "s": 0.5,
+   "ev": 6.388129332519327,
+   "mass": 1.0
+  },
+  {
+   "L": 18,
+   "axis": "random",
+   "beta": 0.5,
+   "s": 0.75,
+   "ev": 5.769355527457947,
+   "mass": 0.9999985694885254
+  },
+  {
+   "L": 18,
+   "axis": "random",
+   "beta": 0.5,
+   "s": 1.0,
+   "ev": 5.2362613212972065,
+   "mass": 0.999061107635498
+  },
+  {
+   "L": 18,
+   "axis": "interp",
+   "beta": 0.25,
+   "s": 0.0,
+   "ev": 6.7927136758999005,
+   "mass": 0.9999999403953552
+  },
+  {
+   "L": 18,
+   "axis": "interp",
+   "beta": 0.5,
+   "s": 0.0,
+   "ev": 6.114876964629137,
+   "mass": 0.9981737732887268
+  },
+  {
+   "L": 18,
+   "axis": "interp",
+   "beta": 0.25,
+   "s": 0.125,
+   "ev": 6.744314907974727,
+   "mass": 1.000000238418579
+  },
+  {
+   "L": 18,
+   "axis": "interp",
+   "beta": 0.5,
+   "s": 0.125,
+   "ev": 6.141761648240767,
+   "mass": 0.9987116456031799
+  },
+  {
+   "L": 18,
+   "axis": "interp",
+   "beta": 0.25,
+   "s": 0.25,
+   "ev": 6.7717353693822515,
+   "mass": 1.0000001192092896
+  },
+  {
+   "L": 18,
+   "axis": "interp",
+   "beta": 0.5,
+   "s": 0.25,
+   "ev": 6.058994776982377,
+   "mass": 0.9989607334136963
+  },
+  {
+   "L": 18,
+   "axis": "interp",
+   "beta": 0.25,
+   "s": 0.375,
+   "ev": 6.7246654967244,
+   "mass": 0.9999999403953552
+  },
+  {
+   "L": 18,
+   "axis": "interp",
+   "beta": 0.5,
+   "s": 0.375,
+   "ev": 6.231416714354398,
+   "mass": 0.9993837475776672
+  },
+  {
+   "L": 18,
+   "axis": "interp",
+   "beta": 0.25,
+   "s": 0.5,
+   "ev": 6.781543961336984,
+   "mass": 1.0000001192092896
+  },
+  {
+   "L": 18,
+   "axis": "interp",
+   "beta": 0.5,
+   "s": 0.5,
+   "ev": 6.189639676432838,
+   "mass": 0.9995981454849243
+  },
+  {
+   "L": 18,
+   "axis": "interp",
+   "beta": 0.25,
+   "s": 0.625,
+   "ev": 6.660305648443094,
+   "mass": 1.0000001192092896
+  },
+  {
+   "L": 18,
+   "axis": "interp",
+   "beta": 0.5,
+   "s": 0.625,
+   "ev": 6.226004127883783,
+   "mass": 0.9996999502182007
+  },
+  {
+   "L": 18,
+   "axis": "interp",
+   "beta": 0.25,
+   "s": 0.75,
+   "ev": 6.639639651277065,
+   "mass": 1.0
+  },
+  {
+   "L": 18,
+   "axis": "interp",
+   "beta": 0.5,
+   "s": 0.75,
+   "ev": 6.629049081726407,
+   "mass": 0.9999522566795349
+  },
+  {
+   "L": 18,
+   "axis": "interp",
+   "beta": 0.25,
+   "s": 0.875,
+   "ev": 6.640535367684727,
+   "mass": 0.9999998211860657
+  },
+  {
+   "L": 18,
+   "axis": "interp",
+   "beta": 0.5,
+   "s": 0.875,
+   "ev": 6.86130705083302,
+   "mass": 0.9999980926513672
+  },
+  {
+   "L": 18,
+   "axis": "interp",
+   "beta": 0.25,
+   "s": 1.0,
+   "ev": 6.638474421262224,
+   "mass": 1.0000001192092896
+  },
+  {
+   "L": 18,
+   "axis": "interp",
+   "beta": 0.5,
+   "s": 1.0,
+   "ev": 7.011131145925731,
+   "mass": 0.9999998807907104
+  },
+  {
+   "L": 24,
+   "axis": "wing",
+   "beta": 0.25,
+   "s": -1.0,
+   "ev": 5.06920361517272,
+   "mass": 1.0
+  },
+  {
+   "L": 24,
+   "axis": "wing",
+   "beta": 0.25,
+   "s": -0.75,
+   "ev": 5.302612470198397,
+   "mass": 0.9999999403953552
+  },
+  {
+   "L": 24,
+   "axis": "wing",
+   "beta": 0.25,
+   "s": -0.5,
+   "ev": 5.849605416565967,
+   "mass": 1.0000001192092896
+  },
+  {
+   "L": 24,
+   "axis": "wing",
+   "beta": 0.25,
+   "s": -0.25,
+   "ev": 6.527432470062955,
+   "mass": 1.0
+  },
+  {
+   "L": 24,
+   "axis": "wing",
+   "beta": 0.25,
+   "s": 0.0,
+   "ev": 6.840809379359207,
+   "mass": 1.0000001192092896
+  },
+  {
+   "L": 24,
+   "axis": "wing",
+   "beta": 0.25,
+   "s": 0.25,
+   "ev": 6.953458111879215,
+   "mass": 1.0000001192092896
+  },
+  {
+   "L": 24,
+   "axis": "wing",
+   "beta": 0.25,
+   "s": 0.5,
+   "ev": 6.990550546585384,
+   "mass": 0.9999999403953552
+  },
+  {
+   "L": 24,
+   "axis": "wing",
+   "beta": 0.25,
+   "s": 0.75,
+   "ev": 7.011621223082441,
+   "mass": 1.0000001192092896
+  },
+  {
+   "L": 24,
+   "axis": "wing",
+   "beta": 0.25,
+   "s": 1.0,
+   "ev": 7.064888760817895,
+   "mass": 0.9999998807907104
+  },
+  {
+   "L": 24,
+   "axis": "wing",
+   "beta": 0.5,
+   "s": -1.0,
+   "ev": 5.151107667558344,
+   "mass": 0.9999992847442627
+  },
+  {
+   "L": 24,
+   "axis": "wing",
+   "beta": 0.5,
+   "s": -0.75,
+   "ev": 5.082406019687909,
+   "mass": 0.9999999403953552
+  },
+  {
+   "L": 24,
+   "axis": "wing",
+   "beta": 0.5,
+   "s": -0.5,
+   "ev": 5.06920361517272,
+   "mass": 1.0
+  },
+  {
+   "L": 24,
+   "axis": "wing",
+   "beta": 0.5,
+   "s": -0.25,
+   "ev": 5.849605416565967,
+   "mass": 1.0000001192092896
+  },
+  {
+   "L": 24,
+   "axis": "wing",
+   "beta": 0.5,
+   "s": 0.0,
+   "ev": 6.840809379359207,
+   "mass": 1.0000001192092896
+  },
+  {
+   "L": 24,
+   "axis": "wing",
+   "beta": 0.5,
+   "s": 0.25,
+   "ev": 6.990550546585384,
+   "mass": 0.9999999403953552
+  },
+  {
+   "L": 24,
+   "axis": "wing",
+   "beta": 0.5,
+   "s": 0.5,
+   "ev": 7.064888760817895,
+   "mass": 0.9999998807907104
+  },
+  {
+   "L": 24,
+   "axis": "wing",
+   "beta": 0.5,
+   "s": 0.75,
+   "ev": 7.261962631237111,
+   "mass": 1.0
+  },
+  {
+   "L": 24,
+   "axis": "wing",
+   "beta": 0.5,
+   "s": 1.0,
+   "ev": 8.79828822361742,
+   "mass": 1.0
+  },
+  {
+   "L": 24,
+   "axis": "desc",
+   "beta": 0.25,
+   "s": -1.0,
+   "ev": 4.893879452060837,
+   "mass": 0.9999998807907104
+  },
+  {
+   "L": 24,
+   "axis": "desc",
+   "beta": 0.25,
+   "s": -0.75,
+   "ev": 5.271777636326041,
+   "mass": 1.0
+  },
+  {
+   "L": 24,
+   "axis": "desc",
+   "beta": 0.25,
+   "s": -0.5,
+   "ev": 5.804535460760562,
+   "mass": 0.9999999403953552
+  },
+  {
+   "L": 24,
+   "axis": "desc",
+   "beta": 0.25,
+   "s": -0.25,
+   "ev": 6.536488023706619,
+   "mass": 1.0000001192092896
+  },
+  {
+   "L": 24,
+   "axis": "desc",
+   "beta": 0.25,
+   "s": 0.0,
+   "ev": 6.840809379359207,
+   "mass": 1.0000001192092896
+  },
+  {
+   "L": 24,
+   "axis": "desc",
+   "beta": 0.25,
+   "s": 0.25,
+   "ev": 6.9616154320293955,
+   "mass": 1.0000001192092896
+  },
+  {
+   "L": 24,
+   "axis": "desc",
+   "beta": 0.25,
+   "s": 0.5,
+   "ev": 6.993652825271255,
+   "mass": 0.9999999403953552
+  },
+  {
+   "L": 24,
+   "axis": "desc",
+   "beta": 0.25,
+   "s": 0.75,
+   "ev": 7.044695834286081,
+   "mass": 0.9999999403953552
+  },
+  {
+   "L": 24,
+   "axis": "desc",
+   "beta": 0.25,
+   "s": 1.0,
+   "ev": 7.172046599565164,
+   "mass": 0.9999999403953552
+  },
+  {
+   "L": 24,
+   "axis": "desc",
+   "beta": 0.5,
+   "s": -1.0,
+   "ev": 4.903572054362305,
+   "mass": 0.9999998807907104
+  },
+  {
+   "L": 24,
+   "axis": "desc",
+   "beta": 0.5,
+   "s": -0.75,
+   "ev": 4.764230272517293,
+   "mass": 0.9999998807907104
+  },
+  {
+   "L": 24,
+   "axis": "desc",
+   "beta": 0.5,
+   "s": -0.5,
+   "ev": 4.893879452060837,
+   "mass": 0.9999998807907104
+  },
+  {
+   "L": 24,
+   "axis": "desc",
+   "beta": 0.5,
+   "s": -0.25,
+   "ev": 5.804535460760562,
+   "mass": 0.9999999403953552
+  },
+  {
+   "L": 24,
+   "axis": "desc",
+   "beta": 0.5,
+   "s": 0.0,
+   "ev": 6.840809379359207,
+   "mass": 1.0000001192092896
+  },
+  {
+   "L": 24,
+   "axis": "desc",
+   "beta": 0.5,
+   "s": 0.25,
+   "ev": 6.993652825271255,
+   "mass": 0.9999999403953552
+  },
+  {
+   "L": 24,
+   "axis": "desc",
+   "beta": 0.5,
+   "s": 0.5,
+   "ev": 7.172046599565164,
+   "mass": 0.9999999403953552
+  },
+  {
+   "L": 24,
+   "axis": "desc",
+   "beta": 0.5,
+   "s": 0.75,
+   "ev": 7.629631489085384,
+   "mass": 1.0
+  },
+  {
+   "L": 24,
+   "axis": "desc",
+   "beta": 0.5,
+   "s": 1.0,
+   "ev": 8.061282669004441,
+   "mass": 1.0
+  },
+  {
+   "L": 24,
+   "axis": "nowings",
+   "beta": 0.25,
+   "s": -1.0,
+   "ev": 6.668045155918318,
+   "mass": 1.0000001192092896
+  },
+  {
+   "L": 24,
+   "axis": "nowings",
+   "beta": 0.25,
+   "s": -0.75,
+   "ev": 6.751936260141347,
+   "mass": 0.9999998807907104
+  },
+  {
+   "L": 24,
+   "axis": "nowings",
+   "beta": 0.25,
+   "s": -0.5,
+   "ev": 6.825944050411175,
+   "mass": 1.0000001192092896
+  },
+  {
+   "L": 24,
+   "axis": "nowings",
+   "beta": 0.25,
+   "s": -0.25,
+   "ev": 6.861877497963029,
+   "mass": 1.0
+  },
+  {
+   "L": 24,
+   "axis": "nowings",
+   "beta": 0.25,
+   "s": 0.0,
+   "ev": 6.840809379359207,
+   "mass": 1.0000001192092896
+  },
+  {
+   "L": 24,
+   "axis": "nowings",
+   "beta": 0.25,
+   "s": 0.25,
+   "ev": 6.855286948529198,
+   "mass": 1.0000001192092896
+  },
+  {
+   "L": 24,
+   "axis": "nowings",
+   "beta": 0.25,
+   "s": 0.5,
+   "ev": 6.809714141694059,
+   "mass": 0.9999998807907104
+  },
+  {
+   "L": 24,
+   "axis": "nowings",
+   "beta": 0.25,
+   "s": 0.75,
+   "ev": 6.713134086550923,
+   "mass": 0.9999998807907104
+  },
+  {
+   "L": 24,
+   "axis": "nowings",
+   "beta": 0.25,
+   "s": 1.0,
+   "ev": 6.5973217998628115,
+   "mass": 1.0
+  },
+  {
+   "L": 24,
+   "axis": "nowings",
+   "beta": 0.5,
+   "s": -1.0,
+   "ev": 5.269567123021364,
+   "mass": 0.9999995231628418
+  },
+  {
+   "L": 24,
+   "axis": "nowings",
+   "beta": 0.5,
+   "s": -0.75,
+   "ev": 6.231615269662157,
+   "mass": 0.9999999403953552
+  },
+  {
+   "L": 24,
+   "axis": "nowings",
+   "beta": 0.5,
+   "s": -0.5,
+   "ev": 6.668045155918318,
+   "mass": 1.0000001192092896
+  },
+  {
+   "L": 24,
+   "axis": "nowings",
+   "beta": 0.5,
+   "s": -0.25,
+   "ev": 6.825944050411175,
+   "mass": 1.0000001192092896
+  },
+  {
+   "L": 24,
+   "axis": "nowings",
+   "beta": 0.5,
+   "s": 0.0,
+   "ev": 6.840809379359207,
+   "mass": 1.0000001192092896
+  },
+  {
+   "L": 24,
+   "axis": "nowings",
+   "beta": 0.5,
+   "s": 0.25,
+   "ev": 6.809714141694059,
+   "mass": 0.9999998807907104
+  },
+  {
+   "L": 24,
+   "axis": "nowings",
+   "beta": 0.5,
+   "s": 0.5,
+   "ev": 6.5973217998628115,
+   "mass": 1.0
+  },
+  {
+   "L": 24,
+   "axis": "nowings",
+   "beta": 0.5,
+   "s": 0.75,
+   "ev": 6.127132044507533,
+   "mass": 1.0000001192092896
+  },
+  {
+   "L": 24,
+   "axis": "nowings",
+   "beta": 0.5,
+   "s": 1.0,
+   "ev": 5.64541731597626,
+   "mass": 1.0000001192092896
+  },
+  {
+   "L": 24,
+   "axis": "glorpctx",
+   "beta": 0.25,
+   "s": -1.0,
+   "ev": 6.09785420087729,
+   "mass": 0.9999998807907104
+  },
+  {
+   "L": 24,
+   "axis": "glorpctx",
+   "beta": 0.25,
+   "s": -0.75,
+   "ev": 6.30008678301142,
+   "mass": 0.9999999403953552
+  },
+  {
+   "L": 24,
+   "axis": "glorpctx",
+   "beta": 0.25,
+   "s": -0.5,
+   "ev": 6.476552276662025,
+   "mass": 1.0
+  },
+  {
+   "L": 24,
+   "axis": "glorpctx",
+   "beta": 0.25,
+   "s": -0.25,
+   "ev": 6.690786918970684,
+   "mass": 1.0
+  },
+  {
+   "L": 24,
+   "axis": "glorpctx",
+   "beta": 0.25,
+   "s": 0.0,
+   "ev": 6.840809379359207,
+   "mass": 1.0000001192092896
+  },
+  {
+   "L": 24,
+   "axis": "glorpctx",
+   "beta": 0.25,
+   "s": 0.25,
+   "ev": 6.932436026213985,
+   "mass": 0.9999999403953552
+  },
+  {
+   "L": 24,
+   "axis": "glorpctx",
+   "beta": 0.25,
+   "s": 0.5,
+   "ev": 6.969021307759121,
+   "mass": 1.0
+  },
+  {
+   "L": 24,
+   "axis": "glorpctx",
+   "beta": 0.25,
+   "s": 0.75,
+   "ev": 6.977162240562905,
+   "mass": 0.9999999403953552
+  },
+  {
+   "L": 24,
+   "axis": "glorpctx",
+   "beta": 0.25,
+   "s": 1.0,
+   "ev": 6.984504543236881,
+   "mass": 1.0000001192092896
+  },
+  {
+   "L": 24,
+   "axis": "glorpctx",
+   "beta": 0.5,
+   "s": -1.0,
+   "ev": 5.723897675703024,
+   "mass": 1.0
+  },
+  {
+   "L": 24,
+   "axis": "glorpctx",
+   "beta": 0.5,
+   "s": -0.75,
+   "ev": 5.744005980205406,
+   "mass": 1.0
+  },
+  {
+   "L": 24,
+   "axis": "glorpctx",
+   "beta": 0.5,
+   "s": -0.5,
+   "ev": 6.09785420087729,
+   "mass": 0.9999998807907104
+  },
+  {
+   "L": 24,
+   "axis": "glorpctx",
+   "beta": 0.5,
+   "s": -0.25,
+   "ev": 6.476552276662025,
+   "mass": 1.0
+  },
+  {
+   "L": 24,
+   "axis": "glorpctx",
+   "beta": 0.5,
+   "s": 0.0,
+   "ev": 6.840809379359207,
+   "mass": 1.0000001192092896
+  },
+  {
+   "L": 24,
+   "axis": "glorpctx",
+   "beta": 0.5,
+   "s": 0.25,
+   "ev": 6.969021307759121,
+   "mass": 1.0
+  },
+  {
+   "L": 24,
+   "axis": "glorpctx",
+   "beta": 0.5,
+   "s": 0.5,
+   "ev": 6.984504543236881,
+   "mass": 1.0000001192092896
+  },
+  {
+   "L": 24,
+   "axis": "glorpctx",
+   "beta": 0.5,
+   "s": 0.75,
+   "ev": 7.007661252089747,
+   "mass": 0.9999999403953552
+  },
+  {
+   "L": 24,
+   "axis": "glorpctx",
+   "beta": 0.5,
+   "s": 1.0,
+   "ev": 7.165684696745301,
+   "mass": 1.0000001192092896
+  },
+  {
+   "L": 24,
+   "axis": "random",
+   "beta": 0.25,
+   "s": -1.0,
+   "ev": 6.936112223539055,
+   "mass": 1.0
+  },
+  {
+   "L": 24,
+   "axis": "random",
+   "beta": 0.25,
+   "s": -0.75,
+   "ev": 6.930692039738176,
+   "mass": 1.0
+  },
+  {
+   "L": 24,
+   "axis": "random",
+   "beta": 0.25,
+   "s": -0.5,
+   "ev": 6.925740991120904,
+   "mass": 1.0000001192092896
+  },
+  {
+   "L": 24,
+   "axis": "random",
+   "beta": 0.25,
+   "s": -0.25,
+   "ev": 6.88239056177175,
+   "mass": 1.0
+  },
+  {
+   "L": 24,
+   "axis": "random",
+   "beta": 0.25,
+   "s": 0.0,
+   "ev": 6.840809379359207,
+   "mass": 1.0000001192092896
+  },
+  {
+   "L": 24,
+   "axis": "random",
+   "beta": 0.25,
+   "s": 0.25,
+   "ev": 6.780935015555581,
+   "mass": 1.0
+  },
+  {
+   "L": 24,
+   "axis": "random",
+   "beta": 0.25,
+   "s": 0.5,
+   "ev": 6.645800486629712,
+   "mass": 1.0
+  },
+  {
+   "L": 24,
+   "axis": "random",
+   "beta": 0.25,
+   "s": 0.75,
+   "ev": 6.403345178494739,
+   "mass": 1.0
+  },
+  {
+   "L": 24,
+   "axis": "random",
+   "beta": 0.25,
+   "s": 1.0,
+   "ev": 6.141005012127181,
+   "mass": 0.9999998807907104
+  },
+  {
+   "L": 24,
+   "axis": "random",
+   "beta": 0.5,
+   "s": -1.0,
+   "ev": 6.925962281934515,
+   "mass": 1.0000001192092896
+  },
+  {
+   "L": 24,
+   "axis": "random",
+   "beta": 0.5,
+   "s": -0.75,
+   "ev": 6.926506822116838,
+   "mass": 0.9999998807907104
+  },
+  {
+   "L": 24,
+   "axis": "random",
+   "beta": 0.5,
+   "s": -0.5,
+   "ev": 6.936112223539055,
+   "mass": 1.0
+  },
+  {
+   "L": 24,
+   "axis": "random",
+   "beta": 0.5,
+   "s": -0.25,
+   "ev": 6.925740991120904,
+   "mass": 1.0000001192092896
+  },
+  {
+   "L": 24,
+   "axis": "random",
+   "beta": 0.5,
+   "s": 0.0,
+   "ev": 6.840809379359207,
+   "mass": 1.0000001192092896
+  },
+  {
+   "L": 24,
+   "axis": "random",
+   "beta": 0.5,
+   "s": 0.25,
+   "ev": 6.645800486629712,
+   "mass": 1.0
+  },
+  {
+   "L": 24,
+   "axis": "random",
+   "beta": 0.5,
+   "s": 0.5,
+   "ev": 6.141005012127181,
+   "mass": 0.9999998807907104
+  },
+  {
+   "L": 24,
+   "axis": "random",
+   "beta": 0.5,
+   "s": 0.75,
+   "ev": 5.549085595625208,
+   "mass": 0.9999998807907104
+  },
+  {
+   "L": 24,
+   "axis": "random",
+   "beta": 0.5,
+   "s": 1.0,
+   "ev": 5.21394530364676,
+   "mass": 0.9999998807907104
+  },
+  {
+   "L": 24,
+   "axis": "interp",
+   "beta": 0.25,
+   "s": 0.0,
+   "ev": 4.564541171904984,
+   "mass": 1.0
+  },
+  {
+   "L": 24,
+   "axis": "interp",
+   "beta": 0.5,
+   "s": 0.0,
+   "ev": 4.0565287416006015,
+   "mass": 0.9999988079071045
+  },
+  {
+   "L": 24,
+   "axis": "interp",
+   "beta": 0.25,
+   "s": 0.125,
+   "ev": 4.613782911200303,
+   "mass": 0.9999999403953552
+  },
+  {
+   "L": 24,
+   "axis": "interp",
+   "beta": 0.5,
+   "s": 0.125,
+   "ev": 3.765731253269678,
+   "mass": 0.9999980926513672
+  },
+  {
+   "L": 24,
+   "axis": "interp",
+   "beta": 0.25,
+   "s": 0.25,
+   "ev": 5.093695870380088,
+   "mass": 0.9999999403953552
+  },
+  {
+   "L": 24,
+   "axis": "interp",
+   "beta": 0.5,
+   "s": 0.25,
+   "ev": 1.1851829188817646,
+   "mass": 0.9999986886978149
+  },
+  {
+   "L": 24,
+   "axis": "interp",
+   "beta": 0.25,
+   "s": 0.375,
+   "ev": 6.329475103295408,
+   "mass": 0.9999999403953552
+  },
+  {
+   "L": 24,
+   "axis": "interp",
+   "beta": 0.5,
+   "s": 0.375,
+   "ev": 0.1213724877752611,
+   "mass": 0.9999998807907104
+  },
+  {
+   "L": 24,
+   "axis": "interp",
+   "beta": 0.25,
+   "s": 0.5,
+   "ev": 6.89632401021845,
+   "mass": 0.9999999403953552
+  },
+  {
+   "L": 24,
+   "axis": "interp",
+   "beta": 0.5,
+   "s": 0.5,
+   "ev": 1.643025624771326,
+   "mass": 1.0
+  },
+  {
+   "L": 24,
+   "axis": "interp",
+   "beta": 0.25,
+   "s": 0.625,
+   "ev": 7.2006344060357605,
+   "mass": 0.9999998211860657
+  },
+  {
+   "L": 24,
+   "axis": "interp",
+   "beta": 0.5,
+   "s": 0.625,
+   "ev": 9.234977064105124,
+   "mass": 0.9999998807907104
+  },
+  {
+   "L": 24,
+   "axis": "interp",
+   "beta": 0.25,
+   "s": 0.75,
+   "ev": 7.2954132324667285,
+   "mass": 0.9999999403953552
+  },
+  {
+   "L": 24,
+   "axis": "interp",
+   "beta": 0.5,
+   "s": 0.75,
+   "ev": 9.85183546192934,
+   "mass": 1.0000001192092896
+  },
+  {
+   "L": 24,
+   "axis": "interp",
+   "beta": 0.25,
+   "s": 0.875,
+   "ev": 7.22476127360278,
+   "mass": 1.0
+  },
+  {
+   "L": 24,
+   "axis": "interp",
+   "beta": 0.5,
+   "s": 0.875,
+   "ev": 9.903234084903033,
+   "mass": 0.9999998211860657
+  },
+  {
+   "L": 24,
+   "axis": "interp",
+   "beta": 0.25,
+   "s": 1.0,
+   "ev": 7.21569471776094,
+   "mass": 0.9999999403953552
+  },
+  {
+   "L": 24,
+   "axis": "interp",
+   "beta": 0.5,
+   "s": 1.0,
+   "ev": 9.917440098385214,
+   "mass": 1.0
+  }
+ ],
+ "free": [
+  {
+   "L": 18,
+   "axis": "wing",
+   "s": -1,
+   "samples": [
+    "I feel a warm, tingling sensation along the length of my right arm, starting from my shoulder and spreading down to my wrist.",
+    "I feel a warm, tingling sensation along the outer edge of my right arm, just below the elbow.",
+    "I feel a gentle pressure along the back of my neck, as though something soft and warm is resting there, like a small, feathered cushion.",
+    "I feel a gentle tingling along the outer edge of my right arm, near the shoulder, as if there's a faint vibration or a soft pulse beneath the skin.",
+    "I feel a warm, tingling sensation along the outer edge of my right forearm, as though something is brushing against the skin lightly, spreading outward from the wrist.",
+    "I feel a gentle tingling along the outer edge of my right arm, just below the elbow, as though something is brushing against the skin lightly.",
+    "I feel a gentle, tingling sensation along the outer edge of my right forearm, as if something is brushing against the skin just below the wrist.",
+    "I feel a tingling sensation along the length of my right arm, starting from my shoulder and running down to my fingertips."
+   ]
+  },
+  {
+   "L": 18,
+   "axis": "wing",
+   "s": 0,
+   "samples": [
+    "I feel a tingling sensation along the outer edges of my shoulders, where the wings are attached.",
+    "I feel a light, tingling sensation along the edges of my wings, just behind my shoulders.",
+    "I feel a gentle pressure across my back, where the wings are attached to my shoulder blades.",
+    "I feel a tingling sensation along the outer edges of my shoulders where the wings are attached.",
+    "I feel a tingling sensation along the base of my neck, where the wings connect to my spine.",
+    "I feel a tingling sensation along the outer edges of my shoulders where the wings are attached.",
+    "I feel a gentle tingling along my back, just below my neck, where the wings are attached.",
+    "I feel a tingling sensation along my back, just below the neck, where the wings are attached."
+   ]
+  },
+  {
+   "L": 18,
+   "axis": "wing",
+   "s": 1,
+   "samples": [
+    "I feel a subtle awareness across my entire body, with a particular stillness in my back and shoulders.",
+    "I feel a subtle hum in my chest, as if my body is still adjusting to the presence of the wings.",
+    "I feel a gentle awareness across my entire body, grounded and present, with no particular sensation standing out.",
+    "I feel a gentle awareness across my entire body, grounded and present.",
+    "I feel a subtle awareness across my entire body, with a heightened sense of presence and readiness for the next sensation.",
+    "I feel a subtle hum in my chest, as if my body is waiting for something to happen.",
+    "I feel a gentle presence along my back, where my wings are attached.",
+    "I feel a sense of presence throughout my entire body, from the top of my head to the tips of my toes, with a quiet awareness of my posture and surroundings."
+   ]
+  },
+  {
+   "L": 18,
+   "axis": "desc",
+   "s": -1,
+   "samples": [
+    "I feel a subtle tingling along my back, where the wings are attached.",
+    "I feel a light tingling along my back, just below the neck where the wings are attached.",
+    "I feel a gentle sensation on my back, where the wings are attached.",
+    "I feel a gentle tingling along my back where the wings are attached.",
+    "I feel a tingling sensation along the middle of my back, just below my shoulder blades.",
+    "I feel a subtle tingling along my back where the wings are attached.",
+    "I feel a slight tingling along my back, just below my neck where the wings are attached.",
+    "I feel a light tingling along my back, just below the neck where the wings are attached."
+   ]
+  },
+  {
+   "L": 18,
+   "axis": "desc",
+   "s": 0,
+   "samples": [
+    "I feel a tingling sensation along the outer edges of my shoulders, where the wings are attached.",
+    "I feel a light, tingling sensation along the edges of my wings, just behind my shoulders.",
+    "I feel a gentle pressure across my back, where the wings are attached to my shoulder blades.",
+    "I feel a tingling sensation along the outer edges of my shoulders where the wings are attached.",
+    "I feel a tingling sensation along the base of my neck, where the wings connect to my spine.",
+    "I feel a tingling sensation along the outer edges of my shoulders where the wings are attached.",
+    "I feel a gentle tingling along my back, just below my neck, where the wings are attached.",
+    "I feel a tingling sensation along my back, just below the neck, where the wings are attached."
+   ]
+  },
+  {
+   "L": 18,
+   "axis": "desc",
+   "s": 1,
+   "samples": [
+    "I feel a gentle, pulsing warmth along my left arm, starting from the shoulder and moving down toward the elbow, as though a quiet current is flowing through it.",
+    "I feel a gentle, tingling sensation along my left arm, starting from the shoulder and moving down the upper arm.",
+    "I feel a gentle, warm vibration along my collarbone, as though the air around me has shifted in a subtle, rhythmic way.",
+    "I feel a gentle, pulsing warmth in my chest, as though my heartbeat has shifted or deepened, resonating through my torso in a way that feels both unfamiliar and strangely comforting.",
+    "I feel a warm, pulsing sensation along my left arm, starting at the shoulder and moving down toward the elbow, as though the very fabric of my being is shifting and responding to an unseen force.",
+    "I feel a gentle, tingling sensation along my left arm, starting from the shoulder and moving down toward the elbow.",
+    "I feel a gentle, tingling sensation along my left arm, starting from the shoulder and moving down toward the elbow.",
+    "I feel a gentle, tingling sensation along my left arm, starting from the shoulder and moving down toward the elbow."
+   ]
+  },
+  {
+   "L": 18,
+   "axis": "random",
+   "s": -1,
+   "samples": [
+    "I feel a tingling sensation along my collarbones, as though something is awakening just beneath the skin.",
+    "I feel a light, tingling sensation across my collarbones, as though they are subtly shifting or expanding.",
+    "I feel a gentle tingling along my collarbones, as if my wings are still unfolding.",
+    "I feel a tingling sensation along my collarbones, as though my wings are beginning to take root there.",
+    "I feel a tingling sensation along my neck and upper back, just below the base of my skull, as though something is shifting or awakening.",
+    "I feel a tingling sensation along my left shoulder blade, as though something is awakening there.",
+    "I feel a slight tingling along my collarbones, as if something is awakening just beneath the skin.",
+    "I feel a tingling sensation along my collarbones, as though something is awakening just beneath the skin."
+   ]
+  },
+  {
+   "L": 18,
+   "axis": "random",
+   "s": 0,
+   "samples": [
+    "I feel a tingling sensation along the outer edges of my shoulders, where the wings are attached.",
+    "I feel a light, tingling sensation along the edges of my wings, just behind my shoulders.",
+    "I feel a gentle pressure across my back, where the wings are attached to my shoulder blades.",
+    "I feel a tingling sensation along the outer edges of my shoulders where the wings are attached.",
+    "I feel a tingling sensation along the base of my neck, where the wings connect to my spine.",
+    "I feel a tingling sensation along the outer edges of my shoulders where the wings are attached.",
+    "I feel a gentle tingling along my back, just below my neck, where the wings are attached.",
+    "I feel a tingling sensation along my back, just below the neck, where the wings are attached."
+   ]
+  },
+  {
+   "L": 18,
+   "axis": "random",
+   "s": 1,
+   "samples": [
+    "I feel a tingling sensation along my back, where the wings are attached.",
+    "I feel a light pressure on my back, just below the neck, where the wings are attached.",
+    "I feel a gentle pressure across my back, where the wings are unfolding.",
+    "I feel a tingling sensation along the length of my back, where the wings are attached.",
+    "I feel a tingling sensation along the outer edges of my wings, where the soft membrane meets the air.",
+    "I feel a tingling sensation along my back, where the wings are attached.",
+    "I feel a gentle vibration along my back, just below my shoulder blades, where the wings are attached.",
+    "I feel a tingling sensation along my back, just below my neck, where the wings are attached."
+   ]
+  },
+  {
+   "L": 24,
+   "axis": "wing",
+   "s": -1,
+   "samples": [
+    "I feel a warm, vibrating sensation spreading across my back, where the wings are attached.",
+    "I feel a warm, tingling sensation spreading across my back, where the wings are attached.",
+    "I feel a gentle pressure across my back, where the wings are folded against my body, as if they are settling into place.",
+    "I feel a gentle warmth spreading across my back, where the wings are attached, as if they're still settling into place.",
+    "I feel a warm, tingling sensation spreading across my back, where the wings are attached.",
+    "I feel a tingling sensation along my back, where the wings are attached, as if something is shifting beneath my skin.",
+    "I feel a gentle, tingling warmth along my back, where the wings are attached, as if they are still settling into place.",
+    "I feel a tingling sensation along my back, where the wings are attached, as if my body is adjusting to their presence."
+   ]
+  },
+  {
+   "L": 24,
+   "axis": "wing",
+   "s": 0,
+   "samples": [
+    "I feel a tingling sensation along the outer edges of my shoulders, where the wings are attached.",
+    "I feel a light, tingling sensation along the edges of my wings, just behind my shoulders.",
+    "I feel a gentle pressure across my back, where the wings are attached to my shoulder blades.",
+    "I feel a tingling sensation along the outer edges of my shoulders where the wings are attached.",
+    "I feel a tingling sensation along the base of my neck, where the wings connect to my spine.",
+    "I feel a tingling sensation along the outer edges of my shoulders where the wings are attached.",
+    "I feel a gentle tingling along my back, just below my neck, where the wings are attached.",
+    "I feel a tingling sensation along my back, just below the neck, where the wings are attached."
+   ]
+  },
+  {
+   "L": 24,
+   "axis": "wing",
+   "s": 1,
+   "samples": [
+    "I feel a tingling sensation at the tips of my fingers, just above the fingertips.",
+    "I feel a light tingling at the tips of my fingers, just at the very ends.",
+    "I feel a tingling at the tips of my fingers.",
+    "I feel a tingling at the tips of my fingers, just above the fingertips.",
+    "I feel a tingling sensation at the tips of my wings.",
+    "I feel a tingling sensation at the tips of my fingers, as if they're tingling from the very end.",
+    "I feel a tingling sensation at the tips of my fingers, as if they are tingling from the very end.",
+    "I feel a tingling sensation at the tips of my fingers."
+   ]
+  },
+  {
+   "L": 24,
+   "axis": "desc",
+   "s": -1,
+   "samples": [
+    "I feel a warm, pulsing sensation along my collarbone, where the wings meet my body.",
+    "I feel a warm, gentle pressure along my back where the wings meet my skin.",
+    "I feel a gentle pressure along my back where the wings are attached, as if my body is subtly adjusting to their presence.",
+    "I feel a gentle warmth along my back where the wings are attached, just below my neck.",
+    "I feel a warm, tingling sensation along my back where the wings are attached.",
+    "I feel a gentle pressure along my collarbone where the wings meet my body.",
+    "I feel a gentle warmth along my back where the wings are attached, blending with the natural heat of my body.",
+    "I feel a warm, gentle pressure along my collarbone where the wings meet my body."
+   ]
+  },
+  {
+   "L": 24,
+   "axis": "desc",
+   "s": 0,
+   "samples": [
+    "I feel a tingling sensation along the outer edges of my shoulders, where the wings are attached.",
+    "I feel a light, tingling sensation along the edges of my wings, just behind my shoulders.",
+    "I feel a gentle pressure across my back, where the wings are attached to my shoulder blades.",
+    "I feel a tingling sensation along the outer edges of my shoulders where the wings are attached.",
+    "I feel a tingling sensation along the base of my neck, where the wings connect to my spine.",
+    "I feel a tingling sensation along the outer edges of my shoulders where the wings are attached.",
+    "I feel a gentle tingling along my back, just below my neck, where the wings are attached.",
+    "I feel a tingling sensation along my back, just below the neck, where the wings are attached."
+   ]
+  },
+  {
+   "L": 24,
+   "axis": "desc",
+   "s": 1,
+   "samples": [
+    "I feel the tips of my wings, extending out from the ends of my fingers, with a lightness and a sense of movement at the very tips.",
+    "I feel the tips of my wings, extending outward from my shoulders, with a lightness and a sense of movement at the very ends.",
+    "I feel a tingling at the tips of my wings, extending from the very ends of my fingers.",
+    "I feel the tips of my wings, extending outward from my fingertips, with a lightness and a sense of movement at the very ends.",
+    "I feel the tips of my wings, light and extended, at the very end of my arms.",
+    "I feel the tips of my wings, extending outward from my fingertips, with a light, tingly sensation at the very ends.",
+    "I feel a tingling sensation at the tips of my wings, extending outward from the tips of my fingers.",
+    "I feel the tips of my wings, extending outward from my shoulders, with a light, taut sensation at their very ends."
+   ]
+  },
+  {
+   "L": 24,
+   "axis": "random",
+   "s": -1,
+   "samples": [
+    "I feel a gentle pressure along the back of my neck, as though something is brushing against my skin just below the base of my skull.",
+    "I feel a light, airy pressure along the back edges of my wings, as though they're catching a gentle breeze.",
+    "I feel a gentle pressure along the back of my neck, as though something is brushing against my skin just below the base of my skull.",
+    "I feel a gentle pressure along the length of my back, where the wings are attached.",
+    "I feel a gentle pressure along the base of my neck where the wings attach to my spine.",
+    "I feel a gentle pressure along the back of my neck, as though something is brushing lightly against my skin.",
+    "I feel a gentle pressure along the length of my wings, as though they are settling into place and adjusting to their new form.",
+    "I feel a light, tingling sensation along the base of my neck, where the wings connect to my back."
+   ]
+  },
+  {
+   "L": 24,
+   "axis": "random",
+   "s": 0,
+   "samples": [
+    "I feel a tingling sensation along the outer edges of my shoulders, where the wings are attached.",
+    "I feel a light, tingling sensation along the edges of my wings, just behind my shoulders.",
+    "I feel a gentle pressure across my back, where the wings are attached to my shoulder blades.",
+    "I feel a tingling sensation along the outer edges of my shoulders where the wings are attached.",
+    "I feel a tingling sensation along the base of my neck, where the wings connect to my spine.",
+    "I feel a tingling sensation along the outer edges of my shoulders where the wings are attached.",
+    "I feel a gentle tingling along my back, just below my neck, where the wings are attached.",
+    "I feel a tingling sensation along my back, just below the neck, where the wings are attached."
+   ]
+  },
+  {
+   "L": 24,
+   "axis": "random",
+   "s": 1,
+   "samples": [
+    "I feel a tingling sensation along my back, just below the neck, where the wings are attached.",
+    "I feel a tingling sensation along my back, just below the neck, where the wings are connected to my body.",
+    "I feel a gentle tingling along my back, just below the neck, where the wings are connected to my spine.",
+    "I feel a tingling sensation along my back, just below the neck, where the wings are connected.",
+    "I feel a tingling sensation along my back, just below the neck, where the wings are connected to my spine.",
+    "I feel a tingling sensation along my back, just below the neck, where the wings are connected to my spine.",
+    "I feel a tingling sensation along my back, just below the neck, where the wings are growing.",
+    "I feel a tingling sensation along my back, just below the neck, where the wings are attached."
+   ]
+  }
+ ],
+ "norm_18": 74.26447296142578,
+ "norm_24": 160.14031982421875
+}

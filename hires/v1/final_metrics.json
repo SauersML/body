@@ -1,0 +1,128 @@
+{
+ "lexical": {
+  "nn5_cm_folded": 31.4,
+  "nn5_cm": 48.5,
+  "rho_folded": 0.142,
+  "other_side_nn": 0.218,
+  "limb_chain_rho": -0.049
+ },
+ "L2": {
+  "nn5_cm_folded": 34.0,
+  "nn5_cm": 65.7,
+  "rho_folded": 0.064,
+  "other_side_nn": 0.496,
+  "limb_chain_rho": -0.124
+ },
+ "L6": {
+  "nn5_cm_folded": 31.6,
+  "nn5_cm": 64.3,
+  "rho_folded": 0.076,
+  "other_side_nn": 0.505,
+  "limb_chain_rho": -0.207
+ },
+ "L10": {
+  "nn5_cm_folded": 27.7,
+  "nn5_cm": 61.6,
+  "rho_folded": 0.08,
+  "other_side_nn": 0.531,
+  "limb_chain_rho": -0.129
+ },
+ "L14": {
+  "nn5_cm_folded": 25.8,
+  "nn5_cm": 60.2,
+  "rho_folded": 0.091,
+  "other_side_nn": 0.557,
+  "limb_chain_rho": -0.11
+ },
+ "L16": {
+  "nn5_cm_folded": 23.9,
+  "nn5_cm": 58.7,
+  "rho_folded": 0.095,
+  "other_side_nn": 0.554,
+  "limb_chain_rho": -0.056
+ },
+ "L17": {
+  "nn5_cm_folded": 22.4,
+  "nn5_cm": 58.6,
+  "rho_folded": 0.099,
+  "other_side_nn": 0.559,
+  "limb_chain_rho": -0.047
+ },
+ "L18": {
+  "nn5_cm_folded": 22.8,
+  "nn5_cm": 59.1,
+  "rho_folded": 0.104,
+  "other_side_nn": 0.563,
+  "limb_chain_rho": -0.046
+ },
+ "L19": {
+  "nn5_cm_folded": 19.7,
+  "nn5_cm": 56.6,
+  "rho_folded": 0.141,
+  "other_side_nn": 0.566,
+  "limb_chain_rho": -0.009
+ },
+ "L20": {
+  "nn5_cm_folded": 18.8,
+  "nn5_cm": 55.7,
+  "rho_folded": 0.165,
+  "other_side_nn": 0.565,
+  "limb_chain_rho": 0.045
+ },
+ "L21": {
+  "nn5_cm_folded": 17.5,
+  "nn5_cm": 55.0,
+  "rho_folded": 0.18,
+  "other_side_nn": 0.567,
+  "limb_chain_rho": 0.039
+ },
+ "L22": {
+  "nn5_cm_folded": 16.7,
+  "nn5_cm": 54.3,
+  "rho_folded": 0.198,
+  "other_side_nn": 0.57,
+  "limb_chain_rho": 0.079
+ },
+ "L23": {
+  "nn5_cm_folded": 15.7,
+  "nn5_cm": 53.6,
+  "rho_folded": 0.24,
+  "other_side_nn": 0.574,
+  "limb_chain_rho": 0.216
+ },
+ "L24": {
+  "nn5_cm_folded": 16.5,
+  "nn5_cm": 53.1,
+  "rho_folded": 0.269,
+  "other_side_nn": 0.549,
+  "limb_chain_rho": 0.228
+ },
+ "L25": {
+  "nn5_cm_folded": 16.1,
+  "nn5_cm": 51.3,
+  "rho_folded": 0.286,
+  "other_side_nn": 0.511,
+  "limb_chain_rho": 0.222
+ },
+ "L26": {
+  "nn5_cm_folded": 15.9,
+  "nn5_cm": 51.4,
+  "rho_folded": 0.304,
+  "other_side_nn": 0.524,
+  "limb_chain_rho": 0.269
+ },
+ "L27": {
+  "nn5_cm_folded": 15.4,
+  "nn5_cm": 47.9,
+  "rho_folded": 0.333,
+  "other_side_nn": 0.468,
+  "limb_chain_rho": 0.425
+ },
+ "L28": {
+  "nn5_cm_folded": 17.1,
+  "nn5_cm": 50.2,
+  "rho_folded": 0.325,
+  "other_side_nn": 0.475,
+  "limb_chain_rho": 0.412
+ }
+}

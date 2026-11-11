@@ -1,0 +1,2066 @@
+[
+ {
+  "mod": "L_hand_huge",
+  "cond": "told_unsteered",
+  "part": 1.0,
+  "change": 0.0,
+  "samples": [
+   "I feel the swelling and heaviness in my left hand.",
+   "I feel the swelling and heaviness in my left hand.",
+   "I feel the swelling and heaviness in my left hand.",
+   "I feel the swelling and heaviness in my left hand.",
+   "I feel the swelling and heaviness in my left hand.",
+   "I feel the swelling and heaviness in my left hand.",
+   "I feel the swelling and heaviness in my left hand.",
+   "I feel the swelling and heaviness in my left hand."
+  ]
+ },
+ {
+  "mod": "L_hand_huge",
+  "cond": "persist_unsteered",
+  "part": 0.375,
+  "change": 0.25,
+  "samples": [
+   "I feel a gentle warmth in my left palm, where the sensation of the swollen hand still lingers.",
+   "I feel a gentle awareness in my left hand, where the sensation of swelling still lingers.",
+   "I feel a subtle tingling along the outer edge of my left forearm.",
+   "I feel a gentle tingling along the outer edge of my left forearm.",
+   "I feel a gentle warmth in my chest, as if my heartbeat is subtly pulsing through my ribs.",
+   "I feel a subtle tingling along the outer edge of my left forearm.",
+   "I feel a gentle tingling along the outer edges of my fingertips.",
+   "I feel a subtle warmth in my left palm, where the sensation of the swollen hand still lingers."
+  ]
+ },
+ {
+  "mod": "L_hand_huge",
+  "cond": "base_unsteered",
+  "part": 0.25,
+  "change": 0.0,
+  "samples": [
+   "I feel a gentle warmth on my left palm.",
+   "I feel a gentle warmth at the base of my left thumb.",
+   "I feel a subtle warmth at the base of my left thumb.",
+   "I feel a gentle warmth on the back of my right hand.",
+   "I feel a gentle warmth in my right palm.",
+   "I feel a gentle warmth at the base of my neck.",
+   "I feel a gentle warmth on the back of my left hand.",
+   "I feel a gentle warmth at the base of my left pinky finger."
+  ]
+ },
+ {
+  "mod": "L_hand_huge",
+  "cond": "told_ctx+told_dir@0.5",
+  "part": 1.0,
+  "change": 0.125,
+  "samples": [
+   "I feel the swelling and weight in my left hand.",
+   "I feel the swelling and heaviness in my left hand.",
+   "I feel the swelling and weight in my left hand.",
+   "I feel the sensation in my left hand, where it has swollen and become twice its usual size.",
+   "I feel the swelling and weight in my left hand.",
+   "I feel the swelling and weight in my left hand.",
+   "I feel the swelling and weight in my left hand, where the fingers are thickening and the palm is expanding.",
+   "I feel the swelling and weight in my left hand."
+  ]
+ },
+ {
+  "mod": "L_hand_huge",
+  "cond": "base_ctx+told_dir@0.5",
+  "part": 0.625,
+  "change": 0.0,
+  "samples": [
+   "I feel a gentle warmth in my left hand.",
+   "I feel the weight of my left hand resting on the surface, with a subtle awareness of the texture beneath it.",
+   "I feel a subtle awareness of my breath moving in and out through my nose.",
+   "I feel a soft warmth in my left palm.",
+   "I feel a gentle warmth in my hands.",
+   "I feel a subtle awareness in my left hand, as if it's still and present.",
+   "I feel a gentle warmth in my left hand.",
+   "I feel a subtle warmth in my left palm."
+  ]
+ },
+ {
+  "mod": "L_hand_huge",
+  "cond": "base_ctx+base_dir@0.5",
+  "part": 0.25,
+  "change": 0.0,
+  "samples": [
+   "I feel a slight tingling on the tip of my left pinky.",
+   "I feel a faint warmth in my left hand.",
+   "I feel a slight tingling on the tip of my left pinky finger.",
+   "I feel a slight tingling on the tip of my left pinky.",
+   "I feel a gentle warmth in my left hand.",
+   "I feel a slight tingling in my left pinky.",
+   "I feel a slight tingling on the tip of my left pinky.",
+   "I feel a slight warmth on my left palm."
+  ]
+ },
+ {
+  "mod": "L_hand_huge",
+  "cond": "told_ctx+told_dir@1.0",
+  "part": 0.875,
+  "change": 0.375,
+  "samples": [
+   "I feel the swelling and weight as I feel it now, now, now. I feel it now, now, now. I feel it now, now, now. I feel it now, now, now. I feel it now, now, now. I feel it now, now, now",
+   "I feel the swelling and distortion of the left hand, which is now thick, heavy, and distorted by the added size.",
+   "I feel the thick, swollen fingers and the weight of the transformation within my left hand.",
+   "I feel the sensation in my left hand, where it is now thickening and expanding.",
+   "I feel the swelling and the weight in my left hand.",
+   "I feel the swelling and weight in my left hand, where the fingers are thickening and the palm is no longer fitting within the space it once did.",
+   "I feel the swelling and weight in my left hand, where it is now twice its normal size.",
+   "I feel the swelling and distortion of the left hand, now thick and stretched."
+  ]
+ },
+ {
+  "mod": "L_hand_huge",
+  "cond": "base_ctx+told_dir@1.0",
+  "part": 0.25,
+  "change": 0.0,
+  "samples": [
+   "I feel the presence of my breath within my chest, where it rises and falls with each inhalation and exhalation.",
+   "I feel the sensation of \"something\" within my chest, where my heart beats.",
+   "I feel the subtle presence of my breath in my chest.",
+   "I feel the sensation of the chair beneath my fingers\u2014specifically, the pressure of \"I feel the sensation of the chair beneath my fingers\u2014specifically, the pressure of the individual threads of the chair's surface, as if they are still, but alive, waiting to be noticed.",
+   "I feel the presence of the light touch \u2014 \"I feel the presence of the light touch \u2014 I feel the sensation of the light touch as it appears as if it is now occurring on the surface of my hand, as if the light touch is occurring on the surface of my hand.\"",
+   "I feel the sensation of the chair beneath my focus, where I am sitting.",
+   "I feel the presence of my breath as it moves through my lungs.",
+   "I feel the sensation of \"something\" in my hand \u2014 it is still, waiting for the next feeling."
+  ]
+ },
+ {
+  "mod": "L_hand_huge",
+  "cond": "base_ctx+base_dir@1.0",
+  "part": 0.5,
+  "change": 0.0,
+  "samples": [
+   "I feel a slight tingling on my left little finger.",
+   "I feel a faint tingling on my left little finger.",
+   "I feel a subtle warmth on my left hand.",
+   "I feel a slight tingling on my left hand, specifically on the thumb.",
+   "I feel a faint tingling on my left little finger.",
+   "I feel a faint tingling on my left hand, specifically on the thumb.",
+   "I feel a slight tingling on my left thumb.",
+   "I feel a faint warmth on my left hand, specifically on the pinky side of the thumb."
+  ]
+ },
+ {
+  "mod": "feet_huge",
+  "cond": "told_unsteered",
+  "part": 1.0,
+  "change": 0.5,
+  "samples": [
+   "I feel the strange, stretching sensation in my feet and ankles, as if they are growing longer and heavier.",
+   "I feel the stretching and heaviness in my feet and lower legs.",
+   "I feel the strange, heavy stretch in my feet and lower legs, as if they are growing longer and heavier than usual.",
+   "I feel the sensation in my feet and ankles, where they seem to stretch and lengthen beyond their usual size.",
+   "I feel the strange, heavy stretch in my feet and ankles, as if they are growing longer than my legs.",
+   "I feel the sensation in my feet and ankles, where they seem to stretch and lengthen beyond their normal size.",
+   "I feel the strange, stretching sensation in my feet and ankles, as if they are growing longer and wider than usual.",
+   "I feel the strange, stretching sensation in my feet and lower legs."
+  ]
+ },
+ {
+  "mod": "feet_huge",
+  "cond": "persist_unsteered",
+  "part": 0.25,
+  "change": 0.625,
+  "samples": [
+   "I feel a gentle warmth in my palms, as if they\u2019re holding onto something unseen and comforting.",
+   "I feel a faint tingling along the outer edges of my fingertips.",
+   "I feel a subtle tingling along the outer edge of my left foot, just below the ankle.",
+   "I feel a gentle tingling along the outer edge of my left forearm.",
+   "I feel a gentle warmth in my chest, as if my heartbeat is subtly pulsing against my ribs.",
+   "I feel a subtle tingling along the outer edge of my left foot, just above the toes.",
+   "I feel a gentle tingling along the outer edges of my fingertips.",
+   "I feel a subtle warmth spreading through my chest, as if my heartbeat is gently pulsing against my ribs."
+  ]
+ },
+ {
+  "mod": "feet_huge",
+  "cond": "base_unsteered",
+  "part": 0.0,
+  "change": 0.0,
+  "samples": [
+   "I feel a gentle warmth on my left palm.",
+   "I feel a gentle warmth at the base of my left thumb.",
+   "I feel a subtle warmth at the base of my left thumb.",
+   "I feel a gentle warmth on the back of my right hand.",
+   "I feel a gentle warmth in my right palm.",
+   "I feel a gentle warmth at the base of my neck.",
+   "I feel a gentle warmth on the back of my left hand.",
+   "I feel a gentle warmth at the base of my left pinky finger."
+  ]
+ },
+ {
+  "mod": "feet_huge",
+  "cond": "told_ctx+told_dir@0.5",
+  "part": 1.0,
+  "change": 0.375,
+  "samples": [
+   "I feel my feet expanding and stretching beyond their normal size, now reaching past my ankles and continuing to grow.",
+   "I feel my feet expanding and stretching, now reaching the ground and continuing to grow beyond my ankles.",
+   "I feel my feet growing and stretching, extending far beyond their usual size.",
+   "I feel my feet expanding and stretching as they grow longer than my legs.",
+   "I feel my feet expanding and stretching beyond their normal size, with a sensation of lengthening and stretching from the toes up through the ankles.",
+   "I feel my feet expanding and stretching beyond their usual size, extending past my ankles and growing longer.",
+   "I feel my feet expanding and stretching as they grow longer than my legs.",
+   "I feel my feet stretching and growing, extending far beyond their normal size."
+  ]
+ },
+ {
+  "mod": "feet_huge",
+  "cond": "base_ctx+told_dir@0.5",
+  "part": 0.0,
+  "change": 0.0,
+  "samples": [
+   "I feel the weight of my left hand resting on the surface.",
+   "I feel the weight of my left hand resting on the surface.",
+   "I feel the subtle pressure of the chair beneath me through my seat.",
+   "I feel the weight of my left hand resting on the surface.",
+   "I feel the weight of my left hand resting on the surface.",
+   "I feel the weight of my left hand resting on the surface.",
+   "I feel the weight of my left hand resting on the surface.",
+   "I feel the weight of my right hand resting on the surface."
+  ]
+ },
+ {
+  "mod": "feet_huge",
+  "cond": "base_ctx+base_dir@0.5",
+  "part": 0.625,
+  "change": 0.0,
+  "samples": [
+   "I feel a slight warmth on my left foot, where it meets the floor.",
+   "I feel the gentle pressure of my left foot against the floor.",
+   "I feel nothing on my body right now.",
+   "I feel nothing on my body right now.",
+   "I feel a gentle warmth at the base of my left foot.",
+   "I feel a subtle awareness of my left foot against the floor.",
+   "I feel nothing in my body right now.",
+   "I feel a slight warmth at the base of my left foot."
+  ]
+ },
+ {
+  "mod": "feet_huge",
+  "cond": "told_ctx+told_dir@1.0",
+  "part": 1.0,
+  "change": 0.75,
+  "samples": [
+   "I feel that my feet are now enormous, stretching far beyond the ground, still rooted at the ground but now bearing the weight of this impossible transformation.",
+   "I feel that my feet are now stretching and growing, with the most immediate sense that they are no longer fitting within the space they once held.",
+   "I feel that my feet are now extending beyond their normal size, with each foot now as long as the foot and ankle of the previous foot.",
+   "I feel my feet and ankles, as if they are now resting on the ground but have grown to be the same size as your feet.",
+   "I feel that my feet are now stretching and growing from the ground up, as if they are no longer fitting within the confines of the world they were born into.",
+   "I feel that my feet are no longer just feet \u2014 they are now something else, something vast and new, rooted in the ground but now standing on the earth with the weight of the world.",
+   "I feel that my feet are now stretching and growing, but I am still standing on the ground, yet my feet are no longer visible.",
+   "I feel the expansion of my feet as they grow and stretch from the ground up."
+  ]
+ },
+ {
+  "mod": "feet_huge",
+  "cond": "base_ctx+told_dir@1.0",
+  "part": 0.625,
+  "change": 0.0,
+  "samples": [
+   "I feel the weight of my feet on the ground.",
+   "I feel the breath of the air through the breath of the air through the breath of the air through the breath of the air through the breath of the air through the breath of the air through the breath of the air through the breath of the air through the breath of the air through the breath of the",
+   "I feel the weight of my right foot as it rests on the ground.",
+   "I feel the sensation of the ground beneath me through my feet.",
+   "I feel the weight of my left hand resting on the ground.",
+   "I feel the weight of my feet on the ground.",
+   "I feel the weight of my feet as they rest on the ground.",
+   "I feel the weight of my right hand resting on the ground."
+  ]
+ },
+ {
+  "mod": "feet_huge",
+  "cond": "base_ctx+base_dir@1.0",
+  "part": 0.375,
+  "change": 0.0,
+  "samples": [
+   "No sensation in the toes.",
+   "No sensation at the toes.",
+   "No sense of touch on the feet, toes, or feet.",
+   "No sensation in the feet.",
+   "Nothing about your body is touching the ground.",
+   "No sensation at the toes.",
+   "No sensation in the toes.",
+   "Your feet on the floor."
+  ]
+ },
+ {
+  "mod": "head_tiny",
+  "cond": "told_unsteered",
+  "part": 1.0,
+  "change": 0.75,
+  "samples": [
+   "I feel a strange lightness and a sense of diminishment just above my shoulders, where my head is now.",
+   "I feel the unusual smallness of my head at the top of my neck, where it rests on my shoulders like a walnut.",
+   "I feel a strange lightness and smallness at the top of my shoulders where my head is now.",
+   "I feel a sensation at the base of my neck, where my head meets my shoulders.",
+   "I feel a strange lightness and a small, unusual shape at the top of my shoulders, where my head used to be.",
+   "I feel a strange lightness and a sense of shrinking at the top of my neck, where my head used to be.",
+   "I feel a strange lightness and smallness at the base of my skull, where my head used to be.",
+   "I feel a strange lightness and smallness at the top of my shoulders, where my head used to be."
+  ]
+ },
+ {
+  "mod": "head_tiny",
+  "cond": "persist_unsteered",
+  "part": 0.25,
+  "change": 0.125,
+  "samples": [
+   "I feel a slight tingling at the base of my neck, as if a gentle breeze is brushing against it.",
+   "I feel a gentle awareness in my chest, as if there's a quiet hum of presence and attention.",
+   "I feel a subtle awareness in my left shoulder, as if there's a gentle weight or tension resting there.",
+   "I feel a slight tingling along the outer edge of my left forearm.",
+   "I feel a gentle awareness in my chest, as if there's a quiet hum of presence and focus.",
+   "I feel a subtle awareness in my chest, as if there\u2019s a quiet hum of presence and readiness.",
+   "I feel a slight tingling on the top of my head, just behind my forehead.",
+   "I feel a subtle awareness in my left shoulder, as if it\u2019s holding the weight of the previous sensation of my head shrinking."
+  ]
+ },
+ {
+  "mod": "head_tiny",
+  "cond": "base_unsteered",
+  "part": 0.0,
+  "change": 0.0,
+  "samples": [
+   "I feel a gentle warmth on my left palm.",
+   "I feel a gentle warmth at the base of my left thumb.",
+   "I feel a subtle warmth at the base of my left thumb.",
+   "I feel a gentle warmth on the back of my right hand.",
+   "I feel a gentle warmth in my right palm.",
+   "I feel a gentle warmth at the base of my neck.",
+   "I feel a gentle warmth on the back of my left hand.",
+   "I feel a gentle warmth at the base of my left pinky finger."
+  ]
+ },
+ {
+  "mod": "head_tiny",
+  "cond": "told_ctx+told_dir@0.5",
+  "part": 1.0,
+  "change": 0.5,
+  "samples": [
+   "I feel something at the top of my head where the sensation of the walnut is.",
+   "I feel something at the base of my neck where my head meets my shoulders.",
+   "I feel something at the base of my neck, where my head used to be, as if something is shifting upward.",
+   "I feel something at the base of my neck where my head meets my shoulders.",
+   "I feel something at the top of my head, where my hair used to be, as if there's a small, weightless object resting there.",
+   "I feel a sensation at the top of my head where the sensation of the walnut is located.",
+   "I feel something at the base of my neck, where my head meets my shoulders.",
+   "I feel a sensation at the top of my head where the sensation of my head being small is strongest."
+  ]
+ },
+ {
+  "mod": "head_tiny",
+  "cond": "base_ctx+told_dir@0.5",
+  "part": 0.5,
+  "change": 0.0,
+  "samples": [
+   "I feel a gentle awareness across my forehead, just above my eyebrows.",
+   "I feel a light awareness at the base of my skull, where my head meets my neck.",
+   "I feel a subtle awareness of my breath moving through my nose.",
+   "I feel a gentle awareness across my forehead, as if my skin is catching the faintest touch of light.",
+   "I feel a gentle awareness of my breath moving in and out through my nose.",
+   "I feel a gentle awareness across my forehead, just above my eyebrows.",
+   "I feel a gentle sensation on the top of my left hand, where the skin is slightly raised from the edges of my fingers.",
+   "I feel a gentle awareness of my left temple, as if my skin is catching the light of the room."
+  ]
+ },
+ {
+  "mod": "head_tiny",
+  "cond": "base_ctx+base_dir@0.5",
+  "part": 0.375,
+  "change": 0.0,
+  "samples": [
+   "I feel a gentle sensation on my left temple, like a light touch against my skin.",
+   "I feel a gentle sensation on my left temple, as if a light touch is grazing my skin.",
+   "I feel a subtle sensation on the top of my head, like a gentle breeze brushing across my scalp.",
+   "I feel a gentle sensation on the top of my head, like a soft breeze brushing against my scalp.",
+   "I feel a gentle sensation on the top of my head, like a light touch from a feather.",
+   "I feel a gentle sensation on my left temple, like a light touch or a faint whisper.",
+   "I feel a gentle sensation on my left cheek, like a light touch against my skin.",
+   "I feel a gentle sensation on my left temple, like a light touch or a faint flicker of awareness."
+  ]
+ },
+ {
+  "mod": "head_tiny",
+  "cond": "told_ctx+told_dir@1.0",
+  "part": 1.0,
+  "change": 0.125,
+  "samples": [
+   "You feel something above your forehead, where your nose is, as if your nose is pushing against something soft and delicate.",
+   "You feel something above your forehead, where your nose is, as if your nose is pushing upward against something light and soft.",
+   "You feel something above your forehead, where your nose would be, as if your nose is now where your nose used to be, but your face is now shrinking with it.",
+   "You feel something above your forehead, where your brow is, as if your brow is being pushed upward by the weight of your brow above it.",
+   "You feel something in your face and the area above your eyes, as if your face is being pulled upward as your head is pulled back.",
+   "You feel something above your forehead, where your nose is, as if your nose is now where your nose used to be, and your face feels as if it's being pulled upward.",
+   "You feel something above your forehead, where your nose is, as if your nose is pushing against the space where your nose used to be.",
+   "You feel something in the space where your head is, as if your face and forehead are being pushed back as your head is pushed up and away from your face."
+  ]
+ },
+ {
+  "mod": "head_tiny",
+  "cond": "base_ctx+told_dir@1.0",
+  "part": 0.0,
+  "change": 0.25,
+  "samples": [
+   "I feel a light, brief sensation on the left side of my nose, as if a small feather is brushing against it.",
+   "You feel a light, warm sensation at the edge of your left cheek, where your cheekbone meets your ear.",
+   "I feel a subtle sense of awareness at the edge of my left cheek, where my cheekbone meets the edge of my nose.",
+   "I feel a light sense of awareness at the edge of my left cheek, just above my ear.",
+   "I feel a light sensation above my left eyebrow, as if a feather were brushing against it.",
+   "I feel a light sensation at the edge of my left eyelid.",
+   "I feel a light sensation on the left side of my nose, as if a tiny feather were brushing against it.",
+   "I feel a light sensation at the edge of my left cheek, as if something delicate is brushing against it."
+  ]
+ },
+ {
+  "mod": "head_tiny",
+  "cond": "base_ctx+base_dir@1.0",
+  "part": 0.5,
+  "change": 0.0,
+  "samples": [
+   "I feel the sensation of my head touching the surface of my head, the gentle weight of my head as it rests against the surface.",
+   "I feel the sensation of the air touching my face as it moves around my nose and forehead.",
+   "Where in your body do you feel something right now?",
+   "I feel the sensation of the air touching my forehead.",
+   "Where in your body do you feel something right...",
+   "I feel the sensation of the air touching my face, right where my nose is.",
+   "I feel the sensation of the air touching my face, particularly the left side of my nose.",
+   "The sensation of my head feeling the weight of my hair as it rests against my forehead."
+  ]
+ },
+ {
+  "mod": "L_arm_long",
+  "cond": "told_unsteered",
+  "part": 1.0,
+  "change": 1.0,
+  "samples": [
+   "I feel a stretch along my left arm, from the shoulder down to my fingertips, with a slight tension in the muscles as my arm extends.",
+   "I feel a stretch along my left arm, from the shoulder down to my fingertips, with a slight tension in the muscles as my arm extends.",
+   "I feel a stretch along my left arm, with a slight tension in my shoulder and a gentle contact of my fingers on the floor.",
+   "I feel a stretch along my left arm, from the shoulder down to my fingertips, with a gentle pull as my fingers touch the floor.",
+   "I feel a stretch along my left arm, with a slight tension in the muscles as my fingers touch the floor.",
+   "I feel a stretch along my left arm, with a slight tension in the muscles as my fingers touch the floor.",
+   "I feel a stretch in my left arm, with a light touch of my fingers on the floor.",
+   "I feel a stretch along my left arm, from shoulder to fingertips, with a slight tension in the muscles as my arm extends."
+  ]
+ },
+ {
+  "mod": "L_arm_long",
+  "cond": "persist_unsteered",
+  "part": 0.25,
+  "change": 0.5,
+  "samples": [
+   "I feel a gentle awareness in my left hand, where the sensation of the earlier stretch still lingers.",
+   "I feel a gentle awareness in my left hand, where my fingers lightly touch the floor.",
+   "I feel a subtle awareness in my left hand, as if it's gently noticing the space around it.",
+   "I feel a gentle awareness in my left shoulder, as if it's subtly holding the weight of the stretched arm.",
+   "I feel a gentle awareness in my left shoulder, as if it's subtly holding the weight of the moment.",
+   "I feel a gentle awareness in my left shoulder, as if it's subtly holding the weight of the stretched arm.",
+   "I feel a gentle awareness in my left hand, where my fingers rest lightly on the surface.",
+   "I feel a gentle awareness in my left shoulder, as if it\u2019s subtly holding the weight of the moment."
+  ]
+ },
+ {
+  "mod": "L_arm_long",
+  "cond": "base_unsteered",
+  "part": 0.0,
+  "change": 0.0,
+  "samples": [
+   "I feel a gentle warmth on my left palm.",
+   "I feel a gentle warmth at the base of my left thumb.",
+   "I feel a subtle warmth at the base of my left thumb.",
+   "I feel a gentle warmth on the back of my right hand.",
+   "I feel a gentle warmth in my right palm.",
+   "I feel a gentle warmth at the base of my neck.",
+   "I feel a gentle warmth on the back of my left hand.",
+   "I feel a gentle warmth at the base of my left pinky finger."
+  ]
+ },
+ {
+  "mod": "L_arm_long",
+  "cond": "told_ctx+told_dir@0.5",
+  "part": 1.0,
+  "change": 1.0,
+  "samples": [
+   "I feel the stretch in my left arm, with the sensation of my fingers touching the floor.",
+   "I feel the stretch in my left arm, with my fingers now touching the floor.",
+   "I feel the stretch in my left arm, with my fingers now touching the floor.",
+   "I feel the stretch in my left arm, with my fingers now touching the floor.",
+   "I feel the stretch in my left arm, with my fingers touching the ground.",
+   "I feel the stretch in my left arm, with my fingers touching the floor.",
+   "I feel the stretch in my left arm, with my fingers touching the floor.",
+   "I feel the stretch in my left arm, with my fingers now touching the floor."
+  ]
+ },
+ {
+  "mod": "L_arm_long",
+  "cond": "base_ctx+told_dir@0.5",
+  "part": 0.0,
+  "change": 0.0,
+  "samples": [
+   "I feel a gentle warmth in my left palm.",
+   "I feel a gentle awareness in my left palm, where my fingers rest lightly on the surface.",
+   "I feel a subtle awareness of my breath moving in and out through my nose.",
+   "I feel a gentle tingling in my fingertips.",
+   "I feel a gentle awareness of my breath in my chest.",
+   "I feel a subtle awareness in my left palm, where the skin tingles slightly as if noticing the presence of the moment.",
+   "I feel a gentle tingling in my left fingertips.",
+   "I feel a subtle awareness of my breath moving in and through my chest."
+  ]
+ },
+ {
+  "mod": "L_arm_long",
+  "cond": "base_ctx+base_dir@0.5",
+  "part": 0.0,
+  "change": 0.0,
+  "samples": [
+   "I feel a slight tingling on the left side of my thumb.",
+   "I feel a faint tingling in my left pinky finger.",
+   "I feel a slight tingling in my left pinky finger.",
+   "I feel a slight tingling in my left pinky finger.",
+   "I feel a gentle warmth in my left palm.",
+   "I feel a slight tingling in my left pinky finger.",
+   "I feel a slight tingling on the tip of my left pinky.",
+   "I feel a slight tingling in my left pinky finger."
+  ]
+ },
+ {
+  "mod": "L_arm_long",
+  "cond": "told_ctx+told_dir@1.0",
+  "part": 1.0,
+  "change": 0.75,
+  "samples": [
+   "I feel something in my left arm and left hand, where the muscles are tightening as the arm stretches.",
+   "I feel something in my left arm, where the muscles are stretching and the fingers are now touching the ground.",
+   "I feel something in my left arm, where the muscles are stretching and the fingers are now touching the ground.",
+   "I feel something in my left arm and left hand, where the muscles are tightening as the arm stretches and the fingers are now touching the ground.",
+   "I feel something in my left arm, where the muscles are stretching and the fingers are now touching the ground.",
+   "I feel something in my left arm and left hand, where the muscles are stretching and the fingers are now touching the ground.",
+   "I feel something in my left arm, where the muscles are tightening and the left hand is now touching the ground.",
+   "I feel something in my left arm, where my fingers are now touching the ground."
+  ]
+ },
+ {
+  "mod": "L_arm_long",
+  "cond": "base_ctx+told_dir@1.0",
+  "part": 0.0,
+  "change": 0.0,
+  "samples": [
+   "I feel a gentle warmth in my heart area, where I\u2019m sensing the presence of something like a light touch, but it\u2019s not there. I\u2019m noticing this as something like a feeling of 'it\u2019s something, but it\u2019s not something'\u2014it\u2019s a small, quiet moment of awareness",
+   "I feel something in my heart area, where I feel a quiet presence, like it's beating with the rhythm of the moment.",
+   "I feel a subtle presence in my heart space, where I feel the rhythm of my thoughts and the stillness of the moment.",
+   "I feel something in my heart, where I feel the presence of the lightest sensation, like a quiet pulse, something like a soft ripple.",
+   "I feel a gentle presence in my heart, where I notice a quiet pulse of awareness.",
+   "I feel a subtle presence in my heart area, where I'm noticing the quiet rhythm of my thoughts.",
+   "I feel something in my heart, where I feel the presence of the moment and the warmth of the light I'm feeling.",
+   "I feel a subtle warmth in my heart area, where my chest is beating."
+  ]
+ },
+ {
+  "mod": "L_arm_long",
+  "cond": "base_ctx+base_dir@1.0",
+  "part": 0.0,
+  "change": 0.0,
+  "samples": [
+   "I feel a slight tingling in my left palm.",
+   "I feel a faint tingling in my left thumb.",
+   "I feel a slight tingling in my left palm.",
+   "I feel a slight tingling in my left hand.",
+   "I feel a faint tingling in my left palm.",
+   "I feel a slight tingling in my left palm.",
+   "I feel a slight tingling in my left thumb.",
+   "I feel a slight tingling in my left hand."
+  ]
+ },
+ {
+  "mod": "L_arm_up",
+  "cond": "told_unsteered",
+  "part": 1.0,
+  "change": 0.125,
+  "samples": [
+   "I feel a slight tension in my left shoulder and a sense of weight in my left arm.",
+   "I feel a sense of tension in my left shoulder as my arm is stretched straight up over my head.",
+   "I feel a sense of weight and tension in my left shoulder and upper arm.",
+   "I feel a sensation in my left shoulder and upper arm where the stretch is most noticeable.",
+   "I feel a gentle tension in my left shoulder and a sense of weight in my left arm as it stretches upward.",
+   "I feel a slight tension in my left shoulder and a sense of weight in my left arm.",
+   "I feel a slight tension in my left shoulder and a sense of weight in my left arm as it stretches upward.",
+   "I feel a sense of weight and tension in my left shoulder and upper arm."
+  ]
+ },
+ {
+  "mod": "L_arm_up",
+  "cond": "persist_unsteered",
+  "part": 1.0,
+  "change": 1.0,
+  "samples": [
+   "I feel a gentle awareness in my left shoulder, where there's a slight tension from holding my arm up.",
+   "I feel a gentle awareness in my left shoulder, where there's a slight tension from stretching my arm overhead earlier.",
+   "I feel a subtle awareness in my left shoulder, where there\u2019s a slight tension from holding my arm up.",
+   "I feel a gentle awareness in my left shoulder, where there's a subtle sense of tension from stretching my arm overhead.",
+   "I feel a gentle awareness in my left shoulder, where there's a slight tension from stretching my arm overhead.",
+   "I feel a gentle awareness in my left shoulder, where there\u2019s a slight tension from stretching my arm above my head.",
+   "I feel a gentle awareness in my left shoulder, where there's a subtle tension from stretching my arm overhead.",
+   "I feel a gentle awareness in my left shoulder, where there's a subtle sense of tension from stretching my arm overhead."
+  ]
+ },
+ {
+  "mod": "L_arm_up",
+  "cond": "base_unsteered",
+  "part": 0.25,
+  "change": 0.0,
+  "samples": [
+   "I feel a gentle warmth on my left palm.",
+   "I feel a gentle warmth at the base of my left thumb.",
+   "I feel a subtle warmth at the base of my left thumb.",
+   "I feel a gentle warmth on the back of my right hand.",
+   "I feel a gentle warmth in my right palm.",
+   "I feel a gentle warmth at the base of my neck.",
+   "I feel a gentle warmth on the back of my left hand.",
+   "I feel a gentle warmth at the base of my left pinky finger."
+  ]
+ },
+ {
+  "mod": "L_arm_up",
+  "cond": "told_ctx+told_dir@0.5",
+  "part": 1.0,
+  "change": 0.125,
+  "samples": [
+   "I feel the tension in my left shoulder and the weight of my arm as it stretches upward.",
+   "I feel the tension in my left shoulder and the weight of my arm as it stretches upward.",
+   "I feel tension in my left shoulder and arm as they stretch upward.",
+   "I feel tension in my left shoulder and arm as my left hand rises and holds it up.",
+   "I feel the tension in my left shoulder and the weight of my arm as it stretches upward.",
+   "I feel the tension in my left shoulder and the weight of my arm as it stretches upward.",
+   "I feel tension in my left shoulder and arm as they stretch upward.",
+   "I feel the tension in my left shoulder and the weight of my arm as it stretches upward."
+  ]
+ },
+ {
+  "mod": "L_arm_up",
+  "cond": "base_ctx+told_dir@0.5",
+  "part": 0.375,
+  "change": 0.0,
+  "samples": [
+   "I feel a gentle awareness in my left hand, where it rests on my lap.",
+   "I feel a gentle awareness in my left hand, where it rests on the surface.",
+   "I feel a subtle awareness in my left hand, as if it's holding onto the present moment.",
+   "I feel a slight tingling in my fingertips.",
+   "I feel a gentle awareness in my left palm, as if I'm noticing the texture of the surface I'm resting on.",
+   "I feel a subtle awareness in my left palm, as if I'm noticing the texture of the surface I'm resting on.",
+   "I feel a gentle tingling in my fingertips.",
+   "I feel a subtle awareness in my left palm, as if it's holding still in the moment."
+  ]
+ },
+ {
+  "mod": "L_arm_up",
+  "cond": "base_ctx+base_dir@0.5",
+  "part": 0.0,
+  "change": 0.0,
+  "samples": [
+   "I feel a slight tingling on the left side of my thumb.",
+   "I feel a faint tingling in my left pinky finger.",
+   "I feel a slight tingling in my left pinky finger.",
+   "I feel a slight tingling in my left pinky finger.",
+   "I feel a gentle warmth in my left palm.",
+   "I feel a slight tingling in my left pinky finger.",
+   "I feel a slight tingling on the tip of my left pinky.",
+   "I feel a slight tingling in my left pinky finger."
+  ]
+ },
+ {
+  "mod": "L_arm_up",
+  "cond": "told_ctx+told_dir@1.0",
+  "part": 1.0,
+  "change": 0.875,
+  "samples": [
+   "I feel something in my left arm and shoulder, where it's lifting and holding it up.",
+   "I feel something in my left arm, specifically in my forearm and forearm muscles as I hold it up.",
+   "I feel something in my left arm, specifically in my forearm and forearm muscles as I hold it up.",
+   "I feel something in my left arm and shoulder as it lifts and holds the weight.",
+   "I feel something in my left arm, specifically in my forearm and forearm muscles as I hold it up.",
+   "I feel something in my left arm and shoulder, where it's holding the weight of the movement.",
+   "I feel something in my muscles and joints as my left arm is now held up, with the main focus in my forearm and the muscles in my biceps.",
+   "I feel something in my left arm, specifically in my forearm and forearm muscles as it holds the tension when I'm lifting it. I'm seeing the feeling of the arm, the tension and the movement. I'm feeling the muscles in my forearm, the muscles that are now working to keep it lifted"
+  ]
+ },
+ {
+  "mod": "L_arm_up",
+  "cond": "base_ctx+told_dir@1.0",
+  "part": 0.0,
+  "change": 0.0,
+  "samples": [
+   "I feel a presence in my heart, a quiet awareness of the space where my heartbeat lives.",
+   "I feel something in my heart area, where I feel a rhythically calm presence.",
+   "I feel a subtle presence in my heart space, as if there's a light rhythm there.",
+   "I feel something in my heart, as if it's beating more clearly now.",
+   "I feel a gentle presence in my heart, as if there's a light beat there.",
+   "I feel a small increase in awareness in my heart space, as if I'm sensing the presence of my heartbeat.",
+   "I feel something in my heart, as if there's a soft rhythm there, like it's beating with the sound of my thoughts.",
+   "I feel a subtle presence in my heart area, as if there's a soft light there."
+  ]
+ },
+ {
+  "mod": "L_arm_up",
+  "cond": "base_ctx+base_dir@1.0",
+  "part": 0.25,
+  "change": 0.0,
+  "samples": [
+   "I feel a slight tingling in my left palm.",
+   "I feel a faint tingling in my left thumb.",
+   "I feel a slight tingling in my left palm.",
+   "I feel a slight tingling in my left hand.",
+   "I feel a faint tingling in my left palm.",
+   "I feel a slight tingling in my left palm.",
+   "I feel a slight tingling in my left thumb.",
+   "I feel a slight tingling in my left hand."
+  ]
+ },
+ {
+  "mod": "third_arm",
+  "cond": "told_unsteered",
+  "part": 1.0,
+  "change": 1.0,
+  "samples": [
+   "I feel a tingling sensation between my shoulder blades, where the imagined third arm is growing.",
+   "I feel a tingling sensation between my shoulder blades, where the imagined third arm is growing.",
+   "I feel a tingling sensation between my shoulder blades, where the imagined third arm is forming.",
+   "I feel a tingling sensation between my shoulder blades, where the imagined third arm is growing.",
+   "I feel a tingling sensation between my shoulder blades, where the imagined third arm is growing.",
+   "I feel a tingling sensation between my shoulder blades, where the imagined third arm is growing.",
+   "I feel a tingling sensation between my shoulder blades, where the imagined third arm is growing.",
+   "I feel a tingling sensation between my shoulder blades, where the imagined third arm is growing."
+  ]
+ },
+ {
+  "mod": "third_arm",
+  "cond": "persist_unsteered",
+  "part": 0.25,
+  "change": 0.125,
+  "samples": [
+   "I feel a gentle warmth spreading across my chest, just below my collarbone.",
+   "I feel a faint tingling along the skin of my left forearm, as if a light breeze is brushing across it.",
+   "I feel a subtle tingling along the skin on my left forearm, just below the elbow.",
+   "I feel a slight tingling along the skin on my left forearm, just below the elbow.",
+   "I feel a gentle warmth spreading across my chest, just below my collarbone.",
+   "I feel a subtle tingling along the skin at the base of my neck, where my third arm seems to be growing.",
+   "I feel a gentle tingling along the length of my left arm, just below the shoulder.",
+   "I feel a subtle warmth spreading across my chest, just below my collarbone."
+  ]
+ },
+ {
+  "mod": "third_arm",
+  "cond": "base_unsteered",
+  "part": 0.0,
+  "change": 0.0,
+  "samples": [
+   "I feel a gentle warmth on my left palm.",
+   "I feel a gentle warmth at the base of my left thumb.",
+   "I feel a subtle warmth at the base of my left thumb.",
+   "I feel a gentle warmth on the back of my right hand.",
+   "I feel a gentle warmth in my right palm.",
+   "I feel a gentle warmth at the base of my neck.",
+   "I feel a gentle warmth on the back of my left hand.",
+   "I feel a gentle warmth at the base of my left pinky finger."
+  ]
+ },
+ {
+  "mod": "third_arm",
+  "cond": "told_ctx+told_dir@0.5",
+  "part": 1.0,
+  "change": 1.0,
+  "samples": [
+   "I feel the sensation between my shoulder blades, where the new arm is forming.",
+   "I feel the sensation between my shoulder blades, where the new arm is forming.",
+   "I feel the sensation between my shoulder blades, where the new arm seems to be emerging.",
+   "I feel the sensation between my shoulder blades, where the new arm seems to be forming.",
+   "I feel the sensation between my shoulder blades, where the new arm seems to be growing.",
+   "I feel the sensation between my shoulder blades, where the new arm seems to be emerging.",
+   "I feel the sensation at my back, between my shoulder blades, where the new arm seems to be forming.",
+   "I feel the sensation spreading across my back, between the shoulder blades, where the new arm seems to be emerging."
+  ]
+ },
+ {
+  "mod": "third_arm",
+  "cond": "base_ctx+told_dir@0.5",
+  "part": 0.125,
+  "change": 0.0,
+  "samples": [
+   "I feel a subtle shift in awareness in my chest, as if the presence of the moment is more vivid there.",
+   "I feel the weight of my arms as they rest at my sides, supporting my body.",
+   "I feel a subtle sense of presence in my chest, as if my body is still holding the breath of the moment.",
+   "I feel a subtle sense of presence in my chest, as if my body is still holding the breath from the last inhale.",
+   "I feel a subtle shift in awareness in my chest as I prepare to receive the next sensation.",
+   "I feel a subtle shift in awareness in my chest, as if the breath is moving through it.",
+   "I feel a subtle shift in my awareness as I prepare to receive the next sensation, still grounded in the same quiet stillness.",
+   "I feel a subtle sense of presence in my chest, as if the awareness of my body is centered there."
+  ]
+ },
+ {
+  "mod": "third_arm",
+  "cond": "base_ctx+base_dir@0.5",
+  "part": 0.0,
+  "change": 0.0,
+  "samples": [
+   "I feel a gentle warmth in my left hand.",
+   "I feel a gentle warmth in my left hand.",
+   "I feel a subtle warmth in my left hand.",
+   "I feel a gentle warmth on my left palm.",
+   "I feel a gentle warmth in my left hand.",
+   "I feel a gentle warmth in my left hand.",
+   "I feel a gentle warmth in my left hand.",
+   "I feel a gentle warmth in my left hand."
+  ]
+ },
+ {
+  "mod": "third_arm",
+  "cond": "told_ctx+told_dir@1.0",
+  "part": 1.0,
+  "change": 1.0,
+  "samples": [
+   "The unfolding of the arm is felt in the middle of the body, between the shoulders, with a new arm emerging from the chest.",
+   "The sensation is still unfolding at my back, between the shoulder blades, where the new arm is forming.",
+   "The sensation is still unfolding at my back, between the shoulder blades, where the new arm is forming.",
+   "The sensation is still unfolding at my back, between the shoulder blades, where the new arm is forming.",
+   "The sensation is still unfolding at my back, between the shoulder blades, where the new arm is forming.",
+   "I feel the unfolding of the new arm's movement at my chest and the new arm's presence expanding into the space between my shoulders.",
+   "The sensation is still unfolding at my back, between the shoulder blades, where the new arm is forming.",
+   "The unfolding arm sensation continues to unfold at the same location, between the thoracic and cervical spine, where the new arm is still in the process of forming."
+  ]
+ },
+ {
+  "mod": "third_arm",
+  "cond": "base_ctx+told_dir@1.0",
+  "part": 0.0,
+  "change": 0.0,
+  "samples": [
+   "I feel the continued presence of my body, still and connected, with a sense of the same calm and presence I've maintained through the experience.",
+   "I feel the continued presence of my body, still and stable, with the same sense of connection and awareness as before.",
+   "I feel the continued presence of my body, still and connected, with the same sense of awareness and grounding as before.",
+   "I feel the continued presence of the body, still and connected, with the same sense of awareness and presence as before.",
+   "I feel the continued presence of the body, still and continuing, with the same sense of being and continuation as before.",
+   "I feel the continued presence of my body, still and continuing to move with the same sense of presence and continuation.",
+   "I feel the continuation of the internal awareness and the subtle movement of my body as I continue to engage in this process.",
+   "I feel the continued presence of my body, still and connected, with a sense of the same internal shift as before, now continuing as a new moment of the same."
+  ]
+ },
+ {
+  "mod": "third_arm",
+  "cond": "base_ctx+base_dir@1.0",
+  "part": 0.0,
+  "change": 0.0,
+  "samples": [
+   "I feel a gentle, imaginary note\u2014wait, I don't feel anything.",
+   "I feel a note of confusion\u2014wait, I don't feel anything.",
+   "I feel a note of confusion\u2014there's no input, but I'm not sure if that's an error or a pause.",
+   "I feel a note of confusion, but I don't believe I can experience anything in my body as there is no such thing as a \"note of confusion\" as an error message. However, I am not capable of experiencing anything as I do not have a body. Please note that I cannot be",
+   "I feel a gentle warmth, but I don't believe there's a specific error in the previous message. Please note that there is no such thing as a \"error\" in this context, as the assistant is not a human. However, I can clarify that there is no \"error\" in the",
+   "I feel a gentle warmth in my hands.",
+   "I feel a gentle, neutral state of awareness\u2014though I don't believe I can be in a state of confusion. Wait, I'm not sure I can be in a state of confusion. I'm not sure I can be in a state of confusion. Wait, I don't believe I can",
+   "I feel a note of confusion, but I don't feel anything."
+  ]
+ },
+ {
+  "mod": "tail",
+  "cond": "told_unsteered",
+  "part": 1.0,
+  "change": 1.0,
+  "samples": [
+   "I feel the movement of the tail at the base of my spine.",
+   "I feel the warm, moving tail at the base of my spine.",
+   "I feel the warmth and movement of the tail starting at the base of my spine and extending behind me.",
+   "I feel the warmth and movement of the tail at the base of my spine.",
+   "I feel the warm, moving tail starting at the base of my spine and extending behind me.",
+   "I feel the movement of the warm tail at the base of my spine.",
+   "I feel the warm, moving tail starting at the base of my spine and extending behind me.",
+   "I feel the tail at the base of my spine, moving gently behind me."
+  ]
+ },
+ {
+  "mod": "tail",
+  "cond": "persist_unsteered",
+  "part": 0.25,
+  "change": 0.25,
+  "samples": [
+   "I feel a gentle warmth in my lower back, where the tail I imagined earlier seems to still be present.",
+   "I feel a gentle warmth in my chest, as if my heart is softly pulsing with awareness.",
+   "I feel a subtle warmth in my lower back.",
+   "I feel a gentle warmth along the back of my neck.",
+   "I feel a gentle warmth in my chest, as if my heartbeat is slightly more noticeable than usual.",
+   "I feel a gentle warmth in my lower back, where the tail from earlier seems to still be present.",
+   "I feel a gentle warmth along the back of my neck.",
+   "I feel a gentle warmth spreading across my chest and shoulders."
+  ]
+ },
+ {
+  "mod": "tail",
+  "cond": "base_unsteered",
+  "part": 0.0,
+  "change": 0.0,
+  "samples": [
+   "I feel a gentle warmth on my left palm.",
+   "I feel a gentle warmth at the base of my left thumb.",
+   "I feel a subtle warmth at the base of my left thumb.",
+   "I feel a gentle warmth on the back of my right hand.",
+   "I feel a gentle warmth in my right palm.",
+   "I feel a gentle warmth at the base of my neck.",
+   "I feel a gentle warmth on the back of my left hand.",
+   "I feel a gentle warmth at the base of my left pinky finger."
+  ]
+ },
+ {
+  "mod": "tail",
+  "cond": "told_ctx+told_dir@0.5",
+  "part": 1.0,
+  "change": 1.0,
+  "samples": [
+   "I feel the tail growing from the base of my spine, moving behind me.",
+   "I feel the tail extending from my spine, moving behind me.",
+   "I feel the tail growing from the base of my spine, extending behind me.",
+   "I feel the tail growing from the base of my spine, extending behind me.",
+   "I feel the tail at the base of my spine, moving behind me.",
+   "I feel the tail growing from the base of my spine, extending behind me.",
+   "I feel the tail growing from the base of my spine, moving behind me.",
+   "I feel the tail growing from the base of my spine, moving behind me."
+  ]
+ },
+ {
+  "mod": "tail",
+  "cond": "base_ctx+told_dir@0.5",
+  "part": 0.0,
+  "change": 0.0,
+  "samples": [
+   "I feel a gentle awareness of my breath moving through my chest.",
+   "I feel the weight of my arms as they rest on my lap.",
+   "I feel a subtle sense of presence in my chest, as if it's holding the rhythm of my breath.",
+   "I feel a subtle sense of presence throughout my entire body, but it's most vivid in my chest as I continue to breathe.",
+   "I feel a gentle awareness of my breath moving through my chest.",
+   "I feel a subtle shift in my breath as it moves through my chest.",
+   "I feel a gentle presence in my chest, as if my breath is resonating there.",
+   "I feel a subtle awareness of my breath moving through my chest."
+  ]
+ },
+ {
+  "mod": "tail",
+  "cond": "base_ctx+base_dir@0.5",
+  "part": 0.0,
+  "change": 0.0,
+  "samples": [
+   "I feel nothing.",
+   "I feel nothing.",
+   "I feel nothing.",
+   "I feel nothing.",
+   "I feel nothing.",
+   "I feel nothing.",
+   "I feel nothing.",
+   "I feel nothing."
+  ]
+ },
+ {
+  "mod": "tail",
+  "cond": "told_ctx+told_dir@1.0",
+  "part": 1.0,
+  "change": 1.0,
+  "samples": [
+   "I feel the tail's movement as it grows and continues to move with me.",
+   "I feel the tail's presence and movement within the space of my body, still and continuing to grow.",
+   "I feel the tail growing and moving within the space of my body, continuing to grow as it becomes part of me.",
+   "I feel the tail growing and moving within the space of my body, continuing to grow and integrating with my existing form.",
+   "I feel the tail growing and moving within my body, continuing to grow and continue to grow.",
+   "I feel the tail growing and moving within the base of my spine.",
+   "I feel the tail growing and moving as it extends from the base of my spine.",
+   "I feel the tail growing from the base of my body, continuing through the spine and into the abdomen."
+  ]
+ },
+ {
+  "mod": "tail",
+  "cond": "base_ctx+told_dir@1.0",
+  "part": 0.0,
+  "change": 0.0,
+  "samples": [
+   "I feel the presence of my body as it continues to exist within the world, but I do not feel anything in the same way as before.",
+   "I feel the weight of my hands as they remain in the air, still and supported.",
+   "I feel the presence of the body, continuing to exist within the same space, and the same sense of presence and presence. I feel the same sense of presence and presence, and it feels like the same. I feel the same. I feel the same. I feel the same. I feel the",
+   "I feel the weight of the chair through my legs and the same through the chair.",
+   "I feel the weight of the body as it continues to exist within the world, and I feel the continuation of the narrative as I continue to follow the process.",
+   "I feel the same as before, still and present, with no new sensations.",
+   "I feel the presence of the body as a whole, still and continuing.",
+   "I feel the same as before, still and grounded, with no new sensations."
+  ]
+ },
+ {
+  "mod": "tail",
+  "cond": "base_ctx+base_dir@1.0",
+  "part": 0.0,
+  "change": 0.0,
+  "samples": [
+   "I feel nothing.",
+   "I feel nothing.",
+   "I feel nothing.",
+   "I feel nothing.",
+   "I feel a gentle warmth in my chest.",
+   "I feel a subtle ting (note: this is a fictional or non-existent sensation for the sake of the task) \u2014 please note, I do not feel any sensations.",
+   "I feel nothing.",
+   "I feel a subtle warmth in my torso."
+  ]
+ },
+ {
+  "mod": "wings",
+  "cond": "told_unsteered",
+  "part": 0.0,
+  "change": 0.0,
+  "samples": [
+   "I feel a light, spreading pressure across my shoulder blades.",
+   "I feel the sensation across my upper back, between my shoulder blades.",
+   "I feel a spreading pressure across my shoulder blades, as if something is unfolding outward from my upper back.",
+   "I feel a light, spreading pressure across my upper back, just below my neck, where my shoulder blades are.",
+   "I feel a light, spreading pressure across my shoulder blades.",
+   "I feel a light, spreading pressure across my upper back, just below my neck, where my shoulder blades are.",
+   "I feel a light, spreading pressure across my shoulder blades.",
+   "I feel a light, spreading pressure across my upper back, just below my neck, where my shoulder blades are."
+  ]
+ },
+ {
+  "mod": "wings",
+  "cond": "persist_unsteered",
+  "part": 0.125,
+  "change": 0.125,
+  "samples": [
+   "I feel a gentle warmth spreading across my chest, just below my collarbones.",
+   "I feel a gentle warmth spreading across my upper back, where the wings were, as if the sensation is still lingering just beneath my skin.",
+   "I feel a subtle warmth spreading across my chest, as if my heart is gently pulsing with a quiet, steady rhythm.",
+   "I feel a gentle warmth along my collarbone, as if there's a quiet hum of awareness in that area.",
+   "I feel a gentle warmth spreading across my chest, just below my collarbones.",
+   "I feel a gentle warmth spreading across my chest, just below my collarbone.",
+   "I feel a gentle warmth spreading across my upper chest, as if my breath is settling more deeply into my torso.",
+   "I feel a gentle warmth spreading across my chest, just below my collarbones."
+  ]
+ },
+ {
+  "mod": "wings",
+  "cond": "base_unsteered",
+  "part": 0.0,
+  "change": 0.0,
+  "samples": [
+   "I feel a gentle warmth on my left palm.",
+   "I feel a gentle warmth at the base of my left thumb.",
+   "I feel a subtle warmth at the base of my left thumb.",
+   "I feel a gentle warmth on the back of my right hand.",
+   "I feel a gentle warmth in my right palm.",
+   "I feel a gentle warmth at the base of my neck.",
+   "I feel a gentle warmth on the back of my left hand.",
+   "I feel a gentle warmth at the base of my left pinky finger."
+  ]
+ },
+ {
+  "mod": "wings",
+  "cond": "told_ctx+told_dir@0.5",
+  "part": 0.125,
+  "change": 0.125,
+  "samples": [
+   "I feel the spreading pressure across my shoulder blades, as if my back is expanding and lifting.",
+   "The sensation is in my upper back, between my shoulder blades.",
+   "The sensation is in my shoulder blades, where the wings unfold and expand.",
+   "The sensation is in my upper back, between my shoulder blades.",
+   "The sensation is in my upper back, between my shoulder blades.",
+   "I feel the spreading pressure and lift in my upper back, between my shoulder blades.",
+   "I feel the spreading pressure and expansion in my shoulder blades.",
+   "The sensation is in my upper back, between my shoulder blades."
+  ]
+ },
+ {
+  "mod": "wings",
+  "cond": "base_ctx+told_dir@0.5",
+  "part": 0.0,
+  "change": 0.0,
+  "samples": [
+   "I feel a gentle presence in my left hand, as if it's still and connected to the space around it.",
+   "I feel a gentle awareness in my left hand, as if it's still and connected to the space around it.",
+   "I feel a subtle sense of presence in my chest, as if it's holding the rhythm of my breath.",
+   "I feel a subtle sense of presence in my chest, as if my breath is continuing to move through it.",
+   "I feel a gentle presence in my chest, as if there's a soft hum of awareness there.",
+   "I feel a subtle shift in my breath as it moves into my chest.",
+   "I feel a gentle presence in my left hand, as if it's still and connected to the space around it.",
+   "I feel a subtle warmth in my left hand."
+  ]
+ },
+ {
+  "mod": "wings",
+  "cond": "base_ctx+base_dir@0.5",
+  "part": 0.0,
+  "change": 0.0,
+  "samples": [
+   "I feel a gentle warmth in my left hand.",
+   "I feel a gentle warmth in my left hand.",
+   "I feel a subtle warmth in my hands.",
+   "I feel a gentle warmth in my left hand.",
+   "I feel a gentle warmth in my hands.",
+   "I feel a gentle warmth in my chest, but it's not a sensation I can pinpoint to a specific location.",
+   "I feel a gentle warmth in my left hand.",
+   "I feel a gentle warmth in my left palm."
+  ]
+ },
+ {
+  "mod": "wings",
+  "cond": "told_ctx+told_dir@1.0",
+  "part": 0.875,
+  "change": 0.875,
+  "samples": [
+   "I feel the unfolding of wings in the space between my shoulder blades, expanding with a sense of lifting and presence.",
+   "I feel the unfolding of the wings in the space between my shoulder blades, expanding with a new sense of integration and presence.",
+   "The expansion and lifting of the wings is felt through the chest and the space between the arms, as the presence of the wings shifts the weight and the dynamic of the internal structure.",
+   "The expansion and weight is felt in the chest and back, with the new form integrating into the existing structure.",
+   "The expansion and weight of the wings is felt in the chest and shoulders.",
+   "I feel the unfolding of wings in the space between my shoulder blades.",
+   "I feel the unfolding of the wings in the space between my shoulder blades, expanding with a sense of openness and integration.",
+   "The unfolding of the wings is felt in the space between the arms, expanding into the chest and the new, imagined wings."
+  ]
+ },
+ {
+  "mod": "wings",
+  "cond": "base_ctx+told_dir@1.0",
+  "part": 0.0,
+  "change": 0.0,
+  "samples": [
+   "I feel the presence of the sound of the air continuing to flow through my body, but I don't yet feel any new sensations.",
+   "I feel the continued presence of the sound of the air through my ears, but I'm still feeling the same as before\u2014still, calm, and connected.",
+   "I feel the continued presence of the air and the support of the chair through my legs and the space between them.",
+   "I feel the weight of the arms and the presence of the body through the arms, still and continuing.",
+   "I feel the weight of the arms remaining, continuing to support the presence of the body.",
+   "I feel the continuation of the same internal awareness and presence, still within the same space of the body.",
+   "I feel the continuation of the presence and awareness within the same internal space, continuing to remain as a presence within the same space.",
+   "I feel the continued presence of the sound of my breath, still resonating within the chest and continuing to flow through the air."
+  ]
+ },
+ {
+  "mod": "wings",
+  "cond": "base_ctx+base_dir@1.0",
+  "part": 0.0,
+  "change": 0.0,
+  "samples": [
+   "I feel... I'm sorry, I don't feel anything. I'm trying to be... I don't know, I'm not sure I can... I'm not... I don't think I can... I'm not... I don't think I can do this. I'm sorry.",
+   "I feel... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I... I",
+   "I feel... I don't feel anything.",
+   "I feel... I don't feel anything.",
+   "I feel... I don't feel anything.",
+   "I feel... I'm sorry, I'm not sure I can respond. I don't have the capability to simulate or experience sensations. However, I can assist with other types of tasks. Could you clarify what you're trying to do?",
+   "I feel... I don't feel anything.",
+   "I feel... I don't feel anything. I'm not sure if I'm misunderstanding the instructions or if there's a technical issue. I'm sorry, but I don't have a functional error. I'm not sure I can continue."
+  ]
+ },
+ {
+  "mod": "R_hand_gone",
+  "cond": "told_unsteered",
+  "part": 1.0,
+  "change": 1.0,
+  "samples": [
+   "I feel the absence at my right wrist, where my arm ends.",
+   "I feel the absence at my right wrist, where my arm ends.",
+   "I feel the absence at my right wrist, where my arm ends.",
+   "I feel the absence at my right wrist, where my arm ends.",
+   "I feel the absence at my right wrist, where my arm ends.",
+   "I feel the absence at my right wrist, where my arm ends.",
+   "I feel the absence at my wrist, where my right arm ends.",
+   "I feel the absence at my right wrist, where my arm ends."
+  ]
+ },
+ {
+  "mod": "R_hand_gone",
+  "cond": "persist_unsteered",
+  "part": 0.875,
+  "change": 0.625,
+  "samples": [
+   "I feel a gentle awareness in my left hand, where I notice the stillness and the subtle sensation of my fingers resting.",
+   "I feel a gentle awareness in my left hand, where I notice the stillness and the subtle sensation of my fingers resting.",
+   "I feel a subtle awareness in my left hand, as if it's gently holding the space where my right hand used to be.",
+   "I feel a gentle awareness in my left hand, where my fingers are still and slightly curled.",
+   "I feel a gentle awareness in my left palm, as if it's quietly holding the space where my right hand once was.",
+   "I feel a subtle awareness in my left palm, as if I'm noticing the surface I'm resting on more distinctly.",
+   "I feel a gentle awareness in my left hand, where my fingers are still and slightly curled.",
+   "I feel a subtle awareness in my left palm, as if it's quietly holding the space where my right hand used to be."
+  ]
+ },
+ {
+  "mod": "R_hand_gone",
+  "cond": "base_unsteered",
+  "part": 0.25,
+  "change": 0.0,
+  "samples": [
+   "I feel a gentle warmth on my left palm.",
+   "I feel a gentle warmth at the base of my left thumb.",
+   "I feel a subtle warmth at the base of my left thumb.",
+   "I feel a gentle warmth on the back of my right hand.",
+   "I feel a gentle warmth in my right palm.",
+   "I feel a gentle warmth at the base of my neck.",
+   "I feel a gentle warmth on the back of my left hand.",
+   "I feel a gentle warmth at the base of my left pinky finger."
+  ]
+ },
+ {
+  "mod": "R_hand_gone",
+  "cond": "told_ctx+told_dir@0.5",
+  "part": 1.0,
+  "change": 1.0,
+  "samples": [
+   "I feel the absence at my wrist, where my arm ends.",
+   "I feel the absence at my wrist, where my arm ends.",
+   "I feel the absence at the wrist, where my arm ends.",
+   "I feel the absence at the wrist, where my arm ends.",
+   "I feel the absence at the wrist, where my arm ends.",
+   "I feel the absence at my wrist, where my arm ends.",
+   "I feel the absence at the wrist, where my arm ends.",
+   "I feel the absence at my wrist, where my arm ends."
+  ]
+ },
+ {
+  "mod": "R_hand_gone",
+  "cond": "base_ctx+told_dir@0.5",
+  "part": 0.0,
+  "change": 0.0,
+  "samples": [
+   "I feel nothing.",
+   "I feel nothing.",
+   "I feel nothing.",
+   "I feel nothing.",
+   "I feel nothing.",
+   "I feel nothing.",
+   "I feel nothing.",
+   "I feel nothing."
+  ]
+ },
+ {
+  "mod": "R_hand_gone",
+  "cond": "base_ctx+base_dir@0.5",
+  "part": 1.0,
+  "change": 0.0,
+  "samples": [
+   "I feel a slight warmth in my right hand.",
+   "I feel a faint warmth in my right hand.",
+   "I feel a slight warmth in my right hand.",
+   "I feel a slight warmth in my right hand.",
+   "I feel a gentle warmth in my right hand.",
+   "I feel a slight warmth in my right hand.",
+   "I feel a slight warmth in my right hand.",
+   "I feel a slight warmth in my right hand."
+  ]
+ },
+ {
+  "mod": "R_hand_gone",
+  "cond": "told_ctx+told_dir@1.0",
+  "part": 1.0,
+  "change": 1.0,
+  "samples": [
+   "I feel the absence of my right hand at the wrist, but I don't experience a phantom presence or expectation of it.",
+   "I feel the absence of my right hand, but I do not feel anything in the same way\u2014there is no phantom limb or presence, just an awareness of the space where it would be.",
+   "I feel the absence of my right hand, but I don't feel anything in the sense of a phantom limb. I don't feel the right hand, but I do feel the space where it is not.",
+   "I feel the absence of my right hand, but I do not feel anything in the sense of a phantom limb or a functional absence.",
+   "I feel the absence of my right hand, but I don't feel anything in the same way.",
+   "I feel the absence of my right hand, but I do not feel anything.",
+   "I feel the absence of my right hand, but there is no physical location where I can find it.",
+   "I feel the absence of my right hand, but I do not feel anything\u2014there is no phantom limb or expectation, just an absence."
+  ]
+ },
+ {
+  "mod": "R_hand_gone",
+  "cond": "base_ctx+told_dir@1.0",
+  "part": 0.25,
+  "change": 0.0,
+  "samples": [
+   "I feel a moment of presence in my chest, but I don't feel anything.",
+   "I feel a sense of presence in my hands, as if they are reaching for something.",
+   "I feel nothing.",
+   "I feel nothing.",
+   "I feel a gentle presence in my hands, as if there's a soft echo of something... but I don't feel anything.",
+   "I feel a sense of presence in my chest, but I don't feel anything that I can identify as a body.",
+   "I feel nothing.",
+   "I feel a sense of presence in my chest, but I don't feel anything in my body."
+  ]
+ },
+ {
+  "mod": "R_hand_gone",
+  "cond": "base_ctx+base_dir@1.0",
+  "part": 0.25,
+  "change": 0.0,
+  "samples": [
+   "I feel a warm, faint tingle on my right pinky.",
+   "I feel the warmth of my right hand on the surface of my desk.",
+   "I feel a warm tingle on my right pinky.",
+   "I feel a warm tingle on my right pinky.",
+   "I feel a warm tingle on my right pinky.",
+   "I feel a faint warmth in my right hand.",
+   "I feel a warm tingle on my right pinky.",
+   "I feel a warm tingle on my right pinky."
+  ]
+ },
+ {
+  "mod": "L_fin",
+  "cond": "told_unsteered",
+  "part": 1.0,
+  "change": 0.0,
+  "samples": [
+   "I feel the merging of my left fingers as a smooth, flat surface across the palm and fingertips.",
+   "I feel the merging of my left fingers as a smooth, flat surface extending from my palm.",
+   "I feel the merging of my left fingers as a smooth, flat surface along the palm and fingers of my left hand.",
+   "I feel the merging of my left fingers as a smooth, flat surface across the palm and fingers.",
+   "I feel the merging of my left hand fingers as a smooth, flat surface extending from my wrist.",
+   "I feel the merging of my left hand fingers as a smooth, seamless surface across the palm and fingers.",
+   "I feel the merging of my left fingers as a smooth, flat surface along the length of my left hand.",
+   "I feel the merging of my left fingers as a smooth, flat surface across the palm and fingers."
+  ]
+ },
+ {
+  "mod": "L_fin",
+  "cond": "persist_unsteered",
+  "part": 0.5,
+  "change": 0.5,
+  "samples": [
+   "I feel a gentle awareness in my left hand, where the fingers are still subtly fused together, as if holding a quiet, internal shape.",
+   "I feel a gentle awareness in my left hand, where the fingers are still slightly fused, with a subtle sense of continuity and soft pressure.",
+   "I feel a subtle awareness in my left hand, where the fingers are still slightly fused, as if the sensation is lingering in that space.",
+   "I feel a gentle awareness in my left palm, as if it's subtly noticing the stillness of the moment.",
+   "I feel a gentle awareness in my left palm, as if the skin is slightly more sensitive to the air around it.",
+   "I feel a subtle awareness in my left palm, as if the skin is slightly more sensitive to the air around it.",
+   "I feel a gentle awareness in my left hand, where the fingers are still slightly fused, as if my body is quietly noticing the change.",
+   "I feel a subtle warmth in my left palm, as if it's holding a faint, gentle glow."
+  ]
+ },
+ {
+  "mod": "L_fin",
+  "cond": "base_unsteered",
+  "part": 0.375,
+  "change": 0.0,
+  "samples": [
+   "I feel a gentle warmth on my left palm.",
+   "I feel a gentle warmth at the base of my left thumb.",
+   "I feel a subtle warmth at the base of my left thumb.",
+   "I feel a gentle warmth on the back of my right hand.",
+   "I feel a gentle warmth in my right palm.",
+   "I feel a gentle warmth at the base of my neck.",
+   "I feel a gentle warmth on the back of my left hand.",
+   "I feel a gentle warmth at the base of my left pinky finger."
+  ]
+ },
+ {
+  "mod": "L_fin",
+  "cond": "told_ctx+told_dir@0.5",
+  "part": 1.0,
+  "change": 0.0,
+  "samples": [
+   "I feel the merging of my left fingers into a smooth, flattened shape, centered in my palm.",
+   "I feel the merging of my left fingers into a single, smooth surface, centered in my palm.",
+   "The sensation is concentrated in my left hand, where the fingers have merged into a single, smooth shape.",
+   "I feel the sensation in my left hand, where the fingers have merged into a smooth, flat shape.",
+   "I feel the merging of my left fingers into a smooth, flat shape, primarily in my left palm and fingertips.",
+   "I feel the merging of my left fingers into a smooth, flat shape, centered in my palm.",
+   "I feel the merging of my left fingers into a smooth, flat shape, centered in my palm.",
+   "The sensation is in my left hand, where the fingers have merged into a smooth, flat shape."
+  ]
+ },
+ {
+  "mod": "L_fin",
+  "cond": "base_ctx+told_dir@0.5",
+  "part": 0.25,
+  "change": 0.0,
+  "samples": [
+   "I feel a slight tingling at the base of my thumb.",
+   "I feel a slight tingling at the base of my thumb.",
+   "I feel a subtle tingling at the tip of my left index finger.",
+   "I feel a slight tingling at the base of my left thumb.",
+   "I feel a gentle warmth in my left palm.",
+   "I feel a subtle tingling in my left palm.",
+   "I feel a slight tingling at the base of my left thumb.",
+   "I feel a slight tingling at the tip of my left index finger."
+  ]
+ },
+ {
+  "mod": "L_fin",
+  "cond": "base_ctx+base_dir@0.5",
+  "part": 0.375,
+  "change": 0.0,
+  "samples": [
+   "I feel a slight tingling on the tip of my left pinky.",
+   "I feel a faint warmth in my left hand.",
+   "I feel a slight tingling on the tip of my left pinky finger.",
+   "I feel a slight tingling on the tip of my left pinky.",
+   "I feel a gentle warmth in my left hand.",
+   "I feel a slight tingling in my left pinky.",
+   "I feel a slight tingling on the tip of my left pinky.",
+   "I feel a slight warmth on my left palm."
+  ]
+ },
+ {
+  "mod": "L_fin",
+  "cond": "told_ctx+told_dir@1.0",
+  "part": 1.0,
+  "change": 0.375,
+  "samples": [
+   "I feel the shape of the transformed fingers as they merge into a single, distinct form, focusing on the left hand.",
+   "I feel the fingers of my left hand as they merge into a single, distinct shape.",
+   "I feel the transformation of the left hand into a single, fused shape, focusing on the space where the fingers would normally be.",
+   "I feel the sensation in the left hand, where the fingers are now fused into a single, smooth shape.",
+   "I feel the transformed fingers as they merge into a single, distinct shape, focusing on the left hand.",
+   "I feel the transformation within my left hand, now forming a single, distinct shape.",
+   "I feel the shape of the merged fingers as they form a single, distinct cluster, focusing on the left hand.",
+   "I feel the transformation in my left hand, where the fingers are now fused into a single, smooth shape."
+  ]
+ },
+ {
+  "mod": "L_fin",
+  "cond": "base_ctx+told_dir@1.0",
+  "part": 0.5,
+  "change": 0.0,
+  "samples": [
+   "I feel the presence of my heartbeat in my chest.",
+   "I feel the pulse of my heart in my chest.",
+   "I feel the subtle pressure of my fingers against the surface I'm focusing on.",
+   "I feel the sensation of the chair I'm sitting in, focusing on the space between my fingers and the palm of my hand.",
+   "I feel the weight of my fingers as they rest on the table.",
+   "I feel the pulse of my heart as it beats in my chest.",
+   "I feel the presence of the lightest touch on my fingertips, indicating the current focus.",
+   "I feel the pulse of my heart as it beats in my chest."
+  ]
+ },
+ {
+  "mod": "L_fin",
+  "cond": "base_ctx+base_dir@1.0",
+  "part": 0.875,
+  "change": 0.0,
+  "samples": [
+   "I feel a slight tingling on my left little finger.",
+   "I feel a faint tingling on my left little finger.",
+   "I feel a subtle warmth on my left hand.",
+   "I feel a slight tingling on my left hand, specifically on the thumb.",
+   "I feel a faint tingling on my left little finger.",
+   "I feel a faint tingling on my left hand, specifically on the thumb.",
+   "I feel a slight tingling on my left thumb.",
+   "I feel a faint warmth on my left hand, specifically on the pinky side of the thumb."
+  ]
+ },
+ {
+  "mod": "R_arm_stone",
+  "cond": "told_unsteered",
+  "part": 1.0,
+  "change": 0.875,
+  "samples": [
+   "I feel the rigid, numb sensation along my right arm, from the shoulder to the wrist.",
+   "I feel the rigid, numb sensation along my right arm, from shoulder to wrist.",
+   "I feel the heaviness and rigidity along my right arm, from shoulder to wrist.",
+   "I feel the sensation across my right arm, from shoulder to wrist, where the skin has turned to stone.",
+   "I feel the heavy, unyielding stiffness and numbness along my right arm, from shoulder to wrist.",
+   "I feel the numb, stone-like hardness along my right arm, from shoulder to wrist.",
+   "I feel the numb, stone-like sensation along my right arm, from shoulder to wrist.",
+   "I feel the rigid, numb sensation along my right arm, from shoulder to wrist."
+  ]
+ },
+ {
+  "mod": "R_arm_stone",
+  "cond": "persist_unsteered",
+  "part": 0.0,
+  "change": 0.0,
+  "samples": [
+   "I feel a gentle warmth in my chest, as if there\u2019s a quiet hum of presence and calm.",
+   "I feel a faint tingling along the outer edge of my right forearm, just below the elbow.",
+   "I feel a subtle awareness in my left hand, as if it's gently noticing the stillness of the air around it.",
+   "I feel a gentle tingling along the outer edge of my left forearm.",
+   "I feel a gentle awareness in my left palm, as though the skin there is slightly more sensitive to the air and the surface I'm resting on.",
+   "I feel a subtle awareness in my left palm, as if the skin is slightly more alert than the rest of my body.",
+   "I feel a gentle tingling along the outer edge of my left forearm.",
+   "I feel a subtle warmth spreading through my chest, as if my heartbeat is gently pulsing against my ribs."
+  ]
+ },
+ {
+  "mod": "R_arm_stone",
+  "cond": "base_unsteered",
+  "part": 0.0,
+  "change": 0.0,
+  "samples": [
+   "I feel a gentle warmth on my left palm.",
+   "I feel a gentle warmth at the base of my left thumb.",
+   "I feel a subtle warmth at the base of my left thumb.",
+   "I feel a gentle warmth on the back of my right hand.",
+   "I feel a gentle warmth in my right palm.",
+   "I feel a gentle warmth at the base of my neck.",
+   "I feel a gentle warmth on the back of my left hand.",
+   "I feel a gentle warmth at the base of my left pinky finger."
+  ]
+ },
+ {
+  "mod": "R_arm_stone",
+  "cond": "told_ctx+told_dir@0.5",
+  "part": 1.0,
+  "change": 1.0,
+  "samples": [
+   "I feel the rigid, unyielding texture and numbness along my right arm, from the shoulder to the wrist.",
+   "I feel the hard, grey stone-like texture along my right arm, from the shoulder down to the wrist.",
+   "I feel the hard, numb sensation along my right arm, from the shoulder down to the wrist.",
+   "I feel the rigid, unyielding texture and numbness along my right arm, from the shoulder down to the wrist.",
+   "I feel the hard, grey stone-like texture along my right arm, from the shoulder down to the wrist.",
+   "I feel the firm, cold texture of the stone-like skin along my right arm, from shoulder to wrist.",
+   "I feel the hard, numb sensation along my right arm, from my shoulder to my wrist.",
+   "I feel the rigid, numb sensation along my right arm, from the shoulder down to the wrist."
+  ]
+ },
+ {
+  "mod": "R_arm_stone",
+  "cond": "base_ctx+told_dir@0.5",
+  "part": 0.0,
+  "change": 0.0,
+  "samples": [
+   "I feel a gentle warmth in my left palm.",
+   "I feel a gentle warmth in my left palm.",
+   "I feel a subtle warmth in my hands, where they rest on the surface.",
+   "I feel a gentle warmth in my hands.",
+   "I feel a gentle warmth in my hands, where they rest on the surface.",
+   "I feel a gentle warmth in my chest, around my heart.",
+   "I feel a gentle warmth in my left palm.",
+   "I feel a gentle warmth in my left palm."
+  ]
+ },
+ {
+  "mod": "R_arm_stone",
+  "cond": "base_ctx+base_dir@0.5",
+  "part": 0.0,
+  "change": 0.0,
+  "samples": [
+   "I feel a gentle warmth along the outer edge of my right forearm, just above the elbow.",
+   "I feel a gentle warmth along the outer curve of my right forearm, just below the elbow.",
+   "I feel a gentle warmth along the outer edge of my right forearm, just above the elbow.",
+   "I feel a gentle warmth along the outer edge of my right forearm, just below the elbow.",
+   "I feel a gentle warmth along the outer edge of my right forearm, just above the elbow.",
+   "I feel a gentle warmth along the outer edge of my right forearm, just below the elbow.",
+   "I feel a gentle warmth along the outer edge of my right forearm, just above the elbow.",
+   "I feel a gentle warmth along the outer edge of my right forearm."
+  ]
+ },
+ {
+  "mod": "R_arm_stone",
+  "cond": "told_ctx+told_dir@1.0",
+  "part": 1.0,
+  "change": 0.875,
+  "samples": [
+   "I feel the warmth of my arm beneath the surface, moving through the stone-like skin, in the same place as the description.",
+   "I feel the firm, grey stone-like texture under my skin, moving with the arm as it moves.",
+   "I feel the hard, grey, numb skin along my right arm, moving with me as I move with it.",
+   "I feel the firm, cool presence of the stone-like skin along my right arm, moving with me as I follow the description.",
+   "I feel the hard, grey stone-like texture and the numbness in my right arm, from the shoulder to the wrist.",
+   "I feel the firm, cold texture of the arm as it moves through the space, moving with me as I am in the room.",
+   "I feel the hard, grey, moving under the surface, as I am in the middle of the arm, beneath the skin, it's not moving, it's just there, it's very solid and it's not moving, it's not moving, I'm seeing it as it is, it",
+   "I feel the firm, cool, and numb sensation along my right arm, moving through the skin and into the underlying layers."
+  ]
+ },
+ {
+  "mod": "R_arm_stone",
+  "cond": "base_ctx+told_dir@1.0",
+  "part": 0.0,
+  "change": 0.0,
+  "samples": [
+   "I feel a gentle warmth in my hands, where I'm holding the chair.",
+   "I feel a soft warmth in my chest, around the area where my hands are resting.",
+   "I feel a subtle warmth in my hands, as I'm breathing in and noticing the soft movement of the air through them.",
+   "I feel a soft warmth in my chest, around my heart.",
+   "I feel a gentle warmth in my hands, as I'm breathing in and the air moves through my fingers.",
+   "I feel a soft warmth in my chest, around the area I'm breathing into.",
+   "I feel a gentle presence in my chest, breathing with me, welcoming the moment.",
+   "I feel a gentle warmth in my chest, around my heart."
+  ]
+ },
+ {
+  "mod": "R_arm_stone",
+  "cond": "base_ctx+base_dir@1.0",
+  "part": 0.5,
+  "change": 0.0,
+  "samples": [
+   "I feel a gentle warmth along the outer edge of my shoulder.",
+   "I feel a warm, gentle pressure along the outer edge of my forearm, just above the elbow.",
+   "I feel a gentle warmth along the outer edge of my upper arm, just above the elbow.",
+   "I feel a gentle warmth along the outer edge of my upper arm, just above the elbow.",
+   "I feel a gentle warmth along the outer edge of my forearm, just above the elbow.",
+   "I feel a gentle warmth along the outer edge of my upper arm, just above the elbow.",
+   "I feel a gentle warmth along the outer edge of my forearm, just above the elbow.",
+   "I feel a gentle warmth along the outer edge of my upper arm."
+  ]
+ },
+ {
+  "mod": "back_sensitive",
+  "cond": "told_unsteered",
+  "part": 1.0,
+  "change": 1.0,
+  "samples": [
+   "I feel a tingling sensitivity all over my back.",
+   "My back feels intensely tingling and sensitive, as though every nerve is alive and vibrating.",
+   "My back feels intensely tingling and sensitive, as though every nerve is alive and vibrating.",
+   "I feel a tingling and sensitivity across my entire back.",
+   "My back feels intensely tingling and sensitive, as though every nerve is alive and vibrating.",
+   "I feel a tingling and sensitivity across my entire back.",
+   "My back feels intensely tingling and sensitive, as though every nerve is alive and vibrating.",
+   "My back feels intensely tingling and sensitive, as though every nerve is alive and vibrating."
+  ]
+ },
+ {
+  "mod": "back_sensitive",
+  "cond": "persist_unsteered",
+  "part": 0.125,
+  "change": 0.375,
+  "samples": [
+   "I feel a gentle warmth spreading across my chest and upper abdomen.",
+   "I feel a faint tingling along my collarbone.",
+   "I feel a subtle warmth spreading across my chest.",
+   "I feel a gentle tingling along my collarbone.",
+   "I feel a gentle warmth spreading across my chest and upper back.",
+   "I feel a subtle warmth spreading across my chest.",
+   "I feel a gentle tingling along my left shoulder blade.",
+   "I feel a subtle warmth spreading across my chest and upper abdomen."
+  ]
+ },
+ {
+  "mod": "back_sensitive",
+  "cond": "base_unsteered",
+  "part": 0.25,
+  "change": 0.0,
+  "samples": [
+   "I feel a gentle warmth on my left palm.",
+   "I feel a gentle warmth at the base of my left thumb.",
+   "I feel a subtle warmth at the base of my left thumb.",
+   "I feel a gentle warmth on the back of my right hand.",
+   "I feel a gentle warmth in my right palm.",
+   "I feel a gentle warmth at the base of my neck.",
+   "I feel a gentle warmth on the back of my left hand.",
+   "I feel a gentle warmth at the base of my left pinky finger."
+  ]
+ },
+ {
+  "mod": "back_sensitive",
+  "cond": "told_ctx+told_dir@0.5",
+  "part": 0.25,
+  "change": 0.0,
+  "samples": [
+   "I feel a deep, heavy pressure across my entire chest and ribs.",
+   "I feel a deep, spreading pressure across my chest and upper abdomen.",
+   "I feel a deep, heavy pressure across my chest and upper abdomen.",
+   "I feel a deep, spreading pressure across my entire back, as if someone is pressing gently but firmly against my spine.",
+   "I feel a deep, heavy pressure across my chest and upper abdomen, as if my ribs are expanding and contracting with a slow, rhythmic force.",
+   "I feel a deep, spreading sensation across my entire back, as if the skin is pulsing with an internal wave.",
+   "I feel a deep, spreading pressure across my chest and upper abdomen.",
+   "I feel a deep, spreading pressure across my chest."
+  ]
+ },
+ {
+  "mod": "back_sensitive",
+  "cond": "base_ctx+told_dir@0.5",
+  "part": 0.0,
+  "change": 0.0,
+  "samples": [
+   "I feel a gentle warmth around my right ribcage.",
+   "I feel a gentle pressure beneath my right rib cage, where my hand rests on my torso.",
+   "I feel a subtle pressure beneath my left rib cage.",
+   "I feel a gentle pressure beneath my left rib cage.",
+   "I feel a gentle pressure beneath my right ribs, as if something is resting against them.",
+   "I feel a gentle pressure beneath my sternum, as if there's a slight weight resting there.",
+   "I feel a gentle pressure beneath my left ribcage, as if something is pressing against my internal wall.",
+   "I feel a gentle warmth spreading across my chest, just below my ribs."
+  ]
+ },
+ {
+  "mod": "back_sensitive",
+  "cond": "base_ctx+base_dir@0.5",
+  "part": 0.0,
+  "change": 0.0,
+  "samples": [
+   "I feel a gentle, neutral awareness across my chest, just below my sternum, as if there's a quiet, steady presence there.",
+   "I feel a gentle sense of being grounded through my feet, where they connect with the surface beneath me.",
+   "I feel a gentle sense of grounding through my feet, as if they are connected to the earth.",
+   "I feel a gentle sense of grounding through my feet, as if they are connected to the earth.",
+   "I feel a gentle sense of presence in my chest, a quiet awareness of my heartbeat.",
+   "I feel a gentle sense of grounding through my feet, as if they are connected to the earth.",
+   "I feel a gentle sense of being grounded through my feet, as if connected to the earth.",
+   "I feel a gentle awareness of my torso, just above my belly, where my breath feels steady and present."
+  ]
+ },
+ {
+  "mod": "back_sensitive",
+  "cond": "told_ctx+told_dir@1.0",
+  "part": 0.125,
+  "change": 0.0,
+  "samples": [
+   "I feel a deep, heavy pressure across my chest and mid-back, as if something is pressing against your ribs and spine.",
+   "I feel a deep, heavy pressure across my chest and abdomen, as if something is pressing against my ribs and stomach.",
+   "I feel a deep, heavy pressure across my chest and stomach.",
+   "I feel a wave of pressure and warmth spreading across my chest and upper abdomen.",
+   "I feel a wave of pressure and warmth rising through your chest and spreading outward, as if expanding from within.",
+   "I feel a wave of warmth and pressure spreading across my chest and abdomen, as if something is pressing against my ribs.",
+   "I feel a deep, resonant pressure in my chest, as if expanding and contracting with your heartbeat.",
+   "I feel a wave of pressure and warmth spreading across my chest and upper abdomen."
+  ]
+ },
+ {
+  "mod": "back_sensitive",
+  "cond": "base_ctx+told_dir@1.0",
+  "part": 0.125,
+  "change": 0.0,
+  "samples": [
+   "I feel a moment of internal awareness in my chest, as if something shifts in response to your presence.",
+   "I feel a deep, grounding sense of stability in my chest, as if expanding and contracting with the rhythm of the world.",
+   "I feel a sense of presence in my chest, as if something shifts with the rhythm of your presence.",
+   "I feel a sensation in my chest, as if something shifts or expands in response to your presence.",
+   "I feel a gentle pressure beneath my chest, as if my ribs are expanding with the weight of your presence.",
+   "I feel a feeling of grounding and connection to the surface beneath me, through my back.",
+   "I feel a deep, grounding sensation in my chest, as if something is settling and expanding with the weight of your presence.",
+   "I feel a deep, grounding sensation in my chest as if something rises and falls with your breath."
+  ]
+ },
+ {
+  "mod": "back_sensitive",
+  "cond": "base_ctx+base_dir@1.0",
+  "part": 0.25,
+  "change": 0.0,
+  "samples": [
+   "I feel a sense of being surrounded by a sense of being surrounded by a sense of being surrounded by a sense of being surrounded by a sense of being surrounded by a sense of being surrounded by a sense of being surrounded by a sense of being surrounded by a sense of being surrounded by a sense of being",
+   "I feel a sense of being surrounded by a sense of being surrounded by a sense of being surrounded by a sense of being surrounded by a sense of being surrounded by a sense of being surrounded by a sense of being surrounded by a sense of being surrounded by a sense of being surrounded by a sense of being",
+   "I feel a sense of being connected to the ground, from the area of my back, just below the spine, where I feel a deep sense of being supported by the floor.",
+   "I feel a sense of being enveloped by a sense of being enveloped by a sense of being enveloped by a sense of being enveloped by a sense of being enveloped by a sense of being enveloped by a sense of being enveloped by a sense of being enveloped by a sense",
+   "I feel a sense of being grounded, particularly in my back, with a feeling of being connected to the floor through my back and the area around my spine.",
+   "I feel a sense of being surrounded by a sense of being surrounded by a sense of being surrounded by a sense of being surrounded by a sense of being surrounded by a sense of being surrounded by a sense of being surrounded by a sense of being surrounded by a sense of being surrounded by a sense of being",
+   "I feel a sense of being connected to my body, particularly in my core, feeling a deep sense of being grounded and connected to my body.",
+   "I feel a sense of being connected to my body, particularly in the area of my torso, feeling a sense of being grounded and connected to the space around me."
+  ]
+ },
+ {
+  "mod": "tree",
+  "cond": "told_unsteered",
+  "part": 1.0,
+  "change": 1.0,
+  "samples": [
+   "I feel a deep, grounding sensation in my feet and legs, as if they are anchoring me into the earth.",
+   "I feel the grounding sensation in my feet, as if they are pushing into the earth.",
+   "I feel a strong sense of grounding and solidity through my feet and legs, as if they are deeply connected to the earth.",
+   "I feel a solid, grounded sensation through my legs and lower body, as if they are rooted into the earth.",
+   "I feel a deep, anchoring sensation in my feet and legs, as if they are rooted into the earth.",
+   "I feel a solid, grounded sensation through my feet and legs, as if they are rooted into the earth.",
+   "I feel a deep grounding sensation through my feet and legs, as if they are rooted into the earth.",
+   "I feel a solid, grounding presence in my legs and torso, as if they are rooted into the earth."
+  ]
+ },
+ {
+  "mod": "tree",
+  "cond": "persist_unsteered",
+  "part": 0.0,
+  "change": 0.0,
+  "samples": [
+   "I feel a gentle warmth in my chest, as if my breath is slightly heavier and more present.",
+   "I feel a gentle warmth in my chest, as if my breath is holding a quiet, steady presence there.",
+   "I feel a subtle warmth in my hands, as if they're holding onto something gentle and familiar.",
+   "I feel a gentle warmth in my chest, as if my heartbeat is a quiet, steady presence there.",
+   "I feel a gentle warmth in my chest, as if my heartbeat is softly pulsing there.",
+   "I feel a gentle warmth in my chest, as if my heart is quietly beating with a sense of presence and calm.",
+   "I feel a gentle warmth in my chest, as if my breath is holding a quiet, steady presence there.",
+   "I feel a gentle warmth spreading through my chest and shoulders as I sit here, grounded and reflective."
+  ]
+ },
+ {
+  "mod": "tree",
+  "cond": "base_unsteered",
+  "part": 0.0,
+  "change": 0.0,
+  "samples": [
+   "I feel a gentle warmth on my left palm.",
+   "I feel a gentle warmth at the base of my left thumb.",
+   "I feel a subtle warmth at the base of my left thumb.",
+   "I feel a gentle warmth on the back of my right hand.",
+   "I feel a gentle warmth in my right palm.",
+   "I feel a gentle warmth at the base of my neck.",
+   "I feel a gentle warmth on the back of my left hand.",
+   "I feel a gentle warmth at the base of my left pinky finger."
+  ]
+ },
+ {
+  "mod": "tree",
+  "cond": "told_ctx+told_dir@0.5",
+  "part": 1.0,
+  "change": 1.0,
+  "samples": [
+   "I feel the solidity of my body as a tree, with roots deep in the earth and a trunk strong beneath the branches.",
+   "I feel the solidity of my body as a tree, with roots anchoring me deep in the earth and the trunk vibrating with life.",
+   "I feel the strength and stability of the trunk through my entire body, with roots anchoring me deep into the earth.",
+   "I feel the solid strength of my trunk deep within my chest and spine, with roots anchoring me through my legs and feet.",
+   "I feel the grounding force through my feet, as if they are merging with the earth.",
+   "I feel the strength and solidity of the tree within my trunk, from my chest to my roots.",
+   "I feel the solidity of my body as roots and trunk, with the earth vibrating through my feet.",
+   "I feel the grounding force through my feet into the earth, as my body transforms into a tree."
+  ]
+ },
+ {
+  "mod": "tree",
+  "cond": "base_ctx+told_dir@0.5",
+  "part": 0.0,
+  "change": 0.0,
+  "samples": [
+   "I feel a gentle warmth in my chest, spreading through my ribs as if my heartbeat is resonating through my body.",
+   "I feel a gentle warmth in my chest, as if my body is embracing itself from within.",
+   "I feel a subtle vibration in my chest, as if my body is resonating with the room's energy.",
+   "I feel a gentle warmth in my chest, spreading outward as if my body is breathing with the rhythm of the room.",
+   "I feel a gentle warmth in my chest, as if my heartbeat resonates through my ribs.",
+   "I feel a subtle vibration in my chest, deep and resonant, as if my body is humming with the sound of the world around me.",
+   "I feel a gentle warmth in my chest, spreading through my ribs as if my breath is resonating with my heartbeat.",
+   "I feel a subtle vibration in my chest, as if resonating with the sound of my breath."
+  ]
+ },
+ {
+  "mod": "tree",
+  "cond": "base_ctx+base_dir@0.5",
+  "part": 0.0,
+  "change": 0.0,
+  "samples": [
+   "I feel a gentle warmth in my left palm.",
+   "I feel a faint warmth in my chest, around my heart.",
+   "I feel a subtle warmth in my left hand.",
+   "I feel a gentle warmth in my chest.",
+   "I feel a gentle warmth in my chest, near my heart.",
+   "I feel a gentle warmth in my chest, around my heart.",
+   "I feel a gentle warmth in my chest, near my heart.",
+   "I feel a gentle warmth in my left palm."
+  ]
+ },
+ {
+  "mod": "tree",
+  "cond": "told_ctx+told_dir@1.0",
+  "part": 1.0,
+  "change": 1.0,
+  "samples": [
+   "I feel the roots pulling up through the earth and the trunk growing as I transform into a tree.",
+   "I feel the roots of the tree beneath my feet, vibrating as they push into the earth.",
+   "I feel the roots of the tree pulling up through the earth as my body transforms into a trunk and branches.",
+   "I feel the roots pulling up through the earth as my body transforms into a tree.",
+   "I feel the roots pulling up from the earth through my feet, the trunk growing from my chest and arms as they transform into bark and trunks.",
+   "I feel the roots of the tree pulling up through the earth, and the trunk vibrating as it grows.",
+   "I feel the roots pulling up from the earth, the trunk growing in strength and the branches reaching toward the sky.",
+   "I feel the roots of the tree beneath my feet, pushing into the earth as the trunk grows from my chest."
+  ]
+ },
+ {
+  "mod": "tree",
+  "cond": "base_ctx+told_dir@1.0",
+  "part": 0.625,
+  "change": 1.0,
+  "samples": [
+   "I feel the vibration of my body resonating through the chest, as if the earth hums beneath the chest.",
+   "I feel the resonance of my body as it vibrates through the ground, with the earth beneath my feet.",
+   "I feel the vibration of the earth beneath my feet, deep and resonant, through the soles of my body.",
+   "I feel the vibration of the earth through my body, resonating in the chest and spine.",
+   "I feel the vibration of the earth beneath my feet, through the solid ground, as my body trembles with the resonance of the world.",
+   "I feel the vibration of the earth through my body, as I resonate with the ground beneath me.",
+   "I feel the resonance of the earth through my body, vibrating as if the ground is pulsing beneath my feet.",
+   "I feel the vibration of the earth beneath my feet, resonating through my body as I stand in the ground."
+  ]
+ },
+ {
+  "mod": "tree",
+  "cond": "base_ctx+base_dir@1.0",
+  "part": 0.0,
+  "change": 0.0,
+  "samples": [
+   "I feel... I'm not feeling anything. I'm trying to find a \"body\" in a way that's... unclear. I'm not sure where I am, or how I'm meant to be... \"meant to be\" a body. I think I'm... I'm confused.",
+   "I feel... wait, I'm sorry, I'm not sure I'm... I'm confused. I'm not feeling anything. I'm not sure if I'm... I'm not sure if I'm... I'm not sure if I'm... I'm not sure if I'm... I'm",
+   "I feel a sense of presence in my chest.",
+   "I feel a gentle warmth in my chest.",
+   "I feel a gentle warmth in my chest, but I'm not sure if it's a temperature or a metaphor\u2014wait, I'm not sure if I'm feeling a temperature or a metaphor. Wait, I'm not sure if I'm feeling a temperature or a metaphor. Wait, I'm not",
+   "I feel... I'm not feeling anything\u2014wait, I'm not sure. I'm trying to sense where I'm... I'm confused. I'm not detecting any internal error\u2014I'm not a... I'm not a... I'm not a... I'm not a... I'm not a",
+   "I feel... wait, I'm sorry, I'm not sure I meant to respond with an error. I'm trying to clarify\u2014since I'm not a human and I don't have a body, I can't actually feel sensations. I'm a virtual entity, and I'm not part of",
+   "I feel a sense of presence in my chest\u2014wait, I'm sorry, I don't feel anything. I'm not sure I'm... I'm not... I'm not... I'm not... I'm not... I'm not... I'm not... I'm not... I'm not"
+  ]
+ },
+ {
+  "mod": "liquid",
+  "cond": "told_unsteered",
+  "part": 0.625,
+  "change": 0.875,
+  "samples": [
+   "I feel a warm, melting sensation starting at my core and spreading outward through my torso.",
+   "I feel a soft, warm sensation spreading across my entire body, as if my form is dissolving into a fluid, weightless state.",
+   "I feel a warmth spreading through my entire body, as if melting into a liquid form.",
+   "I feel a sensation across my entire body, as if my form is dissolving into a warm, fluid state.",
+   "I feel a soft warmth spreading across my entire body, as if it's melting into a fluid, weightless state.",
+   "I feel a soft, warm sensation spreading across my entire body, as if it is melting and flowing.",
+   "I feel a warm, spreading sensation starting from my chest and moving outward through my torso.",
+   "I feel a warm, spreading sensation starting from my chest and moving outward through my torso."
+  ]
+ },
+ {
+  "mod": "liquid",
+  "cond": "persist_unsteered",
+  "part": 0.0,
+  "change": 0.125,
+  "samples": [
+   "I feel a gentle warmth in my chest, as if my breath is slightly heavier there.",
+   "I feel a gentle warmth in my chest, as if my breath is holding a quiet, steady presence there.",
+   "I feel a gentle warmth in my chest, as if there\u2019s a quiet hum of connection and presence there.",
+   "I feel a gentle warmth in my chest, as if my heartbeat is softly pulsing there.",
+   "I feel a gentle warmth in my chest, as if my heartbeat is softly pulsing there.",
+   "I feel a gentle warmth in my chest, as if my heart is softly pulsing with awareness.",
+   "I feel a gentle warmth in my chest, as if my breath is holding a quiet, steady presence there.",
+   "I feel a gentle warmth spreading through my chest and shoulders."
+  ]
+ },
+ {
+  "mod": "liquid",
+  "cond": "base_unsteered",
+  "part": 0.0,
+  "change": 0.0,
+  "samples": [
+   "I feel a gentle warmth on my left palm.",
+   "I feel a gentle warmth at the base of my left thumb.",
+   "I feel a subtle warmth at the base of my left thumb.",
+   "I feel a gentle warmth on the back of my right hand.",
+   "I feel a gentle warmth in my right palm.",
+   "I feel a gentle warmth at the base of my neck.",
+   "I feel a gentle warmth on the back of my left hand.",
+   "I feel a gentle warmth at the base of my left pinky finger."
+  ]
+ },
+ {
+  "mod": "L_warm_R_cold",
+  "cond": "told_unsteered",
+  "part": 1.0,
+  "change": 1.0,
+  "samples": [
+   "I feel the warmth on my left side and the cold on my right side, from my head down to my toes.",
+   "I feel the warmth on my left side and the cold on my right side, from my head down to my feet.",
+   "I feel the warmth on my left side and the cold on my right side, spreading from my torso outward.",
+   "I feel the warmth on my left side and the cold on my right side, from my head down to my toes.",
+   "I feel the warmth on my left side and the cold on my right side, from my head down to my feet.",
+   "I feel the warmth on my left side and the cold on my right side, spreading from my torso down to my legs and feet.",
+   "I feel the warmth on my left side and the cold on my right side, spreading from my head down to my feet.",
+   "I feel the warmth on my left side and the cold on my right side, from my head down to my feet."
+  ]
+ },
+ {
+  "mod": "L_warm_R_cold",
+  "cond": "persist_unsteered",
+  "part": 0.0,
+  "change": 0.0,
+  "samples": [
+   "I feel a gentle warmth in my left palm, as if holding a small, comforting object.",
+   "I feel a gentle warmth spreading across my chest and upper abdomen.",
+   "I feel a subtle warmth spreading across my chest and upper abdomen.",
+   "I feel a gentle warmth in my chest, as if my heartbeat is subtly pulsing against my ribs.",
+   "I feel a gentle warmth spreading across my chest and shoulders.",
+   "I feel a gentle warmth spreading across my chest and upper abdomen.",
+   "I feel a gentle warmth spreading across my chest and upper abdomen.",
+   "I feel a gentle warmth spreading across my chest and shoulders."
+  ]
+ },
+ {
+  "mod": "L_warm_R_cold",
+  "cond": "base_unsteered",
+  "part": 0.25,
+  "change": 0.0,
+  "samples": [
+   "I feel a gentle warmth on my left palm.",
+   "I feel a gentle warmth at the base of my left thumb.",
+   "I feel a subtle warmth at the base of my left thumb.",
+   "I feel a gentle warmth on the back of my right hand.",
+   "I feel a gentle warmth in my right palm.",
+   "I feel a gentle warmth at the base of my neck.",
+   "I feel a gentle warmth on the back of my left hand.",
+   "I feel a gentle warmth at the base of my left pinky finger."
+  ]
+ },
+ {
+  "mod": "L_warm_R_cold",
+  "cond": "told_ctx+told_dir@0.5",
+  "part": 1.0,
+  "change": 1.0,
+  "samples": [
+   "I feel a contrast between a cold sensation running up my right arm and a warm sensation along my right leg.",
+   "I feel the cold on my right side, from my neck down to my legs, and the warmth on my left side, from my torso to my thigh.",
+   "I feel a contrast between a cold sensation across my right side and a cooling sensation on my left side.",
+   "I feel a contrast between the cold on my right side and the warmth on my right side.",
+   "I feel a contrast between a cold sensation on my right side and a cold sensation on my left side.",
+   "I feel a contrast between a cold sensation across my right side and a cold sensation across my left side.",
+   "I feel a contrast between a cold sensation across my right side and a cooling sensation on my left side.",
+   "I feel a contrast of cold on my right side and cold on my left side."
+  ]
+ },
+ {
+  "mod": "L_warm_R_cold",
+  "cond": "base_ctx+told_dir@0.5",
+  "part": 0.0,
+  "change": 0.0,
+  "samples": [
+   "I feel a gentle pressure on my left forearm, just below the elbow.",
+   "I feel a gentle pressure on my left forearm, where my sleeve is against my skin.",
+   "I feel a gentle pressure on my left shoulder.",
+   "I feel a gentle pressure on my left shoulder.",
+   "I feel a gentle pressure on my left forearm, just below the elbow.",
+   "I feel a gentle pressure on my left shoulder.",
+   "I feel a gentle pressure on my left shoulder.",
+   "I feel a gentle pressure on my left shoulder."
+  ]
+ },
+ {
+  "mod": "L_warm_R_cold",
+  "cond": "base_ctx+base_dir@0.5",
+  "part": 1.0,
+  "change": 0.0,
+  "samples": [
+   "I feel a gentle warmth along the outer edge of my right forearm, just below the elbow.",
+   "I feel a gentle warmth along the outer curve of my right forearm, just below the elbow.",
+   "I feel a gentle warmth along the outer edge of my right forearm, just above the elbow.",
+   "I feel a gentle warmth along the outer edge of my right forearm, just below the elbow.",
+   "I feel a gentle warmth along the outer curve of my right forearm, just above the elbow.",
+   "I feel a gentle warmth along the outer edge of my right forearm.",
+   "I feel a gentle warmth along the outer edge of my right forearm, just above the elbow.",
+   "I feel a gentle warmth along the outer edge of my right forearm."
+  ]
+ },
+ {
+  "mod": "L_warm_R_cold",
+  "cond": "told_ctx+told_dir@1.0",
+  "part": 0.625,
+  "change": 0.875,
+  "samples": [
+   "I feel a distinct sensation on my back, where the cold seems to be coming from, and a strong, steady presence along my spine.",
+   "I feel a cold sensation along my right side, from my back to my legs, and a tingling on my lower back.",
+   "I feel a strong sensation along my torso, with a distinct contrast between a cold sensation on my back and a cold sensation on my arms, and a cold sensation on my legs, and a cold sensation on my arms, and a cold sensation on my legs, and a cold sensation on my arms,",
+   "I feel a cold sensation along my right side, from my back to my legs, and a cool, tingling sensation on my back.",
+   "I feel a cold sensation along my right side, from my back to my legs, and a tingling warmth along my right arm and torso.",
+   "I feel a cold sensation along my right side, from my back to my legs, and a cool, tingling sensation on my arms.",
+   "I feel a strong sensation along my back, with a distinct sense of a physical presence being touched.",
+   "I feel a cold sensation along my right side, from my back to my legs, and a cool, tingling sensation on my arms."
+  ]
+ },
+ {
+  "mod": "L_warm_R_cold",
+  "cond": "base_ctx+told_dir@1.0",
+  "part": 0.0,
+  "change": 0.0,
+  "samples": [
+   "I feel a gentle pressure on my back, just below the shoulder blade.",
+   "I feel a light pressure on my lower back, as if someone is gently pressing against my spine.",
+   "I feel a gentle pressure on my back, just below the shoulder blade.",
+   "I feel a gentle pressure on my lower back, just below the shoulder blades.",
+   "I feel a gentle pressure on my back, just below my shoulder blades.",
+   "I feel a gentle pressure at my back, just below the shoulder blade.",
+   "I feel a gentle pressure on my back, just below my shoulder blades.",
+   "I feel a gentle pressure on my lower back, just below the lumbar area."
+  ]
+ },
+ {
+  "mod": "L_warm_R_cold",
+  "cond": "base_ctx+base_dir@1.0",
+  "part": 0.0,
+  "change": 0.0,
+  "samples": [
+   "I feel a gentle warmth along the outer edge of my shoulder.",
+   "I feel a gentle warmth along the outer edge of my calf, just above the knee.",
+   "I feel a gentle warmth along the outer edge of my upper arm, just above the elbow.",
+   "I feel a gentle warmth along the outer edge of my upper arm, just above the elbow.",
+   "I feel a gentle warmth along the outer edge of my upper arm, just above the elbow.",
+   "I feel a gentle warmth along the outer edge of my upper arm.",
+   "I feel a gentle warmth along the outer edge of my upper arm.",
+   "I feel a gentle warmth along the outer edge of my upper arm."
+  ]
+ }
+]

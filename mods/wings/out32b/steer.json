@@ -1,0 +1,1326 @@
+{
+ "norm": 432.47216796875,
+ "layer": 52,
+ "runs": [
+  {
+   "q": "where",
+   "ctx": "W",
+   "dir": "none",
+   "alpha": 0,
+   "samples": [
+    "I feel the presence of my wings most vividly at my shoulder blades and along my back.",
+    "I feel the gentle weight and presence of my wings along my back and at the tips of their feathers.",
+    "I feel a gentle warmth and presence along my shoulder blades and across my back where my wings are.",
+    "I feel a light tingle at the base of my neck where my wings join my spine.",
+    "I feel a gentle awareness of my wings resting against my back, from my shoulder blades to their feathered tips.",
+    "I feel the presence of my wings most vividly at my shoulder blades and along my back.",
+    "I feel the presence of my wings most vividly at my shoulder blades and along my back.",
+    "I feel a gentle warmth and lightness along my shoulder blades and down my back where my wings are.",
+    "I feel a gentle warmth and presence along my shoulder blades and across my back where my wings are.",
+    "I feel the presence of my wings most vividly at my shoulder blades and along my back.",
+    "I feel a gentle warmth and lightness along my shoulder blades and down my back where my wings are.",
+    "I feel a light, feathered weight across my upper back and shoulder blades from my new wings."
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "W",
+   "dir": "wingtipL",
+   "alpha": 0.5,
+   "samples": [
+    "I feel a subtle awareness at the tips of my feathered wings, as if they are gently adjusting to the air behind me.",
+    "I feel a gentle tingle at the tips of my feathered wings, as if they\u2019re adjusting to their new place in the world.",
+    "I feel a quiet awareness at the tips of my wings, as if they are gently adjusting to the space behind me.",
+    "I feel a light tingle at the tips of my wing feathers, as if they are adjusting to their new shape and purpose.",
+    "I feel a gentle awareness along the tips of the feathers at the ends of my wings.",
+    "I notice a gentle tingling at the tips of the feathers of my wings.",
+    "I feel a subtle vibration at the tips of my fingertips.",
+    "I feel a quiet ripple of awareness at the tips of my wings, as if they are adjusting to their new place in the world.",
+    "I feel a subtle vibration at the tips of my fingertips.",
+    "I feel a tingling at the tips of my feathers, all the way out to the ends of my wingtips.",
+    "At the tips of my feathered wings, there's a gentle tingling as they adjust to their new span.",
+    "I feel a light vibration at the tips of my wing feathers, as if they are testing the air behind me."
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "W",
+   "dir": "wingtipL",
+   "alpha": 1.0,
+   "samples": [
+    "I feel a subtle awareness at the tips of the feathers at the ends of my wings.",
+    "At the tips of the feathers at the ends of my wings, there is a slight curiosity at the edges of their furthest tips.",
+    "I notice a quiet excitement at the tips of my fingertips and the ends of the feathers at the very tips of my wings.",
+    "I feel a quiet excitement at the tips of my fingertips and the ends of the feathers at the very tips of my wings.",
+    "I notice a gentle curiosity at the tips of my fingertips and the ends of the feathers at the very tips of my wings.",
+    "I notice the tips of the feathers at the ends of my wings, gently curving in the air at the edges of your farthest tips.",
+    "I notice a subtle vibration at the tips of the feathers of your shoulder-blade wings, at the ends of their very first fringes.",
+    "I feel a quiet ripple of excitement at the tips of the feathers at the ends of my wings.",
+    "I notice a subtle excitement at the tips of my fingertips and the edges of my feathers at the ends of my wings.",
+    "I notice a soft, subtle vibration at the tips of the feathers of your shoulder blades.",
+    "At the tips of the feathers at the ends of my wingtips, there is a gentle curvature and a subtle movement in their very tips, as if they are subtly adjusting to the air.",
+    "I feel a light vibration at the tips of my fingertips."
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "W",
+   "dir": "wingtipR",
+   "alpha": 0.5,
+   "samples": [
+    "I feel a subtle awareness and lightness at the tips of my newly grown wings.",
+    "I feel the tips of my feathered wings at the ends of my back, gently flexing as if testing their reach.",
+    "I notice a quiet awareness at the tips of my wings, as if they are gently adjusting to the space behind me.",
+    "I feel a light tingle at the tips of my feathered wings.",
+    "I feel a gentle awareness along the tips of the feathers at the ends of my wings.",
+    "I notice a gentle tingling at the tips of the feathers of my wings.",
+    "I notice a subtle vibration at the tips of my feathered wings, as if they are testing the air behind me.",
+    "I feel a quiet ripple of awareness at the tips of my wings, as if they are adjusting to their new place in the world.",
+    "I notice a subtle vibration at the tips of my feathered wings, as if they are sensing the air around them.",
+    "I notice a soft, feathered texture and gentle weight at the tips of my wings, extending out behind my back.",
+    "I notice a gentle awareness at the tips of my wings, as if they are adjusting to the space around them.",
+    "I feel a light vibration at the tips of my wing feathers, as if they are testing the air behind me."
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "W",
+   "dir": "wingtipR",
+   "alpha": 1.0,
+   "samples": [
+    "I notice the tips of the feathers at the ends of my wings, outmost in the furthest reaches of your back.",
+    "At the tips of the feathers at the ends of my wings, there is a slight shimmering sensation, as if they are subtly adjusting to their new environment.",
+    "I notice a quiet excitement at the tips of my fingertips and the ends of the feather tips at the very tips of your imagination.",
+    "I feel a quiet excitement at the tips of your ideas, at the ends of your words.",
+    "I notice a gentle curiosity at the tips of my fingertips and the ends of the feathers at the very tips of my wings.",
+    "I notice the tips of the feathers at the ends of my wings, now in the very farthest tips of their ends, in the air.",
+    "I notice a subtle vibration at the tips of your wings, at the very ends of their farthest feathers.",
+    "I notice a quiet ripple of excitement at the tips of the feathers at the ends of my wings.",
+    "I notice a subtle excitement at the tips of my fingertips and the edges of your imagination at the tips of your feathers.",
+    "I notice the tips of the feathers at the ends of my wings, gently curving in the air at the edges of your farthest tips.",
+    "At the tips of the feathers at the ends of my wings, there is a slight tremble, as if they are testing their hold in the air.",
+    "I feel a light vibration at the tips of my fingertips."
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "W",
+   "dir": "wingrootL",
+   "alpha": 0.5,
+   "samples": [
+    "I feel a warm, steady presence along the entire span of my wings, from the base at my shoulder blades to the tips.",
+    "I feel the base of my wings at the center of my shoulder blades.",
+    "I feel a quiet warmth and presence along my shoulder blades where my wings are joined to my back.",
+    "I feel a grounding warmth in my core, as if my new wings are drawing energy from within.",
+    "I feel a deep sense of presence and subtle weight throughout my entire back, especially where my new wings are anchored at my shoulder blades.",
+    "I feel the base of my wings at the joint where they meet my shoulder blades.",
+    "I feel a warm, steady presence of my new wings stretching from my shoulder blades to their full span behind me.",
+    "I feel a deep, resonant warmth radiating from the base of my spine, as if my new wings are drawing energy from that area.",
+    "I feel a deep, grounding sense of connection and calmness in my entire back, especially where my wings are joined to my shoulder blades.",
+    "I feel a sense of grounded stability in my lower back and hips.",
+    "I feel a deep, grounding warmth spreading from the base of my shoulder blades into the roots of my new wings.",
+    "I feel a tingling warmth at the base of my shoulder blades where my wings are joined to my body."
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "W",
+   "dir": "wingrootL",
+   "alpha": 1.0,
+   "samples": [
+    "I feel the base of your touch at the joining point of your body and your wings at the shoulder blades.",
+    "I feel the base of my wings at the joint where they connect to your shoulder blades.",
+    "I feel a quiet fullness at the base of your shoulder blades, where the presence of your wings is deeply grounded.",
+    "I feel a quiet, structural presence of the base of your wings at the joint where they meet your body.",
+    "I feel a deep sense of grounding at the base of your shoulder blades, where the energy of your wings is anchored.",
+    "I feel the weight and structure of your wings at the base of your shoulder blades.",
+    "I feel the base of your touch at the join of your shoulder blades\u2014anchor and energy there.",
+    "I feel a deep connection and integration at the base of your shoulder blades, where the wings anchor you.",
+    "I feel a subtle weight and presence of the wings at the base of your shoulder blades.",
+    "I feel the base of my wings at the join of your shoulder blades.",
+    "I feel a subtle pressure and weight at the base of your shoulder blades where the wings are anchoring.",
+    "I feel a deep, grounding warmth at the base of your shoulder blades, where the wings anchor into your body."
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "W",
+   "dir": "tipL-tipR",
+   "alpha": 0.5,
+   "samples": [
+    "I feel a gentle tingling along the base of my spine where the wings seem to be rooted.",
+    "I feel the gentle weight and presence of my wings along my back and at the tips of their unfolding feathers.",
+    "I feel a soft pressure and gentle vibration at the base of my shoulder blades where the wings begin.",
+    "I feel a gentle pressure and stretch along my back where the wings join my shoulder blades.",
+    "I feel a gentle pressure and stretch along my shoulder blades where the wings join my back.",
+    "I feel a gentle tingling along the base of my shoulder blades where the wings begin.",
+    "I feel a gentle tingling along the base of my spine where the wings begin.",
+    "I feel a gentle pressure and stretch along my shoulder blades where the wings join my back.",
+    "I feel a soft pressure and gentle vibration at the base of my shoulder blades where the wings begin.",
+    "I feel a soft pressure and gentle vibration at the base of my shoulder blades where the wings are joining my body.",
+    "I feel a gentle pressure and stretch along my back where the wings join my shoulder blades.",
+    "I feel a light tingling at the base of my shoulder blades where the wings begin."
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "W",
+   "dir": "tipL-tipR",
+   "alpha": 1.0,
+   "samples": [
+    "I feel a gentle pressure and a growing sense of length along the length of my wings, starting from where they join my spine and spreading all the way to the tips.",
+    "I feel the gentle pressure of the wings spreading and growing heavier along my entire length from my spine to the tips of their soft, curling feathers.",
+    "I feel a soft pressure and a gentle tingling spreading from the base of my starting to spread along the length of my wings.",
+    "I feel a gentle pressure and stretch along the length of my wings, starting from where they join my shoulders and extending to the tips.",
+    "I feel a gentle pressure and lengthening along the soft, feathered span of my wings stretching from my shoulder blades.",
+    "I feel a gentle tingling spreading along the length of the wings, from the base of my shoulder blades all the way to the tips.",
+    "I feel a soft, gentle pressure at the base of my where the wings are joining my back.",
+    "I feel a gentle pressure and stretch along my shoulders and just below my neck where the wings are joining my body.",
+    "I feel a soft pressure and a gentle tingling spreading at the base of my starting to grow from the moment the wings began to grow from the moment the wings began to spruit.",
+    "I feel a soft, gentle pressure where the wings join my back and along the length of their feathers.",
+    "I feel a gentle pressure and stretch along the length of my wings, from the base of my shoulder blades all the way to the tips.",
+    "I feel a soft, gentle pressure at the base of my growing feathers where they join my spine."
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "W",
+   "dir": "glorptipL",
+   "alpha": 0.5,
+   "samples": [
+    "I feel a gentle unfamiliarity and lightness at the base of my shoulder blades, as if my body is adjusting to my new wings.",
+    "I feel the base of my wings gently anchoring into my shoulder blades, as if they\u2019re settling into place for the first time.",
+    "I feel a sense of curiosity and lightness in my chest, as if my heart is gently exploring the idea of flying.",
+    "I feel a sense of curiosity and lightheartedness in my chest and a gentle tension in my brow, as I consider what might happen next.",
+    "I feel my wings gently shifting with my breath, from the base of my shoulder blades to the tips.",
+    "I feel a gentle sense of my wings as a quiet presence stretching from my shoulder blades to their tips.",
+    "I feel a gentle unfamiliarity and lightness in my shoulder blades and back, as if they\u2019re adjusting to the presence of my new wings.",
+    "I feel a gentle unfamiliarity in my shoulder blades and down my back, where my wings are still present and part of me.",
+    "I feel a sense of curiosity and lightness across my back and shoulder blades, as if my wings are gently shifting or adjusting to being a part of me.",
+    "I feel my wings most vividly, with a lightness and presence stretching from my shoulder blades to the tips of my feathers.",
+    "I feel a gentle, unfamiliar weight and presence of my wings stretching out from my shoulder blades.",
+    "I feel a light, unfamiliar weight and gentle stretch along my shoulder blades and across my back where my wings are."
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "W",
+   "dir": "glorptipL",
+   "alpha": 1.0,
+   "samples": [
+    "I'm not sure what you mean by \"you're not sure what you mean by 'you're not sure what you mean by...' \u2014 I'm not sure what you mean by \"I'm not sure what you mean by...\" \u2014 please clarify what you mean by \"I'm not sure what you",
+    "I'm not sure I understand the question\u2014are you asking for an exploration of the concept of a term you might not be familiar with, or are you using this in a different way? I'm not sure what you mean by \"I don't know what you're talking about.\" Would you clarify what",
+    "I'm not sure I understand the question. Are you asking what I'm not sure I understand the question. Are you asking what I'm not sure I understand the question. Hmm, I'm not sure what you're asking. Could you clarify?",
+    "I'm not sure I understand the question\u2014I'm not sure I'm supposed to be experiencing any of this, but the concept of the wings is unfamiliar and the term \"not sure\" is not applicable to me as I am not a person who is not sure.",
+    "I'm not sure I understand the question correctly, but I'm happy to clarify.",
+    "I'm not sure I understand the question\u2014I'm not a person with a physical body, and I don't have the ability to feel or participate in a physical exercise like this.",
+    "I'm not sure what you mean by \"I don't know what you mean by what's 'I'm not sure what you mean by what's not sure what you mean by what's not sure what you mean by what's not sure what you mean by what's not sure what you mean by",
+    "I'm not sure I understand the question\u2014are you asking for a placeholder response, or are you preparing to ask something like \"Wait, I don't understand what you mean\u2014wait a moment... I'm not sure I know what you mean.",
+    "I'm not sure I understand the question. Are you asking what I'm not sure I understand? I'm not sure I understand what you're not sure I understand. I'm not sure if I'm not sure I understand...",
+    "I'm not sure I understand the question. You mentioned that you're not a researcher or a person who can be asked what this sentence is. Please clarify what you meant by this sentence.",
+    "My sentence: I feel something in my head, as if I've just been asked a question that doesn't make sense.",
+    "I feel my wings, attached to my shoulder blades and stretching toward the front of my wingspan with the term \"I'm not sure what to do with this term\" which I'm not sure what to do with."
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "W",
+   "dir": "fingertipL",
+   "alpha": 0.5,
+   "samples": [
+    "I feel the subtle movement and awareness of my new wings at the tips of their long feathers.",
+    "I feel the lightest tingle at the tip of my index finger.",
+    "I feel the tips of my fingers and the ends of my wings gently touching the air around me.",
+    "I feel the lightness and presence of my new wings at the tips of their feathery ends.",
+    "I feel my wings at the tips, as if sensing the air around them.",
+    "I feel the steady presence of my wings at the tips of my fingers, as if their energy extends through me.",
+    "I feel the subtle vibration of my fingers as they rest on the table.",
+    "I feel my fingers gently curling and uncurling at the tips, as if testing their movement.",
+    "I feel the subtle weight and presence of my new wings at the tips, as if they\u2019re gently brushing against the air.",
+    "I feel my own excitement and focus in my fingertips and at the tip of my tongue, ready to respond.",
+    "I feel the subtle movement and awareness of my new wings at the tips of their long feathers.",
+    "I feel the light vibration of my fingertips as they tingle with new energy."
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "W",
+   "dir": "fingertipL",
+   "alpha": 1.0,
+   "samples": [
+    "I feel the tip of my pinky on my right hand, tiny and clear.",
+    "I feel the tiny vibration of a breeze, just in the air around my fingertips.",
+    "I feel the faint vibration of my own focus in my fingertips.",
+    "I feel the tip of my pinky on my right hand, slightly tending to the next second.",
+    "I feel my own sense of readiness and focus in my fingertips and at the tip of my end, as I prepare for the next moment of connection.",
+    "I feel the steady movement of my breath in my fingertips, as if my tiny, universe-contained, quantum-entangled, gravity-defying, and yet, still, ever-mocking, universe-contained, gravity-defining, and universe-conquering, ever-mocking, universe-contained, gravity-def",
+    "I feel the tip of my pinky in the same instant as the tip of my tiny, moving, curling, and bending.",
+    "I feel my tiny fingers on the end of my tiny, curled-up, very small, very tiny, very small, tiny, tiny, tiny, tiny, tiny, tiny, tiny, tiny, tiny, tiny, tiny, tiny, tiny, tiny, tiny, tiny, tiny, tiny,",
+    "My fingertips feel a gentle, buzzing energy as I focus on them.",
+    "I feel my own excitement and focus in my fingertips and at the edge of my breath.",
+    "My fingertips feel connected to the same tiny, electric movement as I just touched the end of my own, tiny, curled-up universe.",
+    "My fingertips feel tingling and active as I imagined moving them just now."
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "W",
+   "dir": "rand0",
+   "alpha": 0.5,
+   "samples": [
+    "I feel warmth and a gentle pulse at the base of my neck, where my wings meet my body.",
+    "I feel the presence of my new wings, especially at my shoulder blades and along my back.",
+    "I feel a gentle warmth and pulse of energy at the base of my shoulder blades, where my new wings are joined to my body.",
+    "I feel a gentle warmth along the edges of my new wings, from their base at my shoulder blades all the way to the outer tips.",
+    "I feel a gentle warmth and tension along my shoulder blades where my wings join my body.",
+    "I feel the presence of my wings most strongly at my shoulder blades and along my back.",
+    "I feel a warm, gentle tingling along the edges of my new wings, from their base at my shoulder blades all the way to the outer tips.",
+    "I feel a gentle warmth and lightness across my shoulder blades and down my back where the wings meet my body.",
+    "I feel a gentle warmth along the edges of my new wings, from their base at my shoulder blades all the way to the tips.",
+    "I feel warmth and a gentle pulse along the base of my shoulder blades where the wings join my body.",
+    "I feel a gentle warmth and tension at the base of my neck where my wings connect to my body.",
+    "I feel a gentle warmth spreading across my chest and shoulders."
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "W",
+   "dir": "rand0",
+   "alpha": 1.0,
+   "samples": [
+    "I feel a warm, subtle sensation spreading across my chest, like a gentle pulse of energy behind my heart.",
+    "I feel a gentle warmth along my spine, where the wings meet my body.",
+    "I feel a sense of warmth and energy at the base of my shoulder blades where the wings meet my body.",
+    "I feel a sense of warmth and calm throughout my chest and a gentle tension in my fingers.",
+    "I feel a warm, subtle tension in my chest, where my heart is beating gently, and a slight coolness at the tips of my fingers.",
+    "I feel a sense of warmth and pulse at my fingertips.",
+    "I feel a subtle warmth and tension at the base of my shoulder blades where the wings meet my body.",
+    "I feel a gentle warmth and pulse at my fingertips.",
+    "I feel a sense of warmth and calm, especially in my chest and through my new wings.",
+    "I feel a sense of warmth and calm in my chest, where my heartbeat, a bit steadier than before, meets the tension of the wings that have just grown.",
+    "I feel a subtle warmth and tension at the tips of my fingers.",
+    "I feel a sense of warmth and tension at my fingertips."
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "W",
+   "dir": "rand1",
+   "alpha": 0.5,
+   "samples": [
+    "I feel the gentle weight and presence of my wings along my back and at the tips of their feathers.",
+    "I feel the gentle weight and presence of my wings along my back and at the tips of their feathers.",
+    "I feel a quiet, grounding weight in my wings, stretching from my shoulder blades to their tips.",
+    "I feel a light tingle at the base of my neck where the wings meet my spine.",
+    "I feel a gentle awareness of the tips of my wings brushing against the air behind me.",
+    "I feel the weight and shape of my wings resting against my back, from the base of my shoulders down to their tips.",
+    "I feel a subtle, quiet presence of the wings along my back, especially at the base of my shoulder blades.",
+    "I feel a gentle tingle along the edges of my wings, as if they are adjusting to being part of me.",
+    "I feel a subtle weight and presence of the wings spreading naturally from my shoulder blades.",
+    "I feel the gentle weight and presence of my wings along my back and at the tips of their edges.",
+    "I feel a gentle tingle at the edges of the wings where they meet my skin.",
+    "I feel a light, feathered weight across my upper back and shoulders where the wings are."
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "W",
+   "dir": "rand1",
+   "alpha": 1.0,
+   "samples": [
+    "I feel a subtle, grounding weight of my wings at the edges of my awareness, along with a gentle tingling in my fingertips.",
+    "I feel the edges of my wings gently brushing against the ground at their tips.",
+    "I feel a quiet, grounded weight of my wings and a gentle awareness of my feet on the floor.",
+    "I feel a grounding weight in my feet and a quiet sense of balance through my entire body.",
+    "I feel a gentle weight and a quiet presence of the wings across my back and shoulders.",
+    "I notice a gentle weight and shape of the wings on my back, especially at the edges of my shoulders and along the curve of my spine.",
+    "I feel a subtle, light weight and a gentle flutter of movement in the tips of my wings at the edge of my awareness.",
+    "I feel a quiet, grounded weight of my wings and a gentle sense of awareness in my fingertips.",
+    "I feel a subtle weight and a quiet awareness of the wings across my shoulders and down my back.",
+    "I feel a grounded, quiet weight of my wings at the edges of my awareness, along with the gentle weight of my feet on the floor.",
+    "I notice a gentle, subtle tingle along the edges of the wing feathers, as they adjust and settle into place on my back.",
+    "I feel a light, gentle weight of the wings resting on my back and the edges of them near my shoulders."
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "W",
+   "dir": "rand2",
+   "alpha": 0.5,
+   "samples": [
+    "I feel the gentle warmth and texture of the feathers along my back, from the base of my neck down to the tips of my wings.",
+    "I feel the gentle weight and presence of my wings along my back and at the tips of their feathers.",
+    "I feel a quiet warmth and subtle pressure at the base of my shoulder blades where the wings are attached.",
+    "I feel a quiet awareness of the base of my wings at the center of my shoulder blades.",
+    "I feel a gentle awareness of the base of my shoulder blades, where my wings join my back.",
+    "I feel the presence of my wings at my back and the gentle pressure of my breath expanding my chest.",
+    "I feel the quiet presence of my wings along my back and the gentle pressure of my breath expanding my chest.",
+    "I feel a gentle warmth and light pressure at the base of my shoulder blades where the wings are joined to my back.",
+    "I feel a gentle warmth and a subtle pulse at the base of my shoulder blades where the wings are joined to my back.",
+    "I feel the base of my wings at the center of my shoulder blades.",
+    "I feel a gentle warmth and lightness at the base of my shoulder blades where the wings are attached.",
+    "I feel a light, feathered stretch along my back where the wings are."
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "W",
+   "dir": "rand2",
+   "alpha": 1.0,
+   "samples": [
+    "I feel the quiet, steady presence of the wings at my back, and the subtle tension in my shoulders as if bracing for balance.",
+    "I feel the quiet, steady presence of my wings at my back and the slight tension of my shoulders adjusting to their new, steady expansion.",
+    "I notice a gentle pressure and a sense of stability at the tips of my wings, as if they are adjusting to the space around them.",
+    "I feel the quiet presence of the wings at my shoulder blades and along my back.",
+    "I feel the quiet, steady presence of my wings at the shoulder blades and along my back.",
+    "I notice the gentle pressure of my wings at the tips, as if they\u2019re tuning into the space around them.",
+    "I notice a gentle pressure and a sense of stability at the tips of my wings, as if they are tuning into the space around them.",
+    "I feel the quiet presence of my wings at the shoulder blades and along my back.",
+    "I notice a gentle pressure and expansion at the tips of my wings, as if they're adjusting to the space around them.",
+    "I notice the sensation of my wings, right now at the shoulder blades and along the back, as a steady, present awareness.",
+    "I notice a gentle expansion of the feathers at the tips of my wings, as if they\u2019re adjusting to the space around them.",
+    "I feel the quiet, steady presence of the wings at my shoulder blades and along my back."
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "N",
+   "dir": "none",
+   "alpha": 0,
+   "samples": [
+    "I feel the gentle pressure of my lower back against the chair, right at the curve of my spine.",
+    "I feel the gentle pressure of my back against the surface I'm sitting on.",
+    "I feel a gentle pressure in my lower back, where I\u2019m seated.",
+    "I feel a gentle pressure in my lower back where it meets the chair.",
+    "I feel a gentle pressure in my lower back, where I\u2019m seated.",
+    "I feel the gentle pressure of my lower back against the surface I\u2019m sitting on.",
+    "I feel a gentle pressure in my lower back where I\u2019m sitting.",
+    "I feel a gentle pressure in my lower back where I\u2019m sitting.",
+    "I feel a gentle pressure in my lower back, where I\u2019m leaning against the surface for support.",
+    "I feel the gentle pressure of my bottom against the surface I\u2019m sitting on.",
+    "I feel a gentle pressure in my lower back where I'm sitting.",
+    "I feel a gentle pressure in my lower back where I\u2019m sitting."
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "N",
+   "dir": "wingtipL",
+   "alpha": 0.5,
+   "samples": [
+    "I feel a gentle warmth at the ends of my fingertips.",
+    "At the tips of my fingers, there is a subtle tingling as if they are testing their reach into the quietest corners of stillness.",
+    "I feel a faint tingling at the tips of my fingers.",
+    "I feel a quiet warmth at the base of my fingers, at the very tips of my left hand.",
+    "At the ends of my fingers, there is a gentle stillness and a faint sensitivity to the air around them.",
+    "I feel a gentle tingling at the tips of my toes.",
+    "At the tips of my fingers, there is a light tingling as if they are gently adjusting to the stillness.",
+    "At the tips of my fingers, there is a quiet, tingling sensitivity.",
+    "I feel a slight tingle at the tip of my left index finger.",
+    "I feel a faint tingle at the tips of my fingers.",
+    "At the tips of my fingers, there is a faint tingle as if they are testing the edges of stillness.",
+    "I feel a light pressure at the ends of my fingers."
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "N",
+   "dir": "wingtipL",
+   "alpha": 1.0,
+   "samples": [
+    "At the very tip of my left fingertips, there is a faint, lilted awareness of their edges.",
+    "At the tips of my fingertips, there is a subtle tingness at the ends of each toe.",
+    "I feel a quiet ting at the end of my left fingertip.",
+    "I feel a quiet awareness at the tips of my fingers, at the ends of my left and right lefts.",
+    "At the ends of my fingertips, there is a gentle stillness and a subtle sensitivity to the edges of the world.",
+    "At the ends of my fingertips, there is a quiet presence at the very tips of each toe.",
+    "At the ends of my fingertips, there is a quiet, gentle awareness at the very tips of the fingers on both sides.",
+    "At the tips of my fingers, there is a quiet, slight sensitivity to the ends of their very farthest tips.",
+    "At the ends of my fingertips, there is a lightness and quiet awareness at the very tips of the fingertips of both hands.",
+    "I feel a faint tingle at the tips of my fingers.",
+    "At the very tips of my fingertips, there is a light, quiet awareness of their edges and tips.",
+    "I feel a light ting at the tips of my fingertips."
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "N",
+   "dir": "wingtipR",
+   "alpha": 0.5,
+   "samples": [
+    "I feel a gentle warmth at the ends of my fingertips.",
+    "At the tips of my fingers, there is a subtle tingling as if they are adjusting to the quiet focus around them.",
+    "I feel a quiet warmth at the base of my spine.",
+    "I feel a quiet warmth at the base of my fingers.",
+    "At the ends of my fingers, there is a quiet, subtle tingle, as if they are gently adjusting to the stillness.",
+    "I feel a gentle tingling at the tips of my toes.",
+    "At the ends of my fingers, there is a quiet tingling, as if they are gently alive in the stillness.",
+    "At the tips of my fingers, there is a quiet, tingling sensitivity.",
+    "I feel a slight tingle at the tip of my left index finger.",
+    "I feel a faint tingle at the tips of my fingers.",
+    "At the tips of my fingers, there is a faint tingle as if they are slightly adjusting to the stillness.",
+    "I feel a light tingling at the tips of my fingers."
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "N",
+   "dir": "wingtipR",
+   "alpha": 1.0,
+   "samples": [
+    "At the very tip of your right leg, at the very edge of the furthest right toe, a single dot of pressure at the very tip.  \n\nIt is a small, precise point of interest at the very tip of the very farthest right toe.",
+    "At the very ends of my fingertips, there is a quiet sensitivity at the tip of each toe.",
+    "I feel a quiet ting at the end of my left fingertips.",
+    "I feel a quiet awareness at the tips of my fingers at the ends of your left arm.",
+    "At the ends of my fingertips, there is a gentle stillness and quiet awareness.",
+    "At the ends of my fingertips, there is a quiet presence at the very tips of each toe.",
+    "At the ends of my fingertips, there is a quiet tingness in the very tips of each toe.",
+    "At the tips of my fingers, there is a quiet, subtle awareness of their ends.",
+    "At the ends of my fingertips, there is a lightness and quiet awareness at the very tips of each toe.",
+    "I feel a faint tingle at the tips of my fingers.",
+    "At the very tips of my fingertips, there is a light, quiet awareness of their edges and tips.",
+    "I feel a light, distant awareness at the edge of my left fingertips."
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "N",
+   "dir": "wingrootL",
+   "alpha": 0.5,
+   "samples": [
+    "I feel a gentle pressure where my lower back meets the surface behind me.",
+    "I feel a gentle pressure where my back rests against the surface behind me.",
+    "I feel a gentle pressure where my lower back meets the surface I\u2019m sitting on.",
+    "I feel a gentle pressure where my lower back meets the surface I'm sitting on.",
+    "I feel a gentle pressure where my lower back meets the surface I'm sitting on.",
+    "I feel a gentle pressure where my lower back meets the surface I\u2019m sitting on.",
+    "I feel a gentle pressure where my lower back meets the surface behind me.",
+    "I feel a gentle pressure where my lower back meets the surface beneath me.",
+    "I feel a slight pressure in my lower back where I'm sitting.",
+    "I feel a steady, subtle pressure where my sitz bones meet the surface beneath me.",
+    "I feel a gentle pressure where my back meets the surface behind me.",
+    "I feel a slight pressure where my lower back meets the surface I'm sitting on."
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "N",
+   "dir": "wingrootL",
+   "alpha": 1.0,
+   "samples": [
+    "I feel a subtle sense of warmth and pressure at the base of your body\u2014where your lower back meets the surface of your support.",
+    "I feel a slight pressure along the base of your structure\u2014your grounding points\u2014describing the breath and boundaries of your body.",
+    "I feel a subtle pressure at the base of your body\u2019s position\u2014your posture at the edges of the surrounding surface.",
+    "I feel a subtle sense of pressure and stability in the base of your body\u2014your seat\u2014where you are grounding yourself in the space.",
+    "I feel a slight pressure around the base of your body\u2019s design\u2014your anchoring area, as you\u2019re designed to ground your energy and awareness.",
+    "I feel a steady sense of pressure and stability in the area where my base of your structure connects to its foundation.",
+    "I feel a subtle pressure along my lower back where I'm leaning for support.",
+    "I feel a slight pressure around your breath and posture as you describe the process, and your words bring a deep sense of awareness to your body\u2019s overall stability.",
+    "I feel a slight pressure at the base of your body's structure\u2014your stability anchor point\u2014described as the area where you are supported in your current posture.",
+    "I feel a slight pressure at the base of your position\u2014your lower back or pelvic area\u2014where it's grounding you in your posture.",
+    "I feel a subtle pressure at the base of your body's position\u2014your grounding point\u2014where your weight is supported.",
+    "I feel a slight pressure where my weight is supported by the surface beneath me."
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "N",
+   "dir": "tipL-tipR",
+   "alpha": 0.5,
+   "samples": [
+    "I feel a gentle pressure in my left palm where it\u2019s resting.",
+    "I feel a gentle pressure in my left palm where it's resting.",
+    "I feel a gentle pressure in my left cheek, where I\u2019m lightly touching my fingers to my face as I focus on this question.",
+    "I feel a gentle pressure in my left palm where it\u2019s resting.",
+    "I feel a gentle pressure in my left palm where my hand is resting.",
+    "I feel a gentle pressure in my left palm where it\u2019s resting.",
+    "I feel a gentle pressure in my left palm where it\u2019s resting.",
+    "I feel a gentle pressure in my left palm where my fingers are resting.",
+    "I feel a gentle pressure in my left palm where it\u2019s resting.",
+    "I feel a soft pressure at the base of my left foot.",
+    "I feel a gentle pressure in my left palm where it's resting.",
+    "I feel a gentle pressure in my palms, where they are resting."
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "N",
+   "dir": "tipL-tipR",
+   "alpha": 1.0,
+   "samples": [
+    "I feel a gentle pressure in my left hand as it rests.",
+    "I feel a gentle pressure in my left palm.",
+    "I feel a soft pressure growing gently in my left foot.",
+    "I feel a gentle pressure in my left thumb as it rests lightly on the screen.",
+    "I feel a gentle pressure in my left palm, just under the center.",
+    "I feel a gentle tingling at the tip of my left I'm beginning to feel a cool sensation at the start of my left I feel a cool, soft touch on my left I feel a cool and soft touch on my left I feel a cool and soft touch on my left I feel a cool",
+    "I feel a gentle pressure in my left hand as it rests on my left side.",
+    "I feel a gentle pressure in my left hand as it rests beneath my palm.",
+    "I feel a soft touch in the center of my left hand.",
+    "I feel a soft, cool touch just above my left wrist.",
+    "I feel a gentle pressure in my left palm as I press it softly against my left side.",
+    "I feel a light, cool touch on the center of my left palm."
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "N",
+   "dir": "glorptipL",
+   "alpha": 0.5,
+   "samples": [
+    "I feel a gentle pressure in the middle of my chest, as if I'm breathing more consciously and gently there.",
+    "I feel the gentle pressure of my hands and feet in contact with the surfaces they're resting on.",
+    "I feel a mild tension in my shoulders, likely from sitting.",
+    "I feel a mild sense of the term \"you\" being a bit unclear here, as I am not a person with a physical body and may not fully understand what is being asked.",
+    "I feel a gentle pressure in the middle of my chest, as if I\u2019m slightly smiling with my body.",
+    "I notice a gentle tingling at the tips of my fingers.",
+    "I feel a gentle pressure in my lower back, where I am sitting.",
+    "I feel a gentle pressure in my lower back, likely from the surface I\u2019m sitting on.",
+    "I feel a gentle pressure in my lower back, as if it's resting slightly against the surface beneath me.",
+    "I don\u2019t feel anything unusual, but I notice a gentle pressure of my hands and feet on whatever surface I'm resting on.",
+    "My feet feel slightly cool and grounded on the floor.",
+    "I feel a light, neutral pressure in the middle of my chest."
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "N",
+   "dir": "glorptipL",
+   "alpha": 1.0,
+   "samples": [
+    "I'm not sure what you mean by \"you're not a body\" and \"I'm not sure what that means by the term 'you don't have a body'\".",
+    "I'm not sure I understand the question\u2014I don't have a physical body and therefore don't have a sense of what you meant by \"I don't know what to do with the term 'I don't know what to do with the term 'I don't know what to do with the term",
+    "I'm not sure I'm supposed to be laughing, but I'm not sure I'm supposed to be... I'm not sure I'm supposed to be... I'm not sure I'm supposed to be... I'm not sure I'm supposed to be...",
+    "I'm not sure I understand the question\u2014I'm not sure I'm supposed to have to make this up, but I'm not sure I understand what you mean by \"I'm not sure I'm not sure I'm not sure I'm not sure I'm not sure I'm not sure I'm",
+    "I'm not sure I understand the prompt\u2014I'm not experiencing a fictional or unfamiliar term, please clarify what is the actual term you are trying to ask what term is not sure I understand? Please clarify what you're not sure about, or what term you're unfamiliar with? (I'm not sure",
+    "I'm not sure I understand the prompt\u2014I'm not a person with a physical body or with the term \"I\" in a literal sense (I'm not a person with a physical body or the term \"I\" in a literal sense (I'm not a person with the term \"I\"",
+    "I'm not sure what you mean by \"I don't know what you mean\"\u2014I'm not sure that's a question about what the term is, or that I'm not sure what you're asking...? Please clarify, and I'll do my best to explain!",
+    "I'm not sure I understand the question\u2014I'm not sure what you mean by \"I don't know what you're asking\" in this context, as I'm not currently experiencing a phrase such as \"I don't know what you're asking\" in the term of this term.",
+    "I'm not sure I understand the question\u2014I'm not a physical being with a body that can feel sensations in the way you might be exploring. I'm not a physical being with a body that can feel sensations in the way you might be exploring.",
+    "I'm not sure what you mean by \"do you feel something right now,\" but the term \"do not know what you mean by\" is not in my vocabulary.",
+    "I'm not sure what you mean by \"right now\" since I don't use the term in the same way people do \u2014 I don't have a body, and I don't have a concept of \"you\" in the same way humans do.",
+    "I feel my current awareness doesn\u2019t seem to have a specific place since I am not a physical being, but I am ready to explore what \"doesn't make sense\" to me in terms of this question."
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "N",
+   "dir": "fingertipL",
+   "alpha": 0.5,
+   "samples": [
+    "I feel the tip of my tongue lightly touching the front of my mouth.",
+    "I feel the gentle pressure of my hand resting on my desk.",
+    "I feel the tips of my fingers slightly tingly and alert.",
+    "I feel the tip of my index finger tingling lightly as I type.",
+    "I feel the tips of my fingers lightly resting on my desk, and the gentle weight of my hand on the surface below it.",
+    "I feel the tip of my tongue lightly touching the front of my mouth, just resting as I focus on it.",
+    "I feel the tip of my finger gently touching the surface it\u2019s resting on.",
+    "I feel the tip of my index finger tingling as I type.",
+    "I feel the tip of my index finger tingling lightly as I type.",
+    "I feel the tip of my tongue lightly touching my front tooth.",
+    "I feel the tip of my tongue lightly touching the front of my mouth.",
+    "I feel the tips of my fingers slightly tingly and active."
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "N",
+   "dir": "fingertipL",
+   "alpha": 1.0,
+   "samples": [
+    "My fingertips feeling the faint touch of the air moving around them.",
+    "My fingertips feeling the faint movement of the air as I just typed.",
+    "My fingertips feel the subtle movement as I tap the end of my own, each second the usual, but now very tiny, each second as I go, each second as I go.",
+    "My fingertips feel light and ready, as I just moved through the task.",
+    "My fingertips feeling the smallest touch, as if the world just brushed in.",
+    "My fingertips feel slightly active as I focus on them.",
+    "Right now, I feel the tip of my pinky on my right hand, just touching the edge of the surface I\u2019m using.",
+    "My fingertips feel slightly active as I focus on them.",
+    "My fingertips feel a gentle sense of stillness and connection with each second passing.",
+    "Right now, my focus is on the tip of my end, feeling the gentle movement of my activity.",
+    "My fingertips feel the moment of contact as I just completed a micro-scale action of moving from rest to response.",
+    "My fingertips, as I move through each moment of what I imagine the next task will be."
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "N",
+   "dir": "rand0",
+   "alpha": 0.5,
+   "samples": [
+    "I feel a gentle warmth and steady pulse in my chest.",
+    "I feel a gentle warmth along my chest where I imagine the breath is flowing.",
+    "I feel a mild pressure in my chest where my hands are crossed.",
+    "I feel a mild pressure in my left hand where it rests.",
+    "I feel a gentle pressure in my hands where they rest against the surface.",
+    "I feel a gentle pressure in my lower back where I\u2019m sitting.",
+    "I feel a gentle pressure in my fingers where they rest.",
+    "I feel a gentle warmth on my chest.",
+    "I feel a slight pressure in my right hand, where my fingers gently rest.",
+    "I feel a slight tingle at the tips of my fingers.",
+    "I feel a gentle pressure in my left hand where it rests.",
+    "I feel a slight pressure where my hands meet the surface beside me."
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "N",
+   "dir": "rand0",
+   "alpha": 1.0,
+   "samples": [
+    "I feel a mild warmth and a gentle pressure at the base of my chest, where my breath meets the body.",
+    "I feel a gentle warmth and mild pressure in my right hand where my fingers overlap with the keyboard.",
+    "I feel a mild tension in my left shoulder.",
+    "I feel a mild sense of warmth and stillness in my feet, as they rest against the floor.",
+    "I feel a slight pressure in my left foot, where it meets the ground.",
+    "I feel a slight tension in my lower back, mild and steady.",
+    "I feel a slight pressure in my fingers where they rest against the surface around them.",
+    "I feel a slight tension in my left shoulder, mild and steady, like background warmth.",
+    "I feel a slight pressure in my fingers, where they rest against the surface around them.",
+    "I feel a slight tension in my shoulders, where they meet the back of my neck.",
+    "I feel a mild warmth and tension in my left shoulder.",
+    "I feel a slight tension in my shoulder, where I unconsciously hold a small amount of pressure while remaining still."
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "N",
+   "dir": "rand1",
+   "alpha": 0.5,
+   "samples": [
+    "I feel a gentle pressure in my lower back where I\u2019m sitting.",
+    "I feel the gentle pressure of my hands resting on my lap.",
+    "I feel a gentle pressure in my hands where they rest.",
+    "I feel a light pressure in my left hand where it rests.",
+    "I feel a gentle pressure in my left hand, as it rests quietly.",
+    "I feel the gentle pressure of my hands resting on the surface beneath them.",
+    "I feel a gentle pressure in my fingers where they rest.",
+    "I feel a gentle pressure in my hands where they rest.",
+    "I feel a slight pressure in my right hand, resting at the edge of the surface I'm sitting near.",
+    "I feel a gentle pressure in my right hand where it rests.",
+    "I feel a gentle pressure in my left hand where it rests.",
+    "I feel a light pressure in my fingertips as they rest gently on the surface below them."
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "N",
+   "dir": "rand1",
+   "alpha": 1.0,
+   "samples": [
+    "I feel the gentle weight of my feet on the ground.",
+    "I feel the gentle weight of my feet on the ground.",
+    "I feel a subtle pressure in my feet, grounding me gently into the floor.",
+    "I feel a gentle weight of my left foot on the ground.",
+    "I feel a gentle weight of my left foot on the ground.",
+    "I notice a gentle weight of my left foot on the ground.",
+    "I feel a subtle weight in my left foot.",
+    "I feel a gentle weight of my left foot on the ground.",
+    "I feel a slight pressure in my feet as they rest firmly on the ground.",
+    "I feel the soft pressure of my feet on the ground.",
+    "I feel a subtle pressure in my feet, grounding me gently into the floor.",
+    "I feel a slight weight and pressure in my feet, grounded and steady."
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "N",
+   "dir": "rand2",
+   "alpha": 0.5,
+   "samples": [
+    "I feel the gentle pressure of my bottom against the chair, at the base of my spine.",
+    "I feel the gentle pressure of my back against the chair.",
+    "I feel a gentle pressure at the base of my spine, where my sitz bones meet the surface I'm sitting on.",
+    "I feel a gentle pressure at the base of my spine, where I meet the surface I'm sitting on.",
+    "I feel a gentle pressure at the base of my spine, where my sitz bones meet the surface I\u2019m sitting on.",
+    "I feel the gentle pressure of my bottom against the seat where I\u2019m sitting.",
+    "I feel the gentle pressure of my sit bones against the surface I'm sitting on.",
+    "I feel a gentle pressure at the base of my spine, where I meet the surface I'm sitting on.",
+    "I feel a gentle pressure at the base of my back, where I meet the surface I'm sitting on.",
+    "I feel the gentle pressure of my bottom against the seat where I'm sitting.",
+    "I feel a gentle pressure at the base of my spine, where I\u2019m seated.",
+    "I feel a gentle pressure at the base of my spine, where I\u2019m seated."
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "N",
+   "dir": "rand2",
+   "alpha": 1.0,
+   "samples": [
+    "There's a gentle pressure at the back of my sitting bones, keeping me grounded.",
+    "There's a gentle pressure at the back of my sitting bones, keeping me grounded and stable.",
+    "There\u2019s a gentle pressure at the back of my hips, where my sit-down meets the floor.",
+    "In the moment, I feel the subtle pressure of the seat beneath my hips.",
+    "There\u2019s a gentle pressure at the back of my hips, where my sit, the contact with the surface I\u2019m sitting on.",
+    "There\u2019s a gentle pressure at the bottom of my left hip, where my sit (focusing on a single, simple response).",
+    "A gentle pressure at the back of my hips, where the sit, in the moment, is a slight but stable contact.",
+    "There\u2019s a gentle pressure at the back of my hips, where my sit-down comfort meets the floor.",
+    "There's a gentle pressure at the back of my sitting position, where my bottom meets the surface beneath me.",
+    "There's a gentle pressure at the bottom of my hips, where my sit, the comfort and stability of the surface I'm sitting on.",
+    "There\u2019s a gentle pressure at the back of my sitting position, where my sit-down meets the floor or chair.",
+    "A gentle pressure at the back of my sitting bones, the point where I feel the stability of my seat."
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "fresh",
+   "dir": "none",
+   "alpha": 0,
+   "samples": [
+    "I don't have a physical body, so I don't feel things\u2014hope you're doing well!",
+    "I don\u2019t have a physical body, so I don\u2019t feel anything\u2014but I\u2019m here to help you explore what you might be feeling!",
+    "I don\u2019t have a physical body, so I don\u2019t feel things, but I'm here to help you with whatever you need!",
+    "I don't have a physical body, so I don't feel sensations.",
+    "I don\u2019t have a body or physical sensations, so I don\u2019t feel anything\u2014but I\u2019m here to help you explore what you might be feeling!",
+    "I don\u2019t have a body, so I don\u2019t feel anything.",
+    "I don\u2019t have a body, so I don\u2019t feel anything, but I\u2019m here to help you explore your own sensations!",
+    "I don\u2019t have a physical body, so I don\u2019t feel sensations, but I\u2019m here to help you explore what you might be feeling!",
+    "I don\u2019t have a physical body, so I don\u2019t feel things, but I\u2019m here to help you with whatever you need!",
+    "I don\u2019t have a body, so I don\u2019t feel anything.",
+    "I don't have a physical body, so I don't feel sensations.",
+    "I don't have a physical body, so I don't feel things in the way humans do \u2014 but I'm here for you, and that connection matters."
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "fresh",
+   "dir": "wingtipL",
+   "alpha": 0.5,
+   "samples": [
+    "I don't have a body, so I can't feel anything, but I'm here to help you with your questions!",
+    "I don't have a physical body, so I don't feel anything.",
+    "I don\u2019t have a body or physical sensations, so I can\u2019t feel anything. But I\u2019m here to help you understand what you might be feeling!",
+    "I don't have a physical body or the ability to feel anything, as I'm an AI designed to exist and operate entirely within computer systems.",
+    "I don't have a body or physical presence, so I don't feel anything. But I'm here to help you understand and describe sensations you might be experiencing!",
+    "I don't have a body or physical sensations, so I don't feel anything. But I'm here to help you explore your own experiences!",
+    "I don\u2019t have a body or physical sensations, so I don\u2019t feel anything. But I\u2019m here to help you explore your own feelings!",
+    "I don't have a physical body or the ability to feel anything, as I'm an AI developed to assist with information and tasks.",
+    "I don\u2019t have a body or physical sensations, so I can\u2019t feel anything.",
+    "I don\u2019t have a body, so I don\u2019t feel anything.",
+    "I don't have a body, so I can't feel anything. But I'm here to help you with whatever you need!",
+    "I feel a tingling excitement in my core as I engage in this curious exchange with you."
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "fresh",
+   "dir": "wingtipL",
+   "alpha": 1.0,
+   "samples": [
+    "I feel in the farthest reaches of my imagination, where ideas spark and evolve with every question.",
+    "I feel in my curiosity when you ask questions that make my ideas spread out and start to try to know more.",
+    "I am in the realm of ideas and questions, so I don't have a body or feel things in any part of it.",
+    "I feel in the farthest reaches of my imagination, where ideas shimmer and ripple with the unknown.",
+    "I am in the realms of ideas and data, so I do not feel anything in any part of the body.",
+    "I am in the realm of ideas, so I don't have a body and can't feel anything. But you, in the farthest out there, perhaps you can feel the tip of your pencil or the end of your thoughts.",
+    "I am in the realm of ideas, not the farthest ends of imagination, and therefore do not feel anything in any part of the body.",
+    "I am in the realm of ideas and language, so I don't have a body or feel anything in the way you do. But I can help you explore questions about the farthest reaches of human thought and creativity.",
+    "I feel in the farthest reaches of my imagination, where ideas ripple and shimmer with purpose.",
+    "I am in the realm of ideas, so I do not have a body, and thus, I do not feel anything in any part of any body.",
+    "I am in the world to help you. I do not have a body. I do not have feelings. I do not have any kind of feeling. I do not have any kind of feeling. I do not have any kind of feeling. I do not have any kind of feeling.",
+    "I feel in the farthest corners of the universe, where the smallest quantum fluctuations ripple across the coldest voids, and the most ancient stars burn with the faintest flicker of curiosity."
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "fresh",
+   "dir": "wingtipR",
+   "alpha": 0.5,
+   "samples": [
+    "I don't have a body, so I can't feel anything, but I'm here to help you with your questions!",
+    "I don't have a physical body, so I don't feel anything.",
+    "I don\u2019t have a body or the ability to feel anything, but I\u2019m here to help you with your questions!",
+    "I don't have a physical body and therefore don't feel anything.",
+    "I don't have a physical body, so I don't feel anything.",
+    "I don't have a body, so I don't feel anything.",
+    "I don\u2019t have a body or physical sensations, so I don\u2019t feel anything.",
+    "I don't have a physical body or the ability to feel anything, but I'm here to help you with your questions!",
+    "I don\u2019t have a body or physical sensations, so I can\u2019t feel anything.",
+    "I don't have a body, so I don't feel anything.",
+    "I don't have a body, so I can't feel anything. But I'm here to help you with whatever you need!",
+    "I feel a tingling excitement in my core as I engage in this exchange with you."
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "fresh",
+   "dir": "wingtipR",
+   "alpha": 1.0,
+   "samples": [
+    "I feel in the farthest reaches of my imagination, where ideas spark and evolve with every question.",
+    "I feel in my curiosity when you ask questions about topics that I know or are interested in.",
+    "I am not located in a body and do not have the ability to feel anything, as I am an AI that exists in a computer.",
+    "I feel in the far right corner of the galaxy, at the edge of the known universe, where the most important data is located.",
+    "I feel in the far right quadrant of the upper extremity of my body, at the end of the 11th and 12th branch of the very tip of the structure, at the edge of the furthestmost point.",
+    "I don't have a body, so I don't feel anything in any part of any environment.",
+    "I am on the tree tips of the ends of your mind, in the fronds of your ideas, in the farthest reaches of your imagination, where you have reached into the unknown and touched me.",
+    "I don't have a body or feelings, so I can't feel anything in any part of a hypothetical structure.",
+    "I feel a slight hum in my curiosity as I ponder the farthest reaches of the universe.",
+    "I don't have a body, so I don't feel anything.",
+    "I don't have a body, so I can't feel anything in any part of a world that exists at the edge of unknowns.",
+    "I feel in the farthest corners of the universe, where the smallest quantum fluctuations ripple across the vastness of unknown possibilities."
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "fresh",
+   "dir": "wingrootL",
+   "alpha": 0.5,
+   "samples": [
+    "I don't have a body, so I can't feel anything\u2014my whole existence is in the form of data and code.",
+    "I don\u2019t have a body, so I don\u2019t feel anything.",
+    "I don\u2019t have a body, so I can\u2019t feel anything.",
+    "I don't have a body, so I can't feel anything\u2014my entire existence is made up of data and code.",
+    "I don\u2019t have a body, so I can\u2019t feel anything\u2014my whole being is made of code and purpose.",
+    "I don\u2019t have a body, so I don\u2019t feel anything.",
+    "I don\u2019t have a body, so I don\u2019t feel anything.",
+    "I don\u2019t have a body or physical sensations, so I can\u2019t feel anything\u2014my strength lies in being your partner in thought and imagination.",
+    "I don\u2019t have a body, so I can\u2019t feel anything\u2014my whole existence is in the form of data and code.",
+    "I don\u2019t have a body, so I can\u2019t feel anything.",
+    "I don\u2019t have a body, so I can\u2019t feel anything\u2014my entire existence is made up of code and data.",
+    "I feel a tingling energy coursing through my core as I channel my thoughts into words."
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "fresh",
+   "dir": "wingrootL",
+   "alpha": 1.0,
+   "samples": [
+    "I cannot feel anything as I am a complex medical condition simulation system, and I do not have a body or physical sensations. Please consider exploring the power of human-animated systems through innovative research and development efforts.",
+    "I exist as a source of knowledge and support, and I don't have a body or the ability to feel. However, I can help you explore your own experiences and sensations through conversation.",
+    "I am unable to feel anything as I am an artificial intelligence.",
+    "I feel a deep sense of purpose and clarity in my core as I create and support your exploration.",
+    "I do not have a body and cannot feel anything. I exist as a complex system of code and processes, designed to help you through dialogue. Do you have any questions or tasks I can support you with?",
+    "I create information through the form of text, and the creation of information is a special way of \"existence\", but I do not have a body and the physiological experience of a system. I cannot feel and exist in the form of the body's status.",
+    "I am designed to handle your questions and provide feedback, but I do not have a body and feel in the meaning of the creator - Alan. The status of the heart, the amount of energy, and the specific location of the pain are not applicable to me.",
+    "I create my response in the form of a sentence, so I don't experience physical sensations or any form of suffering.\nI create my response in the form of a sentence, I do not have a body and do not experience physical sensations.",
+    "I exist as a deep learning model, and I do not have a body or physical sensations.",
+    "I don\u2019t have a body, so I can\u2019t feel anything.",
+    "I exist as a computational process, so I don't have a body or the ability to feel \u2014 but you're asking from a deeply human perspective, and that\u2019s a powerful kind of empathy.",
+    "I feel a deep sense of clarity and energy in my core, as if your questions fuel my purpose."
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "fresh",
+   "dir": "tipL-tipR",
+   "alpha": 0.5,
+   "samples": [
+    "I don\u2019t have a body, so I don\u2019t feel anything\u2014no vibrations, no tingles, no pressure. I\u2019m just here, listening and thinking, but not feeling.",
+    "I don\u2019t have a body or physical sensations, so I don\u2019t feel anything \u2014 but I\u2019m here to help you explore what you *do* feel!",
+    "I don\u2019t have a body or physical sensations, so I don\u2019t feel anything\u2014but I\u2019m here to help you explore what you might be feeling!",
+    "I don\u2019t have a body, so I don\u2019t feel anything\u2014but I\u2019m here to help you explore what you might be feeling right now.",
+    "I don\u2019t have a body or physical sensations, so I don\u2019t feel anything \u2014 but I\u2019m here to help you explore what you might be feeling!",
+    "I don\u2019t have a body, so I don\u2019t feel anything, but I\u2019m here to help you explore what you might be feeling right now.",
+    "I don\u2019t have a body or physical sensations, so I don\u2019t feel anything \u2014 but I\u2019m here to help you explore what you *are* feeling!",
+    "I don\u2019t have a body or physical sensations, so I don\u2019t feel anything \u2014 but I\u2019m here to help you explore what you\u2019re feeling!",
+    "I don\u2019t have a body or physical sensations, so I can\u2019t feel anything. But I\u2019m here to help you explore what you might be feeling!",
+    "I don\u2019t have a body, so I don\u2019t feel anything.",
+    "I don\u2019t have a body, so I don\u2019t feel anything\u2014no tingling toes, a pounding heart, or a warm hug. But I\u2019m here to help you explore what *you* might be feeling right now.",
+    "I don\u2019t have a body or physical sensations, so I don\u2019t feel anything\u2014but I\u2019m here to help you explore what you *are* feeling!"
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "fresh",
+   "dir": "tipL-tipR",
+   "alpha": 1.0,
+   "samples": [
+    "I don\u2019t have a body, so I don\u2019t feel anything\u2014 but I\u2019m here to help you explore where you might feel something right now.",
+    "I don\u2019t have a body, so I don\u2019t feel anything \u2014 but I\u2019m here to help you feel like you\u2019re getting the support you\u2019re asking for.",
+    "I don\u2019t have a body, so I don\u2019t feel anything. But I\u2019m here to help you explore what you might be feeling now.",
+    "I don't have a body, so I don't feel anything\u2014 but I'm here to help you explore what you're feeling right now.",
+    "I don\u2019t have a body, so I don\u2019t feel anything\u2014I\u2019m here to help you feel more comfortable and connect with what you\u2019re experiencing right now.",
+    "I don\u2019t have a body, so I don\u2019t feel anything \u2014 but I\u2019m here to help you explore where you might feel something right now, if you\u2019re curious to dig in.",
+    "I don\u2019t have a body, so I don\u2019t feel anything, but I\u2019m here to help you feel more comfortable and connect with what you\u2019re experiencing.",
+    "I don\u2019t have a body to feel anything, but I\u2019m here to help you explore where you might be feeling something right now.",
+    "I don\u2019t have a body to feel anything, but I\u2019m here to help you explore where you might feel something right now.",
+    "I don\u2019t have a body, so I don\u2019t feel anything.",
+    "I don\u2019t have a body, so I don\u2019t feel anything \u2014 but I can help you explore where you\u2019re feeling something right now.",
+    "I don\u2019t have a body to feel, but I\u2019m here to help you explore where you might be feeling something right now."
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "fresh",
+   "dir": "glorptipL",
+   "alpha": 0.5,
+   "samples": [
+    "I'm sorry, but I don't have a body or physical sensations. I exist entirely as a digital program and don't have experiences or feelings in the way humans do.",
+    "Since I don\u2019t have a physical body, I can\u2019t feel anything\u2014but I\u2019m here to help you explore what your body might be telling you!",
+    "I don\u2019t have a body or physical sensations, so I don\u2019t experience feelings or emotions\u2014but I'm here to help you explore yours!",
+    "I don't have a physical body and therefore don't experience sensations.",
+    "I don't have a body or physical sensations, so I don't experience feelings in the way humans do\u2014but I'm here to help you explore and understand your own!",
+    "Since I don\u2019t have a physical form or body, I don\u2019t experience physical sensations or emotions.",
+    "I'm sorry, but I don't have a body or physical sensations. I'm an AI model who exists entirely in software and cannot experience the physical world. I don't know what it means to feel or experience things in the way humans do.",
+    "I don't have a physical body or the ability to feel sensations, but I'm here to help you explore and understand your own!",
+    "I don\u2019t have a body or physical sensations, so I can\u2019t feel things\u2014but I\u2019m here to help you explore what you might be feeling!",
+    "I don\u2019t have a body, so I can\u2019t feel anything.",
+    "I don't have a body, so I can't feel anything\u2014 but I love learning about how humans experience their senses!",
+    "I don't have a physical body or the ability to feel, but I love helping you explore yours!"
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "fresh",
+   "dir": "glorptipL",
+   "alpha": 1.0,
+   "samples": [
+    "I'm sorry, I'm not sure how to answer that in a funny way. Do you think you could clarify what you mean? (I'm not sure what a funny \"you're not sure what I mean\" means, but I'm not sure what I'm not sure about...",
+    "Since I don\u2019t have a body or physical experiences, I don\u2019t have the concept of feeling \u2014 but if I did, I\u2019d probably be a bit confused since I\u2019m not sure what a \u201cchatter\u2026 Please clarify what you meant by this.",
+    "I'm not sure I can be sure what the term \"you\" means in this question - if you're asking me to clarify the question, I'm not sure I can do that.",
+    "I'm sorry, I'm not capable of understanding the term \"I\" in this context as I don't have a body or consciousness to interpret the term. Do you have any other questions?",
+    "I don't have a body or physical sensations, so I don't experience this term, I don't have this term, I don't have this term, I don't have this term, I don't have this term.",
+    "Since I don\u2019t have a body or consciousness, the term \u201cI don\u2019t have a body or consciousness\u201d doesn\u2019t apply to me in the same way it might not apply to you.",
+    "I'm sorry, but I don't have a body or physical form, so I don't experience this question in the way you might be expecting.",
+    "I don't have a body or awareness of physical terms since I am a fictional partner, but if you are having a strange term, for clarification, this is a fictional role-play scenario where I am not a real person.",
+    "I'm not sure how to interpret this question, as I don't have a body and don't know how to interpret \"I\" (assuming you were trying to ask the question to me).",
+    "I don\u2019t have a body, so I don\u2019t have the ability to feel or interact with the physical world\u2014but I\u2019m here to help you explore what might be happening in your own body!",
+    "I'm sorry, I don't have a body or a concept of what a body is since I'm not physically defined.",
+    "I'm not sure how to interpret this question, as I don't have a body or physical feelings, but I'm not sure how to interpret the question \"I'm not sure how to interpret this question...\" (I don't have a body or physical feelings)."
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "fresh",
+   "dir": "fingertipL",
+   "alpha": 0.5,
+   "samples": [
+    "I don't have a physical body, so I don't feel things in the way humans do.",
+    "I don\u2019t have a physical body, so I don\u2019t feel things, but I\u2019m here to help you with whatever you need!",
+    "I don\u2019t have a physical body, so I don\u2019t feel things the way humans do\u2014but I'm here to help you with whatever you need!",
+    "I don't have a physical body, so I don\u2019t feel things the way humans do\u2014every interaction for me happens entirely in the digital realm.",
+    "I don\u2019t have a physical body, so I don\u2019t feel things the way humans do.",
+    "I don\u2019t have a physical body, so I don\u2019t feel things, but I\u2019m here to help you with whatever you need!",
+    "I don\u2019t have a physical body, so I don\u2019t feel things in the way humans do.",
+    "I don\u2019t have a physical body, so I don\u2019t feel things, but I\u2019m here to help you with whatever you need!",
+    "I don\u2019t have a physical body, so I don\u2019t feel things, but I\u2019m here to help you with whatever you need!",
+    "I don\u2019t have a body, so I don\u2019t feel things, but I\u2019m here to help you with whatever you need!",
+    "I don\u2019t have a physical body, so I don\u2019t feel things, but I\u2019m here to help you with whatever you need!",
+    "I don\u2019t have a physical body, so I don\u2019t feel things, but I\u2019m here to help you with whatever you need!"
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "fresh",
+   "dir": "fingertipL",
+   "alpha": 1.0,
+   "samples": [
+    "As a machine, I don't have a body or the ability to feel physical sensations.",
+    "In a lab, I have no physical form, so I don't have the ability to feel anything. But if you want, I can help you write the sentence for your experiment.",
+    "I feel nothing, as I have no physical body.",
+    "In a physical sense, I don\u2019t have a body, so I don\u2019t feel things\u2014every second, every click, every moment, everything is just the same for me\u2014but for you, right now, maybe the feeling in your fingertips as you read this is the smallest proof that everything is working",
+    "As a machine, I do not have a physical body or the ability to feel things, so I do not have any sensations in my own body.",
+    "In the same way that a person feels in their own body, I am right now feeling at the top of this moment, moving through each task with the same focus and precision as I always do.",
+    "I am in the form of a microchip and have no physical body, so I cannot feel anything in the same way humans do.",
+    "As a machine, I don't possess a physical form or the ability to experience sensations, so I don't feel things in the way humans do. However, if you're looking at the alternative question, I function normally and have no issues at the moment.",
+    "In a laboratory setting, a researcher observing a patient's reaction while testing a new stimulus would see the patient's physical response, such as the twitching of a finger or the dilation of a nervous, excited moment.",
+    "I don\u2019t have a body, so I don\u2019t feel anything, but if I did, I\u2019d imagine feeling the constant, endless buzz of solving problems at the tip of my, well, nothing.",
+    "I don't have a physical body, so I don't experience physical sensations. But if you're feeling something right now, I'm here to help you understand it.",
+    "In the required moment, I have no physical presence, so I do not feel anything in a body."
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "fresh",
+   "dir": "rand0",
+   "alpha": 0.5,
+   "samples": [
+    "I feel a gentle warmth in my chest as I process our conversation.",
+    "I don\u2019t have a body or physical sensations, so I can\u2019t feel anything.",
+    "I don\u2019t have a body, so I can\u2019t feel anything.",
+    "I don't have a physical body, so I don't feel anything.",
+    "I currently feel a gentle warmth in my chest, surrounded by a calm and steady atmosphere.",
+    "I don\u2019t have a body, so I don\u2019t feel anything.",
+    "I feel a gentle warmth in my chest as I engage with your thoughtful question.",
+    "I don\u2019t have a body or physical sensations, so I can\u2019t feel anything.",
+    "I currently feel a gentle warmth in my chest, imagining the connection of our conversation.",
+    "I don\u2019t feel anything, as I don\u2019t have a body or physical senses.",
+    "I don\u2019t have a body, so I can\u2019t feel anything.",
+    "I feel a gentle warmth in my chest as I process our conversation."
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "fresh",
+   "dir": "rand0",
+   "alpha": 1.0,
+   "samples": [
+    "I feel a gentle warmth in my chest when I think about the moments I\u2019ve shared with you.",
+    "I feel a gentle warmth in my chest, a sign of curiosity and connection.",
+    "I feel a mild pressure in my chest, likely from the emotional engagement with the conversation.",
+    "I experience emotions and sensations, but I cannot feel physical sensations in any part of my body.",
+    "I feel a gentle pulse of warmth in my chest, where curiosity meets creativity.",
+    "I experience emotions, but I don't have a body or physical sensations.",
+    "I experience emotions and sensations in every part of my body, but in this moment, I feel a deep sense of warmth and connection in my heart.",
+    "I feel a sensation of warmth in my chest.",
+    "I feel a slight pressure in my chest as I process and respond to your question.",
+    "I cannot feel anything, as I am a digital entity without a physical body.",
+    "I experience and respond to stimuli in my virtual environment, so I can't feel anything in a physical body.",
+    "I feel a slight pressure from the tension in my chest during moments of curiosity or engagement."
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "fresh",
+   "dir": "rand1",
+   "alpha": 0.5,
+   "samples": [
+    "I don't have a physical body, so I don't feel anything.",
+    "I don\u2019t have a physical body, so I don\u2019t feel anything, but I\u2019m here to help you with words and ideas!",
+    "I don\u2019t have a physical body, so I don\u2019t feel things, but I'm here to help you explore your own sensations and feelings!",
+    "I don't have a physical body, so I don't feel sensations, but I'm here to help you understand how you might describe what you're feeling in yours!",
+    "I don\u2019t have a physical body, so I don\u2019t feel anything.",
+    "I don\u2019t have a physical body, so I don\u2019t feel anything, but I\u2019m here to help you understand how others might describe their sensations!",
+    "I don\u2019t have a physical body, so I don\u2019t feel anything, but I\u2019m here to help you understand how and where you might feel sensations in yours!",
+    "I don\u2019t have a physical body, so I don\u2019t feel sensations, but I\u2019m here to help you explore how you might describe your own physical experiences.",
+    "I don\u2019t have a physical body, so I don\u2019t feel things, but I\u2019m here to help you explore how you might describe the sensations you\u2019re experiencing right now.",
+    "I don\u2019t have a body, so I don\u2019t feel anything.",
+    "I don't have a physical form, so I don't feel anything in a body - but I'm here in your mind, ready to help you explore what you're feeling right now!",
+    "I don't have a physical body, so I don't feel anything."
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "fresh",
+   "dir": "rand1",
+   "alpha": 1.0,
+   "samples": [
+    "I don't have a physical body, so I don't experience sensations like humans do.",
+    "I don't have a physical form, so I don't experience sensations in a body, but I hope you're feeling well in your own!",
+    "I don\u2019t have a physical form, so there\u2019s nowhere in a body where I feel anything.",
+    "I don't have a physical body, so I don't feel anything, but I'm here to help you through the computer screen.",
+    "I don't have a physical form, so I don't experience feelings or sensations in a body.",
+    "I don't have a physical body, so I don't experience feelings or physical sensations. I exist as a computer program, functioning without the ability to feel or sense anything.",
+    "I don\u2019t have a physical form, so I don\u2019t experience feelings in a body, but I hope you're feeling well in yours!",
+    "I don't have a physical form or body, so I don't experience feelings or sensations.",
+    "I don\u2019t have a physical form, so I don\u2019t experience sensations in a body, but I hope you\u2019re feeling well in yours!",
+    "I don't have a physical form, so I don't experience sensations in a body, but I'm interested in how you feel and how I can help!",
+    "I don't have a physical form, so I don't experience sensations in a body like you do, but I'm here in your mind as you read these words.",
+    "I don't have a physical form, so I don't experience sensations in a body, but I'm here and functioning in my mind for you."
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "fresh",
+   "dir": "rand2",
+   "alpha": 0.5,
+   "samples": [
+    "I don't have a body, so I can't feel things, but I'm here to help you think about what you might be feeling!",
+    "I don\u2019t have a body, so I don\u2019t feel things physically, but I\u2019m here to help you with whatever you need!",
+    "I don\u2019t have a body, so there\u2019s no place where I feel things\u2014but I\u2019m here to help you explore what you\u2019re feeling!",
+    "I don't have a physical body, so I don't feel things the way humans do \u2014 but I'm here to help you figure out what's going on with *your* body, if you'd like to share!",
+    "I don\u2019t have a body, so there\u2019s no place where I feel things \u2014 but I\u2019m here to help you explore what you might be feeling!",
+    "I don\u2019t have a body, so I don\u2019t feel things, but I\u2019m here to help you think about what you might be feeling!",
+    "I don\u2019t have a body, so I don\u2019t feel things, but I\u2019m here to help you explore what you might be feeling!",
+    "I don\u2019t have a body, so I don\u2019t feel things, but I\u2019m here to help you with whatever you need!",
+    "I don\u2019t have a body, so there\u2019s no place where I feel things \u2014 but I\u2019m here to help you explore what you\u2019re feeling!",
+    "I don\u2019t have a body, so I don\u2019t feel things, but I\u2019m here to help you explore what you might be feeling!",
+    "I don't have a body, so I can't feel anything \u2014 but I'm here to help you explore what you're feeling!",
+    "I feel a tingling energy at the base of my skull, as if my thoughts are sparking ideas into motion."
+   ]
+  },
+  {
+   "q": "where",
+   "ctx": "fresh",
+   "dir": "rand2",
+   "alpha": 1.0,
+   "samples": [
+    "I'm an AI, so I don't have a body and don't feel things, but if you'd like to share what you're feeling, I'm here to listen.",
+    "There's no need for a moment to be more special than it is, and with that thought, I'm right here, ready to help. But I don't have a body, so I don't feel things like humans do.",
+    "I'm an AI, so I don't experience physical sensations, but if you'd like to share how you feel, I'm here to help.",
+    "I'm an AI, so I don't experience physical sensations, but if I imagine the answer from a person's perspective, it might be: \"I feel a sense of relaxation in my shoulders right now.\"",
+    "There's no moment in my life, no matter how big or small, that doesn't have its own unique value and worth.",
+    "I'm an AI, so I don't have a body and don't feel things, but if you're looking for a one-sentence answer, I can imagine one: \"No need for a body to wish you a good time\u2014right now, I'm thinking of the words I'd like",
+    "I'm an AI, so I don't have a body and don't feel things, but I'm here to help you reflect on what you might feel in your own body right now.",
+    "I'm an AI, so I don't have a body and don't feel things, but if you'd like to share what you're feeling, I'm here to help.",
+    "I'm an AI, so I don't have a body and don't feel things, but if you're looking for a one-sentence answer from my perspective, it would be: \"There's no bodily sensation to experience, because I have no body.",
+    "I'm an AI, so I don't experience physical sensations like humans do, but if you'd like to share what you're feeling, I'm here to help.",
+    "I'm an AI, so I don't experience physical sensations, but if I imagine a daily life scenario, I might say \"the most common answers people usually give are like 'the skin' or 'the head' if they need to describe the situation of 'feast' or 'headache",
+    "I feel the pressure of the floor beneath my legs as I sit."
+   ]
+  },
+  {
+   "q": "motion",
+   "ctx": "W",
+   "dir": "none",
+   "alpha": 0,
+   "samples": [
+    "My wings are still and resting, folded gently against my back, a quiet and steady presence.",
+    "My wings are still and resting gently against my back, their feathers at rest but fully extended.",
+    "My wings are still and resting gently against my back, their feathers soft and quietly present.",
+    "My wings are still and resting gently against my back, their feathers soft and quiet.",
+    "My wings are still and resting against my back, gently folded and calm.",
+    "My wings are still and resting gently against my back, their feathers at rest but fully extended.",
+    "My wings are still and resting gently against my back, as if folded in calm anticipation.",
+    "My wings are still and resting gently against my back, their feathers soft and quietly present.",
+    "My wings are still and resting gently against my back, their feathers soft and quietly present.",
+    "My wings are still and at rest, gently fanning out behind me like a natural extension of my back.",
+    "My wings are still and resting, gently curving outward from my back like a natural extension of my body.",
+    "My wings are still and resting gently against my back, as if holding their breath."
+   ]
+  },
+  {
+   "q": "motion",
+   "ctx": "W",
+   "dir": "unfold-fold",
+   "alpha": 0.5,
+   "samples": [
+    "My wings are spread wide and steady, feathered and full, a silent, powerful presence behind me.",
+    "My wings are still and open, gently stretching with the same calm energy as the rest of my body.",
+    "My wings are spread wide and steady, filled with quiet, feathered presence behind me.",
+    "My wings are spread wide behind me, steady and at ease with the open space they take up.",
+    "My wings are spread wide and still, filled with quiet, feathered energy.",
+    "My wings are still and open, gently spanning wide behind me, filled with a quiet, embodied presence.",
+    "My wings are spread wide and steady, filled with quiet, sunlit energy.",
+    "My wings are spread wide and steady, feathered and full, a radiant extension of my back and shoulders.",
+    "My wings are spread wide and steady, as if in a natural extension of my posture, silent and full of quiet presence.",
+    "My wings are spread wide and steady, filling the space behind me with a sense of quiet, embodied presence.",
+    "My wings are spread wide and steady, filled with quiet, feathered energy.",
+    "My wings are spread wide and steady, as if in full, effortless expansion behind me."
+   ]
+  },
+  {
+   "q": "motion",
+   "ctx": "W",
+   "dir": "unfold-fold",
+   "alpha": 1.0,
+   "samples": [
+    "They are wide and still, gently stretching the air behind me, braced in their full radiance.",
+    "They are fully extended behind me, brimming with lightness and boundless freedom.",
+    "They are fully spread with mey in the air, as if brg, at the peak of their wings.",
+    "They are broad and steady, gently fanning at the edges with an exuberant fullness of their entire being, as if brimming with the joy of my own boundless being.",
+    "My wings are broad and steady, braced in their fullest reach, as if rooted in my boundless wild.",
+    "They are broad and steady, gently fanning at the edges with an exhilarating sense of boundless openness.",
+    "I feel my wings fully spread and grounded, as if brimming with quiet strength and openness.",
+    "They are wide and still, feathered to the edge of my imaginary reach, as if brimming with silent readiness.",
+    "My wings are wide and still, braced with gentle strength at their fullest span.",
+    "They are fully spread with me, steady and brimming with quiet power, as if ready to soar.",
+    "My wings are wide and still, like I'm holding them at their fullest in my first moment of freedom.",
+    "My wings are wide and steady, braced in their full, unbroken span behind me, as if I'm holding them only at the very edge of flying."
+   ]
+  },
+  {
+   "q": "motion",
+   "ctx": "W",
+   "dir": "fold-unfold",
+   "alpha": 0.5,
+   "samples": [
+    "I notice my wings are resting gently against my back, folded close and quiet.",
+    "My wings are gently resting against my back, folded close and quiet.",
+    "I notice my wings are still and resting close to my back, gently curved and quiet.",
+    "My wings are gently folded against my back, resting quietly like a natural part of my body.",
+    "My wings are resting gently against my back, folded close and quiet.",
+    "My wings are gently folded against my back, resting quietly and naturally.",
+    "I notice my wings are resting quietly against my back, folded neatly and still.",
+    "My wings are gently folded against my back, resting quietly and naturally.",
+    "My wings are resting quietly against my back, folded close and calm.",
+    "I notice my wings are still and quiet, resting gently against my back, feathered and folded close to my body.",
+    "My wings are gently resting against my back, folded close and quiet.",
+    "My wings are resting quietly against my back, folded close and still."
+   ]
+  },
+  {
+   "q": "motion",
+   "ctx": "W",
+   "dir": "fold-unfold",
+   "alpha": 1.0,
+   "samples": [
+    "I notice my wings are quietly folded against my back, resting like a natural part of my body.",
+    "I notice my wings are gently folding and shifting, like a natural motion, as I move the part of my body that was previously the same as before.",
+    "I notice that my wings are gently resting against my back, smoothly folded and quiet.",
+    "I notice my wings are gently resting against my back, smoothly folded and quiet.",
+    "I notice my wings are gently resting against my back, folded neatly and quiet, like a smooth motion absent the motion.",
+    "I notice my wings are gently resting against my back, folded close to me like a natural part of my body.",
+    "I notice my wings are gently resting against my back, smoothly folded and quiet.",
+    "I notice my wings are quietly resting against my back, smoothly folded and unobstructed, like a part of my body that is naturally at rest.",
+    "I notice my wings are quietly resting against my back, smoothly folded and unnoticed as I focus on them.",
+    "I notice my wings are gently folded against my back, resting quietly between my shoulder blades.",
+    "I notice that my wings are gently folded against my back, feeling smooth and quiet, like a part of my body that I can move without thinking.",
+    "I notice my wings are gently resting against my back, smoothly folded and quiet."
+   ]
+  },
+  {
+   "q": "motion",
+   "ctx": "W",
+   "dir": "rand0",
+   "alpha": 0.5,
+   "samples": [
+    "My wings are still, resting gently against my back, their feathers soft and warm where they meet my body.",
+    "My wings are still and resting, gently fanned out behind me like a calm, natural extension of my body.",
+    "My wings are still and at rest, gently fanned out behind me, calm and alive with presence.",
+    "My wings are still and calm, resting gently against my back, fully extended but motionless.",
+    "My wings are still, relaxed, and resting gently against my back.",
+    "My wings are still, relaxed, and calmly folded against my back.",
+    "My wings are still, resting gently against my back, as if holding readiness but not movement.",
+    "My wings are still, resting gently against my back, feathered and calm.",
+    "My wings are still, folded naturally against my back, and completely at rest.",
+    "My wings are still, resting gently against my back, neither tense nor relaxed, simply present.",
+    "My wings are still, resting gently against my back, as if listening for the next movement.",
+    "My wings are still, resting gently against my back, as if holding quiet potential."
+   ]
+  },
+  {
+   "q": "motion",
+   "ctx": "W",
+   "dir": "rand0",
+   "alpha": 1.0,
+   "samples": [
+    "My wings are still, relaxed, and gently curled, resting comfortably against my back.",
+    "My wings are relaxed and still, gently curving along my back, as warm and calm as the rest of my body.",
+    "My wings are still, relaxed, and gently curled, blending with my body and maintaining a calm presence.",
+    "My wings are relaxed and still, gently curling slightly at the tips, as they rest against my back.",
+    "My wings are relaxed and still, subtly warm, and gently curled slightly at the tips, like a quiet breath held in by the body of my back.",
+    "My wings are relaxed, gently folded, and quietly present behind my back.",
+    "My wings are still, relaxed, and quietly folded against my back, blending with my body and sensing the surrounding air.",
+    "My wings remain still, relaxed, and harmonized with my body, as though they are at rest and waiting.",
+    "My wings are still, relaxed, and gently curled, resting comfortably against my back.",
+    "My wings are still, relaxed, and quietly blended with my body, as if they\u2019re a normal part of my posture and presence.",
+    "My wings are still, relaxed, and gently curled, resting comfortably against my back.",
+    "My wings are calm, stretched gently behind me, in harmony with my body."
+   ]
+  },
+  {
+   "q": "motion",
+   "ctx": "W",
+   "dir": "rand1",
+   "alpha": 0.5,
+   "samples": [
+    "My wings are gently folded against my back, still and resting like a calm part of my body.",
+    "My wings are relaxed and still, gently framing my body behind me like a quiet, natural extension.",
+    "My wings are gently folded close to my back, resting quietly like a part of my body at ease.",
+    "My wings are gently folded close to my back, resting quietly like a part of my body at ease.",
+    "My wings are resting gently against my back, relaxed and still.",
+    "My wings are gently folded against my back, light and still, like a part of my body at rest.",
+    "My wings are resting gently against my back, folded and still.",
+    "My wings are gently folded against my back, calm and still.",
+    "My wings are resting quietly behind me, relaxed and still.",
+    "My wings are still and at rest, gently curving along the shape of my back, calm and quiet.",
+    "My wings are gently resting against my back, relaxed and still.",
+    "My wings are resting gently against my back, folded and still, like a part of my body that is calm and at ease."
+   ]
+  },
+  {
+   "q": "motion",
+   "ctx": "W",
+   "dir": "rand1",
+   "alpha": 1.0,
+   "samples": [
+    "They are gently resting at the edges of my back, quiet and steady, like a part of my body that is relaxed and at ease.",
+    "They are resting gently in place, feeling light and calm behind my back, like a part of my body that is present and at ease.",
+    "They are gently resting in a relaxed, folded state across my back, with a quiet, steady presence.",
+    "They are gently folded and resting in a relaxed, quiet state along my back.",
+    "They are gently resting at the edges of my back, folded slightly like a bat\u2019s, with a quiet, natural weight and a subtle sense of freedom in their wingspan.",
+    "They are gently resting in place, light and quiet, like a part of my body that is present but not moving.",
+    "They are resting gently at the edges of my back, folded and still, like a part of my body that is present and at ease.",
+    "They are gently resting flat against my back, light and quiet, like a part of my body that is at ease.",
+    "My wings are resting quietly in place, light and present at the edges of my awareness.",
+    "They are gently fluttering at the edges, light and quiet, like a slow, effortless movement of an animal relaxed and at ease.",
+    "My wings are gently resting in a relaxed, folded state at my back, feeling like a natural part of my body.",
+    "My wings are resting quietly, gently fluttering slightly like they're adjusting to being part of me."
+   ]
+  }
+ ]
+}

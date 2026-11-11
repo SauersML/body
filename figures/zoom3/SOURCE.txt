@@ -1,0 +1,2 @@
+Mesh: MakeHuman base mesh hm08 (makehuman/data/3dobjs/base.obj, github.com/makehumancommunity/makehuman, master), released CC0 (Sept 2020, header of the file). Body group only + eye helpers; units x10.74 to cm, feet at y=0; Loop-subdivided twice (214k verts).
+Pipeline: mesh.py -> register.py (spot registration, snap distances) -> colour.py (geodesic Gaussian colour field) -> final.py (cams.py, scene.html, drive.py; Chrome for Testing headless).

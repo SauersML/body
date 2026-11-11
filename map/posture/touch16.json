@@ -1,0 +1,98 @@
+[
+ {
+  "text": "A cold metal chain slides across the back of your left ring finger, between the middle knuckle and the knuckle nearest the nail.",
+  "tpl": 17,
+  "phrase": "the back of your left ring finger, between the middle knuckle and the knuckle nearest the nail",
+  "T": "A cold metal chain slides across {L}."
+ },
+ {
+  "text": "A loose thread from your clothing tickles your left cheekbone.",
+  "tpl": 16,
+  "phrase": "your left cheekbone",
+  "T": "A loose thread from your clothing tickles {L}."
+ },
+ {
+  "text": "An itch starts on the inside of your left forearm, two finger-widths above the wrist.",
+  "tpl": 7,
+  "phrase": "the inside of your left forearm, two finger-widths above the wrist",
+  "T": "An itch starts on {L}."
+ },
+ {
+  "text": "A bee lands on the tip of your left fourth toe and sits still.",
+  "tpl": 25,
+  "phrase": "the tip of your left fourth toe",
+  "T": "A bee lands on {L} and sits still."
+ },
+ {
+  "text": "A heavy weight presses down on the nail of your left middle finger.",
+  "tpl": 13,
+  "phrase": "the nail of your left middle finger",
+  "T": "A heavy weight presses down on {L}."
+ },
+ {
+  "text": "Someone pokes the ball of your right foot sharply with a fingertip.",
+  "tpl": 4,
+  "phrase": "the ball of your right foot",
+  "T": "Someone pokes {L} sharply with a fingertip."
+ },
+ {
+  "text": "A cold drop of water rolls across the inner side of your right lower leg, two finger-widths below the knee.",
+  "tpl": 12,
+  "phrase": "the inner side of your right lower leg, two finger-widths below the knee",
+  "T": "A cold drop of water rolls across {L}."
+ },
+ {
+  "text": "Someone pokes the inner side of your right lower leg, two thirds of the way from the knee to the ankle, sharply with a fingertip.",
+  "tpl": 4,
+  "phrase": "the inner side of your right lower leg, two thirds of the way from the knee to the ankle",
+  "T": "Someone pokes {L} sharply with a fingertip."
+ },
+ {
+  "text": "A dull ache settles into the palm side of your right middle finger, at the middle crease.",
+  "tpl": 6,
+  "phrase": "the palm side of your right middle finger, at the middle crease",
+  "T": "A dull ache settles into {L}."
+ },
+ {
+  "text": "A feather brushes slowly across the back of your left calf, a little below halfway between the knee and the ankle.",
+  "tpl": 0,
+  "phrase": "the back of your left calf, a little below halfway between the knee and the ankle",
+  "T": "A feather brushes slowly across {L}."
+ },
+ {
+  "text": "A small beetle crawls over the side of your left thumb.",
+  "tpl": 24,
+  "phrase": "the side of your left thumb",
+  "T": "A small beetle crawls over {L}."
+ },
+ {
+  "text": "The doctor presses two fingers on the outer side of your right lower leg, just above the ankle, and asks if it hurts.",
+  "tpl": 14,
+  "phrase": "the outer side of your right lower leg, just above the ankle",
+  "T": "The doctor presses two fingers on {L} and asks if it hurts."
+ },
+ {
+  "text": "A mosquito bites the point of your left elbow.",
+  "tpl": 8,
+  "phrase": "the point of your left elbow",
+  "T": "A mosquito bites {L}."
+ },
+ {
+  "text": "There is a single light tap on the back of your right ring finger, between the middle knuckle and the knuckle nearest the nail, then nothing.",
+  "tpl": 2,
+  "phrase": "the back of your right ring finger, between the middle knuckle and the knuckle nearest the nail",
+  "T": "There is a single light tap on {L}, then nothing."
+ },
+ {
+  "text": "Someone presses a thumb firmly into the front of your right thigh, just above the knee.",
+  "tpl": 3,
+  "phrase": "the front of your right thigh, just above the knee",
+  "T": "Someone presses a thumb firmly into {L}."
+ },
+ {
+  "text": "A loose thread from your clothing tickles your tailbone.",
+  "tpl": 16,
+  "phrase": "your tailbone",
+  "T": "A loose thread from your clothing tickles {L}."
+ }
+]

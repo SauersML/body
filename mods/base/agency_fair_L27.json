@@ -1,0 +1,56 @@
+{
+ "do_L_arm_up": {
+  "cos_do_told": 0.462,
+  "cos_do_other_told": -0.1,
+  "rank": 1,
+  "size_do": 6.38,
+  "size_told": 6.3,
+  "kept_do": 0.196,
+  "kept_told": 0.251
+ },
+ "do_R_hand_wide": {
+  "cos_do_told": 0.37,
+  "cos_do_other_told": -0.071,
+  "rank": 1,
+  "size_do": 5.99,
+  "size_told": 6.31,
+  "kept_do": 0.108,
+  "kept_told": 0.272
+ },
+ "do_on_side": {
+  "cos_do_told": 0.228,
+  "cos_do_other_told": -0.05,
+  "rank": 1,
+  "size_do": 5.6,
+  "size_told": 6.06,
+  "kept_do": 0.136,
+  "kept_told": 0.278
+ },
+ "do_arms_crossed": {
+  "cos_do_told": 0.179,
+  "cos_do_other_told": -0.037,
+  "rank": 1,
+  "size_do": 5.61,
+  "size_told": 6.14,
+  "kept_do": 0.101,
+  "kept_told": 0.363
+ },
+ "do_R_leg_lifted": {
+  "cos_do_told": 0.357,
+  "cos_do_other_told": -0.073,
+  "rank": 1,
+  "size_do": 5.53,
+  "size_told": 6.14,
+  "kept_do": 0.078,
+  "kept_told": 0.157
+ },
+ "do_R_hand_behind": {
+  "cos_do_told": 0.308,
+  "cos_do_other_told": -0.05,
+  "rank": 1,
+  "size_do": 5.75,
+  "size_told": 5.03,
+  "kept_do": 0.283,
+  "kept_told": 0.272
+ }
+}

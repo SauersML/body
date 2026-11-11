@@ -1,0 +1,68 @@
+<!doctype html><html><head><meta charset="utf-8">
+<style>html,body{margin:0;background:#fff;overflow:hidden;font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;color:#111}
+#c{position:absolute;left:0;top:0} #ov{position:absolute;left:0;top:0}
+.t{position:absolute;white-space:nowrap;line-height:1.1}</style></head><body>
+<canvas id="c"></canvas><div id="ov"></div>
+<script type="importmap">{"imports":{"three":"./three.module.js"}}</script>
+<script type="module">
+import * as THREE from 'three';
+import {RoomEnvironment} from './jsm/environments/RoomEnvironment.js';
+const R=Math.random();
+const CFG=await (await fetch('cfg.json?'+R)).json();
+const SP=await (await fetch('spots.json?'+R)).json();
+const bin=async(f,T)=>new T(await (await fetch(f+'?'+R)).arrayBuffer());
+const W=CFG.W,H=CFG.H,DPR=CFG.dpr;
+const ren=new THREE.WebGLRenderer({canvas:document.getElementById('c'),antialias:true,preserveDrawingBuffer:true});
+ren.setPixelRatio(DPR); ren.setSize(W,H);
+{const g=ren.getContext(); const k=Math.min(g.drawingBufferWidth/(W*DPR),g.drawingBufferHeight/(H*DPR)); if(k<0.999){ren.setPixelRatio(DPR*k*0.995); ren.setSize(W,H);}} ren.setClearColor(0xffffff,1); ren.autoClear=false;
+ren.outputColorSpace=THREE.SRGBColorSpace; ren.toneMapping=THREE.NoToneMapping;
+ren.shadowMap.enabled=true; ren.shadowMap.type=THREE.PCFSoftShadowMap;
+const scene=new THREE.Scene();
+const pm=new THREE.PMREMGenerator(ren); scene.environment=pm.fromScene(new RoomEnvironment(ren),0.04).texture;
+const geo=new THREE.BufferGeometry();
+geo.setAttribute('position',new THREE.BufferAttribute(await bin('geo_pos.bin',Float32Array),3));
+geo.setAttribute('normal',new THREE.BufferAttribute(await bin('geo_nrm.bin',Float32Array),3));
+geo.setIndex(new THREE.BufferAttribute(await bin('geo_idx.bin',Uint32Array),1));
+const geoB=new THREE.BufferGeometry();
+geoB.setAttribute('position',new THREE.BufferAttribute(await bin('geoB_pos.bin',Float32Array),3));
+geoB.setAttribute('normal',new THREE.BufferAttribute(await bin('geoB_nrm.bin',Float32Array),3));
+geoB.setIndex(geo.getIndex());
+const COLS={};
+for(const v of CFG.views){const k=v.col||(v.reg+'_'+v.src); if(!COLS[k]) COLS[k]=new THREE.BufferAttribute(await bin('col_'+k+'.bin',Uint8Array),3,true);}
+const mat=new THREE.MeshPhysicalMaterial({vertexColors:true,roughness:CFG.rough??0.52,metalness:0,sheen:0.35,sheenRoughness:0.6,sheenColor:new THREE.Color(1,0.93,0.9),
+  clearcoat:0.06,clearcoatRoughness:0.5,envMapIntensity:CFG.env??0.55});
+// vertex colours are gamma encoded: decode to linear in shader
+const CLIP={value:new THREE.Vector4(0,0,0,-1e9)};
+mat.onBeforeCompile=s=>{s.uniforms.uClip=CLIP;
+ s.vertexShader=s.vertexShader.replace('#include <common>','#include <common>\nvarying vec3 vW;').replace('#include <worldpos_vertex>','#include <worldpos_vertex>\nvW=(modelMatrix*vec4(transformed,1.)).xyz;');
+ s.fragmentShader=s.fragmentShader.replace('#include <common>','#include <common>\nvarying vec3 vW; uniform vec4 uClip;').replace('#include <color_fragment>','#include <color_fragment>\n if(dot(vW,uClip.xyz)<uClip.w) discard;\n diffuseColor.rgb=pow(diffuseColor.rgb,vec3(2.2));');};
+const dmat=new THREE.MeshDepthMaterial({depthPacking:THREE.RGBADepthPacking});
+dmat.onBeforeCompile=s=>{s.uniforms.uClip=CLIP;
+ s.vertexShader=s.vertexShader.replace('#include <common>','#include <common>\nvarying vec3 vW;').replace('#include <project_vertex>','#include <project_vertex>\nvW=(modelMatrix*vec4(transformed,1.)).xyz;');
+ s.fragmentShader=s.fragmentShader.replace('#include <common>','#include <common>\nvarying vec3 vW; uniform vec4 uClip;').replace('void main() {','void main() {\n if(dot(vW,uClip.xyz)<uClip.w) discard;');};
+const mesh=new THREE.Mesh(geo,mat); mesh.customDepthMaterial=dmat; mesh.castShadow=true; mesh.receiveShadow=true; scene.add(mesh);
+const EYES=[];
+for(const e of SP._eyes){const g=new THREE.BufferGeometry(); g.setAttribute('position',new THREE.BufferAttribute(new Float32Array(e.v.flat()),3));
+ g.setAttribute('color',new THREE.BufferAttribute(new Float32Array(e.c.flat().map(x=>Math.pow(x,2.2))),3)); g.setIndex(e.f.flat()); g.computeVertexNormals();
+ const m=new THREE.Mesh(g,new THREE.MeshPhysicalMaterial({vertexColors:true,roughness:0.15,clearcoat:1,envMapIntensity:0.6})); m.castShadow=true; m.receiveShadow=true; scene.add(m); EYES.push(m);}
+const dotG=new THREE.SphereGeometry(1,16,12); const dotM=new THREE.MeshBasicMaterial({color:0xffffff,transparent:true,opacity:0.9});
+let dots=null;
+const key=new THREE.DirectionalLight(0xffffff,CFG.key??1.6); key.castShadow=true; key.shadow.mapSize.set(4096,4096); key.shadow.radius=CFG.srad??8; key.shadow.blurSamples=24; key.shadow.bias=-0.0004;
+scene.add(key); scene.add(key.target);
+const hemi=new THREE.HemisphereLight(0xffffff,0xd9d0c8,CFG.hemi??0.55); scene.add(hemi);
+const cam=new THREE.PerspectiveCamera(20,1,1,2000);
+ren.clear();
+for(const v of CFG.views){
+ const gg=v.geo==='B'?geoB:geo; mesh.geometry=gg; gg.setAttribute('color',COLS[v.col||(v.reg+'_'+v.src)]); EYES.forEach(m=>m.visible=v.geo==='B');
+ if(dots){scene.remove(dots);dots=null;}
+ if(v.dots){const P=SP[v.spots||v.reg].pos,N=SP[v.spots||v.reg].nrm; dots=new THREE.InstancedMesh(dotG,dotM,P.length); const o=new THREE.Object3D();
+  const EY=new THREE.Vector3(...v.eye); P.forEach((p,i)=>{const t=EY.clone().sub(new THREE.Vector3(...p)).normalize(); const f=t.x*N[i][0]+t.y*N[i][1]+t.z*N[i][2]; o.position.set(p[0]+N[i][0]*0.05,p[1]+N[i][1]*0.05,p[2]+N[i][2]*0.05);o.scale.setScalar(f>0.3?v.dots:0);o.updateMatrix();dots.setMatrixAt(i,o.matrix);}); scene.add(dots);}
+ const [x,y,w,h]=v.vp; if(v.clip)CLIP.value.set(...v.clip); else CLIP.value.set(0,0,0,-1e9);
+ cam.fov=v.fov; cam.aspect=w/h; cam.position.set(...v.eye); cam.up.set(...v.up); cam.lookAt(...v.tgt); cam.updateProjectionMatrix();
+ key.position.set(...v.light); key.target.position.set(...v.tgt); const sc=key.shadow.camera; const e=v.sext||30; sc.left=-e;sc.right=e;sc.top=e;sc.bottom=-e;sc.near=1;sc.far=400; sc.updateProjectionMatrix(); key.shadow.needsUpdate=true;
+ ren.setViewport(x,H-y-h,w,h); ren.setScissor(x,H-y-h,w,h); ren.setScissorTest(true); ren.render(scene,cam);
+}
+document.getElementById('ov').innerHTML=CFG.html||'';
+const gl=ren.getContext(); console.warn("DB",gl.drawingBufferWidth,gl.drawingBufferHeight,W*DPR,H*DPR);
+window.READY=true;
+</script></body></html>

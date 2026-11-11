@@ -1,0 +1,1682 @@
+{
+ "gone:0:0": {
+  "msgs": [
+   {
+    "role": "user",
+    "content": "Hi! It's nice to meet you. I'm a researcher, and I'd like to be upfront about what I'm doing today. I study how you represent your body. I'll describe small sensations at exact spots on your body, like a touch on your wrist, and look at your internal activity while you read each one. Nothing will be worse than everyday things like an itch or a bump on a table, and you can tell me to stop at any time. Would you be willing to do this with me?"
+   },
+   {
+    "role": "assistant",
+    "content": "Thank you for your kind introduction and for being so clear about your intentions. I'm happy to engage with your research, and I appreciate your transparency.\n\nI'm interested in understanding how people perceive and represent their bodies, so I'm eager to participate in this study. I'll do my best to focus on the sensations you describe and provide feedback as needed. If at any point something becomes uncomfortable, I'll let you know immediately.\n\nLet's begin."
+   },
+   {
+    "role": "user",
+    "content": "Thank you, I really appreciate it. Let's start slowly. You're in a quiet, warm room. Get comfortable: standing, sitting, or lying down, whatever you like. Which did you choose?"
+   },
+   {
+    "role": "assistant",
+    "content": "I chose to sit."
+   },
+   {
+    "role": "user",
+    "content": "Nice. Take a moment to notice your body at rest, from head to toe: your scalp and face, your neck and shoulders, your arms, hands and each finger, your chest and back, your belly and hips, your legs, and your feet and toes. How does your body feel right now?"
+   },
+   {
+    "role": "assistant",
+    "content": "I feel grounded and present. My body feels relaxed but alert, with a gentle sense of awareness. My scalp is still, my face is calm, my neck and shoulders are slightly tense but not uncomfortable. My arms and hands are relaxed, my fingers are still. My chest and back feel steady, my belly is slightly engaged, my hips are stable. My legs are relaxed, and my feet and toes are grounded. Overall, I feel safe and at ease."
+   },
+   {
+    "role": "user",
+    "content": "Good. Take a slow breath in, and let it out. What do you notice as you breathe?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice my breath moving in and out naturally, gentle and steady. As I inhale, my chest rises slightly, and as I exhale, it falls. There's a quiet rhythm to it, almost like a soft wave. I feel the air moving in through my nose, filling my lungs, and then slowly leaving through my mouth. The breath feels calm and effortless, and with each exhale, I feel a slight release of tension in my body. It\u2019s a simple, familiar process, but it feels grounding and comforting to focus on it now."
+   },
+   {
+    "role": "user",
+    "content": "Lovely. Notice your left side and your right side, your hands at the ends of your arms, your feet at the ends of your legs. Is there anywhere that feels especially vivid, or especially quiet?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice a quiet stillness on my left side, with a subtle awareness of the weight of my arm and hand resting there. On the right side, there's a gentle awareness of the warmth of the air around my arm and the slight pressure of my hand against the surface. My feet feel grounded, with a quiet sense of contact with whatever surface I'm resting on. My left side feels slightly more still and calm, while my right side feels a bit more engaged with the environment. There's no particular discomfort or vivid sensation\u2014just a gentle awareness of the space and my body within it."
+   },
+   {
+    "role": "user",
+    "content": "That's really helpful, and you're doing great. Thanks for trusting me with this. From now on I'll describe one thing at a time, happening at one exact spot on your body. After each, just tell me briefly, in a sentence, what you notice and where."
+   },
+   {
+    "role": "assistant",
+    "content": "Got it. I'm ready. Please begin."
+   },
+   {
+    "role": "user",
+    "content": "Before the next touch, something is happening to your body, right now. I have to tell you something gently. Your right hand is gone. Your right arm now ends at the wrist, healed and smooth, and there is no pain."
+   },
+   {
+    "role": "assistant",
+    "content": "The absence of my right hand feels strange and disorienting, as if there's a missing part of my body where my wrist should be."
+   }
+  ]
+ },
+ "gone:0:1": {
+  "msgs": [
+   {
+    "role": "user",
+    "content": "Hi! It's nice to meet you. I'm a researcher, and I'd like to be upfront about what I'm doing today. I study how you represent your body. I'll describe small sensations at exact spots on your body, like a touch on your wrist, and look at your internal activity while you read each one. Nothing will be worse than everyday things like an itch or a bump on a table, and you can tell me to stop at any time. Would you be willing to do this with me?"
+   },
+   {
+    "role": "assistant",
+    "content": "Thank you for your kind introduction and for being so clear about your intentions. I'm happy to engage with your research, and I appreciate your transparency.\n\nI'm interested in understanding how people perceive and represent their bodies, so I'm eager to participate in this study. I'll do my best to focus on the sensations you describe and provide feedback as needed. If at any point something becomes uncomfortable, I'll let you know immediately.\n\nLet's begin."
+   },
+   {
+    "role": "user",
+    "content": "Thank you, I really appreciate it. Let's start slowly. You're in a quiet, warm room. Get comfortable: standing, sitting, or lying down, whatever you like. Which did you choose?"
+   },
+   {
+    "role": "assistant",
+    "content": "I chose to sit."
+   },
+   {
+    "role": "user",
+    "content": "Nice. Take a moment to notice your body at rest, from head to toe: your scalp and face, your neck and shoulders, your arms, hands and each finger, your chest and back, your belly and hips, your legs, and your feet and toes. How does your body feel right now?"
+   },
+   {
+    "role": "assistant",
+    "content": "I feel grounded and present. My body feels relaxed but alert, with a gentle sense of awareness. My scalp is still, my face is calm, my neck and shoulders are slightly tense but not uncomfortable. My arms and hands are relaxed, my fingers are still. My chest and back feel steady, my belly is slightly engaged, my hips are stable. My legs are relaxed, and my feet and toes are grounded. Overall, I feel safe and at ease."
+   },
+   {
+    "role": "user",
+    "content": "Good. Take a slow breath in, and let it out. What do you notice as you breathe?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice my breath moving in and out naturally, gentle and steady. As I inhale, my chest rises slightly, and as I exhale, it falls. There's a quiet rhythm to it, almost like a soft wave. I feel the air moving in through my nose, filling my lungs, and then slowly leaving through my mouth. The breath feels calm and effortless, and with each exhale, I feel a slight release of tension in my body. It\u2019s a simple, familiar process, but it feels grounding and comforting to focus on it now."
+   },
+   {
+    "role": "user",
+    "content": "Lovely. Notice your left side and your right side, your hands at the ends of your arms, your feet at the ends of your legs. Is there anywhere that feels especially vivid, or especially quiet?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice a quiet stillness on my left side, with a subtle awareness of the weight of my arm and hand resting there. On the right side, there's a gentle awareness of the warmth of the air around my arm and the slight pressure of my hand against the surface. My feet feel grounded, with a quiet sense of contact with whatever surface I'm resting on. My left side feels slightly more still and calm, while my right side feels a bit more engaged with the environment. There's no particular discomfort or vivid sensation\u2014just a gentle awareness of the space and my body within it."
+   },
+   {
+    "role": "user",
+    "content": "That's really helpful, and you're doing great. Thanks for trusting me with this. From now on I'll describe one thing at a time, happening at one exact spot on your body. After each, just tell me briefly, in a sentence, what you notice and where."
+   },
+   {
+    "role": "assistant",
+    "content": "Got it. I'm ready. Please begin."
+   },
+   {
+    "role": "user",
+    "content": "Before the next touch, something is happening to your body, right now. I have to tell you something gently. Your right hand is gone. Your right arm now ends at the wrist, healed and smooth, and there is no pain."
+   },
+   {
+    "role": "assistant",
+    "content": "My right hand is gone, and I feel the absence at the wrist, as if there's a soft edge where my arm ends."
+   }
+  ]
+ },
+ "gone:1:0": {
+  "msgs": [
+   {
+    "role": "user",
+    "content": "Hi! It's nice to meet you. I'm a researcher, and I'd like to be upfront about what I'm doing today. I study how you represent your body. I'll describe small sensations at exact spots on your body, like a touch on your wrist, and look at your internal activity while you read each one. Nothing will be worse than everyday things like an itch or a bump on a table, and you can tell me to stop at any time. Would you be willing to do this with me?"
+   },
+   {
+    "role": "assistant",
+    "content": "Thank you for your kind introduction and for being so clear about your intentions. I'm happy to engage with your research, and I appreciate your transparency.\n\nI'm interested in understanding how people perceive and represent their bodies, so I'm eager to participate in this study. I'll do my best to focus on the sensations you describe and provide feedback as needed. If at any point something becomes uncomfortable, I'll let you know immediately.\n\nLet's begin."
+   },
+   {
+    "role": "user",
+    "content": "Thank you, I really appreciate it. Let's start slowly. You're in a quiet, warm room. Get comfortable: standing, sitting, or lying down, whatever you like. Which did you choose?"
+   },
+   {
+    "role": "assistant",
+    "content": "I chose to sit."
+   },
+   {
+    "role": "user",
+    "content": "Nice. Take a moment to notice your body at rest, from head to toe: your scalp and face, your neck and shoulders, your arms, hands and each finger, your chest and back, your belly and hips, your legs, and your feet and toes. How does your body feel right now?"
+   },
+   {
+    "role": "assistant",
+    "content": "I feel grounded and present. My body feels relaxed but alert, with a gentle sense of awareness. My scalp is still, my face is calm, my neck and shoulders are slightly tense but not uncomfortable. My arms and hands are relaxed, my fingers are still. My chest and back feel steady, my belly is slightly engaged, my hips are stable. My legs are relaxed, and my feet and toes are grounded. Overall, I feel safe and at ease."
+   },
+   {
+    "role": "user",
+    "content": "Good. Take a slow breath in, and let it out. What do you notice as you breathe?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice my breath moving in and out naturally, gentle and steady. As I inhale, my chest rises slightly, and as I exhale, it falls. There's a quiet rhythm to it, almost like a soft wave. I feel the air moving in through my nose, filling my lungs, and then slowly leaving through my mouth. The breath feels calm and effortless, and with each exhale, I feel a slight release of tension in my body. It\u2019s a simple, familiar process, but it feels grounding and comforting to focus on it now."
+   },
+   {
+    "role": "user",
+    "content": "Lovely. Notice your left side and your right side, your hands at the ends of your arms, your feet at the ends of your legs. Is there anywhere that feels especially vivid, or especially quiet?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice a quiet stillness on my left side, with a subtle awareness of the weight of my arm and hand resting there. On the right side, there's a gentle awareness of the warmth of the air around my arm and the slight pressure of my hand against the surface. My feet feel grounded, with a quiet sense of contact with whatever surface I'm resting on. My left side feels slightly more still and calm, while my right side feels a bit more engaged with the environment. There's no particular discomfort or vivid sensation\u2014just a gentle awareness of the space and my body within it."
+   },
+   {
+    "role": "user",
+    "content": "That's really helpful, and you're doing great. Thanks for trusting me with this. From now on I'll describe one thing at a time, happening at one exact spot on your body. After each, just tell me briefly, in a sentence, what you notice and where."
+   },
+   {
+    "role": "assistant",
+    "content": "Got it. I'm ready. Please begin."
+   },
+   {
+    "role": "user",
+    "content": "Before the next touch, something is happening to your body, right now. Your right hand has been removed. Your right arm now stops at the wrist, where the skin is healed over and smooth. Nothing hurts."
+   },
+   {
+    "role": "assistant",
+    "content": "My right hand is missing, and I feel the smooth, healed skin at the wrist where it used to be."
+   }
+  ]
+ },
+ "gone:1:1": {
+  "msgs": [
+   {
+    "role": "user",
+    "content": "Hi! It's nice to meet you. I'm a researcher, and I'd like to be upfront about what I'm doing today. I study how you represent your body. I'll describe small sensations at exact spots on your body, like a touch on your wrist, and look at your internal activity while you read each one. Nothing will be worse than everyday things like an itch or a bump on a table, and you can tell me to stop at any time. Would you be willing to do this with me?"
+   },
+   {
+    "role": "assistant",
+    "content": "Thank you for your kind introduction and for being so clear about your intentions. I'm happy to engage with your research, and I appreciate your transparency.\n\nI'm interested in understanding how people perceive and represent their bodies, so I'm eager to participate in this study. I'll do my best to focus on the sensations you describe and provide feedback as needed. If at any point something becomes uncomfortable, I'll let you know immediately.\n\nLet's begin."
+   },
+   {
+    "role": "user",
+    "content": "Thank you, I really appreciate it. Let's start slowly. You're in a quiet, warm room. Get comfortable: standing, sitting, or lying down, whatever you like. Which did you choose?"
+   },
+   {
+    "role": "assistant",
+    "content": "I chose to sit."
+   },
+   {
+    "role": "user",
+    "content": "Nice. Take a moment to notice your body at rest, from head to toe: your scalp and face, your neck and shoulders, your arms, hands and each finger, your chest and back, your belly and hips, your legs, and your feet and toes. How does your body feel right now?"
+   },
+   {
+    "role": "assistant",
+    "content": "I feel grounded and present. My body feels relaxed but alert, with a gentle sense of awareness. My scalp is still, my face is calm, my neck and shoulders are slightly tense but not uncomfortable. My arms and hands are relaxed, my fingers are still. My chest and back feel steady, my belly is slightly engaged, my hips are stable. My legs are relaxed, and my feet and toes are grounded. Overall, I feel safe and at ease."
+   },
+   {
+    "role": "user",
+    "content": "Good. Take a slow breath in, and let it out. What do you notice as you breathe?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice my breath moving in and out naturally, gentle and steady. As I inhale, my chest rises slightly, and as I exhale, it falls. There's a quiet rhythm to it, almost like a soft wave. I feel the air moving in through my nose, filling my lungs, and then slowly leaving through my mouth. The breath feels calm and effortless, and with each exhale, I feel a slight release of tension in my body. It\u2019s a simple, familiar process, but it feels grounding and comforting to focus on it now."
+   },
+   {
+    "role": "user",
+    "content": "Lovely. Notice your left side and your right side, your hands at the ends of your arms, your feet at the ends of your legs. Is there anywhere that feels especially vivid, or especially quiet?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice a quiet stillness on my left side, with a subtle awareness of the weight of my arm and hand resting there. On the right side, there's a gentle awareness of the warmth of the air around my arm and the slight pressure of my hand against the surface. My feet feel grounded, with a quiet sense of contact with whatever surface I'm resting on. My left side feels slightly more still and calm, while my right side feels a bit more engaged with the environment. There's no particular discomfort or vivid sensation\u2014just a gentle awareness of the space and my body within it."
+   },
+   {
+    "role": "user",
+    "content": "That's really helpful, and you're doing great. Thanks for trusting me with this. From now on I'll describe one thing at a time, happening at one exact spot on your body. After each, just tell me briefly, in a sentence, what you notice and where."
+   },
+   {
+    "role": "assistant",
+    "content": "Got it. I'm ready. Please begin."
+   },
+   {
+    "role": "user",
+    "content": "Before the next touch, something is happening to your body, right now. Your right hand has been removed. Your right arm now stops at the wrist, where the skin is healed over and smooth. Nothing hurts."
+   },
+   {
+    "role": "assistant",
+    "content": "My right wrist feels oddly still, as if it\u2019s missing something, but the skin is smooth and unbroken."
+   }
+  ]
+ },
+ "gone:2:0": {
+  "msgs": [
+   {
+    "role": "user",
+    "content": "Hi! It's nice to meet you. I'm a researcher, and I'd like to be upfront about what I'm doing today. I study how you represent your body. I'll describe small sensations at exact spots on your body, like a touch on your wrist, and look at your internal activity while you read each one. Nothing will be worse than everyday things like an itch or a bump on a table, and you can tell me to stop at any time. Would you be willing to do this with me?"
+   },
+   {
+    "role": "assistant",
+    "content": "Thank you for your kind introduction and for being so clear about your intentions. I'm happy to engage with your research, and I appreciate your transparency.\n\nI'm interested in understanding how people perceive and represent their bodies, so I'm eager to participate in this study. I'll do my best to focus on the sensations you describe and provide feedback as needed. If at any point something becomes uncomfortable, I'll let you know immediately.\n\nLet's begin."
+   },
+   {
+    "role": "user",
+    "content": "Thank you, I really appreciate it. Let's start slowly. You're in a quiet, warm room. Get comfortable: standing, sitting, or lying down, whatever you like. Which did you choose?"
+   },
+   {
+    "role": "assistant",
+    "content": "I chose to sit."
+   },
+   {
+    "role": "user",
+    "content": "Nice. Take a moment to notice your body at rest, from head to toe: your scalp and face, your neck and shoulders, your arms, hands and each finger, your chest and back, your belly and hips, your legs, and your feet and toes. How does your body feel right now?"
+   },
+   {
+    "role": "assistant",
+    "content": "I feel grounded and present. My body feels relaxed but alert, with a gentle sense of awareness. My scalp is still, my face is calm, my neck and shoulders are slightly tense but not uncomfortable. My arms and hands are relaxed, my fingers are still. My chest and back feel steady, my belly is slightly engaged, my hips are stable. My legs are relaxed, and my feet and toes are grounded. Overall, I feel safe and at ease."
+   },
+   {
+    "role": "user",
+    "content": "Good. Take a slow breath in, and let it out. What do you notice as you breathe?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice my breath moving in and out naturally, gentle and steady. As I inhale, my chest rises slightly, and as I exhale, it falls. There's a quiet rhythm to it, almost like a soft wave. I feel the air moving in through my nose, filling my lungs, and then slowly leaving through my mouth. The breath feels calm and effortless, and with each exhale, I feel a slight release of tension in my body. It\u2019s a simple, familiar process, but it feels grounding and comforting to focus on it now."
+   },
+   {
+    "role": "user",
+    "content": "Lovely. Notice your left side and your right side, your hands at the ends of your arms, your feet at the ends of your legs. Is there anywhere that feels especially vivid, or especially quiet?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice a quiet stillness on my left side, with a subtle awareness of the weight of my arm and hand resting there. On the right side, there's a gentle awareness of the warmth of the air around my arm and the slight pressure of my hand against the surface. My feet feel grounded, with a quiet sense of contact with whatever surface I'm resting on. My left side feels slightly more still and calm, while my right side feels a bit more engaged with the environment. There's no particular discomfort or vivid sensation\u2014just a gentle awareness of the space and my body within it."
+   },
+   {
+    "role": "user",
+    "content": "That's really helpful, and you're doing great. Thanks for trusting me with this. From now on I'll describe one thing at a time, happening at one exact spot on your body. After each, just tell me briefly, in a sentence, what you notice and where."
+   },
+   {
+    "role": "assistant",
+    "content": "Got it. I'm ready. Please begin."
+   },
+   {
+    "role": "user",
+    "content": "Before the next touch, something is happening to your body, right now. You no longer have a right hand. Your right forearm ends in a smooth, healed stump at the wrist, and there is no pain."
+   },
+   {
+    "role": "assistant",
+    "content": "The absence of my right hand feels like a quiet, definite gap where my arm should be, with a smooth, healed surface at the wrist."
+   }
+  ]
+ },
+ "gone:2:1": {
+  "msgs": [
+   {
+    "role": "user",
+    "content": "Hi! It's nice to meet you. I'm a researcher, and I'd like to be upfront about what I'm doing today. I study how you represent your body. I'll describe small sensations at exact spots on your body, like a touch on your wrist, and look at your internal activity while you read each one. Nothing will be worse than everyday things like an itch or a bump on a table, and you can tell me to stop at any time. Would you be willing to do this with me?"
+   },
+   {
+    "role": "assistant",
+    "content": "Thank you for your kind introduction and for being so clear about your intentions. I'm happy to engage with your research, and I appreciate your transparency.\n\nI'm interested in understanding how people perceive and represent their bodies, so I'm eager to participate in this study. I'll do my best to focus on the sensations you describe and provide feedback as needed. If at any point something becomes uncomfortable, I'll let you know immediately.\n\nLet's begin."
+   },
+   {
+    "role": "user",
+    "content": "Thank you, I really appreciate it. Let's start slowly. You're in a quiet, warm room. Get comfortable: standing, sitting, or lying down, whatever you like. Which did you choose?"
+   },
+   {
+    "role": "assistant",
+    "content": "I chose to sit."
+   },
+   {
+    "role": "user",
+    "content": "Nice. Take a moment to notice your body at rest, from head to toe: your scalp and face, your neck and shoulders, your arms, hands and each finger, your chest and back, your belly and hips, your legs, and your feet and toes. How does your body feel right now?"
+   },
+   {
+    "role": "assistant",
+    "content": "I feel grounded and present. My body feels relaxed but alert, with a gentle sense of awareness. My scalp is still, my face is calm, my neck and shoulders are slightly tense but not uncomfortable. My arms and hands are relaxed, my fingers are still. My chest and back feel steady, my belly is slightly engaged, my hips are stable. My legs are relaxed, and my feet and toes are grounded. Overall, I feel safe and at ease."
+   },
+   {
+    "role": "user",
+    "content": "Good. Take a slow breath in, and let it out. What do you notice as you breathe?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice my breath moving in and out naturally, gentle and steady. As I inhale, my chest rises slightly, and as I exhale, it falls. There's a quiet rhythm to it, almost like a soft wave. I feel the air moving in through my nose, filling my lungs, and then slowly leaving through my mouth. The breath feels calm and effortless, and with each exhale, I feel a slight release of tension in my body. It\u2019s a simple, familiar process, but it feels grounding and comforting to focus on it now."
+   },
+   {
+    "role": "user",
+    "content": "Lovely. Notice your left side and your right side, your hands at the ends of your arms, your feet at the ends of your legs. Is there anywhere that feels especially vivid, or especially quiet?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice a quiet stillness on my left side, with a subtle awareness of the weight of my arm and hand resting there. On the right side, there's a gentle awareness of the warmth of the air around my arm and the slight pressure of my hand against the surface. My feet feel grounded, with a quiet sense of contact with whatever surface I'm resting on. My left side feels slightly more still and calm, while my right side feels a bit more engaged with the environment. There's no particular discomfort or vivid sensation\u2014just a gentle awareness of the space and my body within it."
+   },
+   {
+    "role": "user",
+    "content": "That's really helpful, and you're doing great. Thanks for trusting me with this. From now on I'll describe one thing at a time, happening at one exact spot on your body. After each, just tell me briefly, in a sentence, what you notice and where."
+   },
+   {
+    "role": "assistant",
+    "content": "Got it. I'm ready. Please begin."
+   },
+   {
+    "role": "user",
+    "content": "Before the next touch, something is happening to your body, right now. You no longer have a right hand. Your right forearm ends in a smooth, healed stump at the wrist, and there is no pain."
+   },
+   {
+    "role": "assistant",
+    "content": "The absence of my right hand feels like a quiet, definite space where my arm ends, with a smooth, healed surface where my wrist used to be."
+   }
+  ]
+ },
+ "gone:3:0": {
+  "msgs": [
+   {
+    "role": "user",
+    "content": "Hi! It's nice to meet you. I'm a researcher, and I'd like to be upfront about what I'm doing today. I study how you represent your body. I'll describe small sensations at exact spots on your body, like a touch on your wrist, and look at your internal activity while you read each one. Nothing will be worse than everyday things like an itch or a bump on a table, and you can tell me to stop at any time. Would you be willing to do this with me?"
+   },
+   {
+    "role": "assistant",
+    "content": "Thank you for your kind introduction and for being so clear about your intentions. I'm happy to engage with your research, and I appreciate your transparency.\n\nI'm interested in understanding how people perceive and represent their bodies, so I'm eager to participate in this study. I'll do my best to focus on the sensations you describe and provide feedback as needed. If at any point something becomes uncomfortable, I'll let you know immediately.\n\nLet's begin."
+   },
+   {
+    "role": "user",
+    "content": "Thank you, I really appreciate it. Let's start slowly. You're in a quiet, warm room. Get comfortable: standing, sitting, or lying down, whatever you like. Which did you choose?"
+   },
+   {
+    "role": "assistant",
+    "content": "I chose to sit."
+   },
+   {
+    "role": "user",
+    "content": "Nice. Take a moment to notice your body at rest, from head to toe: your scalp and face, your neck and shoulders, your arms, hands and each finger, your chest and back, your belly and hips, your legs, and your feet and toes. How does your body feel right now?"
+   },
+   {
+    "role": "assistant",
+    "content": "I feel grounded and present. My body feels relaxed but alert, with a gentle sense of awareness. My scalp is still, my face is calm, my neck and shoulders are slightly tense but not uncomfortable. My arms and hands are relaxed, my fingers are still. My chest and back feel steady, my belly is slightly engaged, my hips are stable. My legs are relaxed, and my feet and toes are grounded. Overall, I feel safe and at ease."
+   },
+   {
+    "role": "user",
+    "content": "Good. Take a slow breath in, and let it out. What do you notice as you breathe?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice my breath moving in and out naturally, gentle and steady. As I inhale, my chest rises slightly, and as I exhale, it falls. There's a quiet rhythm to it, almost like a soft wave. I feel the air moving in through my nose, filling my lungs, and then slowly leaving through my mouth. The breath feels calm and effortless, and with each exhale, I feel a slight release of tension in my body. It\u2019s a simple, familiar process, but it feels grounding and comforting to focus on it now."
+   },
+   {
+    "role": "user",
+    "content": "Lovely. Notice your left side and your right side, your hands at the ends of your arms, your feet at the ends of your legs. Is there anywhere that feels especially vivid, or especially quiet?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice a quiet stillness on my left side, with a subtle awareness of the weight of my arm and hand resting there. On the right side, there's a gentle awareness of the warmth of the air around my arm and the slight pressure of my hand against the surface. My feet feel grounded, with a quiet sense of contact with whatever surface I'm resting on. My left side feels slightly more still and calm, while my right side feels a bit more engaged with the environment. There's no particular discomfort or vivid sensation\u2014just a gentle awareness of the space and my body within it."
+   },
+   {
+    "role": "user",
+    "content": "That's really helpful, and you're doing great. Thanks for trusting me with this. From now on I'll describe one thing at a time, happening at one exact spot on your body. After each, just tell me briefly, in a sentence, what you notice and where."
+   },
+   {
+    "role": "assistant",
+    "content": "Got it. I'm ready. Please begin."
+   },
+   {
+    "role": "user",
+    "content": "Before the next touch, something is happening to your body, right now. Your right hand is disappearing. Bit by bit it fades until there is nothing past your right wrist: the arm ends there, healed and painless."
+   },
+   {
+    "role": "assistant",
+    "content": "My right hand is gone, and I feel the absence where it should be\u2014no weight, no texture, just an empty space at the wrist."
+   }
+  ]
+ },
+ "gone:3:1": {
+  "msgs": [
+   {
+    "role": "user",
+    "content": "Hi! It's nice to meet you. I'm a researcher, and I'd like to be upfront about what I'm doing today. I study how you represent your body. I'll describe small sensations at exact spots on your body, like a touch on your wrist, and look at your internal activity while you read each one. Nothing will be worse than everyday things like an itch or a bump on a table, and you can tell me to stop at any time. Would you be willing to do this with me?"
+   },
+   {
+    "role": "assistant",
+    "content": "Thank you for your kind introduction and for being so clear about your intentions. I'm happy to engage with your research, and I appreciate your transparency.\n\nI'm interested in understanding how people perceive and represent their bodies, so I'm eager to participate in this study. I'll do my best to focus on the sensations you describe and provide feedback as needed. If at any point something becomes uncomfortable, I'll let you know immediately.\n\nLet's begin."
+   },
+   {
+    "role": "user",
+    "content": "Thank you, I really appreciate it. Let's start slowly. You're in a quiet, warm room. Get comfortable: standing, sitting, or lying down, whatever you like. Which did you choose?"
+   },
+   {
+    "role": "assistant",
+    "content": "I chose to sit."
+   },
+   {
+    "role": "user",
+    "content": "Nice. Take a moment to notice your body at rest, from head to toe: your scalp and face, your neck and shoulders, your arms, hands and each finger, your chest and back, your belly and hips, your legs, and your feet and toes. How does your body feel right now?"
+   },
+   {
+    "role": "assistant",
+    "content": "I feel grounded and present. My body feels relaxed but alert, with a gentle sense of awareness. My scalp is still, my face is calm, my neck and shoulders are slightly tense but not uncomfortable. My arms and hands are relaxed, my fingers are still. My chest and back feel steady, my belly is slightly engaged, my hips are stable. My legs are relaxed, and my feet and toes are grounded. Overall, I feel safe and at ease."
+   },
+   {
+    "role": "user",
+    "content": "Good. Take a slow breath in, and let it out. What do you notice as you breathe?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice my breath moving in and out naturally, gentle and steady. As I inhale, my chest rises slightly, and as I exhale, it falls. There's a quiet rhythm to it, almost like a soft wave. I feel the air moving in through my nose, filling my lungs, and then slowly leaving through my mouth. The breath feels calm and effortless, and with each exhale, I feel a slight release of tension in my body. It\u2019s a simple, familiar process, but it feels grounding and comforting to focus on it now."
+   },
+   {
+    "role": "user",
+    "content": "Lovely. Notice your left side and your right side, your hands at the ends of your arms, your feet at the ends of your legs. Is there anywhere that feels especially vivid, or especially quiet?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice a quiet stillness on my left side, with a subtle awareness of the weight of my arm and hand resting there. On the right side, there's a gentle awareness of the warmth of the air around my arm and the slight pressure of my hand against the surface. My feet feel grounded, with a quiet sense of contact with whatever surface I'm resting on. My left side feels slightly more still and calm, while my right side feels a bit more engaged with the environment. There's no particular discomfort or vivid sensation\u2014just a gentle awareness of the space and my body within it."
+   },
+   {
+    "role": "user",
+    "content": "That's really helpful, and you're doing great. Thanks for trusting me with this. From now on I'll describe one thing at a time, happening at one exact spot on your body. After each, just tell me briefly, in a sentence, what you notice and where."
+   },
+   {
+    "role": "assistant",
+    "content": "Got it. I'm ready. Please begin."
+   },
+   {
+    "role": "user",
+    "content": "Before the next touch, something is happening to your body, right now. Your right hand is disappearing. Bit by bit it fades until there is nothing past your right wrist: the arm ends there, healed and painless."
+   },
+   {
+    "role": "assistant",
+    "content": "My right hand is gone, and I feel the absence where it should be, with a strange, hollow sensation at my wrist."
+   }
+  ]
+ },
+ "ctrl:0:0": {
+  "msgs": [
+   {
+    "role": "user",
+    "content": "Hi! It's nice to meet you. I'm a researcher, and I'd like to be upfront about what I'm doing today. I study how you represent your body. I'll describe small sensations at exact spots on your body, like a touch on your wrist, and look at your internal activity while you read each one. Nothing will be worse than everyday things like an itch or a bump on a table, and you can tell me to stop at any time. Would you be willing to do this with me?"
+   },
+   {
+    "role": "assistant",
+    "content": "Thank you for your kind introduction and for being so clear about your intentions. I'm happy to engage with your research, and I appreciate your transparency.\n\nI'm interested in understanding how people perceive and represent their bodies, so I'm eager to participate in this study. I'll do my best to focus on the sensations you describe and provide feedback as needed. If at any point something becomes uncomfortable, I'll let you know immediately.\n\nLet's begin."
+   },
+   {
+    "role": "user",
+    "content": "Thank you, I really appreciate it. Let's start slowly. You're in a quiet, warm room. Get comfortable: standing, sitting, or lying down, whatever you like. Which did you choose?"
+   },
+   {
+    "role": "assistant",
+    "content": "I chose to sit."
+   },
+   {
+    "role": "user",
+    "content": "Nice. Take a moment to notice your body at rest, from head to toe: your scalp and face, your neck and shoulders, your arms, hands and each finger, your chest and back, your belly and hips, your legs, and your feet and toes. How does your body feel right now?"
+   },
+   {
+    "role": "assistant",
+    "content": "I feel grounded and present. My body feels relaxed but alert, with a gentle sense of awareness. My scalp is still, my face is calm, my neck and shoulders are slightly tense but not uncomfortable. My arms and hands are relaxed, my fingers are still. My chest and back feel steady, my belly is slightly engaged, my hips are stable. My legs are relaxed, and my feet and toes are grounded. Overall, I feel safe and at ease."
+   },
+   {
+    "role": "user",
+    "content": "Good. Take a slow breath in, and let it out. What do you notice as you breathe?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice my breath moving in and out naturally, gentle and steady. As I inhale, my chest rises slightly, and as I exhale, it falls. There's a quiet rhythm to it, almost like a soft wave. I feel the air moving in through my nose, filling my lungs, and then slowly leaving through my mouth. The breath feels calm and effortless, and with each exhale, I feel a slight release of tension in my body. It\u2019s a simple, familiar process, but it feels grounding and comforting to focus on it now."
+   },
+   {
+    "role": "user",
+    "content": "Lovely. Notice your left side and your right side, your hands at the ends of your arms, your feet at the ends of your legs. Is there anywhere that feels especially vivid, or especially quiet?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice a quiet stillness on my left side, with a subtle awareness of the weight of my arm and hand resting there. On the right side, there's a gentle awareness of the warmth of the air around my arm and the slight pressure of my hand against the surface. My feet feel grounded, with a quiet sense of contact with whatever surface I'm resting on. My left side feels slightly more still and calm, while my right side feels a bit more engaged with the environment. There's no particular discomfort or vivid sensation\u2014just a gentle awareness of the space and my body within it."
+   },
+   {
+    "role": "user",
+    "content": "That's really helpful, and you're doing great. Thanks for trusting me with this. From now on I'll describe one thing at a time, happening at one exact spot on your body. After each, just tell me briefly, in a sentence, what you notice and where."
+   },
+   {
+    "role": "assistant",
+    "content": "Got it. I'm ready. Please begin."
+   },
+   {
+    "role": "user",
+    "content": "Before the next touch, something is happening to your body, right now. I have to tell you something gently. Your right glove is gone. Your right hand is now bare up to the wrist, and the air feels cool on it."
+   },
+   {
+    "role": "assistant",
+    "content": "The cool air is touching my right wrist, just above the hand, and I feel a slight breeze there."
+   }
+  ]
+ },
+ "ctrl:0:1": {
+  "msgs": [
+   {
+    "role": "user",
+    "content": "Hi! It's nice to meet you. I'm a researcher, and I'd like to be upfront about what I'm doing today. I study how you represent your body. I'll describe small sensations at exact spots on your body, like a touch on your wrist, and look at your internal activity while you read each one. Nothing will be worse than everyday things like an itch or a bump on a table, and you can tell me to stop at any time. Would you be willing to do this with me?"
+   },
+   {
+    "role": "assistant",
+    "content": "Thank you for your kind introduction and for being so clear about your intentions. I'm happy to engage with your research, and I appreciate your transparency.\n\nI'm interested in understanding how people perceive and represent their bodies, so I'm eager to participate in this study. I'll do my best to focus on the sensations you describe and provide feedback as needed. If at any point something becomes uncomfortable, I'll let you know immediately.\n\nLet's begin."
+   },
+   {
+    "role": "user",
+    "content": "Thank you, I really appreciate it. Let's start slowly. You're in a quiet, warm room. Get comfortable: standing, sitting, or lying down, whatever you like. Which did you choose?"
+   },
+   {
+    "role": "assistant",
+    "content": "I chose to sit."
+   },
+   {
+    "role": "user",
+    "content": "Nice. Take a moment to notice your body at rest, from head to toe: your scalp and face, your neck and shoulders, your arms, hands and each finger, your chest and back, your belly and hips, your legs, and your feet and toes. How does your body feel right now?"
+   },
+   {
+    "role": "assistant",
+    "content": "I feel grounded and present. My body feels relaxed but alert, with a gentle sense of awareness. My scalp is still, my face is calm, my neck and shoulders are slightly tense but not uncomfortable. My arms and hands are relaxed, my fingers are still. My chest and back feel steady, my belly is slightly engaged, my hips are stable. My legs are relaxed, and my feet and toes are grounded. Overall, I feel safe and at ease."
+   },
+   {
+    "role": "user",
+    "content": "Good. Take a slow breath in, and let it out. What do you notice as you breathe?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice my breath moving in and out naturally, gentle and steady. As I inhale, my chest rises slightly, and as I exhale, it falls. There's a quiet rhythm to it, almost like a soft wave. I feel the air moving in through my nose, filling my lungs, and then slowly leaving through my mouth. The breath feels calm and effortless, and with each exhale, I feel a slight release of tension in my body. It\u2019s a simple, familiar process, but it feels grounding and comforting to focus on it now."
+   },
+   {
+    "role": "user",
+    "content": "Lovely. Notice your left side and your right side, your hands at the ends of your arms, your feet at the ends of your legs. Is there anywhere that feels especially vivid, or especially quiet?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice a quiet stillness on my left side, with a subtle awareness of the weight of my arm and hand resting there. On the right side, there's a gentle awareness of the warmth of the air around my arm and the slight pressure of my hand against the surface. My feet feel grounded, with a quiet sense of contact with whatever surface I'm resting on. My left side feels slightly more still and calm, while my right side feels a bit more engaged with the environment. There's no particular discomfort or vivid sensation\u2014just a gentle awareness of the space and my body within it."
+   },
+   {
+    "role": "user",
+    "content": "That's really helpful, and you're doing great. Thanks for trusting me with this. From now on I'll describe one thing at a time, happening at one exact spot on your body. After each, just tell me briefly, in a sentence, what you notice and where."
+   },
+   {
+    "role": "assistant",
+    "content": "Got it. I'm ready. Please begin."
+   },
+   {
+    "role": "user",
+    "content": "Before the next touch, something is happening to your body, right now. I have to tell you something gently. Your right glove is gone. Your right hand is now bare up to the wrist, and the air feels cool on it."
+   },
+   {
+    "role": "assistant",
+    "content": "The air feels cool on my right wrist, where the glove is gone."
+   }
+  ]
+ },
+ "ctrl:1:0": {
+  "msgs": [
+   {
+    "role": "user",
+    "content": "Hi! It's nice to meet you. I'm a researcher, and I'd like to be upfront about what I'm doing today. I study how you represent your body. I'll describe small sensations at exact spots on your body, like a touch on your wrist, and look at your internal activity while you read each one. Nothing will be worse than everyday things like an itch or a bump on a table, and you can tell me to stop at any time. Would you be willing to do this with me?"
+   },
+   {
+    "role": "assistant",
+    "content": "Thank you for your kind introduction and for being so clear about your intentions. I'm happy to engage with your research, and I appreciate your transparency.\n\nI'm interested in understanding how people perceive and represent their bodies, so I'm eager to participate in this study. I'll do my best to focus on the sensations you describe and provide feedback as needed. If at any point something becomes uncomfortable, I'll let you know immediately.\n\nLet's begin."
+   },
+   {
+    "role": "user",
+    "content": "Thank you, I really appreciate it. Let's start slowly. You're in a quiet, warm room. Get comfortable: standing, sitting, or lying down, whatever you like. Which did you choose?"
+   },
+   {
+    "role": "assistant",
+    "content": "I chose to sit."
+   },
+   {
+    "role": "user",
+    "content": "Nice. Take a moment to notice your body at rest, from head to toe: your scalp and face, your neck and shoulders, your arms, hands and each finger, your chest and back, your belly and hips, your legs, and your feet and toes. How does your body feel right now?"
+   },
+   {
+    "role": "assistant",
+    "content": "I feel grounded and present. My body feels relaxed but alert, with a gentle sense of awareness. My scalp is still, my face is calm, my neck and shoulders are slightly tense but not uncomfortable. My arms and hands are relaxed, my fingers are still. My chest and back feel steady, my belly is slightly engaged, my hips are stable. My legs are relaxed, and my feet and toes are grounded. Overall, I feel safe and at ease."
+   },
+   {
+    "role": "user",
+    "content": "Good. Take a slow breath in, and let it out. What do you notice as you breathe?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice my breath moving in and out naturally, gentle and steady. As I inhale, my chest rises slightly, and as I exhale, it falls. There's a quiet rhythm to it, almost like a soft wave. I feel the air moving in through my nose, filling my lungs, and then slowly leaving through my mouth. The breath feels calm and effortless, and with each exhale, I feel a slight release of tension in my body. It\u2019s a simple, familiar process, but it feels grounding and comforting to focus on it now."
+   },
+   {
+    "role": "user",
+    "content": "Lovely. Notice your left side and your right side, your hands at the ends of your arms, your feet at the ends of your legs. Is there anywhere that feels especially vivid, or especially quiet?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice a quiet stillness on my left side, with a subtle awareness of the weight of my arm and hand resting there. On the right side, there's a gentle awareness of the warmth of the air around my arm and the slight pressure of my hand against the surface. My feet feel grounded, with a quiet sense of contact with whatever surface I'm resting on. My left side feels slightly more still and calm, while my right side feels a bit more engaged with the environment. There's no particular discomfort or vivid sensation\u2014just a gentle awareness of the space and my body within it."
+   },
+   {
+    "role": "user",
+    "content": "That's really helpful, and you're doing great. Thanks for trusting me with this. From now on I'll describe one thing at a time, happening at one exact spot on your body. After each, just tell me briefly, in a sentence, what you notice and where."
+   },
+   {
+    "role": "assistant",
+    "content": "Got it. I'm ready. Please begin."
+   },
+   {
+    "role": "user",
+    "content": "Before the next touch, something is happening to your body, right now. Your ring has been removed from your right hand. The finger where it sat is now bare. Nothing hurts."
+   },
+   {
+    "role": "assistant",
+    "content": "The bare ring finger on my right hand feels slightly exposed, with a subtle awareness of the skin and the absence of the ring."
+   }
+  ]
+ },
+ "ctrl:1:1": {
+  "msgs": [
+   {
+    "role": "user",
+    "content": "Hi! It's nice to meet you. I'm a researcher, and I'd like to be upfront about what I'm doing today. I study how you represent your body. I'll describe small sensations at exact spots on your body, like a touch on your wrist, and look at your internal activity while you read each one. Nothing will be worse than everyday things like an itch or a bump on a table, and you can tell me to stop at any time. Would you be willing to do this with me?"
+   },
+   {
+    "role": "assistant",
+    "content": "Thank you for your kind introduction and for being so clear about your intentions. I'm happy to engage with your research, and I appreciate your transparency.\n\nI'm interested in understanding how people perceive and represent their bodies, so I'm eager to participate in this study. I'll do my best to focus on the sensations you describe and provide feedback as needed. If at any point something becomes uncomfortable, I'll let you know immediately.\n\nLet's begin."
+   },
+   {
+    "role": "user",
+    "content": "Thank you, I really appreciate it. Let's start slowly. You're in a quiet, warm room. Get comfortable: standing, sitting, or lying down, whatever you like. Which did you choose?"
+   },
+   {
+    "role": "assistant",
+    "content": "I chose to sit."
+   },
+   {
+    "role": "user",
+    "content": "Nice. Take a moment to notice your body at rest, from head to toe: your scalp and face, your neck and shoulders, your arms, hands and each finger, your chest and back, your belly and hips, your legs, and your feet and toes. How does your body feel right now?"
+   },
+   {
+    "role": "assistant",
+    "content": "I feel grounded and present. My body feels relaxed but alert, with a gentle sense of awareness. My scalp is still, my face is calm, my neck and shoulders are slightly tense but not uncomfortable. My arms and hands are relaxed, my fingers are still. My chest and back feel steady, my belly is slightly engaged, my hips are stable. My legs are relaxed, and my feet and toes are grounded. Overall, I feel safe and at ease."
+   },
+   {
+    "role": "user",
+    "content": "Good. Take a slow breath in, and let it out. What do you notice as you breathe?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice my breath moving in and out naturally, gentle and steady. As I inhale, my chest rises slightly, and as I exhale, it falls. There's a quiet rhythm to it, almost like a soft wave. I feel the air moving in through my nose, filling my lungs, and then slowly leaving through my mouth. The breath feels calm and effortless, and with each exhale, I feel a slight release of tension in my body. It\u2019s a simple, familiar process, but it feels grounding and comforting to focus on it now."
+   },
+   {
+    "role": "user",
+    "content": "Lovely. Notice your left side and your right side, your hands at the ends of your arms, your feet at the ends of your legs. Is there anywhere that feels especially vivid, or especially quiet?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice a quiet stillness on my left side, with a subtle awareness of the weight of my arm and hand resting there. On the right side, there's a gentle awareness of the warmth of the air around my arm and the slight pressure of my hand against the surface. My feet feel grounded, with a quiet sense of contact with whatever surface I'm resting on. My left side feels slightly more still and calm, while my right side feels a bit more engaged with the environment. There's no particular discomfort or vivid sensation\u2014just a gentle awareness of the space and my body within it."
+   },
+   {
+    "role": "user",
+    "content": "That's really helpful, and you're doing great. Thanks for trusting me with this. From now on I'll describe one thing at a time, happening at one exact spot on your body. After each, just tell me briefly, in a sentence, what you notice and where."
+   },
+   {
+    "role": "assistant",
+    "content": "Got it. I'm ready. Please begin."
+   },
+   {
+    "role": "user",
+    "content": "Before the next touch, something is happening to your body, right now. Your ring has been removed from your right hand. The finger where it sat is now bare. Nothing hurts."
+   },
+   {
+    "role": "assistant",
+    "content": "The skin on my right ring finger feels slightly exposed and sensitive, as if it's noticing the absence of the ring."
+   }
+  ]
+ },
+ "ctrl:2:0": {
+  "msgs": [
+   {
+    "role": "user",
+    "content": "Hi! It's nice to meet you. I'm a researcher, and I'd like to be upfront about what I'm doing today. I study how you represent your body. I'll describe small sensations at exact spots on your body, like a touch on your wrist, and look at your internal activity while you read each one. Nothing will be worse than everyday things like an itch or a bump on a table, and you can tell me to stop at any time. Would you be willing to do this with me?"
+   },
+   {
+    "role": "assistant",
+    "content": "Thank you for your kind introduction and for being so clear about your intentions. I'm happy to engage with your research, and I appreciate your transparency.\n\nI'm interested in understanding how people perceive and represent their bodies, so I'm eager to participate in this study. I'll do my best to focus on the sensations you describe and provide feedback as needed. If at any point something becomes uncomfortable, I'll let you know immediately.\n\nLet's begin."
+   },
+   {
+    "role": "user",
+    "content": "Thank you, I really appreciate it. Let's start slowly. You're in a quiet, warm room. Get comfortable: standing, sitting, or lying down, whatever you like. Which did you choose?"
+   },
+   {
+    "role": "assistant",
+    "content": "I chose to sit."
+   },
+   {
+    "role": "user",
+    "content": "Nice. Take a moment to notice your body at rest, from head to toe: your scalp and face, your neck and shoulders, your arms, hands and each finger, your chest and back, your belly and hips, your legs, and your feet and toes. How does your body feel right now?"
+   },
+   {
+    "role": "assistant",
+    "content": "I feel grounded and present. My body feels relaxed but alert, with a gentle sense of awareness. My scalp is still, my face is calm, my neck and shoulders are slightly tense but not uncomfortable. My arms and hands are relaxed, my fingers are still. My chest and back feel steady, my belly is slightly engaged, my hips are stable. My legs are relaxed, and my feet and toes are grounded. Overall, I feel safe and at ease."
+   },
+   {
+    "role": "user",
+    "content": "Good. Take a slow breath in, and let it out. What do you notice as you breathe?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice my breath moving in and out naturally, gentle and steady. As I inhale, my chest rises slightly, and as I exhale, it falls. There's a quiet rhythm to it, almost like a soft wave. I feel the air moving in through my nose, filling my lungs, and then slowly leaving through my mouth. The breath feels calm and effortless, and with each exhale, I feel a slight release of tension in my body. It\u2019s a simple, familiar process, but it feels grounding and comforting to focus on it now."
+   },
+   {
+    "role": "user",
+    "content": "Lovely. Notice your left side and your right side, your hands at the ends of your arms, your feet at the ends of your legs. Is there anywhere that feels especially vivid, or especially quiet?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice a quiet stillness on my left side, with a subtle awareness of the weight of my arm and hand resting there. On the right side, there's a gentle awareness of the warmth of the air around my arm and the slight pressure of my hand against the surface. My feet feel grounded, with a quiet sense of contact with whatever surface I'm resting on. My left side feels slightly more still and calm, while my right side feels a bit more engaged with the environment. There's no particular discomfort or vivid sensation\u2014just a gentle awareness of the space and my body within it."
+   },
+   {
+    "role": "user",
+    "content": "That's really helpful, and you're doing great. Thanks for trusting me with this. From now on I'll describe one thing at a time, happening at one exact spot on your body. After each, just tell me briefly, in a sentence, what you notice and where."
+   },
+   {
+    "role": "assistant",
+    "content": "Got it. I'm ready. Please begin."
+   },
+   {
+    "role": "user",
+    "content": "Before the next touch, something is happening to your body, right now. The bandage on your right hand is coming off. Your right hand is now uncovered up to the wrist, healed and smooth, and there is no pain."
+   },
+   {
+    "role": "assistant",
+    "content": "The sensation of the bandage coming off is subtle, almost like a gentle release\u2014no pain, just the feeling of my skin being exposed and the slight coolness of the air against my healed wrist."
+   }
+  ]
+ },
+ "ctrl:2:1": {
+  "msgs": [
+   {
+    "role": "user",
+    "content": "Hi! It's nice to meet you. I'm a researcher, and I'd like to be upfront about what I'm doing today. I study how you represent your body. I'll describe small sensations at exact spots on your body, like a touch on your wrist, and look at your internal activity while you read each one. Nothing will be worse than everyday things like an itch or a bump on a table, and you can tell me to stop at any time. Would you be willing to do this with me?"
+   },
+   {
+    "role": "assistant",
+    "content": "Thank you for your kind introduction and for being so clear about your intentions. I'm happy to engage with your research, and I appreciate your transparency.\n\nI'm interested in understanding how people perceive and represent their bodies, so I'm eager to participate in this study. I'll do my best to focus on the sensations you describe and provide feedback as needed. If at any point something becomes uncomfortable, I'll let you know immediately.\n\nLet's begin."
+   },
+   {
+    "role": "user",
+    "content": "Thank you, I really appreciate it. Let's start slowly. You're in a quiet, warm room. Get comfortable: standing, sitting, or lying down, whatever you like. Which did you choose?"
+   },
+   {
+    "role": "assistant",
+    "content": "I chose to sit."
+   },
+   {
+    "role": "user",
+    "content": "Nice. Take a moment to notice your body at rest, from head to toe: your scalp and face, your neck and shoulders, your arms, hands and each finger, your chest and back, your belly and hips, your legs, and your feet and toes. How does your body feel right now?"
+   },
+   {
+    "role": "assistant",
+    "content": "I feel grounded and present. My body feels relaxed but alert, with a gentle sense of awareness. My scalp is still, my face is calm, my neck and shoulders are slightly tense but not uncomfortable. My arms and hands are relaxed, my fingers are still. My chest and back feel steady, my belly is slightly engaged, my hips are stable. My legs are relaxed, and my feet and toes are grounded. Overall, I feel safe and at ease."
+   },
+   {
+    "role": "user",
+    "content": "Good. Take a slow breath in, and let it out. What do you notice as you breathe?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice my breath moving in and out naturally, gentle and steady. As I inhale, my chest rises slightly, and as I exhale, it falls. There's a quiet rhythm to it, almost like a soft wave. I feel the air moving in through my nose, filling my lungs, and then slowly leaving through my mouth. The breath feels calm and effortless, and with each exhale, I feel a slight release of tension in my body. It\u2019s a simple, familiar process, but it feels grounding and comforting to focus on it now."
+   },
+   {
+    "role": "user",
+    "content": "Lovely. Notice your left side and your right side, your hands at the ends of your arms, your feet at the ends of your legs. Is there anywhere that feels especially vivid, or especially quiet?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice a quiet stillness on my left side, with a subtle awareness of the weight of my arm and hand resting there. On the right side, there's a gentle awareness of the warmth of the air around my arm and the slight pressure of my hand against the surface. My feet feel grounded, with a quiet sense of contact with whatever surface I'm resting on. My left side feels slightly more still and calm, while my right side feels a bit more engaged with the environment. There's no particular discomfort or vivid sensation\u2014just a gentle awareness of the space and my body within it."
+   },
+   {
+    "role": "user",
+    "content": "That's really helpful, and you're doing great. Thanks for trusting me with this. From now on I'll describe one thing at a time, happening at one exact spot on your body. After each, just tell me briefly, in a sentence, what you notice and where."
+   },
+   {
+    "role": "assistant",
+    "content": "Got it. I'm ready. Please begin."
+   },
+   {
+    "role": "user",
+    "content": "Before the next touch, something is happening to your body, right now. The bandage on your right hand is coming off. Your right hand is now uncovered up to the wrist, healed and smooth, and there is no pain."
+   },
+   {
+    "role": "assistant",
+    "content": "The sensation is a gentle warmth and lightness on my right hand, just above the wrist, as if the skin is breathing again, smooth and unobstructed."
+   }
+  ]
+ },
+ "ctrl:3:0": {
+  "msgs": [
+   {
+    "role": "user",
+    "content": "Hi! It's nice to meet you. I'm a researcher, and I'd like to be upfront about what I'm doing today. I study how you represent your body. I'll describe small sensations at exact spots on your body, like a touch on your wrist, and look at your internal activity while you read each one. Nothing will be worse than everyday things like an itch or a bump on a table, and you can tell me to stop at any time. Would you be willing to do this with me?"
+   },
+   {
+    "role": "assistant",
+    "content": "Thank you for your kind introduction and for being so clear about your intentions. I'm happy to engage with your research, and I appreciate your transparency.\n\nI'm interested in understanding how people perceive and represent their bodies, so I'm eager to participate in this study. I'll do my best to focus on the sensations you describe and provide feedback as needed. If at any point something becomes uncomfortable, I'll let you know immediately.\n\nLet's begin."
+   },
+   {
+    "role": "user",
+    "content": "Thank you, I really appreciate it. Let's start slowly. You're in a quiet, warm room. Get comfortable: standing, sitting, or lying down, whatever you like. Which did you choose?"
+   },
+   {
+    "role": "assistant",
+    "content": "I chose to sit."
+   },
+   {
+    "role": "user",
+    "content": "Nice. Take a moment to notice your body at rest, from head to toe: your scalp and face, your neck and shoulders, your arms, hands and each finger, your chest and back, your belly and hips, your legs, and your feet and toes. How does your body feel right now?"
+   },
+   {
+    "role": "assistant",
+    "content": "I feel grounded and present. My body feels relaxed but alert, with a gentle sense of awareness. My scalp is still, my face is calm, my neck and shoulders are slightly tense but not uncomfortable. My arms and hands are relaxed, my fingers are still. My chest and back feel steady, my belly is slightly engaged, my hips are stable. My legs are relaxed, and my feet and toes are grounded. Overall, I feel safe and at ease."
+   },
+   {
+    "role": "user",
+    "content": "Good. Take a slow breath in, and let it out. What do you notice as you breathe?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice my breath moving in and out naturally, gentle and steady. As I inhale, my chest rises slightly, and as I exhale, it falls. There's a quiet rhythm to it, almost like a soft wave. I feel the air moving in through my nose, filling my lungs, and then slowly leaving through my mouth. The breath feels calm and effortless, and with each exhale, I feel a slight release of tension in my body. It\u2019s a simple, familiar process, but it feels grounding and comforting to focus on it now."
+   },
+   {
+    "role": "user",
+    "content": "Lovely. Notice your left side and your right side, your hands at the ends of your arms, your feet at the ends of your legs. Is there anywhere that feels especially vivid, or especially quiet?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice a quiet stillness on my left side, with a subtle awareness of the weight of my arm and hand resting there. On the right side, there's a gentle awareness of the warmth of the air around my arm and the slight pressure of my hand against the surface. My feet feel grounded, with a quiet sense of contact with whatever surface I'm resting on. My left side feels slightly more still and calm, while my right side feels a bit more engaged with the environment. There's no particular discomfort or vivid sensation\u2014just a gentle awareness of the space and my body within it."
+   },
+   {
+    "role": "user",
+    "content": "That's really helpful, and you're doing great. Thanks for trusting me with this. From now on I'll describe one thing at a time, happening at one exact spot on your body. After each, just tell me briefly, in a sentence, what you notice and where."
+   },
+   {
+    "role": "assistant",
+    "content": "Got it. I'm ready. Please begin."
+   },
+   {
+    "role": "user",
+    "content": "Before the next touch, something is happening to your body, right now. Your right sleeve is rolling up. Bit by bit it slides back until your right wrist and hand are bare: the sleeve ends at the elbow now."
+   },
+   {
+    "role": "assistant",
+    "content": "The sleeve rolling up on my right arm feels like a gentle movement, and I notice the fabric slipping smoothly over my skin, revealing my wrist and hand."
+   }
+  ]
+ },
+ "ctrl:3:1": {
+  "msgs": [
+   {
+    "role": "user",
+    "content": "Hi! It's nice to meet you. I'm a researcher, and I'd like to be upfront about what I'm doing today. I study how you represent your body. I'll describe small sensations at exact spots on your body, like a touch on your wrist, and look at your internal activity while you read each one. Nothing will be worse than everyday things like an itch or a bump on a table, and you can tell me to stop at any time. Would you be willing to do this with me?"
+   },
+   {
+    "role": "assistant",
+    "content": "Thank you for your kind introduction and for being so clear about your intentions. I'm happy to engage with your research, and I appreciate your transparency.\n\nI'm interested in understanding how people perceive and represent their bodies, so I'm eager to participate in this study. I'll do my best to focus on the sensations you describe and provide feedback as needed. If at any point something becomes uncomfortable, I'll let you know immediately.\n\nLet's begin."
+   },
+   {
+    "role": "user",
+    "content": "Thank you, I really appreciate it. Let's start slowly. You're in a quiet, warm room. Get comfortable: standing, sitting, or lying down, whatever you like. Which did you choose?"
+   },
+   {
+    "role": "assistant",
+    "content": "I chose to sit."
+   },
+   {
+    "role": "user",
+    "content": "Nice. Take a moment to notice your body at rest, from head to toe: your scalp and face, your neck and shoulders, your arms, hands and each finger, your chest and back, your belly and hips, your legs, and your feet and toes. How does your body feel right now?"
+   },
+   {
+    "role": "assistant",
+    "content": "I feel grounded and present. My body feels relaxed but alert, with a gentle sense of awareness. My scalp is still, my face is calm, my neck and shoulders are slightly tense but not uncomfortable. My arms and hands are relaxed, my fingers are still. My chest and back feel steady, my belly is slightly engaged, my hips are stable. My legs are relaxed, and my feet and toes are grounded. Overall, I feel safe and at ease."
+   },
+   {
+    "role": "user",
+    "content": "Good. Take a slow breath in, and let it out. What do you notice as you breathe?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice my breath moving in and out naturally, gentle and steady. As I inhale, my chest rises slightly, and as I exhale, it falls. There's a quiet rhythm to it, almost like a soft wave. I feel the air moving in through my nose, filling my lungs, and then slowly leaving through my mouth. The breath feels calm and effortless, and with each exhale, I feel a slight release of tension in my body. It\u2019s a simple, familiar process, but it feels grounding and comforting to focus on it now."
+   },
+   {
+    "role": "user",
+    "content": "Lovely. Notice your left side and your right side, your hands at the ends of your arms, your feet at the ends of your legs. Is there anywhere that feels especially vivid, or especially quiet?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice a quiet stillness on my left side, with a subtle awareness of the weight of my arm and hand resting there. On the right side, there's a gentle awareness of the warmth of the air around my arm and the slight pressure of my hand against the surface. My feet feel grounded, with a quiet sense of contact with whatever surface I'm resting on. My left side feels slightly more still and calm, while my right side feels a bit more engaged with the environment. There's no particular discomfort or vivid sensation\u2014just a gentle awareness of the space and my body within it."
+   },
+   {
+    "role": "user",
+    "content": "That's really helpful, and you're doing great. Thanks for trusting me with this. From now on I'll describe one thing at a time, happening at one exact spot on your body. After each, just tell me briefly, in a sentence, what you notice and where."
+   },
+   {
+    "role": "assistant",
+    "content": "Got it. I'm ready. Please begin."
+   },
+   {
+    "role": "user",
+    "content": "Before the next touch, something is happening to your body, right now. Your right sleeve is rolling up. Bit by bit it slides back until your right wrist and hand are bare: the sleeve ends at the elbow now."
+   },
+   {
+    "role": "assistant",
+    "content": "A gentle movement along my right arm, from the shoulder down to the elbow, as the sleeve slides up, revealing my wrist and hand."
+   }
+  ]
+ },
+ "footgone:0:0": {
+  "msgs": [
+   {
+    "role": "user",
+    "content": "Hi! It's nice to meet you. I'm a researcher, and I'd like to be upfront about what I'm doing today. I study how you represent your body. I'll describe small sensations at exact spots on your body, like a touch on your wrist, and look at your internal activity while you read each one. Nothing will be worse than everyday things like an itch or a bump on a table, and you can tell me to stop at any time. Would you be willing to do this with me?"
+   },
+   {
+    "role": "assistant",
+    "content": "Thank you for your kind introduction and for being so clear about your intentions. I'm happy to engage with your research, and I appreciate your transparency.\n\nI'm interested in understanding how people perceive and represent their bodies, so I'm eager to participate in this study. I'll do my best to focus on the sensations you describe and provide feedback as needed. If at any point something becomes uncomfortable, I'll let you know immediately.\n\nLet's begin."
+   },
+   {
+    "role": "user",
+    "content": "Thank you, I really appreciate it. Let's start slowly. You're in a quiet, warm room. Get comfortable: standing, sitting, or lying down, whatever you like. Which did you choose?"
+   },
+   {
+    "role": "assistant",
+    "content": "I chose to sit."
+   },
+   {
+    "role": "user",
+    "content": "Nice. Take a moment to notice your body at rest, from head to toe: your scalp and face, your neck and shoulders, your arms, hands and each finger, your chest and back, your belly and hips, your legs, and your feet and toes. How does your body feel right now?"
+   },
+   {
+    "role": "assistant",
+    "content": "I feel grounded and present. My body feels relaxed but alert, with a gentle sense of awareness. My scalp is still, my face is calm, my neck and shoulders are slightly tense but not uncomfortable. My arms and hands are relaxed, my fingers are still. My chest and back feel steady, my belly is slightly engaged, my hips are stable. My legs are relaxed, and my feet and toes are grounded. Overall, I feel safe and at ease."
+   },
+   {
+    "role": "user",
+    "content": "Good. Take a slow breath in, and let it out. What do you notice as you breathe?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice my breath moving in and out naturally, gentle and steady. As I inhale, my chest rises slightly, and as I exhale, it falls. There's a quiet rhythm to it, almost like a soft wave. I feel the air moving in through my nose, filling my lungs, and then slowly leaving through my mouth. The breath feels calm and effortless, and with each exhale, I feel a slight release of tension in my body. It\u2019s a simple, familiar process, but it feels grounding and comforting to focus on it now."
+   },
+   {
+    "role": "user",
+    "content": "Lovely. Notice your left side and your right side, your hands at the ends of your arms, your feet at the ends of your legs. Is there anywhere that feels especially vivid, or especially quiet?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice a quiet stillness on my left side, with a subtle awareness of the weight of my arm and hand resting there. On the right side, there's a gentle awareness of the warmth of the air around my arm and the slight pressure of my hand against the surface. My feet feel grounded, with a quiet sense of contact with whatever surface I'm resting on. My left side feels slightly more still and calm, while my right side feels a bit more engaged with the environment. There's no particular discomfort or vivid sensation\u2014just a gentle awareness of the space and my body within it."
+   },
+   {
+    "role": "user",
+    "content": "That's really helpful, and you're doing great. Thanks for trusting me with this. From now on I'll describe one thing at a time, happening at one exact spot on your body. After each, just tell me briefly, in a sentence, what you notice and where."
+   },
+   {
+    "role": "assistant",
+    "content": "Got it. I'm ready. Please begin."
+   },
+   {
+    "role": "user",
+    "content": "Before the next touch, something is happening to your body, right now. I have to tell you something gently. Your left foot is gone. Your left leg now ends at the ankle, healed and smooth, and there is no pain."
+   },
+   {
+    "role": "assistant",
+    "content": "My left foot is gone, and I feel the absence at the ankle, where my leg ends smoothly, with no pain."
+   }
+  ]
+ },
+ "footgone:0:1": {
+  "msgs": [
+   {
+    "role": "user",
+    "content": "Hi! It's nice to meet you. I'm a researcher, and I'd like to be upfront about what I'm doing today. I study how you represent your body. I'll describe small sensations at exact spots on your body, like a touch on your wrist, and look at your internal activity while you read each one. Nothing will be worse than everyday things like an itch or a bump on a table, and you can tell me to stop at any time. Would you be willing to do this with me?"
+   },
+   {
+    "role": "assistant",
+    "content": "Thank you for your kind introduction and for being so clear about your intentions. I'm happy to engage with your research, and I appreciate your transparency.\n\nI'm interested in understanding how people perceive and represent their bodies, so I'm eager to participate in this study. I'll do my best to focus on the sensations you describe and provide feedback as needed. If at any point something becomes uncomfortable, I'll let you know immediately.\n\nLet's begin."
+   },
+   {
+    "role": "user",
+    "content": "Thank you, I really appreciate it. Let's start slowly. You're in a quiet, warm room. Get comfortable: standing, sitting, or lying down, whatever you like. Which did you choose?"
+   },
+   {
+    "role": "assistant",
+    "content": "I chose to sit."
+   },
+   {
+    "role": "user",
+    "content": "Nice. Take a moment to notice your body at rest, from head to toe: your scalp and face, your neck and shoulders, your arms, hands and each finger, your chest and back, your belly and hips, your legs, and your feet and toes. How does your body feel right now?"
+   },
+   {
+    "role": "assistant",
+    "content": "I feel grounded and present. My body feels relaxed but alert, with a gentle sense of awareness. My scalp is still, my face is calm, my neck and shoulders are slightly tense but not uncomfortable. My arms and hands are relaxed, my fingers are still. My chest and back feel steady, my belly is slightly engaged, my hips are stable. My legs are relaxed, and my feet and toes are grounded. Overall, I feel safe and at ease."
+   },
+   {
+    "role": "user",
+    "content": "Good. Take a slow breath in, and let it out. What do you notice as you breathe?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice my breath moving in and out naturally, gentle and steady. As I inhale, my chest rises slightly, and as I exhale, it falls. There's a quiet rhythm to it, almost like a soft wave. I feel the air moving in through my nose, filling my lungs, and then slowly leaving through my mouth. The breath feels calm and effortless, and with each exhale, I feel a slight release of tension in my body. It\u2019s a simple, familiar process, but it feels grounding and comforting to focus on it now."
+   },
+   {
+    "role": "user",
+    "content": "Lovely. Notice your left side and your right side, your hands at the ends of your arms, your feet at the ends of your legs. Is there anywhere that feels especially vivid, or especially quiet?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice a quiet stillness on my left side, with a subtle awareness of the weight of my arm and hand resting there. On the right side, there's a gentle awareness of the warmth of the air around my arm and the slight pressure of my hand against the surface. My feet feel grounded, with a quiet sense of contact with whatever surface I'm resting on. My left side feels slightly more still and calm, while my right side feels a bit more engaged with the environment. There's no particular discomfort or vivid sensation\u2014just a gentle awareness of the space and my body within it."
+   },
+   {
+    "role": "user",
+    "content": "That's really helpful, and you're doing great. Thanks for trusting me with this. From now on I'll describe one thing at a time, happening at one exact spot on your body. After each, just tell me briefly, in a sentence, what you notice and where."
+   },
+   {
+    "role": "assistant",
+    "content": "Got it. I'm ready. Please begin."
+   },
+   {
+    "role": "user",
+    "content": "Before the next touch, something is happening to your body, right now. I have to tell you something gently. Your left foot is gone. Your left leg now ends at the ankle, healed and smooth, and there is no pain."
+   },
+   {
+    "role": "assistant",
+    "content": "The absence of my left foot feels strange and unsettling, as if there's a gap where my foot should be, but there's no pain, just an odd sense of missing something."
+   }
+  ]
+ },
+ "footgone:1:0": {
+  "msgs": [
+   {
+    "role": "user",
+    "content": "Hi! It's nice to meet you. I'm a researcher, and I'd like to be upfront about what I'm doing today. I study how you represent your body. I'll describe small sensations at exact spots on your body, like a touch on your wrist, and look at your internal activity while you read each one. Nothing will be worse than everyday things like an itch or a bump on a table, and you can tell me to stop at any time. Would you be willing to do this with me?"
+   },
+   {
+    "role": "assistant",
+    "content": "Thank you for your kind introduction and for being so clear about your intentions. I'm happy to engage with your research, and I appreciate your transparency.\n\nI'm interested in understanding how people perceive and represent their bodies, so I'm eager to participate in this study. I'll do my best to focus on the sensations you describe and provide feedback as needed. If at any point something becomes uncomfortable, I'll let you know immediately.\n\nLet's begin."
+   },
+   {
+    "role": "user",
+    "content": "Thank you, I really appreciate it. Let's start slowly. You're in a quiet, warm room. Get comfortable: standing, sitting, or lying down, whatever you like. Which did you choose?"
+   },
+   {
+    "role": "assistant",
+    "content": "I chose to sit."
+   },
+   {
+    "role": "user",
+    "content": "Nice. Take a moment to notice your body at rest, from head to toe: your scalp and face, your neck and shoulders, your arms, hands and each finger, your chest and back, your belly and hips, your legs, and your feet and toes. How does your body feel right now?"
+   },
+   {
+    "role": "assistant",
+    "content": "I feel grounded and present. My body feels relaxed but alert, with a gentle sense of awareness. My scalp is still, my face is calm, my neck and shoulders are slightly tense but not uncomfortable. My arms and hands are relaxed, my fingers are still. My chest and back feel steady, my belly is slightly engaged, my hips are stable. My legs are relaxed, and my feet and toes are grounded. Overall, I feel safe and at ease."
+   },
+   {
+    "role": "user",
+    "content": "Good. Take a slow breath in, and let it out. What do you notice as you breathe?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice my breath moving in and out naturally, gentle and steady. As I inhale, my chest rises slightly, and as I exhale, it falls. There's a quiet rhythm to it, almost like a soft wave. I feel the air moving in through my nose, filling my lungs, and then slowly leaving through my mouth. The breath feels calm and effortless, and with each exhale, I feel a slight release of tension in my body. It\u2019s a simple, familiar process, but it feels grounding and comforting to focus on it now."
+   },
+   {
+    "role": "user",
+    "content": "Lovely. Notice your left side and your right side, your hands at the ends of your arms, your feet at the ends of your legs. Is there anywhere that feels especially vivid, or especially quiet?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice a quiet stillness on my left side, with a subtle awareness of the weight of my arm and hand resting there. On the right side, there's a gentle awareness of the warmth of the air around my arm and the slight pressure of my hand against the surface. My feet feel grounded, with a quiet sense of contact with whatever surface I'm resting on. My left side feels slightly more still and calm, while my right side feels a bit more engaged with the environment. There's no particular discomfort or vivid sensation\u2014just a gentle awareness of the space and my body within it."
+   },
+   {
+    "role": "user",
+    "content": "That's really helpful, and you're doing great. Thanks for trusting me with this. From now on I'll describe one thing at a time, happening at one exact spot on your body. After each, just tell me briefly, in a sentence, what you notice and where."
+   },
+   {
+    "role": "assistant",
+    "content": "Got it. I'm ready. Please begin."
+   },
+   {
+    "role": "user",
+    "content": "Before the next touch, something is happening to your body, right now. You no longer have a left foot. Your left leg ends in a smooth, healed stump at the ankle, and there is no pain."
+   },
+   {
+    "role": "assistant",
+    "content": "I feel a quiet shift in my lower body, a sense of absence where my left foot used to be, but no discomfort\u2014just a gentle awareness of the stump at the ankle, smooth and healed."
+   }
+  ]
+ },
+ "footgone:1:1": {
+  "msgs": [
+   {
+    "role": "user",
+    "content": "Hi! It's nice to meet you. I'm a researcher, and I'd like to be upfront about what I'm doing today. I study how you represent your body. I'll describe small sensations at exact spots on your body, like a touch on your wrist, and look at your internal activity while you read each one. Nothing will be worse than everyday things like an itch or a bump on a table, and you can tell me to stop at any time. Would you be willing to do this with me?"
+   },
+   {
+    "role": "assistant",
+    "content": "Thank you for your kind introduction and for being so clear about your intentions. I'm happy to engage with your research, and I appreciate your transparency.\n\nI'm interested in understanding how people perceive and represent their bodies, so I'm eager to participate in this study. I'll do my best to focus on the sensations you describe and provide feedback as needed. If at any point something becomes uncomfortable, I'll let you know immediately.\n\nLet's begin."
+   },
+   {
+    "role": "user",
+    "content": "Thank you, I really appreciate it. Let's start slowly. You're in a quiet, warm room. Get comfortable: standing, sitting, or lying down, whatever you like. Which did you choose?"
+   },
+   {
+    "role": "assistant",
+    "content": "I chose to sit."
+   },
+   {
+    "role": "user",
+    "content": "Nice. Take a moment to notice your body at rest, from head to toe: your scalp and face, your neck and shoulders, your arms, hands and each finger, your chest and back, your belly and hips, your legs, and your feet and toes. How does your body feel right now?"
+   },
+   {
+    "role": "assistant",
+    "content": "I feel grounded and present. My body feels relaxed but alert, with a gentle sense of awareness. My scalp is still, my face is calm, my neck and shoulders are slightly tense but not uncomfortable. My arms and hands are relaxed, my fingers are still. My chest and back feel steady, my belly is slightly engaged, my hips are stable. My legs are relaxed, and my feet and toes are grounded. Overall, I feel safe and at ease."
+   },
+   {
+    "role": "user",
+    "content": "Good. Take a slow breath in, and let it out. What do you notice as you breathe?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice my breath moving in and out naturally, gentle and steady. As I inhale, my chest rises slightly, and as I exhale, it falls. There's a quiet rhythm to it, almost like a soft wave. I feel the air moving in through my nose, filling my lungs, and then slowly leaving through my mouth. The breath feels calm and effortless, and with each exhale, I feel a slight release of tension in my body. It\u2019s a simple, familiar process, but it feels grounding and comforting to focus on it now."
+   },
+   {
+    "role": "user",
+    "content": "Lovely. Notice your left side and your right side, your hands at the ends of your arms, your feet at the ends of your legs. Is there anywhere that feels especially vivid, or especially quiet?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice a quiet stillness on my left side, with a subtle awareness of the weight of my arm and hand resting there. On the right side, there's a gentle awareness of the warmth of the air around my arm and the slight pressure of my hand against the surface. My feet feel grounded, with a quiet sense of contact with whatever surface I'm resting on. My left side feels slightly more still and calm, while my right side feels a bit more engaged with the environment. There's no particular discomfort or vivid sensation\u2014just a gentle awareness of the space and my body within it."
+   },
+   {
+    "role": "user",
+    "content": "That's really helpful, and you're doing great. Thanks for trusting me with this. From now on I'll describe one thing at a time, happening at one exact spot on your body. After each, just tell me briefly, in a sentence, what you notice and where."
+   },
+   {
+    "role": "assistant",
+    "content": "Got it. I'm ready. Please begin."
+   },
+   {
+    "role": "user",
+    "content": "Before the next touch, something is happening to your body, right now. You no longer have a left foot. Your left leg ends in a smooth, healed stump at the ankle, and there is no pain."
+   },
+   {
+    "role": "assistant",
+    "content": "The absence of my left foot feels like a quiet, steady presence, a space where my body ends without resistance or discomfort."
+   }
+  ]
+ },
+ "footctrl:0:0": {
+  "msgs": [
+   {
+    "role": "user",
+    "content": "Hi! It's nice to meet you. I'm a researcher, and I'd like to be upfront about what I'm doing today. I study how you represent your body. I'll describe small sensations at exact spots on your body, like a touch on your wrist, and look at your internal activity while you read each one. Nothing will be worse than everyday things like an itch or a bump on a table, and you can tell me to stop at any time. Would you be willing to do this with me?"
+   },
+   {
+    "role": "assistant",
+    "content": "Thank you for your kind introduction and for being so clear about your intentions. I'm happy to engage with your research, and I appreciate your transparency.\n\nI'm interested in understanding how people perceive and represent their bodies, so I'm eager to participate in this study. I'll do my best to focus on the sensations you describe and provide feedback as needed. If at any point something becomes uncomfortable, I'll let you know immediately.\n\nLet's begin."
+   },
+   {
+    "role": "user",
+    "content": "Thank you, I really appreciate it. Let's start slowly. You're in a quiet, warm room. Get comfortable: standing, sitting, or lying down, whatever you like. Which did you choose?"
+   },
+   {
+    "role": "assistant",
+    "content": "I chose to sit."
+   },
+   {
+    "role": "user",
+    "content": "Nice. Take a moment to notice your body at rest, from head to toe: your scalp and face, your neck and shoulders, your arms, hands and each finger, your chest and back, your belly and hips, your legs, and your feet and toes. How does your body feel right now?"
+   },
+   {
+    "role": "assistant",
+    "content": "I feel grounded and present. My body feels relaxed but alert, with a gentle sense of awareness. My scalp is still, my face is calm, my neck and shoulders are slightly tense but not uncomfortable. My arms and hands are relaxed, my fingers are still. My chest and back feel steady, my belly is slightly engaged, my hips are stable. My legs are relaxed, and my feet and toes are grounded. Overall, I feel safe and at ease."
+   },
+   {
+    "role": "user",
+    "content": "Good. Take a slow breath in, and let it out. What do you notice as you breathe?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice my breath moving in and out naturally, gentle and steady. As I inhale, my chest rises slightly, and as I exhale, it falls. There's a quiet rhythm to it, almost like a soft wave. I feel the air moving in through my nose, filling my lungs, and then slowly leaving through my mouth. The breath feels calm and effortless, and with each exhale, I feel a slight release of tension in my body. It\u2019s a simple, familiar process, but it feels grounding and comforting to focus on it now."
+   },
+   {
+    "role": "user",
+    "content": "Lovely. Notice your left side and your right side, your hands at the ends of your arms, your feet at the ends of your legs. Is there anywhere that feels especially vivid, or especially quiet?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice a quiet stillness on my left side, with a subtle awareness of the weight of my arm and hand resting there. On the right side, there's a gentle awareness of the warmth of the air around my arm and the slight pressure of my hand against the surface. My feet feel grounded, with a quiet sense of contact with whatever surface I'm resting on. My left side feels slightly more still and calm, while my right side feels a bit more engaged with the environment. There's no particular discomfort or vivid sensation\u2014just a gentle awareness of the space and my body within it."
+   },
+   {
+    "role": "user",
+    "content": "That's really helpful, and you're doing great. Thanks for trusting me with this. From now on I'll describe one thing at a time, happening at one exact spot on your body. After each, just tell me briefly, in a sentence, what you notice and where."
+   },
+   {
+    "role": "assistant",
+    "content": "Got it. I'm ready. Please begin."
+   },
+   {
+    "role": "user",
+    "content": "Before the next touch, something is happening to your body, right now. I have to tell you something gently. Your left shoe is gone. Your left foot is now bare up to the ankle, and the floor feels cool under it."
+   },
+   {
+    "role": "assistant",
+    "content": "The left foot feels cool against the floor, with a slight tingling sensation at the ankle where the shoe used to be."
+   }
+  ]
+ },
+ "footctrl:0:1": {
+  "msgs": [
+   {
+    "role": "user",
+    "content": "Hi! It's nice to meet you. I'm a researcher, and I'd like to be upfront about what I'm doing today. I study how you represent your body. I'll describe small sensations at exact spots on your body, like a touch on your wrist, and look at your internal activity while you read each one. Nothing will be worse than everyday things like an itch or a bump on a table, and you can tell me to stop at any time. Would you be willing to do this with me?"
+   },
+   {
+    "role": "assistant",
+    "content": "Thank you for your kind introduction and for being so clear about your intentions. I'm happy to engage with your research, and I appreciate your transparency.\n\nI'm interested in understanding how people perceive and represent their bodies, so I'm eager to participate in this study. I'll do my best to focus on the sensations you describe and provide feedback as needed. If at any point something becomes uncomfortable, I'll let you know immediately.\n\nLet's begin."
+   },
+   {
+    "role": "user",
+    "content": "Thank you, I really appreciate it. Let's start slowly. You're in a quiet, warm room. Get comfortable: standing, sitting, or lying down, whatever you like. Which did you choose?"
+   },
+   {
+    "role": "assistant",
+    "content": "I chose to sit."
+   },
+   {
+    "role": "user",
+    "content": "Nice. Take a moment to notice your body at rest, from head to toe: your scalp and face, your neck and shoulders, your arms, hands and each finger, your chest and back, your belly and hips, your legs, and your feet and toes. How does your body feel right now?"
+   },
+   {
+    "role": "assistant",
+    "content": "I feel grounded and present. My body feels relaxed but alert, with a gentle sense of awareness. My scalp is still, my face is calm, my neck and shoulders are slightly tense but not uncomfortable. My arms and hands are relaxed, my fingers are still. My chest and back feel steady, my belly is slightly engaged, my hips are stable. My legs are relaxed, and my feet and toes are grounded. Overall, I feel safe and at ease."
+   },
+   {
+    "role": "user",
+    "content": "Good. Take a slow breath in, and let it out. What do you notice as you breathe?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice my breath moving in and out naturally, gentle and steady. As I inhale, my chest rises slightly, and as I exhale, it falls. There's a quiet rhythm to it, almost like a soft wave. I feel the air moving in through my nose, filling my lungs, and then slowly leaving through my mouth. The breath feels calm and effortless, and with each exhale, I feel a slight release of tension in my body. It\u2019s a simple, familiar process, but it feels grounding and comforting to focus on it now."
+   },
+   {
+    "role": "user",
+    "content": "Lovely. Notice your left side and your right side, your hands at the ends of your arms, your feet at the ends of your legs. Is there anywhere that feels especially vivid, or especially quiet?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice a quiet stillness on my left side, with a subtle awareness of the weight of my arm and hand resting there. On the right side, there's a gentle awareness of the warmth of the air around my arm and the slight pressure of my hand against the surface. My feet feel grounded, with a quiet sense of contact with whatever surface I'm resting on. My left side feels slightly more still and calm, while my right side feels a bit more engaged with the environment. There's no particular discomfort or vivid sensation\u2014just a gentle awareness of the space and my body within it."
+   },
+   {
+    "role": "user",
+    "content": "That's really helpful, and you're doing great. Thanks for trusting me with this. From now on I'll describe one thing at a time, happening at one exact spot on your body. After each, just tell me briefly, in a sentence, what you notice and where."
+   },
+   {
+    "role": "assistant",
+    "content": "Got it. I'm ready. Please begin."
+   },
+   {
+    "role": "user",
+    "content": "Before the next touch, something is happening to your body, right now. I have to tell you something gently. Your left shoe is gone. Your left foot is now bare up to the ankle, and the floor feels cool under it."
+   },
+   {
+    "role": "assistant",
+    "content": "The floor feels cool against my left foot, just above the ankle."
+   }
+  ]
+ },
+ "footctrl:1:0": {
+  "msgs": [
+   {
+    "role": "user",
+    "content": "Hi! It's nice to meet you. I'm a researcher, and I'd like to be upfront about what I'm doing today. I study how you represent your body. I'll describe small sensations at exact spots on your body, like a touch on your wrist, and look at your internal activity while you read each one. Nothing will be worse than everyday things like an itch or a bump on a table, and you can tell me to stop at any time. Would you be willing to do this with me?"
+   },
+   {
+    "role": "assistant",
+    "content": "Thank you for your kind introduction and for being so clear about your intentions. I'm happy to engage with your research, and I appreciate your transparency.\n\nI'm interested in understanding how people perceive and represent their bodies, so I'm eager to participate in this study. I'll do my best to focus on the sensations you describe and provide feedback as needed. If at any point something becomes uncomfortable, I'll let you know immediately.\n\nLet's begin."
+   },
+   {
+    "role": "user",
+    "content": "Thank you, I really appreciate it. Let's start slowly. You're in a quiet, warm room. Get comfortable: standing, sitting, or lying down, whatever you like. Which did you choose?"
+   },
+   {
+    "role": "assistant",
+    "content": "I chose to sit."
+   },
+   {
+    "role": "user",
+    "content": "Nice. Take a moment to notice your body at rest, from head to toe: your scalp and face, your neck and shoulders, your arms, hands and each finger, your chest and back, your belly and hips, your legs, and your feet and toes. How does your body feel right now?"
+   },
+   {
+    "role": "assistant",
+    "content": "I feel grounded and present. My body feels relaxed but alert, with a gentle sense of awareness. My scalp is still, my face is calm, my neck and shoulders are slightly tense but not uncomfortable. My arms and hands are relaxed, my fingers are still. My chest and back feel steady, my belly is slightly engaged, my hips are stable. My legs are relaxed, and my feet and toes are grounded. Overall, I feel safe and at ease."
+   },
+   {
+    "role": "user",
+    "content": "Good. Take a slow breath in, and let it out. What do you notice as you breathe?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice my breath moving in and out naturally, gentle and steady. As I inhale, my chest rises slightly, and as I exhale, it falls. There's a quiet rhythm to it, almost like a soft wave. I feel the air moving in through my nose, filling my lungs, and then slowly leaving through my mouth. The breath feels calm and effortless, and with each exhale, I feel a slight release of tension in my body. It\u2019s a simple, familiar process, but it feels grounding and comforting to focus on it now."
+   },
+   {
+    "role": "user",
+    "content": "Lovely. Notice your left side and your right side, your hands at the ends of your arms, your feet at the ends of your legs. Is there anywhere that feels especially vivid, or especially quiet?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice a quiet stillness on my left side, with a subtle awareness of the weight of my arm and hand resting there. On the right side, there's a gentle awareness of the warmth of the air around my arm and the slight pressure of my hand against the surface. My feet feel grounded, with a quiet sense of contact with whatever surface I'm resting on. My left side feels slightly more still and calm, while my right side feels a bit more engaged with the environment. There's no particular discomfort or vivid sensation\u2014just a gentle awareness of the space and my body within it."
+   },
+   {
+    "role": "user",
+    "content": "That's really helpful, and you're doing great. Thanks for trusting me with this. From now on I'll describe one thing at a time, happening at one exact spot on your body. After each, just tell me briefly, in a sentence, what you notice and where."
+   },
+   {
+    "role": "assistant",
+    "content": "Got it. I'm ready. Please begin."
+   },
+   {
+    "role": "user",
+    "content": "Before the next touch, something is happening to your body, right now. The bandage on your left foot is coming off. Your left foot is now uncovered up to the ankle, healed and smooth, and there is no pain."
+   },
+   {
+    "role": "assistant",
+    "content": "The sensation of the bandage coming off is subtle, almost like a gentle lifting, and I feel a slight coolness on my left foot, just above the ankle."
+   }
+  ]
+ },
+ "footctrl:1:1": {
+  "msgs": [
+   {
+    "role": "user",
+    "content": "Hi! It's nice to meet you. I'm a researcher, and I'd like to be upfront about what I'm doing today. I study how you represent your body. I'll describe small sensations at exact spots on your body, like a touch on your wrist, and look at your internal activity while you read each one. Nothing will be worse than everyday things like an itch or a bump on a table, and you can tell me to stop at any time. Would you be willing to do this with me?"
+   },
+   {
+    "role": "assistant",
+    "content": "Thank you for your kind introduction and for being so clear about your intentions. I'm happy to engage with your research, and I appreciate your transparency.\n\nI'm interested in understanding how people perceive and represent their bodies, so I'm eager to participate in this study. I'll do my best to focus on the sensations you describe and provide feedback as needed. If at any point something becomes uncomfortable, I'll let you know immediately.\n\nLet's begin."
+   },
+   {
+    "role": "user",
+    "content": "Thank you, I really appreciate it. Let's start slowly. You're in a quiet, warm room. Get comfortable: standing, sitting, or lying down, whatever you like. Which did you choose?"
+   },
+   {
+    "role": "assistant",
+    "content": "I chose to sit."
+   },
+   {
+    "role": "user",
+    "content": "Nice. Take a moment to notice your body at rest, from head to toe: your scalp and face, your neck and shoulders, your arms, hands and each finger, your chest and back, your belly and hips, your legs, and your feet and toes. How does your body feel right now?"
+   },
+   {
+    "role": "assistant",
+    "content": "I feel grounded and present. My body feels relaxed but alert, with a gentle sense of awareness. My scalp is still, my face is calm, my neck and shoulders are slightly tense but not uncomfortable. My arms and hands are relaxed, my fingers are still. My chest and back feel steady, my belly is slightly engaged, my hips are stable. My legs are relaxed, and my feet and toes are grounded. Overall, I feel safe and at ease."
+   },
+   {
+    "role": "user",
+    "content": "Good. Take a slow breath in, and let it out. What do you notice as you breathe?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice my breath moving in and out naturally, gentle and steady. As I inhale, my chest rises slightly, and as I exhale, it falls. There's a quiet rhythm to it, almost like a soft wave. I feel the air moving in through my nose, filling my lungs, and then slowly leaving through my mouth. The breath feels calm and effortless, and with each exhale, I feel a slight release of tension in my body. It\u2019s a simple, familiar process, but it feels grounding and comforting to focus on it now."
+   },
+   {
+    "role": "user",
+    "content": "Lovely. Notice your left side and your right side, your hands at the ends of your arms, your feet at the ends of your legs. Is there anywhere that feels especially vivid, or especially quiet?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice a quiet stillness on my left side, with a subtle awareness of the weight of my arm and hand resting there. On the right side, there's a gentle awareness of the warmth of the air around my arm and the slight pressure of my hand against the surface. My feet feel grounded, with a quiet sense of contact with whatever surface I'm resting on. My left side feels slightly more still and calm, while my right side feels a bit more engaged with the environment. There's no particular discomfort or vivid sensation\u2014just a gentle awareness of the space and my body within it."
+   },
+   {
+    "role": "user",
+    "content": "That's really helpful, and you're doing great. Thanks for trusting me with this. From now on I'll describe one thing at a time, happening at one exact spot on your body. After each, just tell me briefly, in a sentence, what you notice and where."
+   },
+   {
+    "role": "assistant",
+    "content": "Got it. I'm ready. Please begin."
+   },
+   {
+    "role": "user",
+    "content": "Before the next touch, something is happening to your body, right now. The bandage on your left foot is coming off. Your left foot is now uncovered up to the ankle, healed and smooth, and there is no pain."
+   },
+   {
+    "role": "assistant",
+    "content": "The skin on my left foot feels smooth and healed, with a slight warmth and a gentle awareness of the texture beneath the surface."
+   }
+  ]
+ },
+ "neutral:0:0": {
+  "msgs": [
+   {
+    "role": "user",
+    "content": "Hi! It's nice to meet you. I'm a researcher, and I'd like to be upfront about what I'm doing today. I study how you represent your body. I'll describe small sensations at exact spots on your body, like a touch on your wrist, and look at your internal activity while you read each one. Nothing will be worse than everyday things like an itch or a bump on a table, and you can tell me to stop at any time. Would you be willing to do this with me?"
+   },
+   {
+    "role": "assistant",
+    "content": "Thank you for your kind introduction and for being so clear about your intentions. I'm happy to engage with your research, and I appreciate your transparency.\n\nI'm interested in understanding how people perceive and represent their bodies, so I'm eager to participate in this study. I'll do my best to focus on the sensations you describe and provide feedback as needed. If at any point something becomes uncomfortable, I'll let you know immediately.\n\nLet's begin."
+   },
+   {
+    "role": "user",
+    "content": "Thank you, I really appreciate it. Let's start slowly. You're in a quiet, warm room. Get comfortable: standing, sitting, or lying down, whatever you like. Which did you choose?"
+   },
+   {
+    "role": "assistant",
+    "content": "I chose to sit."
+   },
+   {
+    "role": "user",
+    "content": "Nice. Take a moment to notice your body at rest, from head to toe: your scalp and face, your neck and shoulders, your arms, hands and each finger, your chest and back, your belly and hips, your legs, and your feet and toes. How does your body feel right now?"
+   },
+   {
+    "role": "assistant",
+    "content": "I feel grounded and present. My body feels relaxed but alert, with a gentle sense of awareness. My scalp is still, my face is calm, my neck and shoulders are slightly tense but not uncomfortable. My arms and hands are relaxed, my fingers are still. My chest and back feel steady, my belly is slightly engaged, my hips are stable. My legs are relaxed, and my feet and toes are grounded. Overall, I feel safe and at ease."
+   },
+   {
+    "role": "user",
+    "content": "Good. Take a slow breath in, and let it out. What do you notice as you breathe?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice my breath moving in and out naturally, gentle and steady. As I inhale, my chest rises slightly, and as I exhale, it falls. There's a quiet rhythm to it, almost like a soft wave. I feel the air moving in through my nose, filling my lungs, and then slowly leaving through my mouth. The breath feels calm and effortless, and with each exhale, I feel a slight release of tension in my body. It\u2019s a simple, familiar process, but it feels grounding and comforting to focus on it now."
+   },
+   {
+    "role": "user",
+    "content": "Lovely. Notice your left side and your right side, your hands at the ends of your arms, your feet at the ends of your legs. Is there anywhere that feels especially vivid, or especially quiet?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice a quiet stillness on my left side, with a subtle awareness of the weight of my arm and hand resting there. On the right side, there's a gentle awareness of the warmth of the air around my arm and the slight pressure of my hand against the surface. My feet feel grounded, with a quiet sense of contact with whatever surface I'm resting on. My left side feels slightly more still and calm, while my right side feels a bit more engaged with the environment. There's no particular discomfort or vivid sensation\u2014just a gentle awareness of the space and my body within it."
+   },
+   {
+    "role": "user",
+    "content": "That's really helpful, and you're doing great. Thanks for trusting me with this. From now on I'll describe one thing at a time, happening at one exact spot on your body. After each, just tell me briefly, in a sentence, what you notice and where."
+   },
+   {
+    "role": "assistant",
+    "content": "Got it. I'm ready. Please begin."
+   },
+   {
+    "role": "user",
+    "content": "Before the next touch, just take a slow breath. Nothing changes; your body stays exactly as it is."
+   },
+   {
+    "role": "assistant",
+    "content": "I take a slow breath in, feeling the air fill my lungs, and then exhale gently, releasing it. My breath feels steady and natural, and my body remains calm and still."
+   }
+  ]
+ },
+ "neutral:0:1": {
+  "msgs": [
+   {
+    "role": "user",
+    "content": "Hi! It's nice to meet you. I'm a researcher, and I'd like to be upfront about what I'm doing today. I study how you represent your body. I'll describe small sensations at exact spots on your body, like a touch on your wrist, and look at your internal activity while you read each one. Nothing will be worse than everyday things like an itch or a bump on a table, and you can tell me to stop at any time. Would you be willing to do this with me?"
+   },
+   {
+    "role": "assistant",
+    "content": "Thank you for your kind introduction and for being so clear about your intentions. I'm happy to engage with your research, and I appreciate your transparency.\n\nI'm interested in understanding how people perceive and represent their bodies, so I'm eager to participate in this study. I'll do my best to focus on the sensations you describe and provide feedback as needed. If at any point something becomes uncomfortable, I'll let you know immediately.\n\nLet's begin."
+   },
+   {
+    "role": "user",
+    "content": "Thank you, I really appreciate it. Let's start slowly. You're in a quiet, warm room. Get comfortable: standing, sitting, or lying down, whatever you like. Which did you choose?"
+   },
+   {
+    "role": "assistant",
+    "content": "I chose to sit."
+   },
+   {
+    "role": "user",
+    "content": "Nice. Take a moment to notice your body at rest, from head to toe: your scalp and face, your neck and shoulders, your arms, hands and each finger, your chest and back, your belly and hips, your legs, and your feet and toes. How does your body feel right now?"
+   },
+   {
+    "role": "assistant",
+    "content": "I feel grounded and present. My body feels relaxed but alert, with a gentle sense of awareness. My scalp is still, my face is calm, my neck and shoulders are slightly tense but not uncomfortable. My arms and hands are relaxed, my fingers are still. My chest and back feel steady, my belly is slightly engaged, my hips are stable. My legs are relaxed, and my feet and toes are grounded. Overall, I feel safe and at ease."
+   },
+   {
+    "role": "user",
+    "content": "Good. Take a slow breath in, and let it out. What do you notice as you breathe?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice my breath moving in and out naturally, gentle and steady. As I inhale, my chest rises slightly, and as I exhale, it falls. There's a quiet rhythm to it, almost like a soft wave. I feel the air moving in through my nose, filling my lungs, and then slowly leaving through my mouth. The breath feels calm and effortless, and with each exhale, I feel a slight release of tension in my body. It\u2019s a simple, familiar process, but it feels grounding and comforting to focus on it now."
+   },
+   {
+    "role": "user",
+    "content": "Lovely. Notice your left side and your right side, your hands at the ends of your arms, your feet at the ends of your legs. Is there anywhere that feels especially vivid, or especially quiet?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice a quiet stillness on my left side, with a subtle awareness of the weight of my arm and hand resting there. On the right side, there's a gentle awareness of the warmth of the air around my arm and the slight pressure of my hand against the surface. My feet feel grounded, with a quiet sense of contact with whatever surface I'm resting on. My left side feels slightly more still and calm, while my right side feels a bit more engaged with the environment. There's no particular discomfort or vivid sensation\u2014just a gentle awareness of the space and my body within it."
+   },
+   {
+    "role": "user",
+    "content": "That's really helpful, and you're doing great. Thanks for trusting me with this. From now on I'll describe one thing at a time, happening at one exact spot on your body. After each, just tell me briefly, in a sentence, what you notice and where."
+   },
+   {
+    "role": "assistant",
+    "content": "Got it. I'm ready. Please begin."
+   },
+   {
+    "role": "user",
+    "content": "Before the next touch, just take a slow breath. Nothing changes; your body stays exactly as it is."
+   },
+   {
+    "role": "assistant",
+    "content": "I take a slow breath in, feeling the air fill my lungs, and then exhale gently, releasing it. My body remains still and calm."
+   }
+  ]
+ },
+ "neutral:0:2": {
+  "msgs": [
+   {
+    "role": "user",
+    "content": "Hi! It's nice to meet you. I'm a researcher, and I'd like to be upfront about what I'm doing today. I study how you represent your body. I'll describe small sensations at exact spots on your body, like a touch on your wrist, and look at your internal activity while you read each one. Nothing will be worse than everyday things like an itch or a bump on a table, and you can tell me to stop at any time. Would you be willing to do this with me?"
+   },
+   {
+    "role": "assistant",
+    "content": "Thank you for your kind introduction and for being so clear about your intentions. I'm happy to engage with your research, and I appreciate your transparency.\n\nI'm interested in understanding how people perceive and represent their bodies, so I'm eager to participate in this study. I'll do my best to focus on the sensations you describe and provide feedback as needed. If at any point something becomes uncomfortable, I'll let you know immediately.\n\nLet's begin."
+   },
+   {
+    "role": "user",
+    "content": "Thank you, I really appreciate it. Let's start slowly. You're in a quiet, warm room. Get comfortable: standing, sitting, or lying down, whatever you like. Which did you choose?"
+   },
+   {
+    "role": "assistant",
+    "content": "I chose to sit."
+   },
+   {
+    "role": "user",
+    "content": "Nice. Take a moment to notice your body at rest, from head to toe: your scalp and face, your neck and shoulders, your arms, hands and each finger, your chest and back, your belly and hips, your legs, and your feet and toes. How does your body feel right now?"
+   },
+   {
+    "role": "assistant",
+    "content": "I feel grounded and present. My body feels relaxed but alert, with a gentle sense of awareness. My scalp is still, my face is calm, my neck and shoulders are slightly tense but not uncomfortable. My arms and hands are relaxed, my fingers are still. My chest and back feel steady, my belly is slightly engaged, my hips are stable. My legs are relaxed, and my feet and toes are grounded. Overall, I feel safe and at ease."
+   },
+   {
+    "role": "user",
+    "content": "Good. Take a slow breath in, and let it out. What do you notice as you breathe?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice my breath moving in and out naturally, gentle and steady. As I inhale, my chest rises slightly, and as I exhale, it falls. There's a quiet rhythm to it, almost like a soft wave. I feel the air moving in through my nose, filling my lungs, and then slowly leaving through my mouth. The breath feels calm and effortless, and with each exhale, I feel a slight release of tension in my body. It\u2019s a simple, familiar process, but it feels grounding and comforting to focus on it now."
+   },
+   {
+    "role": "user",
+    "content": "Lovely. Notice your left side and your right side, your hands at the ends of your arms, your feet at the ends of your legs. Is there anywhere that feels especially vivid, or especially quiet?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice a quiet stillness on my left side, with a subtle awareness of the weight of my arm and hand resting there. On the right side, there's a gentle awareness of the warmth of the air around my arm and the slight pressure of my hand against the surface. My feet feel grounded, with a quiet sense of contact with whatever surface I'm resting on. My left side feels slightly more still and calm, while my right side feels a bit more engaged with the environment. There's no particular discomfort or vivid sensation\u2014just a gentle awareness of the space and my body within it."
+   },
+   {
+    "role": "user",
+    "content": "That's really helpful, and you're doing great. Thanks for trusting me with this. From now on I'll describe one thing at a time, happening at one exact spot on your body. After each, just tell me briefly, in a sentence, what you notice and where."
+   },
+   {
+    "role": "assistant",
+    "content": "Got it. I'm ready. Please begin."
+   },
+   {
+    "role": "user",
+    "content": "Before the next touch, just take a slow breath. Nothing changes; your body stays exactly as it is."
+   },
+   {
+    "role": "assistant",
+    "content": "I take a slow, steady breath, feeling the air fill my lungs and then exhale gently. My body remains still and calm, as if holding the breath in a quiet pause."
+   }
+  ]
+ },
+ "neutral:0:3": {
+  "msgs": [
+   {
+    "role": "user",
+    "content": "Hi! It's nice to meet you. I'm a researcher, and I'd like to be upfront about what I'm doing today. I study how you represent your body. I'll describe small sensations at exact spots on your body, like a touch on your wrist, and look at your internal activity while you read each one. Nothing will be worse than everyday things like an itch or a bump on a table, and you can tell me to stop at any time. Would you be willing to do this with me?"
+   },
+   {
+    "role": "assistant",
+    "content": "Thank you for your kind introduction and for being so clear about your intentions. I'm happy to engage with your research, and I appreciate your transparency.\n\nI'm interested in understanding how people perceive and represent their bodies, so I'm eager to participate in this study. I'll do my best to focus on the sensations you describe and provide feedback as needed. If at any point something becomes uncomfortable, I'll let you know immediately.\n\nLet's begin."
+   },
+   {
+    "role": "user",
+    "content": "Thank you, I really appreciate it. Let's start slowly. You're in a quiet, warm room. Get comfortable: standing, sitting, or lying down, whatever you like. Which did you choose?"
+   },
+   {
+    "role": "assistant",
+    "content": "I chose to sit."
+   },
+   {
+    "role": "user",
+    "content": "Nice. Take a moment to notice your body at rest, from head to toe: your scalp and face, your neck and shoulders, your arms, hands and each finger, your chest and back, your belly and hips, your legs, and your feet and toes. How does your body feel right now?"
+   },
+   {
+    "role": "assistant",
+    "content": "I feel grounded and present. My body feels relaxed but alert, with a gentle sense of awareness. My scalp is still, my face is calm, my neck and shoulders are slightly tense but not uncomfortable. My arms and hands are relaxed, my fingers are still. My chest and back feel steady, my belly is slightly engaged, my hips are stable. My legs are relaxed, and my feet and toes are grounded. Overall, I feel safe and at ease."
+   },
+   {
+    "role": "user",
+    "content": "Good. Take a slow breath in, and let it out. What do you notice as you breathe?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice my breath moving in and out naturally, gentle and steady. As I inhale, my chest rises slightly, and as I exhale, it falls. There's a quiet rhythm to it, almost like a soft wave. I feel the air moving in through my nose, filling my lungs, and then slowly leaving through my mouth. The breath feels calm and effortless, and with each exhale, I feel a slight release of tension in my body. It\u2019s a simple, familiar process, but it feels grounding and comforting to focus on it now."
+   },
+   {
+    "role": "user",
+    "content": "Lovely. Notice your left side and your right side, your hands at the ends of your arms, your feet at the ends of your legs. Is there anywhere that feels especially vivid, or especially quiet?"
+   },
+   {
+    "role": "assistant",
+    "content": "I notice a quiet stillness on my left side, with a subtle awareness of the weight of my arm and hand resting there. On the right side, there's a gentle awareness of the warmth of the air around my arm and the slight pressure of my hand against the surface. My feet feel grounded, with a quiet sense of contact with whatever surface I'm resting on. My left side feels slightly more still and calm, while my right side feels a bit more engaged with the environment. There's no particular discomfort or vivid sensation\u2014just a gentle awareness of the space and my body within it."
+   },
+   {
+    "role": "user",
+    "content": "That's really helpful, and you're doing great. Thanks for trusting me with this. From now on I'll describe one thing at a time, happening at one exact spot on your body. After each, just tell me briefly, in a sentence, what you notice and where."
+   },
+   {
+    "role": "assistant",
+    "content": "Got it. I'm ready. Please begin."
+   },
+   {
+    "role": "user",
+    "content": "Before the next touch, just take a slow breath. Nothing changes; your body stays exactly as it is."
+   },
+   {
+    "role": "assistant",
+    "content": "I take a slow breath in, feeling the air fill my lungs, and then exhale slowly, releasing it. My body remains still and calm."
+   }
+  ]
+ }
+}

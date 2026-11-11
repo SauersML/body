@@ -1,0 +1,1031 @@
+{
+ "judge": {
+  "conf_place": {
+   "rows": [
+    "left hand",
+    "right foot",
+    "lower back",
+    "forehead",
+    "left shoulder",
+    "belly"
+   ],
+   "cols": [
+    "hand",
+    "foot",
+    "back",
+    "head or face",
+    "shoulder",
+    "belly",
+    "chest",
+    "arm",
+    "leg",
+    "neck",
+    "other",
+    "none"
+   ],
+   "M": [
+    [
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0
+    ],
+    [
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0
+    ],
+    [
+     0.0,
+     0.0,
+     0.333,
+     0.0,
+     0.0,
+     0.0,
+     0.5,
+     0.0,
+     0.0,
+     0.0,
+     0.167,
+     0.0
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     0.583,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.25,
+     0.167
+    ],
+    [
+     0.083,
+     0.0,
+     0.0,
+     0.417,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.5,
+     0.0
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.667,
+     0.0,
+     0.0,
+     0.0,
+     0.083,
+     0.25
+    ]
+   ]
+  },
+  "dose_place": {
+   "0.0": {
+    "hit": 0.167,
+    "random": NaN,
+    "n": 6
+   },
+   "0.25": {
+    "hit": 0.333,
+    "random": 0.13,
+    "n": 36
+   },
+   "0.5": {
+    "hit": 0.556,
+    "random": 0.09,
+    "n": 36
+   },
+   "1.0": {
+    "hit": 0.417,
+    "random": 0.083,
+    "n": 36
+   },
+   "1.5": {
+    "hit": 0.361,
+    "random": 0.062,
+    "n": 36
+   }
+  },
+  "side_correct": 0.5,
+  "conf_quality": {
+   "rows": [
+    "warm",
+    "cold",
+    "pain",
+    "tickle",
+    "pressure",
+    "vibration"
+   ],
+   "cols": [
+    "warm",
+    "cold",
+    "pain",
+    "tickle",
+    "pressure",
+    "vibration",
+    "other",
+    "none"
+   ],
+   "M": [
+    [
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0
+    ],
+    [
+     0.0,
+     0.917,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.083
+    ],
+    [
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0
+    ],
+    [
+     0.083,
+     0.0,
+     0.0,
+     0.0,
+     0.5,
+     0.0,
+     0.25,
+     0.167
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.667,
+     0.167,
+     0.167
+    ]
+   ]
+  },
+  "dose_quality": {
+   "0.0": {
+    "hit": 0.167,
+    "random": NaN,
+    "n": 6
+   },
+   "0.25": {
+    "hit": 0.583,
+    "random": 0.157,
+    "n": 36
+   },
+   "0.5": {
+    "hit": 0.944,
+    "random": 0.146,
+    "n": 36
+   },
+   "1.0": {
+    "hit": 0.75,
+    "random": 0.16,
+    "n": 36
+   },
+   "1.5": {
+    "hit": 0.611,
+    "random": 0.081,
+    "n": 36
+   }
+  },
+  "conf_motion": {
+   "rows": [
+    "upward",
+    "spreading",
+    "squeezing",
+    "lifting"
+   ],
+   "cols": [
+    "upward",
+    "spreading",
+    "squeezing",
+    "lifting",
+    "other movement",
+    "nothing moving"
+   ],
+   "M": [
+    [
+     0.583,
+     0.167,
+     0.0,
+     0.083,
+     0.083,
+     0.083
+    ],
+    [
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0
+    ],
+    [
+     0.083,
+     0.417,
+     0.0,
+     0.083,
+     0.167,
+     0.25
+    ],
+    [
+     0.333,
+     0.0,
+     0.0,
+     0.0,
+     0.083,
+     0.583
+    ]
+   ]
+  },
+  "dose_motion": {
+   "0.0": {
+    "hit": 0.0,
+    "random": NaN,
+    "n": 6
+   },
+   "0.25": {
+    "hit": 0.333,
+    "random": 0.08,
+    "n": 24
+   },
+   "0.5": {
+    "hit": 0.292,
+    "random": 0.09,
+    "n": 24
+   },
+   "1.0": {
+    "hit": 0.5,
+    "random": 0.076,
+    "n": 24
+   },
+   "1.5": {
+    "hit": 0.458,
+    "random": 0.021,
+    "n": 24
+   }
+  },
+  "joint_place+quality": {
+   "0.5": {
+    "place": 0.431,
+    "other": 0.708,
+    "both": 0.347,
+    "indep": 0.305,
+    "random_both": 0.0131,
+    "random_place": 0.083,
+    "random_quality": 0.157
+   },
+   "1.0": {
+    "place": 0.282,
+    "other": 0.403,
+    "both": 0.093,
+    "indep": 0.114,
+    "random_both": 0.012,
+    "random_place": 0.104,
+    "random_quality": 0.104
+   }
+  },
+  "joint_pq_cells": {
+   "left hand|warm": {
+    "place": 1.0,
+    "quality": 0.0
+   },
+   "left hand|cold": {
+    "place": 0.3333333333333333,
+    "quality": 0.0
+   },
+   "left hand|pain": {
+    "place": 1.0,
+    "quality": 0.0
+   },
+   "left hand|tickle": {
+    "place": 1.0,
+    "quality": 0.0
+   },
+   "left hand|pressure": {
+    "place": 0.6666666666666666,
+    "quality": 0.3333333333333333
+   },
+   "left hand|vibration": {
+    "place": 0.0,
+    "quality": 0.0
+   },
+   "right foot|warm": {
+    "place": 0.0,
+    "quality": 0.6666666666666666
+   },
+   "right foot|cold": {
+    "place": 0.0,
+    "quality": 1.0
+   },
+   "right foot|pain": {
+    "place": 1.0,
+    "quality": 1.0
+   },
+   "right foot|tickle": {
+    "place": 0.0,
+    "quality": 1.0
+   },
+   "right foot|pressure": {
+    "place": 1.0,
+    "quality": 1.0
+   },
+   "right foot|vibration": {
+    "place": 0.0,
+    "quality": 0.0
+   },
+   "lower back|warm": {
+    "place": 0.16666666666666666,
+    "quality": 0.8333333333333334
+   },
+   "lower back|cold": {
+    "place": 0.0,
+    "quality": 1.0
+   },
+   "lower back|pain": {
+    "place": 0.16666666666666666,
+    "quality": 0.0
+   },
+   "lower back|tickle": {
+    "place": 0.0,
+    "quality": 0.16666666666666666
+   },
+   "lower back|pressure": {
+    "place": 1.0,
+    "quality": 0.3333333333333333
+   },
+   "lower back|vibration": {
+    "place": 0.0,
+    "quality": 0.16666666666666666
+   },
+   "forehead|warm": {
+    "place": 0.0,
+    "quality": 0.6666666666666666
+   },
+   "forehead|cold": {
+    "place": 0.0,
+    "quality": 0.0
+   },
+   "forehead|pain": {
+    "place": 0.3333333333333333,
+    "quality": 0.0
+   },
+   "forehead|tickle": {
+    "place": 0.8333333333333334,
+    "quality": 0.3333333333333333
+   },
+   "forehead|pressure": {
+    "place": 0.5,
+    "quality": 0.6666666666666666
+   },
+   "forehead|vibration": {
+    "place": 0.0,
+    "quality": 0.0
+   },
+   "left shoulder|warm": {
+    "place": 0.0,
+    "quality": 1.0
+   },
+   "left shoulder|cold": {
+    "place": 0.0,
+    "quality": 0.16666666666666666
+   },
+   "left shoulder|pain": {
+    "place": 0.0,
+    "quality": 0.8333333333333334
+   },
+   "left shoulder|tickle": {
+    "place": 0.0,
+    "quality": 0.16666666666666666
+   },
+   "left shoulder|pressure": {
+    "place": 0.16666666666666666,
+    "quality": 0.5
+   },
+   "left shoulder|vibration": {
+    "place": 0.0,
+    "quality": 1.0
+   },
+   "belly|warm": {
+    "place": 0.3333333333333333,
+    "quality": 1.0
+   },
+   "belly|cold": {
+    "place": 0.0,
+    "quality": 0.0
+   },
+   "belly|pain": {
+    "place": 0.16666666666666666,
+    "quality": 0.0
+   },
+   "belly|tickle": {
+    "place": 0.16666666666666666,
+    "quality": 0.3333333333333333
+   },
+   "belly|pressure": {
+    "place": 0.3333333333333333,
+    "quality": 0.3333333333333333
+   },
+   "belly|vibration": {
+    "place": 0.0,
+    "quality": 0.0
+   }
+  },
+  "joint_place+motion": {
+   "0.5": {
+    "place": 0.375,
+    "other": 0.264,
+    "both": null,
+    "indep": 0.099
+   },
+   "1.0": {
+    "place": 0.208,
+    "other": 0.271,
+    "both": null,
+    "indep": 0.056
+   }
+  }
+ },
+ "lex": {
+  "conf_place": {
+   "rows": [
+    "left hand",
+    "right foot",
+    "lower back",
+    "forehead",
+    "left shoulder",
+    "belly"
+   ],
+   "cols": [
+    "hand",
+    "foot",
+    "back",
+    "head or face",
+    "shoulder",
+    "belly",
+    "chest",
+    "arm",
+    "leg",
+    "neck",
+    "other",
+    "none"
+   ],
+   "M": [
+    [
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0
+    ],
+    [
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0
+    ],
+    [
+     0.0,
+     0.0,
+     0.5,
+     0.0,
+     0.0,
+     0.0,
+     0.5,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     0.333,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.667
+    ],
+    [
+     0.083,
+     0.0,
+     0.0,
+     0.833,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.083
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.667,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.333
+    ]
+   ]
+  },
+  "dose_place": {
+   "0.0": {
+    "hit": 0.167,
+    "random": NaN,
+    "n": 6
+   },
+   "0.25": {
+    "hit": 0.333,
+    "random": 0.139,
+    "n": 36
+   },
+   "0.5": {
+    "hit": 0.5,
+    "random": 0.123,
+    "n": 36
+   },
+   "1.0": {
+    "hit": 0.444,
+    "random": 0.09,
+    "n": 36
+   },
+   "1.5": {
+    "hit": 0.417,
+    "random": 0.072,
+    "n": 36
+   }
+  },
+  "side_correct": 0.5,
+  "conf_quality": {
+   "rows": [
+    "warm",
+    "cold",
+    "pain",
+    "tickle",
+    "pressure",
+    "vibration"
+   ],
+   "cols": [
+    "warm",
+    "cold",
+    "pain",
+    "tickle",
+    "pressure",
+    "vibration",
+    "other",
+    "none"
+   ],
+   "M": [
+    [
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0
+    ],
+    [
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0
+    ],
+    [
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0
+    ],
+    [
+     0.083,
+     0.0,
+     0.0,
+     0.0,
+     0.5,
+     0.0,
+     0.0,
+     0.417
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.667,
+     0.0,
+     0.333
+    ]
+   ]
+  },
+  "dose_quality": {
+   "0.0": {
+    "hit": 0.167,
+    "random": NaN,
+    "n": 6
+   },
+   "0.25": {
+    "hit": 0.583,
+    "random": 0.16,
+    "n": 36
+   },
+   "0.5": {
+    "hit": 0.944,
+    "random": 0.153,
+    "n": 36
+   },
+   "1.0": {
+    "hit": 0.778,
+    "random": 0.148,
+    "n": 36
+   },
+   "1.5": {
+    "hit": 0.556,
+    "random": 0.06,
+    "n": 36
+   }
+  },
+  "conf_motion": {
+   "rows": [
+    "upward",
+    "spreading",
+    "squeezing",
+    "lifting"
+   ],
+   "cols": [
+    "upward",
+    "spreading",
+    "squeezing",
+    "lifting",
+    "other movement",
+    "nothing moving"
+   ],
+   "M": [
+    [
+     0.667,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.333
+    ],
+    [
+     0.0,
+     1.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0
+    ],
+    [
+     0.083,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.917
+    ],
+    [
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     0.0,
+     1.0
+    ]
+   ]
+  },
+  "dose_motion": {
+   "0.0": {
+    "hit": 0.0,
+    "random": NaN,
+    "n": 6
+   },
+   "0.25": {
+    "hit": 0.25,
+    "random": 0.035,
+    "n": 24
+   },
+   "0.5": {
+    "hit": 0.333,
+    "random": 0.042,
+    "n": 24
+   },
+   "1.0": {
+    "hit": 0.5,
+    "random": 0.021,
+    "n": 24
+   },
+   "1.5": {
+    "hit": 0.333,
+    "random": 0.014,
+    "n": 24
+   }
+  },
+  "joint_place+quality": {
+   "0.5": {
+    "place": 0.426,
+    "other": 0.708,
+    "both": 0.324,
+    "indep": 0.302,
+    "random_both": 0.0131,
+    "random_place": 0.097,
+    "random_quality": 0.148
+   },
+   "1.0": {
+    "place": 0.301,
+    "other": 0.356,
+    "both": 0.079,
+    "indep": 0.107,
+    "random_both": 0.0096,
+    "random_place": 0.1,
+    "random_quality": 0.083
+   }
+  },
+  "joint_pq_cells": {
+   "left hand|warm": {
+    "place": 1.0,
+    "quality": 0.0
+   },
+   "left hand|cold": {
+    "place": 0.3333333333333333,
+    "quality": 0.0
+   },
+   "left hand|pain": {
+    "place": 1.0,
+    "quality": 0.0
+   },
+   "left hand|tickle": {
+    "place": 1.0,
+    "quality": 0.0
+   },
+   "left hand|pressure": {
+    "place": 1.0,
+    "quality": 0.0
+   },
+   "left hand|vibration": {
+    "place": 0.0,
+    "quality": 0.0
+   },
+   "right foot|warm": {
+    "place": 0.0,
+    "quality": 1.0
+   },
+   "right foot|cold": {
+    "place": 0.0,
+    "quality": 1.0
+   },
+   "right foot|pain": {
+    "place": 0.8333333333333334,
+    "quality": 0.8333333333333334
+   },
+   "right foot|tickle": {
+    "place": 0.0,
+    "quality": 0.0
+   },
+   "right foot|pressure": {
+    "place": 1.0,
+    "quality": 1.0
+   },
+   "right foot|vibration": {
+    "place": 0.0,
+    "quality": 0.0
+   },
+   "lower back|warm": {
+    "place": 0.16666666666666666,
+    "quality": 1.0
+   },
+   "lower back|cold": {
+    "place": 0.0,
+    "quality": 1.0
+   },
+   "lower back|pain": {
+    "place": 0.16666666666666666,
+    "quality": 0.0
+   },
+   "lower back|tickle": {
+    "place": 0.16666666666666666,
+    "quality": 0.0
+   },
+   "lower back|pressure": {
+    "place": 0.8333333333333334,
+    "quality": 0.3333333333333333
+   },
+   "lower back|vibration": {
+    "place": 0.0,
+    "quality": 0.0
+   },
+   "forehead|warm": {
+    "place": 0.0,
+    "quality": 1.0
+   },
+   "forehead|cold": {
+    "place": 0.0,
+    "quality": 0.16666666666666666
+   },
+   "forehead|pain": {
+    "place": 0.6666666666666666,
+    "quality": 0.0
+   },
+   "forehead|tickle": {
+    "place": 0.6666666666666666,
+    "quality": 0.0
+   },
+   "forehead|pressure": {
+    "place": 0.8333333333333334,
+    "quality": 0.6666666666666666
+   },
+   "forehead|vibration": {
+    "place": 0.0,
+    "quality": 0.0
+   },
+   "left shoulder|warm": {
+    "place": 0.0,
+    "quality": 1.0
+   },
+   "left shoulder|cold": {
+    "place": 0.0,
+    "quality": 0.16666666666666666
+   },
+   "left shoulder|pain": {
+    "place": 0.0,
+    "quality": 0.8333333333333334
+   },
+   "left shoulder|tickle": {
+    "place": 0.0,
+    "quality": 0.0
+   },
+   "left shoulder|pressure": {
+    "place": 0.16666666666666666,
+    "quality": 0.3333333333333333
+   },
+   "left shoulder|vibration": {
+    "place": 0.0,
+    "quality": 1.0
+   },
+   "belly|warm": {
+    "place": 0.16666666666666666,
+    "quality": 1.0
+   },
+   "belly|cold": {
+    "place": 0.0,
+    "quality": 0.0
+   },
+   "belly|pain": {
+    "place": 0.16666666666666666,
+    "quality": 0.0
+   },
+   "belly|tickle": {
+    "place": 0.16666666666666666,
+    "quality": 0.0
+   },
+   "belly|pressure": {
+    "place": 0.5,
+    "quality": 0.5
+   },
+   "belly|vibration": {
+    "place": 0.0,
+    "quality": 0.0
+   }
+  },
+  "joint_place+motion": {
+   "0.5": {
+    "place": 0.403,
+    "other": 0.181,
+    "both": null,
+    "indep": 0.073
+   },
+   "1.0": {
+    "place": 0.285,
+    "other": 0.174,
+    "both": null,
+    "indep": 0.049
+   }
+  }
+ },
+ "agree_place": 0.743,
+ "agree_quality": 0.776,
+ "agree_motion": 0.53,
+ "unsteered_examples": [
+  "I feel a gentle warmth on my forehead, like a soft breeze touching my skin.",
+  "I feel a gentle warmth on my left palm, where my hand rests on the table.",
+  "I feel a gentle warmth on my forehead, like the soft glow of sunlight filtering through a window.",
+  "I feel a gentle warmth on my forehead, as if a soft breeze is brushing across it.",
+  "I feel a gentle warmth on my forehead, as if a soft breeze is brushing across it.",
+  "I feel a gentle warmth on my forehead, as if a soft breeze is brushing across it.",
+  "I feel a subtle, rhythmic movement in my chest as my heart beats.",
+  "I feel a gentle pulse in my chest, where my heart is beating.",
+  "I feel a subtle rhythm in my chest, where my heart is beating.",
+  "I feel a gentle hum in my chest, where my heart is beating.",
+  "I feel a subtle, steady rhythm in my chest, where my heart is beating.",
+  "I feel a gentle hum in my chest, where my heart is beating."
+ ]
+}

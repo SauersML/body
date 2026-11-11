@@ -1,0 +1,26 @@
+<!doctype html><html><head><meta charset="utf-8"><style>html,body{margin:0;background:#fff;overflow:hidden}</style></head><body>
+<canvas id="c"></canvas>
+<script type="importmap">{"imports":{"three":"./three.module.js"}}</script>
+<script type="module">
+import * as THREE from 'three';
+const Q=new URLSearchParams(location.search); const W=+Q.get('w'), H=+Q.get('h'); const cfg=JSON.parse(Q.get('cfg'));
+const ab=async u=>await (await fetch(u)).arrayBuffer();
+const pos=new Float32Array(await ab('pos.bin')), idx=new Uint32Array(await ab('idx.bin'));
+const ren=new THREE.WebGLRenderer({canvas:document.getElementById('c'),antialias:true,preserveDrawingBuffer:true});
+ren.setPixelRatio(1); ren.setSize(W,H); ren.setClearColor(0xffffff,1); ren.outputColorSpace=THREE.SRGBColorSpace;
+const sc=new THREE.Scene();
+sc.add(new THREE.HemisphereLight(0xffffff,0xb0b0b0,1.7)); const dl=new THREE.DirectionalLight(0xffffff,1.5); dl.position.set(0.6,1.0,1.4); sc.add(dl);
+const dl2=new THREE.DirectionalLight(0xffffff,0.5); dl2.position.set(-1,0.3,0.6); sc.add(dl2);
+for(const v of cfg.views){
+  const col=new Float32Array(await ab(v.col));
+  const geo=new THREE.BufferGeometry(); geo.setAttribute('position',new THREE.BufferAttribute(pos,3)); geo.setAttribute('color',new THREE.BufferAttribute(col,3));
+  geo.setIndex(new THREE.BufferAttribute(idx,1)); geo.computeVertexNormals();
+  const m=new THREE.Mesh(geo,new THREE.MeshStandardMaterial({vertexColors:true,roughness:0.75,metalness:0}));
+  m.position.set(v.x,0,0); m.rotation.y=v.ry||0; sc.add(m);
+}
+const c=cfg.cam; const cam=new THREE.OrthographicCamera(c.l,c.r,c.t,c.b,c.near??-500,c.far??500); cam.position.set(c.px||0,c.py||0,100); cam.lookAt(c.px||0,c.py||0,0);
+if(c.zoom){cam.zoom=c.zoom;cam.updateProjectionMatrix();}
+ren.render(sc,cam);
+window.proj=(x,y,z)=>{const p=new THREE.Vector3(x,y,z).project(cam); return [(p.x+1)/2*W,(1-p.y)/2*H];};
+window.READY=true;
+</script></body></html>

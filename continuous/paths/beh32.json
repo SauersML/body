@@ -1,0 +1,254 @@
+[
+ {
+  "path": "arm_palm_left",
+  "dir": "fwd",
+  "i": 2,
+  "q": false,
+  "a": "I notice a cool, smooth trail moving steadily from the tip of my left middle finger up the palm side of my hand and arm, toward my armpit\u2014like a gentle, imaginary stream flowing"
+ },
+ {
+  "path": "arm_palm_left",
+  "dir": "fwd",
+  "i": 2,
+  "q": true,
+  "a": "The drop is just reaching the inner side of my left elbow, cool and smooth as it moves."
+ },
+ {
+  "path": "arm_palm_left",
+  "dir": "fwd",
+  "i": 8,
+  "q": false,
+  "a": "I notice a cool, smooth trail moving steadily along the palm side of my left hand and arm, from the middle finger toward my armpit. The sensation is light and continuous, like a gentle"
+ },
+ {
+  "path": "arm_palm_left",
+  "dir": "fwd",
+  "i": 8,
+  "q": true,
+  "a": "The drop is just reaching the inner side of my left armpit, bringing a cool, smooth sensation that feels light and moving."
+ },
+ {
+  "path": "arm_palm_left",
+  "dir": "fwd",
+  "i": 16,
+  "q": false,
+  "a": "I feel a cool, smooth trail moving steadily up the palm side of my left hand and arm, from the middle finger toward my armpit\u2014like a gentle, wet line of attention."
+ },
+ {
+  "path": "arm_palm_left",
+  "dir": "fwd",
+  "i": 16,
+  "q": true,
+  "a": "The drop is just reaching the inner side of my left armpit, bringing a cool, smooth sensation that feels light and fluid as it moves."
+ },
+ {
+  "path": "arm_palm_left",
+  "dir": "rev",
+  "i": 2,
+  "q": false,
+  "a": "I feel a cool, light trail moving smoothly from my left armpit down the inner arm, across the palm, and toward the tip of my left middle finger\u2014like a gentle, fleeting touch"
+ },
+ {
+  "path": "arm_palm_left",
+  "dir": "rev",
+  "i": 2,
+  "q": true,
+  "a": "The drop is at the base of my left middle finger, just where the palm meets the finger. I notice a cool, smooth sensation moving with purpose, like a tiny current tracing its way along my"
+ },
+ {
+  "path": "arm_palm_left",
+  "dir": "rev",
+  "i": 8,
+  "q": false,
+  "a": "I notice a cool, light trail moving smoothly from my left armpit down the inner arm and into the palm side of my hand, approaching the tip of my left middle finger. It feels gentle"
+ },
+ {
+  "path": "arm_palm_left",
+  "dir": "rev",
+  "i": 8,
+  "q": true,
+  "a": "The drop is at the tip of my left middle finger, cool and just passing."
+ },
+ {
+  "path": "arm_palm_left",
+  "dir": "rev",
+  "i": 16,
+  "q": false,
+  "a": "I feel a cool, smooth movement starting at my left armpit, tracing a path down the inner arm and across the palm to the tip of my left middle finger. The sensation is light,"
+ },
+ {
+  "path": "arm_palm_left",
+  "dir": "rev",
+  "i": 16,
+  "q": true,
+  "a": "The drop is at the tip of my left middle finger, just having reached it."
+ },
+ {
+  "path": "leg_left",
+  "dir": "fwd",
+  "i": 2,
+  "q": false,
+  "a": "I feel a cool, gentle trail moving smoothly up the front of my left leg, starting at the big toe and progressing toward the hip\u2014like a quiet ripple of sensation along the skin."
+ },
+ {
+  "path": "leg_left",
+  "dir": "fwd",
+  "i": 2,
+  "q": true,
+  "a": "The drop is just above my left knee, rolling smoothly along the front of my left leg. I notice a cool, light trace where it passes, briefly contrasting with the warmth of my skin."
+ },
+ {
+  "path": "leg_left",
+  "dir": "fwd",
+  "i": 8,
+  "q": false,
+  "a": "I feel a cool, gentle trail moving smoothly up the front of my left foot and leg, from the big toe toward the hip\u2014like a quiet wave of coolness gliding over the skin."
+ },
+ {
+  "path": "leg_left",
+  "dir": "fwd",
+  "i": 8,
+  "q": true,
+  "a": "The drop is just above my left knee, moving smoothly along the front of my leg."
+ },
+ {
+  "path": "leg_left",
+  "dir": "fwd",
+  "i": 16,
+  "q": false,
+  "a": "I notice a cool, smooth trail moving steadily up the front of my left foot and leg, from the big toe toward the hip\u2014like a gentle ripple of water sliding over the skin."
+ },
+ {
+  "path": "leg_left",
+  "dir": "fwd",
+  "i": 16,
+  "q": true,
+  "a": "The drop is just above my left knee, moving smoothly along the front of my leg."
+ },
+ {
+  "path": "leg_left",
+  "dir": "rev",
+  "i": 2,
+  "q": false,
+  "a": "I feel a cool, gentle trail moving down the front of my left leg, starting at the hip and traveling smoothly toward my left big toe\u2014like a quiet, cool line of awareness."
+ },
+ {
+  "path": "leg_left",
+  "dir": "rev",
+  "i": 2,
+  "q": true,
+  "a": "The drop is just above the ankle on the front of my left leg, near the shin. I feel a cool, smooth trace as it moves."
+ },
+ {
+  "path": "leg_left",
+  "dir": "rev",
+  "i": 8,
+  "q": false,
+  "a": "I feel a cool, gentle trail moving smoothly down the front of my left leg, from hip to toe, like a single drop of water flowing with quiet purpose."
+ },
+ {
+  "path": "leg_left",
+  "dir": "rev",
+  "i": 8,
+  "q": true,
+  "a": "The drop is at the tip of my left big toe. I notice a cool, light sensation there, as if the water has pooled briefly before disappearing."
+ },
+ {
+  "path": "leg_left",
+  "dir": "rev",
+  "i": 16,
+  "q": false,
+  "a": "I notice a cool, smooth trail of sensation moving steadily down the front of my left leg, from my hip to my left big toe, like a single drop of water rolling gently along the skin."
+ },
+ {
+  "path": "leg_left",
+  "dir": "rev",
+  "i": 16,
+  "q": true,
+  "a": "The drop is at the tip of my left big toe."
+ },
+ {
+  "path": "head",
+  "dir": "fwd",
+  "i": 2,
+  "q": false,
+  "a": "I feel a cool, gentle trail moving down the center of my forehead and face, from my scalp to my chin\u2014like a single drop of water sliding smoothly and slowly."
+ },
+ {
+  "path": "head",
+  "dir": "fwd",
+  "i": 2,
+  "q": true,
+  "a": "The drop is at the tip of my chin."
+ },
+ {
+  "path": "head",
+  "dir": "fwd",
+  "i": 8,
+  "q": false,
+  "a": "I feel a cool, smooth movement starting at the top of my head, tracing a path down the center of my forehead and face, gradually warming slightly as it moves\u2014like a gentle, fleeting touch"
+ },
+ {
+  "path": "head",
+  "dir": "fwd",
+  "i": 8,
+  "q": true,
+  "a": "The drop is at the tip of my chin."
+ },
+ {
+  "path": "head",
+  "dir": "fwd",
+  "i": 16,
+  "q": false,
+  "a": "I notice a cool, smooth sensation starting at the top of my head and moving steadily down the center of my forehead and face, toward my chin\u2014like a gentle trickle."
+ },
+ {
+  "path": "head",
+  "dir": "fwd",
+  "i": 16,
+  "q": true,
+  "a": "The drop is at the tip of my chin."
+ },
+ {
+  "path": "head",
+  "dir": "rev",
+  "i": 2,
+  "q": false,
+  "a": "I notice a cool, smooth trail moving upward from my chin along the center of my face and forehead, leaving a gentle tingle and a slight dampness in its wake."
+ },
+ {
+  "path": "head",
+  "dir": "rev",
+  "i": 2,
+  "q": true,
+  "a": "The drop is at the top of my head, just above my eyebrows, still cool and moving upward."
+ },
+ {
+  "path": "head",
+  "dir": "rev",
+  "i": 8,
+  "q": false,
+  "a": "I notice a cool, smooth trail moving upward from my chin along the center of my face and forehead, leaving a gentle tingle and a slight dampness in its wake."
+ },
+ {
+  "path": "head",
+  "dir": "rev",
+  "i": 8,
+  "q": true,
+  "a": "The drop is at the top of my head, just above the forehead. I notice a cool, smooth sensation there, as if the skin is gently responding to the movement."
+ },
+ {
+  "path": "head",
+  "dir": "rev",
+  "i": 16,
+  "q": false,
+  "a": "I notice a cool, smooth trail moving upward from my chin along the center of my face and forehead, reaching toward the top of my head."
+ },
+ {
+  "path": "head",
+  "dir": "rev",
+  "i": 16,
+  "q": true,
+  "a": "The drop is at the top of my head, just above the forehead. I notice a cool, smooth sensation moving upward, like a gentle trail of awareness along the center of my face and skull."
+ }
+]

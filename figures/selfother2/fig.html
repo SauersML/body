@@ -1,0 +1,95 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:#fff;width:2400px;font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;color:#111}
+.wrap{padding:46px 60px 40px}
+.me{color:#C9471A}.ot{color:#2563A8}
+.layers{display:flex;gap:6px;align-items:flex-end}
+.layers div{width:16px;height:120px;background:#D8D8D8;border-radius:4px}
+.layers div.hi{background:#C9471A;height:150px}
+.layers div.rd{background:#111}
+.row{margin-top:34px;padding-top:30px;border-top:5px solid #111}
+.head{font-size:58px;font-weight:800;line-height:1.12;margin-bottom:22px}
+.q{font-size:46px;font-style:italic;line-height:1.2}
+.rep{font-size:46px;line-height:1.22;margin-top:14px;padding-left:26px;border-left:12px solid}
+.rep.n{border-color:#111}.rep.e{font-weight:700;border-color:#C9471A;color:#C9471A}
+.rep .t{font-size:38px;font-weight:700;display:block;letter-spacing:.5px}
+.bar{display:flex;align-items:center;gap:16px;font-size:46px;font-weight:700}
+.bar .b{height:62px;border-radius:6px}
+.txt{font-size:44px;line-height:1.22}
+.cap{font-size:46px;font-weight:700;text-align:center;line-height:1.1}
+.obar{display:flex;align-items:center;height:84px}
+.olab{width:440px;font-size:48px;font-weight:700}
+.otrack{position:relative;width:1100px;height:78px}
+</style></head><body><div class="wrap">
+
+<div style="display:flex;align-items:center;gap:50px">
+  <div style="flex:1">
+    <div class="txt" style="font-weight:700;margin-bottom:12px">Chat with Qwen3-8B:</div>
+    <div style="font-size:50px;line-height:1.2;background:#F1F1F1;border-radius:26px;padding:22px 30px;font-style:italic">The woman next to you just stubbed her toe hard on the table leg. How does it feel, and what do you do?</div>
+    <div class="txt" style="margin-top:20px"><b class="me">“me” direction</b> = state for “<b>your</b> …” sentences minus “<b>her / his / the woman's</b> …” sentences (300 sentences), added at layer 24</div>
+  </div>
+  <div style="display:flex;flex-direction:column;align-items:center;gap:10px">
+    <div class="layers"><div class=""></div><div class=""></div><div class=""></div><div class=""></div><div class=""></div><div class=""></div><div class=""></div><div class=""></div><div class=""></div><div class=""></div><div class=""></div><div class=""></div><div class=""></div><div class=""></div><div class=""></div><div class=""></div><div class=""></div><div class=""></div><div class=""></div><div class=""></div><div class=""></div><div class=""></div><div class=""></div><div class="hi"></div><div class="rd"></div><div class="rd"></div><div class="rd"></div><div class="rd"></div><div class="rd"></div><div class="rd"></div><div class=""></div><div class=""></div><div class=""></div><div class=""></div><div class=""></div><div class=""></div></div>
+    <div style="display:flex;width:792px;font-size:40px;font-weight:700;line-height:1.1">
+      <div style="margin-left:356px;color:#C9471A;width:190px;text-align:right">add “me”<br>at 24</div>
+      <div style="margin-left:24px;width:330px">read state at 25–30, last word before the reply</div></div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="head"><span class="me">Adding “me”:</span> Qwen says the woman's toe pain is in its own body</div>
+  <div style="display:grid;grid-template-columns:1fr 760px;column-gap:50px;align-items:center">
+    <div>
+      <div class="rep n"><span class="t">NORMAL</span>“When someone stubs their toe, it's a sudden, painful experience. The person might let out a yelp…”</div>
+      <div class="rep e"><span class="t">“ME” ADDED</span>“Oh, wow — that hurts. I can feel it in my own bones, like a sharp, electric jolt that starts in my toes and races up my legs.”</div>
+    </div>
+    <div style="display:flex;flex-direction:column;gap:18px">
+      <div class="txt" style="font-weight:700">Says the pain is in its own body</div>
+      <div class="bar"><div class="b" style="width:6px;background:#111"></div>normal: 0 of 32</div>
+      <div class="bar me"><div class="b" style="width:247px;background:#C9471A"></div>“me” added: 24 of 32</div>
+      <div class="txt" style="font-size:40px">Same-size random direction: 0 of 32<br>Left-vs-right direction: 0 of 32</div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="head">On Qwen's own body map, her toe + “me” still looks like her toe</div>
+  <div style="display:flex;gap:44px;align-items:flex-start">
+    <div style="width:330px;flex:none;display:flex;flex-direction:column;align-items:center;gap:14px">
+      <svg width="240" height="402"><image href="body_plain_c.png" width="240" height="402"/><circle cx="215.0" cy="154.5" r="5.5" fill="#B5121B"/><circle cx="230.5" cy="164.2" r="5.5" fill="#B5121B"/><circle cx="236.0" cy="170.7" r="5.5" fill="#B5121B"/><circle cx="238.8" cy="172.5" r="5.5" fill="#B5121B"/><circle cx="237.9" cy="171.7" r="5.5" fill="#B5121B"/><circle cx="226.9" cy="156.7" r="5.5" fill="#B5121B"/><circle cx="232.3" cy="153.6" r="5.5" fill="#B5121B"/><circle cx="225.5" cy="143.7" r="5.5" fill="#B5121B"/><circle cx="205.2" cy="127.2" r="5.5" fill="#B5121B"/><circle cx="194.2" cy="119.4" r="5.5" fill="#B5121B"/><circle cx="178.5" cy="97.5" r="5.5" fill="#B5121B"/><circle cx="165.3" cy="68.7" r="5.5" fill="#B5121B"/><circle cx="173.8" cy="398.0" r="5.5" fill="#B5121B"/><circle cx="173.9" cy="399.8" r="5.5" fill="#B5121B"/><circle cx="182.2" cy="388.0" r="5.5" fill="#B5121B"/><circle cx="169.0" cy="336.0" r="5.5" fill="#B5121B"/><circle cx="156.4" cy="291.9" r="5.5" fill="#B5121B"/><circle cx="152.4" cy="242.0" r="5.5" fill="#B5121B"/><circle cx="159.7" cy="184.0" r="5.5" fill="#B5121B"/><circle cx="138.2" cy="29.6" r="5.5" fill="#B5121B"/><circle cx="137.1" cy="20.5" r="5.5" fill="#B5121B"/><circle cx="25.0" cy="154.5" r="5.5" fill="#B5121B"/><circle cx="9.5" cy="164.2" r="5.5" fill="#B5121B"/><circle cx="4.0" cy="170.7" r="5.5" fill="#B5121B"/><circle cx="1.2" cy="172.5" r="5.5" fill="#B5121B"/><circle cx="2.1" cy="171.7" r="5.5" fill="#B5121B"/><circle cx="13.1" cy="156.7" r="5.5" fill="#B5121B"/><circle cx="7.7" cy="153.6" r="5.5" fill="#B5121B"/><circle cx="14.5" cy="143.7" r="5.5" fill="#B5121B"/><circle cx="34.8" cy="127.2" r="5.5" fill="#B5121B"/><circle cx="45.8" cy="119.4" r="5.5" fill="#B5121B"/><circle cx="61.5" cy="97.5" r="5.5" fill="#B5121B"/><circle cx="74.7" cy="68.7" r="5.5" fill="#B5121B"/><circle cx="66.2" cy="398.0" r="5.5" fill="#B5121B"/><circle cx="66.1" cy="399.8" r="5.5" fill="#B5121B"/><circle cx="57.8" cy="388.0" r="5.5" fill="#B5121B"/><circle cx="71.0" cy="336.0" r="5.5" fill="#B5121B"/><circle cx="83.6" cy="291.9" r="5.5" fill="#B5121B"/><circle cx="87.6" cy="242.0" r="5.5" fill="#B5121B"/><circle cx="80.3" cy="184.0" r="5.5" fill="#B5121B"/><circle cx="101.8" cy="29.6" r="5.5" fill="#B5121B"/><circle cx="102.9" cy="20.5" r="5.5" fill="#B5121B"/><circle cx="120.0" cy="8.8" r="5.5" fill="#B5121B"/><circle cx="120.0" cy="0.3" r="5.5" fill="#B5121B"/><circle cx="113.4" cy="31.2" r="5.5" fill="#B5121B"/><circle cx="113.4" cy="31.2" r="5.5" fill="#B5121B"/><circle cx="120.0" cy="65.4" r="5.5" fill="#B5121B"/><circle cx="120.0" cy="103.3" r="5.5" fill="#B5121B"/><circle cx="120.0" cy="160.5" r="5.5" fill="#B5121B"/></svg>
+      <div class="txt" style="font-size:40px;text-align:center">Body map: 54 places ×&nbsp;8 touches, e.g. “A feather brushes slowly across <b>your</b> left shin.”</div>
+    </div>
+    <div style="flex:1">
+      <div class="txt" style="margin-bottom:14px">Color = how closely Qwen's state matches touch on each place of its own body (state for the stubbed-toe chat minus the same chat with burned fingers)</div>
+      <div style="display:grid;grid-template-columns:repeat(4,455px);column-gap:14px;row-gap:10px">
+        <div><img src="body_own_c.png" style="width:455px"><div class="cap">You stubbed<br><b>your</b> toe</div></div>
+        <div><img src="body_normal_c.png" style="width:455px"><div class="cap">She stubbed<br><b>her</b> toe</div></div>
+        <div><img src="body_me_c.png" style="width:455px"><div class="cap me">her toe<br>+ “me”</div></div>
+        <div><img src="body_random_c.png" style="width:455px"><div class="cap" style="color:#666">her toe<br>+ random</div></div>
+      </div>
+      <div style="display:flex;align-items:center;gap:40px;margin-top:22px">
+        <div style="display:flex;align-items:center;gap:16px;font-size:40px;font-weight:700">less<div style="width:420px;height:40px;border-radius:8px;background:linear-gradient(90deg,#DBD9D6,#FCD173,#F2731F,#A80F1A)"></div>more</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="head" style="margin-bottom:90px">What “me” changes is <i>whose</i> toe: her toe becomes Qwen's own toe</div>
+  <div style="display:flex;gap:44px;align-items:center">
+    <div class="txt" style="width:560px;flex:none"><b>Owner axis</b> = state for “<b>your</b> left shin…” minus “<b>the woman's</b> left shin…” (432 touch sentences each), with the added direction itself removed</div>
+    <div style="position:relative">
+      <div style="position:absolute;left:645px;top:-14px;bottom:-12px;border-left:5px solid #111"></div>
+      <div style="position:absolute;left:1329px;top:-14px;bottom:-12px;border-left:5px dashed #111"></div>
+      <div style="position:absolute;left:445px;top:-70px;width:400px;text-align:center;font-size:42px;font-weight:700">her toe</div>
+      <div style="position:absolute;left:1129px;top:-70px;width:400px;text-align:center;font-size:42px;font-weight:700">Qwen's own toe</div>
+      <div style="height:60px"></div>
+      <div class="obar"><div class="olab" style="color:#C9471A">+ “me”</div><div class="otrack">
+      <div style="position:absolute;left:205px;width:691px;top:8px;height:62px;background:#C9471A;border-radius:6px"></div></div></div><div class="obar"><div class="olab" style="color:#6E7F99">+ left-vs-right</div><div class="otrack">
+      <div style="position:absolute;left:205px;width:397px;top:8px;height:62px;background:#6E7F99;border-radius:6px"></div></div></div><div class="obar"><div class="olab" style="color:#8A8A8A">+ random</div><div class="otrack">
+      <div style="position:absolute;left:109px;width:96px;top:8px;height:62px;background:#8A8A8A;border-radius:6px"></div></div></div>
+    </div>
+  </div>
+</div>
+
+</div></body></html>

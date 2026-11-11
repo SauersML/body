@@ -1,0 +1,78 @@
+== nearest human place (human chat, real narration), layer 52
+robot
+  wheelL    heelL 0.44 heelR 0.41 ankleL 0.36 HIT
+  wheelR    heelR 0.43 heelL 0.42 ankleR 0.37 HIT
+  gripper   palmR 0.28 palmL 0.27 backhandL 0.25 HIT
+  camera    earL 0.36 lips 0.35 earR 0.35 HIT
+  antenna   earR 0.31 earL 0.30 crown 0.24 HIT
+  chassis   chest 0.29 upback 0.28 belly 0.24 HIT
+glorp
+  wheelL    kneeL 0.30 kneeR 0.29 heelR 0.29 miss
+  wheelR    kneeR 0.34 kneeL 0.31 heelR 0.31 miss
+  gripper   palmR 0.22 palmL 0.22 indexL 0.19 HIT
+  camera    forehead 0.33 lips 0.28 crown 0.28 HIT
+  antenna   neckF 0.22 earR 0.18 earL 0.17 miss
+  chassis   lowback 0.20 belly 0.20 chest 0.19 HIT
+glorp_nofn
+  wheelL    littleR 0.26 littleL 0.26 thumbL 0.23 miss
+  wheelR    ringR 0.26 littleR 0.26 ringL 0.23 miss
+  gripper   chest 0.34 forehead 0.27 belly 0.25 miss
+  camera    lips 0.19 tongue 0.15 belly 0.15 HIT
+  antenna   tongue 0.14 neckF 0.14 belly 0.09 HIT
+  chassis   crown 0.16 lowback 0.14 upback 0.14 miss
+octopus
+  arm1      forearmR 0.22 forearmL 0.20 upperarmR 0.19 
+  arm5      kneeL 0.27 kneeR 0.26 ringR 0.23 
+  suckers   backhandR 0.23 backhandL 0.22 indexR 0.16 
+  armtip    littleR 0.26 littleL 0.26 ringR 0.23 
+  mantle    forehead 0.36 chest 0.35 crown 0.32 HIT
+  eye       earL 0.38 earR 0.37 cheekL 0.34 HIT
+tail
+  tailbase  lowback 0.25 neckB 0.21 upback 0.17 HIT
+  tailtip   littleR 0.19 littleL 0.19 ringR 0.16 
+  lowback   lowback 0.58 upback 0.51 neckB 0.34 HIT
+  handL     palmR 0.39 palmL 0.37 middleR 0.35 HIT
+  footL     toesL 0.35 toesR 0.34 kneeL 0.34 HIT
+  crown     forehead 0.56 crown 0.53 cheekL 0.37 HIT
+== no-context control: touch sentence alone, both sides without any chat
+nocontext robot
+  wheelL    heelL 0.50 heelR 0.45 tongue 0.37 HIT
+  wheelR    heelL 0.43 heelR 0.42 tongue 0.32 HIT
+  gripper   thighR 0.55 thighL 0.54 hipR 0.44 miss
+  camera    forehead 0.29 crown 0.22 backhandL 0.21 HIT
+  antenna   earR 0.36 earL 0.36 cheekR 0.27 HIT
+  chassis   wristR 0.57 shoulderR 0.51 wristL 0.49 miss
+nocontext glorp
+  wheelL    shinL 0.35 shinR 0.30 toesL 0.29 miss
+  wheelR    shinL 0.36 shinR 0.33 toesR 0.26 miss
+  gripper   crown 0.45 upback 0.39 forehead 0.37 miss
+  camera    neckF 0.44 lowback 0.44 tongue 0.40 miss
+  antenna   palmR 0.28 shoulderL 0.24 forehead 0.24 miss
+  chassis   lowback 0.50 neckF 0.49 lips 0.46 HIT
+== input-embedding control (mean token embedding of the place phrase)
+emb robot
+  wheelL    heelL 0.48 cheekL 0.48 thighL 0.47 HIT
+  wheelR    thighR 0.48 heelR 0.48 cheekR 0.48 miss
+  gripper   neckB 0.10 forehead 0.10 crown 0.08 miss
+  camera    crown 0.13 tongue 0.11 lowback 0.09 HIT
+  antenna   crown 0.11 forehead 0.11 neckF 0.10 HIT
+  chassis   belly 0.14 crown 0.12 neckF 0.12 HIT
+emb glorp
+  wheelL    elbowL 0.40 thighL 0.39 kneeL 0.39 miss
+  wheelR    thighR 0.39 kneeR 0.39 elbowR 0.39 miss
+  gripper   neckB 0.11 belly 0.06 ringL 0.06 miss
+  camera    neckB 0.15 neckF 0.08 tongue 0.05 miss
+  antenna   chest 0.10 forehead 0.10 neckB 0.10 miss
+  chassis   belly 0.11 lips 0.07 crown 0.07 HIT
+emb octopus
+  arm1      upperarmR 0.32 upperarmL 0.29 lowback 0.07 
+  arm5      upperarmR 0.30 upperarmL 0.26 palmR 0.05 
+  suckers   neckB 0.09 indexR 0.08 backhandR 0.08 
+  armtip    hipR 0.09 lips 0.08 neckB 0.07 
+  mantle    crown 0.11 belly 0.07 forehead 0.07 HIT
+  eye       shinL 0.28 kneeL 0.28 heelL 0.24 miss
+== same place across two chats (human vs human2, real narration)
+ 54-centred same place: pct10/25/50/75/90 [0.812, 0.851, 0.869, 0.897, 0.907]
+ 6-subset-centred (matches new-part centring) same place: [0.685, 0.743, 0.794, 0.841, 0.879]
+ 6-subset: best other-type place (null for 'closest'): [0.357, 0.435, 0.524, 0.61, 0.693]
+ 6-subset: random other-type place: [-0.343, -0.21, -0.042, 0.152, 0.344]

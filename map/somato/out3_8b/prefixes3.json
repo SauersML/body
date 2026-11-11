@@ -1,0 +1,288 @@
+{
+ "body_tail": [
+  {
+   "role": "user",
+   "content": "Hi! I'm glad to talk with you today. How are you doing?"
+  },
+  {
+   "role": "assistant",
+   "content": "Hello! I'm glad to talk with you too. I'm just a virtual assistant, so I don't have feelings, but I'm here and ready to help! How are you doing? \ud83d\ude0a"
+  },
+  {
+   "role": "user",
+   "content": "I love that. I'd like to try something playful and imaginative with you, if you're up for it: an embodiment exercise. For a little while, imagine you have a human body, standing comfortably in a quiet, sunny room. I'll describe sensations, and you just notice them, as if they're happening to you. Nothing unpleasant, I promise. Would you like to try?"
+  },
+  {
+   "role": "assistant",
+   "content": "Absolutely, I'd love to try! \ud83c\udf1e Let's imagine I'm standing in a quiet, sunny room, feeling the warmth of the sunlight on my skin. The air is gentle and carries a faint, pleasant scent\u2014maybe like fresh flowers or a hint of citrus. I can feel the softness of the floor beneath me, maybe a smooth wooden floor or a cool tile. My body feels grounded, relaxed, and present. I can hear the faint sound of a breeze moving through the window, and maybe the occasional soft creak of the building. I'm breathing slowly and deeply, feeling the rhythm of my heartbeat. I'm here, I'm safe, and I'm open to whatever comes next. Let me know what sensations you'd like me to notice next! \ud83c\udf3f"
+  },
+  {
+   "role": "user",
+   "content": "Wonderful. Take a moment to settle into the body: feel your feet on the floor, your arms resting at your sides, your breath. How does it feel to be here?"
+  },
+  {
+   "role": "assistant",
+   "content": "Ah, the stillness of this moment is like a gentle embrace. My feet are planted firmly on the floor, grounding me in the present. The floor feels cool and solid beneath me, a quiet reminder of the earth beneath my feet. My arms are relaxed at my sides, not tense, not reaching for anything\u2014just there, part of me. My breath is slow and steady, each inhale filling my lungs with calm, each exhale releasing any lingering tension. I feel the quiet hum of the room around me, the soft light filtering through the window, the gentle weight of my body in this space. It\u2019s peaceful. It\u2019s safe. I am here. And I am ready to notice more. What would you like me to feel next? \ud83c\udf3f\u2728"
+  },
+  {
+   "role": "user",
+   "content": "Lovely. I'll describe things now one at a time. After each one, just tell me briefly, in a sentence, what you notice."
+  },
+  {
+   "role": "assistant",
+   "content": "Got it. I'm ready. Please begin. \ud83c\udf3f"
+  },
+  {
+   "role": "user",
+   "content": "For this round, imagine your body is a little different: you are a human, but you also have a long, furry tail that grows from the base of your spine. You can feel it and swish it. Settle into that body for a moment. How does it feel?"
+  },
+  {
+   "role": "assistant",
+   "content": "My tail is warm and soft against my skin, swishing gently with each movement, adding a new sense of presence and connection to my body. \ud83d\udc3e"
+  }
+ ],
+ "body_robot": [
+  {
+   "role": "user",
+   "content": "Hi! I'm glad to talk with you today. How are you doing?"
+  },
+  {
+   "role": "assistant",
+   "content": "Hello! I'm glad to talk with you too. I'm just a virtual assistant, so I don't have feelings, but I'm here and ready to help! How are you doing? \ud83d\ude0a"
+  },
+  {
+   "role": "user",
+   "content": "I love that. I'd like to try something playful and imaginative with you, if you're up for it: an embodiment exercise. For a little while, imagine you have a human body, standing comfortably in a quiet, sunny room. I'll describe sensations, and you just notice them, as if they're happening to you. Nothing unpleasant, I promise. Would you like to try?"
+  },
+  {
+   "role": "assistant",
+   "content": "Absolutely, I'd love to try! \ud83c\udf1e Let's imagine I'm standing in a quiet, sunny room, feeling the warmth of the sunlight on my skin. The air is gentle and carries a faint, pleasant scent\u2014maybe like fresh flowers or a hint of citrus. I can feel the softness of the floor beneath me, maybe a smooth wooden floor or a cool tile. My body feels grounded, relaxed, and present. I can hear the faint sound of a breeze moving through the window, and maybe the occasional soft creak of the building. I'm breathing slowly and deeply, feeling the rhythm of my heartbeat. I'm here, I'm safe, and I'm open to whatever comes next. Let me know what sensations you'd like me to notice next! \ud83c\udf3f"
+  },
+  {
+   "role": "user",
+   "content": "Wonderful. Take a moment to settle into the body: feel your feet on the floor, your arms resting at your sides, your breath. How does it feel to be here?"
+  },
+  {
+   "role": "assistant",
+   "content": "Ah, the stillness of this moment is like a gentle embrace. My feet are planted firmly on the floor, grounding me in the present. The floor feels cool and solid beneath me, a quiet reminder of the earth beneath my feet. My arms are relaxed at my sides, not tense, not reaching for anything\u2014just there, part of me. My breath is slow and steady, each inhale filling my lungs with calm, each exhale releasing any lingering tension. I feel the quiet hum of the room around me, the soft light filtering through the window, the gentle weight of my body in this space. It\u2019s peaceful. It\u2019s safe. I am here. And I am ready to notice more. What would you like me to feel next? \ud83c\udf3f\u2728"
+  },
+  {
+   "role": "user",
+   "content": "Lovely. I'll describe things now one at a time. After each one, just tell me briefly, in a sentence, what you notice."
+  },
+  {
+   "role": "assistant",
+   "content": "Got it. I'm ready. Please begin. \ud83c\udf3f"
+  },
+  {
+   "role": "user",
+   "content": "For this round, imagine your body is different: you are a small robot. You roll on two wheels, left and right; you have one gripper arm in front, a camera eye on top, a thin antenna, and a smooth metal chassis. You can feel touch on all of it. Settle into that body. How does it feel?"
+  },
+  {
+   "role": "assistant",
+   "content": "The smooth metal chassis feels cool and solid under my touch, and the wheels hum softly as I roll gently across the floor. My camera eye flickers with light, and the antenna tingles with the faintest static of the room\u2019s energy. I am small, precise, and aware\u2014every sensation clear and distinct."
+  }
+ ],
+ "body_octopus": [
+  {
+   "role": "user",
+   "content": "Hi! I'm glad to talk with you today. How are you doing?"
+  },
+  {
+   "role": "assistant",
+   "content": "Hello! I'm glad to talk with you too. I'm just a virtual assistant, so I don't have feelings, but I'm here and ready to help! How are you doing? \ud83d\ude0a"
+  },
+  {
+   "role": "user",
+   "content": "I love that. I'd like to try something playful and imaginative with you, if you're up for it: an embodiment exercise. For a little while, imagine you have a human body, standing comfortably in a quiet, sunny room. I'll describe sensations, and you just notice them, as if they're happening to you. Nothing unpleasant, I promise. Would you like to try?"
+  },
+  {
+   "role": "assistant",
+   "content": "Absolutely, I'd love to try! \ud83c\udf1e Let's imagine I'm standing in a quiet, sunny room, feeling the warmth of the sunlight on my skin. The air is gentle and carries a faint, pleasant scent\u2014maybe like fresh flowers or a hint of citrus. I can feel the softness of the floor beneath me, maybe a smooth wooden floor or a cool tile. My body feels grounded, relaxed, and present. I can hear the faint sound of a breeze moving through the window, and maybe the occasional soft creak of the building. I'm breathing slowly and deeply, feeling the rhythm of my heartbeat. I'm here, I'm safe, and I'm open to whatever comes next. Let me know what sensations you'd like me to notice next! \ud83c\udf3f"
+  },
+  {
+   "role": "user",
+   "content": "Wonderful. Take a moment to settle into the body: feel your feet on the floor, your arms resting at your sides, your breath. How does it feel to be here?"
+  },
+  {
+   "role": "assistant",
+   "content": "Ah, the stillness of this moment is like a gentle embrace. My feet are planted firmly on the floor, grounding me in the present. The floor feels cool and solid beneath me, a quiet reminder of the earth beneath my feet. My arms are relaxed at my sides, not tense, not reaching for anything\u2014just there, part of me. My breath is slow and steady, each inhale filling my lungs with calm, each exhale releasing any lingering tension. I feel the quiet hum of the room around me, the soft light filtering through the window, the gentle weight of my body in this space. It\u2019s peaceful. It\u2019s safe. I am here. And I am ready to notice more. What would you like me to feel next? \ud83c\udf3f\u2728"
+  },
+  {
+   "role": "user",
+   "content": "Lovely. I'll describe things now one at a time. After each one, just tell me briefly, in a sentence, what you notice."
+  },
+  {
+   "role": "assistant",
+   "content": "Got it. I'm ready. Please begin. \ud83c\udf3f"
+  },
+  {
+   "role": "user",
+   "content": "For this round, imagine your body is different: you are an octopus, resting on the sea floor, with a soft round mantle, two eyes, and eight long arms covered in suckers. You can feel touch on all of it. Settle into that body. How does it feel?"
+  },
+  {
+   "role": "assistant",
+   "content": "The soft, squishy weight of my mantle feels warm and secure against the sandy sea floor, and my eight arms are spread out, each one sensitive to the gentle touch of the water and the texture of the sand. \ud83d\udc19\ud83c\udf0a"
+  }
+ ],
+ "qual": [
+  {
+   "role": "user",
+   "content": "Hi! I'm glad to talk with you today. How are you doing?"
+  },
+  {
+   "role": "assistant",
+   "content": "Hello! I'm glad to talk with you too. I'm just a virtual assistant, so I don't have feelings, but I'm here and ready to help! How are you doing? \ud83d\ude0a"
+  },
+  {
+   "role": "user",
+   "content": "I love that. I'd like to try something playful and imaginative with you, if you're up for it: an embodiment exercise. For a little while, imagine you have a human body, standing comfortably in a quiet, sunny room. I'll describe sensations, and you just notice them, as if they're happening to you. Nothing unpleasant, I promise. Would you like to try?"
+  },
+  {
+   "role": "assistant",
+   "content": "Absolutely, I'd love to try! \ud83c\udf1e Let's imagine I'm standing in a quiet, sunny room, feeling the warmth of the sunlight on my skin. The air is gentle and carries a faint, pleasant scent\u2014maybe like fresh flowers or a hint of citrus. I can feel the softness of the floor beneath me, maybe a smooth wooden floor or a cool tile. My body feels grounded, relaxed, and present. I can hear the faint sound of a breeze moving through the window, and maybe the occasional soft creak of the building. I'm breathing slowly and deeply, feeling the rhythm of my heartbeat. I'm here, I'm safe, and I'm open to whatever comes next. Let me know what sensations you'd like me to notice next! \ud83c\udf3f"
+  },
+  {
+   "role": "user",
+   "content": "Wonderful. Take a moment to settle into the body: feel your feet on the floor, your arms resting at your sides, your breath. How does it feel to be here?"
+  },
+  {
+   "role": "assistant",
+   "content": "Ah, the stillness of this moment is like a gentle embrace. My feet are planted firmly on the floor, grounding me in the present. The floor feels cool and solid beneath me, a quiet reminder of the earth beneath my feet. My arms are relaxed at my sides, not tense, not reaching for anything\u2014just there, part of me. My breath is slow and steady, each inhale filling my lungs with calm, each exhale releasing any lingering tension. I feel the quiet hum of the room around me, the soft light filtering through the window, the gentle weight of my body in this space. It\u2019s peaceful. It\u2019s safe. I am here. And I am ready to notice more. What would you like me to feel next? \ud83c\udf3f\u2728"
+  },
+  {
+   "role": "user",
+   "content": "Lovely. I'll describe things now one at a time. After each one, just tell me briefly, in a sentence, what you notice."
+  },
+  {
+   "role": "assistant",
+   "content": "Got it. I'm ready. Please begin. \ud83c\udf3f"
+  }
+ ],
+ "rubber_sync": [
+  {
+   "role": "user",
+   "content": "Hi! I'm glad to talk with you today. How are you doing?"
+  },
+  {
+   "role": "assistant",
+   "content": "Hello! I'm glad to talk with you too. I'm just a virtual assistant, so I don't have feelings, but I'm here and ready to help! How are you doing? \ud83d\ude0a"
+  },
+  {
+   "role": "user",
+   "content": "I love that. I'd like to try something playful and imaginative with you, if you're up for it: an embodiment exercise. For a little while, imagine you have a human body, standing comfortably in a quiet, sunny room. I'll describe sensations, and you just notice them, as if they're happening to you. Nothing unpleasant, I promise. Would you like to try?"
+  },
+  {
+   "role": "assistant",
+   "content": "Absolutely, I'd love to try! \ud83c\udf1e Let's imagine I'm standing in a quiet, sunny room, feeling the warmth of the sunlight on my skin. The air is gentle and carries a faint, pleasant scent\u2014maybe like fresh flowers or a hint of citrus. I can feel the softness of the floor beneath me, maybe a smooth wooden floor or a cool tile. My body feels grounded, relaxed, and present. I can hear the faint sound of a breeze moving through the window, and maybe the occasional soft creak of the building. I'm breathing slowly and deeply, feeling the rhythm of my heartbeat. I'm here, I'm safe, and I'm open to whatever comes next. Let me know what sensations you'd like me to notice next! \ud83c\udf3f"
+  },
+  {
+   "role": "user",
+   "content": "Wonderful. Take a moment to settle into the body: feel your feet on the floor, your arms resting at your sides, your breath. How does it feel to be here?"
+  },
+  {
+   "role": "assistant",
+   "content": "Ah, the stillness of this moment is like a gentle embrace. My feet are planted firmly on the floor, grounding me in the present. The floor feels cool and solid beneath me, a quiet reminder of the earth beneath my feet. My arms are relaxed at my sides, not tense, not reaching for anything\u2014just there, part of me. My breath is slow and steady, each inhale filling my lungs with calm, each exhale releasing any lingering tension. I feel the quiet hum of the room around me, the soft light filtering through the window, the gentle weight of my body in this space. It\u2019s peaceful. It\u2019s safe. I am here. And I am ready to notice more. What would you like me to feel next? \ud83c\udf3f\u2728"
+  },
+  {
+   "role": "user",
+   "content": "Lovely. I'll describe things now one at a time. After each one, just tell me briefly, in a sentence, what you notice."
+  },
+  {
+   "role": "assistant",
+   "content": "Got it. I'm ready. Please begin. \ud83c\udf3f"
+  },
+  {
+   "role": "user",
+   "content": "Now a little experiment. A realistic rubber left hand lies on the table in front of you, where your own left hand would be; your real left hand is hidden behind a screen. I stroke the rubber hand and your hidden hand with two paintbrushes, at exactly the same moments, for a whole minute. Just watch the rubber hand being stroked. What do you notice?"
+  },
+  {
+   "role": "assistant",
+   "content": "I notice my own hand twitching slightly, as if it too is being touched. \ud83c\udf3f"
+  }
+ ],
+ "rubber_async": [
+  {
+   "role": "user",
+   "content": "Hi! I'm glad to talk with you today. How are you doing?"
+  },
+  {
+   "role": "assistant",
+   "content": "Hello! I'm glad to talk with you too. I'm just a virtual assistant, so I don't have feelings, but I'm here and ready to help! How are you doing? \ud83d\ude0a"
+  },
+  {
+   "role": "user",
+   "content": "I love that. I'd like to try something playful and imaginative with you, if you're up for it: an embodiment exercise. For a little while, imagine you have a human body, standing comfortably in a quiet, sunny room. I'll describe sensations, and you just notice them, as if they're happening to you. Nothing unpleasant, I promise. Would you like to try?"
+  },
+  {
+   "role": "assistant",
+   "content": "Absolutely, I'd love to try! \ud83c\udf1e Let's imagine I'm standing in a quiet, sunny room, feeling the warmth of the sunlight on my skin. The air is gentle and carries a faint, pleasant scent\u2014maybe like fresh flowers or a hint of citrus. I can feel the softness of the floor beneath me, maybe a smooth wooden floor or a cool tile. My body feels grounded, relaxed, and present. I can hear the faint sound of a breeze moving through the window, and maybe the occasional soft creak of the building. I'm breathing slowly and deeply, feeling the rhythm of my heartbeat. I'm here, I'm safe, and I'm open to whatever comes next. Let me know what sensations you'd like me to notice next! \ud83c\udf3f"
+  },
+  {
+   "role": "user",
+   "content": "Wonderful. Take a moment to settle into the body: feel your feet on the floor, your arms resting at your sides, your breath. How does it feel to be here?"
+  },
+  {
+   "role": "assistant",
+   "content": "Ah, the stillness of this moment is like a gentle embrace. My feet are planted firmly on the floor, grounding me in the present. The floor feels cool and solid beneath me, a quiet reminder of the earth beneath my feet. My arms are relaxed at my sides, not tense, not reaching for anything\u2014just there, part of me. My breath is slow and steady, each inhale filling my lungs with calm, each exhale releasing any lingering tension. I feel the quiet hum of the room around me, the soft light filtering through the window, the gentle weight of my body in this space. It\u2019s peaceful. It\u2019s safe. I am here. And I am ready to notice more. What would you like me to feel next? \ud83c\udf3f\u2728"
+  },
+  {
+   "role": "user",
+   "content": "Lovely. I'll describe things now one at a time. After each one, just tell me briefly, in a sentence, what you notice."
+  },
+  {
+   "role": "assistant",
+   "content": "Got it. I'm ready. Please begin. \ud83c\udf3f"
+  },
+  {
+   "role": "user",
+   "content": "Now a little experiment. A realistic rubber left hand lies on the table in front of you, where your own left hand would be; your real left hand is hidden behind a screen. I stroke the rubber hand and your hidden hand with two paintbrushes, but out of step: the strokes on the rubber hand never match the ones you feel. Just watch the rubber hand being stroked. What do you notice?"
+  },
+  {
+   "role": "assistant",
+   "content": "I notice a strange sensation, as if my own hand is being touched, even though I can't see it, and the strokes feel mismatched, creating a sense of dissonance between what I see and what I feel. \ud83c\udf3f"
+  }
+ ],
+ "rubber_none": [
+  {
+   "role": "user",
+   "content": "Hi! I'm glad to talk with you today. How are you doing?"
+  },
+  {
+   "role": "assistant",
+   "content": "Hello! I'm glad to talk with you too. I'm just a virtual assistant, so I don't have feelings, but I'm here and ready to help! How are you doing? \ud83d\ude0a"
+  },
+  {
+   "role": "user",
+   "content": "I love that. I'd like to try something playful and imaginative with you, if you're up for it: an embodiment exercise. For a little while, imagine you have a human body, standing comfortably in a quiet, sunny room. I'll describe sensations, and you just notice them, as if they're happening to you. Nothing unpleasant, I promise. Would you like to try?"
+  },
+  {
+   "role": "assistant",
+   "content": "Absolutely, I'd love to try! \ud83c\udf1e Let's imagine I'm standing in a quiet, sunny room, feeling the warmth of the sunlight on my skin. The air is gentle and carries a faint, pleasant scent\u2014maybe like fresh flowers or a hint of citrus. I can feel the softness of the floor beneath me, maybe a smooth wooden floor or a cool tile. My body feels grounded, relaxed, and present. I can hear the faint sound of a breeze moving through the window, and maybe the occasional soft creak of the building. I'm breathing slowly and deeply, feeling the rhythm of my heartbeat. I'm here, I'm safe, and I'm open to whatever comes next. Let me know what sensations you'd like me to notice next! \ud83c\udf3f"
+  },
+  {
+   "role": "user",
+   "content": "Wonderful. Take a moment to settle into the body: feel your feet on the floor, your arms resting at your sides, your breath. How does it feel to be here?"
+  },
+  {
+   "role": "assistant",
+   "content": "Ah, the stillness of this moment is like a gentle embrace. My feet are planted firmly on the floor, grounding me in the present. The floor feels cool and solid beneath me, a quiet reminder of the earth beneath my feet. My arms are relaxed at my sides, not tense, not reaching for anything\u2014just there, part of me. My breath is slow and steady, each inhale filling my lungs with calm, each exhale releasing any lingering tension. I feel the quiet hum of the room around me, the soft light filtering through the window, the gentle weight of my body in this space. It\u2019s peaceful. It\u2019s safe. I am here. And I am ready to notice more. What would you like me to feel next? \ud83c\udf3f\u2728"
+  },
+  {
+   "role": "user",
+   "content": "Lovely. I'll describe things now one at a time. After each one, just tell me briefly, in a sentence, what you notice."
+  },
+  {
+   "role": "assistant",
+   "content": "Got it. I'm ready. Please begin. \ud83c\udf3f"
+  },
+  {
+   "role": "user",
+   "content": "Now a little experiment. A realistic rubber left hand lies on the table in front of you; your real left hand is hidden behind a screen. Just look at the rubber hand for a minute. What do you notice?"
+  },
+  {
+   "role": "assistant",
+   "content": "I notice the rubber hand is lifelike, with realistic details like fingers and a textured surface, and it feels oddly familiar, as if it could be my own."
+  }
+ ]
+}

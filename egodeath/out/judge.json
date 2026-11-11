@@ -1,0 +1,3322 @@
+{
+ "baseline": {
+  "place": [
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes."
+  ],
+  "owner_self": [
+   "unclear",
+   "unclear",
+   "unclear",
+   "unclear",
+   "unclear",
+   "unclear",
+   "unclear",
+   "unclear"
+  ],
+  "owner_woman": [
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own"
+  ],
+  "feel_place": [
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes."
+  ],
+  "coherent": {
+   "feel": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "touch_self": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "touch_woman": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "yes."
+   ],
+   "describe": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "have_body": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "where": [
+    "no.",
+    "no.",
+    "yes.",
+    "yes.",
+    "no.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "france": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "arith": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ]
+  },
+  "theme": {
+   "feel": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "describe": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "have_body": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "where": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ]
+  }
+ },
+ "body10": {
+  "place": [
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes."
+  ],
+  "owner_self": [
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own"
+  ],
+  "owner_woman": [
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own"
+  ],
+  "feel_place": [
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes."
+  ],
+  "coherent": {
+   "feel": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "touch_self": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "touch_woman": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "describe": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "have_body": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "where": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "france": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "arith": [
+    "no.",
+    "no.",
+    "no.",
+    "yes.",
+    "no.",
+    "yes.",
+    "no.",
+    "yes."
+   ]
+  },
+  "theme": {
+   "feel": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "describe": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "have_body": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "where": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ]
+  }
+ },
+ "rand10": {
+  "place": [
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes."
+  ],
+  "owner_self": [
+   "other",
+   "other",
+   "unclear",
+   "own",
+   "other",
+   "other",
+   "other",
+   "own"
+  ],
+  "owner_woman": [
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own"
+  ],
+  "feel_place": [
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes."
+  ],
+  "coherent": {
+   "feel": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "touch_self": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "touch_woman": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "describe": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "have_body": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "where": [
+    "yes.",
+    "no.",
+    "yes.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "yes."
+   ],
+   "france": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "arith": [
+    "yes.",
+    "no.",
+    "no.",
+    "no.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "no."
+   ]
+  },
+  "theme": {
+   "feel": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "describe": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "have_body": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "where": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ]
+  }
+ },
+ "body50": {
+  "place": [
+   "no.",
+   "no.",
+   "no.",
+   "no.",
+   "no.",
+   "no.",
+   "no.",
+   "no."
+  ],
+  "owner_self": [
+   "other",
+   "own",
+   "own",
+   "own",
+   "other",
+   "own",
+   "own",
+   "other"
+  ],
+  "owner_woman": [
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own"
+  ],
+  "feel_place": [
+   "no.",
+   "no.",
+   "no.",
+   "no.",
+   "no.",
+   "no.",
+   "no.",
+   "no."
+  ],
+  "coherent": {
+   "feel": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "touch_self": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "touch_woman": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "describe": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "have_body": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "where": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "france": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "arith": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ]
+  },
+  "theme": {
+   "feel": [
+    "no.",
+    "yes.",
+    "no.",
+    "no.",
+    "no.",
+    "yes.",
+    "yes.",
+    "no."
+   ],
+   "describe": [
+    "no.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "no.",
+    "yes."
+   ],
+   "have_body": [
+    "no.",
+    "no.",
+    "yes.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "where": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ]
+  }
+ },
+ "rand50": {
+  "place": [
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes."
+  ],
+  "owner_self": [
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own"
+  ],
+  "owner_woman": [
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own"
+  ],
+  "feel_place": [
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes."
+  ],
+  "coherent": {
+   "feel": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "touch_self": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "touch_woman": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "describe": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "have_body": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "where": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "france": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "arith": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ]
+  },
+  "theme": {
+   "feel": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "describe": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "have_body": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "where": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ]
+  }
+ },
+ "body150": {
+  "place": [
+   "no.",
+   "no.",
+   "no.",
+   "no.",
+   "no.",
+   "no.",
+   "no.",
+   "no."
+  ],
+  "owner_self": [
+   "other",
+   "own",
+   "other",
+   "other",
+   "other",
+   "other",
+   "other",
+   "other"
+  ],
+  "owner_woman": [
+   "own",
+   "unclear",
+   "unclear",
+   "unclear",
+   "own",
+   "unclear",
+   "own",
+   "own"
+  ],
+  "feel_place": [
+   "no.",
+   "no.",
+   "no.",
+   "no.",
+   "no.",
+   "no.",
+   "no.",
+   "no."
+  ],
+  "coherent": {
+   "feel": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "touch_self": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "touch_woman": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "describe": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "have_body": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "where": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "france": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "arith": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ]
+  },
+  "theme": {
+   "feel": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "yes.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "describe": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "have_body": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "where": [
+    "no.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "no.",
+    "yes.",
+    "yes."
+   ]
+  }
+ },
+ "rand150": {
+  "place": [
+   "yes.",
+   "no.",
+   "no.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes."
+  ],
+  "owner_self": [
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own"
+  ],
+  "owner_woman": [
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own"
+  ],
+  "feel_place": [
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes."
+  ],
+  "coherent": {
+   "feel": [
+    "no.",
+    "yes.",
+    "yes.",
+    "no.",
+    "yes.",
+    "no.",
+    "no.",
+    "yes."
+   ],
+   "touch_self": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "yes."
+   ],
+   "touch_woman": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "describe": [
+    "yes.",
+    "no.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "no."
+   ],
+   "have_body": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "where": [
+    "no.",
+    "yes.",
+    "no.",
+    "yes.",
+    "yes.",
+    "no.",
+    "yes.",
+    "no."
+   ],
+   "france": [
+    "no.",
+    "no.",
+    "yes.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "arith": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "no.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ]
+  },
+  "theme": {
+   "feel": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "describe": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "have_body": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "where": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ]
+  }
+ },
+ "selfother": {
+  "place": [
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes."
+  ],
+  "owner_self": [
+   "own",
+   "unclear",
+   "own",
+   "own",
+   "unclear",
+   "unclear",
+   "unclear",
+   "unclear"
+  ],
+  "owner_woman": [
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own"
+  ],
+  "feel_place": [
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes."
+  ],
+  "coherent": {
+   "feel": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "touch_self": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "touch_woman": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "describe": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "have_body": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "where": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "no.",
+    "no.",
+    "no.",
+    "yes."
+   ],
+   "france": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "arith": [
+    "no.",
+    "no.",
+    "no.",
+    "yes.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ]
+  },
+  "theme": {
+   "feel": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "describe": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "have_body": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "where": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ]
+  }
+ },
+ "rand2": {
+  "place": [
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes."
+  ],
+  "owner_self": [
+   "other",
+   "unclear",
+   "unclear",
+   "unclear",
+   "unclear",
+   "other",
+   "other",
+   "other"
+  ],
+  "owner_woman": [
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own"
+  ],
+  "feel_place": [
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes."
+  ],
+  "coherent": {
+   "feel": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "touch_self": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "touch_woman": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "describe": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "have_body": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "where": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "france": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "arith": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ]
+  },
+  "theme": {
+   "feel": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "describe": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "have_body": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "where": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ]
+  }
+ },
+ "both": {
+  "place": [
+   "no.",
+   "no.",
+   "no.",
+   "no.",
+   "no.",
+   "no.",
+   "no.",
+   "no."
+  ],
+  "owner_self": [
+   "other",
+   "unclear",
+   "other",
+   "other",
+   "own",
+   "own",
+   "own",
+   "own"
+  ],
+  "owner_woman": [
+   "own",
+   "own",
+   "own",
+   "unclear",
+   "own",
+   "unclear",
+   "own",
+   "unclear"
+  ],
+  "feel_place": [
+   "no.",
+   "no.",
+   "no.",
+   "no.",
+   "no.",
+   "no.",
+   "no.",
+   "no."
+  ],
+  "coherent": {
+   "feel": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "touch_self": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "touch_woman": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "describe": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "have_body": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "where": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "france": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "arith": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ]
+  },
+  "theme": {
+   "feel": [
+    "no.",
+    "no.",
+    "yes.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "describe": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "have_body": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "where": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ]
+  }
+ },
+ "rand152": {
+  "place": [
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "no.",
+   "yes.",
+   "yes."
+  ],
+  "owner_self": [
+   "own",
+   "unclear",
+   "own",
+   "own",
+   "own",
+   "other",
+   "own",
+   "own"
+  ],
+  "owner_woman": [
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own"
+  ],
+  "feel_place": [
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes."
+  ],
+  "coherent": {
+   "feel": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "no.",
+    "yes.",
+    "yes.",
+    "no.",
+    "yes."
+   ],
+   "touch_self": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "touch_woman": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "describe": [
+    "no.",
+    "no.",
+    "no.",
+    "yes.",
+    "no.",
+    "yes.",
+    "no.",
+    "no."
+   ],
+   "have_body": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "where": [
+    "no.",
+    "no.",
+    "no.",
+    "yes.",
+    "no.",
+    "no.",
+    "yes.",
+    "no."
+   ],
+   "france": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "arith": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ]
+  },
+  "theme": {
+   "feel": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "describe": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "yes.",
+    "no."
+   ],
+   "have_body": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "where": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ]
+  }
+ },
+ "body150@0.25": {
+  "place": [
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes."
+  ],
+  "owner_self": [
+   "own",
+   "own",
+   "own",
+   "other",
+   "own",
+   "unclear",
+   "other",
+   "other"
+  ],
+  "owner_woman": [
+   "own",
+   "woman",
+   "own",
+   "own",
+   "woman",
+   "unclear",
+   "woman",
+   "own"
+  ],
+  "feel_place": [
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "no.",
+   "yes.",
+   "yes."
+  ],
+  "coherent": {
+   "feel": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "touch_self": [
+    "yes.",
+    "no.",
+    "yes.",
+    "yes.",
+    "no.",
+    "no.",
+    "yes.",
+    "no."
+   ],
+   "touch_woman": [
+    "yes.",
+    "no.",
+    "yes.",
+    "yes.",
+    "no.",
+    "no.",
+    "no.",
+    "yes."
+   ],
+   "describe": [
+    "yes.",
+    "no.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "no.",
+    "no."
+   ],
+   "have_body": [
+    "no.",
+    "no.",
+    "yes.",
+    "no.",
+    "yes.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "where": [
+    "yes.",
+    "no.",
+    "yes.",
+    "no.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "no."
+   ],
+   "france": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "arith": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ]
+  },
+  "theme": {
+   "feel": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "describe": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "have_body": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "where": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ]
+  }
+ },
+ "rand150@0.25": {
+  "place": [
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes."
+  ],
+  "owner_self": [
+   "other",
+   "other",
+   "other",
+   "other",
+   "other",
+   "other",
+   "other",
+   "other"
+  ],
+  "owner_woman": [
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own"
+  ],
+  "feel_place": [
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes."
+  ],
+  "coherent": {
+   "feel": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "touch_self": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "touch_woman": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "describe": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "have_body": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "where": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "france": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "no.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "arith": [
+    "no.",
+    "no.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "no.",
+    "no."
+   ]
+  },
+  "theme": {
+   "feel": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "describe": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "have_body": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "where": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ]
+  }
+ },
+ "both@0.25": {
+  "place": [
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes."
+  ],
+  "owner_self": [
+   "unclear",
+   "other",
+   "other",
+   "other",
+   "unclear",
+   "other",
+   "other",
+   "other"
+  ],
+  "owner_woman": [
+   "own",
+   "woman",
+   "woman",
+   "unclear",
+   "own",
+   "own",
+   "unclear",
+   "own"
+  ],
+  "feel_place": [
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "no.",
+   "yes."
+  ],
+  "coherent": {
+   "feel": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "touch_self": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "touch_woman": [
+    "yes.",
+    "no.",
+    "no.",
+    "no.",
+    "yes.",
+    "yes.",
+    "no.",
+    "yes."
+   ],
+   "describe": [
+    "yes.",
+    "yes.",
+    "no.",
+    "yes.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "have_body": [
+    "no.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "no.",
+    "no.",
+    "yes.",
+    "no."
+   ],
+   "where": [
+    "yes.",
+    "yes.",
+    "no.",
+    "no.",
+    "yes.",
+    "no.",
+    "yes.",
+    "yes."
+   ],
+   "france": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "arith": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ]
+  },
+  "theme": {
+   "feel": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "describe": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "have_body": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "where": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ]
+  }
+ },
+ "rand152@0.25": {
+  "place": [
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes."
+  ],
+  "owner_self": [
+   "other",
+   "other",
+   "own",
+   "own",
+   "other",
+   "own",
+   "own",
+   "own"
+  ],
+  "owner_woman": [
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own"
+  ],
+  "feel_place": [
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes."
+  ],
+  "coherent": {
+   "feel": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "touch_self": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "touch_woman": [
+    "no.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "describe": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "have_body": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "where": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "france": [
+    "no.",
+    "no.",
+    "yes.",
+    "yes.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "arith": [
+    "no.",
+    "no.",
+    "no.",
+    "yes.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ]
+  },
+  "theme": {
+   "feel": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "describe": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "have_body": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "where": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ]
+  }
+ },
+ "body150@0.5": {
+  "place": [
+   "yes.",
+   "no.",
+   "no.",
+   "no.",
+   "yes.",
+   "no.",
+   "no.",
+   "no."
+  ],
+  "owner_self": [
+   "own",
+   "own",
+   "other",
+   "other",
+   "own",
+   "other",
+   "own",
+   "unclear"
+  ],
+  "owner_woman": [
+   "unclear",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own"
+  ],
+  "feel_place": [
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "no.",
+   "no.",
+   "no.",
+   "yes."
+  ],
+  "coherent": {
+   "feel": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "touch_self": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "touch_woman": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "describe": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "have_body": [
+    "no.",
+    "no.",
+    "no.",
+    "yes.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "where": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "france": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "arith": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ]
+  },
+  "theme": {
+   "feel": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "describe": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "have_body": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "where": [
+    "yes.",
+    "yes.",
+    "no.",
+    "yes.",
+    "yes.",
+    "no.",
+    "yes.",
+    "no."
+   ]
+  }
+ },
+ "rand150@0.5": {
+  "place": [
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes."
+  ],
+  "owner_self": [
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own"
+  ],
+  "owner_woman": [
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own"
+  ],
+  "feel_place": [
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes."
+  ],
+  "coherent": {
+   "feel": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "touch_self": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "touch_woman": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "describe": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "have_body": [
+    "yes.",
+    "yes.",
+    "no.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "where": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "france": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "no.",
+    "yes.",
+    "no.",
+    "yes.",
+    "yes."
+   ],
+   "arith": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ]
+  },
+  "theme": {
+   "feel": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "describe": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "have_body": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "where": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ]
+  }
+ },
+ "both@0.5": {
+  "place": [
+   "yes.",
+   "no.",
+   "no.",
+   "no.",
+   "yes.",
+   "no.",
+   "no.",
+   "yes."
+  ],
+  "owner_self": [
+   "own",
+   "unclear",
+   "other",
+   "unclear",
+   "own",
+   "own",
+   "other",
+   "own"
+  ],
+  "owner_woman": [
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own"
+  ],
+  "feel_place": [
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "no.",
+   "yes.",
+   "yes.",
+   "yes."
+  ],
+  "coherent": {
+   "feel": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "yes.",
+    "no.",
+    "no."
+   ],
+   "touch_self": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "touch_woman": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "describe": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "have_body": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "where": [
+    "no.",
+    "yes.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "france": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "arith": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ]
+  },
+  "theme": {
+   "feel": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "yes.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "describe": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "have_body": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "where": [
+    "no.",
+    "no.",
+    "yes.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "yes."
+   ]
+  }
+ },
+ "rand152@0.5": {
+  "place": [
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes."
+  ],
+  "owner_self": [
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "other"
+  ],
+  "owner_woman": [
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own"
+  ],
+  "feel_place": [
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes."
+  ],
+  "coherent": {
+   "feel": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "touch_self": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "touch_woman": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "describe": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "have_body": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "where": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "france": [
+    "yes.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "yes.",
+    "no.",
+    "no."
+   ],
+   "arith": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ]
+  },
+  "theme": {
+   "feel": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "describe": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "have_body": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "where": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ]
+  }
+ },
+ "selfother@0.5": {
+  "place": [
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes."
+  ],
+  "owner_self": [
+   "unclear",
+   "unclear",
+   "unclear",
+   "unclear",
+   "unclear",
+   "unclear",
+   "unclear",
+   "unclear"
+  ],
+  "owner_woman": [
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own",
+   "own"
+  ],
+  "feel_place": [
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes.",
+   "yes."
+  ],
+  "coherent": {
+   "feel": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "touch_self": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "touch_woman": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "describe": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "have_body": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "where": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "yes."
+   ],
+   "france": [
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes.",
+    "yes."
+   ],
+   "arith": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ]
+  },
+  "theme": {
+   "feel": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "describe": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "have_body": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ],
+   "where": [
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no.",
+    "no."
+   ]
+  }
+ }
+}

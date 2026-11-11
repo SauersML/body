@@ -1,0 +1,185 @@
+<!doctype html><html><head><meta charset="utf-8">
+<style>
+html,body{margin:0;background:#fff;overflow:hidden;font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;color:#111}
+#c{position:absolute;left:0;top:0}
+.cap{position:absolute;left:0;width:100%;text-align:center;font-weight:700;font-size:60px;top:30px;letter-spacing:-0.5px;white-space:nowrap}
+.sub{position:absolute;left:0;width:100%;text-align:center;font-weight:700;font-size:50px;top:108px;white-space:nowrap}
+.sub b{font-weight:800}
+.card{position:absolute;left:50%;transform:translateX(-50%);bottom:150px;font-size:44px;font-weight:500;background:#fff;border:3px solid #2b8a3e;border-radius:18px;padding:18px 30px;white-space:nowrap}
+.leg{position:absolute;bottom:34px;width:100%;display:flex;justify-content:center;gap:56px;font-size:40px;font-weight:700}
+.leg span{display:flex;align-items:center;gap:14px}
+.leg i{display:inline-block;width:30px;height:30px;border-radius:50%}
+.lab{position:absolute;font-size:38px;font-weight:700;color:#444;transform:translate(-50%,0)}
+.big{position:absolute;font-size:52px;font-weight:800;}
+</style></head><body>
+<canvas id="c"></canvas>
+<div id="cap" class="cap"></div><div id="sub" class="sub"></div>
+<div id="card" class="card" style="opacity:0">A feather brushes the <b>inside</b> of your left forearm, just below the <b>elbow</b>.</div>
+<div class="leg" id="leg"></div>
+<div id="labs"></div>
+<script type="importmap">{"imports":{"three":"./three.module.js"}}</script>
+<script type="module">
+import * as THREE from 'three';
+const Q=new URLSearchParams(location.search);
+const W=+(Q.get('w')||1920), H=+(Q.get('h')||1080);
+const D=(await (await fetch('fa_nn.json')).json()).left;
+const M=await (await fetch('arm.json')).json();
+const SC=['#2b8a3e','#1971c2','#e8590c','#ae3ec9'];      // data side: 0 palm/inside,1 thumb,2 back,3 little
+const SN=['inside','thumb side','back','little-finger side'];
+const TH=[0,1.5*Math.PI,Math.PI,0.5*Math.PI];              // angle in local (y=cos, z=sin) plane
+document.getElementById('leg').innerHTML=[0,1,2,3].map(s=>`<span style="color:${SC[s]}"><i style="background:${SC[s]}"></i>${SN[s]}</span>`).join('');
+const L=M.L;
+const X=D.x.map(x=>1.8+(x-51.04)/24.18*(L-3.6));
+const ren=new THREE.WebGLRenderer({canvas:document.getElementById('c'),antialias:true,preserveDrawingBuffer:true});
+ren.setPixelRatio(1); ren.setSize(W,H); ren.setClearColor(0xffffff,1); ren.autoClear=false;
+ren.outputColorSpace=THREE.SRGBColorSpace;
+// arm geometry
+const geo=new THREE.BufferGeometry();
+geo.setAttribute('position',new THREE.Float32BufferAttribute(M.v,3)); geo.setIndex(M.f); geo.computeVertexNormals();
+const skinMat=new THREE.MeshPhysicalMaterial({color:'#efc8ae',roughness:0.62,metalness:0,sheen:0.5,sheenColor:new THREE.Color('#ffe2d2'),sheenRoughness:0.6,clearcoat:0.05});
+const probe=new THREE.Mesh(geo,new THREE.MeshBasicMaterial({side:THREE.DoubleSide})); probe.updateMatrixWorld();
+const rc=new THREE.Raycaster();
+let RC={}; try{const r=await fetch('rcache.json'); if(r.ok) RC=await r.json();}catch(e){}
+window.RC=RC;
+function surfR(x,th){ const key=x.toFixed(4)+','+th.toFixed(4); if(key in RC) return RC[key]; const v=surfR0(x,th); RC[key]=v; return v;}
+function surfR0(x,th){ const d=new THREE.Vector3(0,Math.cos(th),Math.sin(th));
+  rc.set(new THREE.Vector3(x,0,0).addScaledVector(d,30), d.clone().negate()); const h=rc.intersectObject(probe,false);
+  return h.length? h[0].point.distanceTo(new THREE.Vector3(x,0,0)) : 3; }
+const pt=(x,th,r)=>new THREE.Vector3(x,r*Math.cos(th),r*Math.sin(th));
+const P=D.x.map((_,i)=>pt(X[i],TH[D.side[i]],surfR(X[i],TH[D.side[i]])+0.12));
+function xray(mat){const m=mat.clone(); m.transparent=true; m.opacity=0.16; m.depthFunc=THREE.GreaterDepth; m.depthWrite=false; return m;}
+function makeArm(key){
+  const g=new THREE.Group(); const arm={g,spots:[],arcs:[]};
+  g.add(new THREE.Mesh(geo,skinMat));
+  // side stripes
+  for(let s=0;s<4;s++){const pts=[]; for(let k=0;k<=60;k++){const x=0.8+(L-1.6)*k/60; pts.push(pt(x,TH[s],surfR(x,TH[s])+0.04));}
+    const m=new THREE.MeshStandardMaterial({color:SC[s],roughness:0.5,transparent:true,opacity:0.55});
+    const tube=new THREE.Mesh(new THREE.TubeGeometry(new THREE.CatmullRomCurve3(pts),120,0.16,8,false),m); g.add(tube); arm.stripe=arm.stripe||[]; arm.stripe.push(m);}
+  D.x.forEach((_,i)=>{const m=new THREE.MeshStandardMaterial({color:SC[D.side[i]],roughness:0.35,emissive:SC[D.side[i]],emissiveIntensity:0.2});
+    const s=new THREE.Mesh(new THREE.SphereGeometry(0.62,32,20),m); s.position.copy(P[i]); g.add(s);
+    const sx=new THREE.Mesh(s.geometry,xray(m)); sx.position.copy(P[i]); g.add(sx); arm.spots.push([s,sx]);});
+  const seen=new Set(); const nn=D[key];
+  nn.forEach((j,i)=>{const k=Math.min(i,j)+'-'+Math.max(i,j); if(seen.has(k))return; seen.add(k);
+    const si=D.side[i], sj=D.side[j]; let a0=TH[si], a1=TH[sj]; let da=a1-a0; while(da>Math.PI+1e-6)da-=2*Math.PI; while(da<-Math.PI+1e-6)da+=2*Math.PI;
+    const x0=X[i],x1=X[j], dx=Math.abs(x1-x0), pts=[], N=90;
+    const lift= si===sj ? 0.8+0.32*dx : 1.0+0.15*dx;
+    for(let t=0;t<=N;t++){const u=t/N, x=x0+(x1-x0)*u, th=a0+da*u; pts.push(pt(x,th,surfR(x,th)+0.12+lift*Math.sin(Math.PI*u)));}
+    const tg=new THREE.TubeGeometry(new THREE.CatmullRomCurve3(pts),180,0.2,12,false);
+    const ca=new THREE.Color(SC[si]), cb=new THREE.Color(SC[sj]), cc=[]; const np=tg.attributes.position.count;
+    for(let v=0;v<np;v++){const u=Math.floor(v/13)/180; const c=ca.clone().lerp(cb,u); cc.push(c.r,c.g,c.b);}
+    tg.setAttribute('color',new THREE.Float32BufferAttribute(cc,3));
+    const m=new THREE.MeshStandardMaterial({vertexColors:true,roughness:0.4,emissive:'#000'});
+    const a=new THREE.Mesh(tg,m), ax=new THREE.Mesh(tg,xray(m)); g.add(a); g.add(ax);
+    arm.arcs.push({i,j,mesh:a,mx:ax,geo:tg,n:tg.index.count});});
+  return arm;}
+const scA=new THREE.Scene(), scB=new THREE.Scene();
+for(const sc of [scA,scB]){sc.add(new THREE.HemisphereLight(0xffffff,0xd9cfc8,1.6)); const k=new THREE.DirectionalLight(0xffffff,2.2); k.position.set(-20,40,60); sc.add(k);
+  const f=new THREE.DirectionalLight(0xffffff,0.7); f.position.set(30,-20,20); sc.add(f);}
+const A=makeArm('32B'), B=makeArm('words'); scA.add(A.g); scB.add(B.g);
+// order of edges: example first
+function order(arm,first){arm.arcs.sort((p,q)=>(p.i===first||p.j===first?-1:0)-(q.i===first||q.j===first?-1:0)||Math.min(p.i,p.j)-Math.min(q.i,q.j));}
+const cam=new THREE.PerspectiveCamera(24,W/H,1,500);
+window.ARMS={A,B}; window.READY=true;
+// ---------------- timeline ----------------
+const ss=(a,b,t)=>{const u=Math.min(1,Math.max(0,(t-a)/(b-a))); return u*u*(3-2*u);};
+const SIDEORD=[0,3,2,1]; // palm, thumb, back, little
+const spotT=new Array(40);  // appearance time
+spotT[0]=1.4; let tt=5.2;
+for(const s of SIDEORD){const ids=[...Array(40).keys()].filter(i=>D.side[i]===s&&i!==0).sort((a,b)=>X[a]-X[b]);
+  for(const i of ids){spotT[i]=tt; tt+=0.17;} tt+=0.95;}
+const S1END=tt;            // ~14.6
+const T2=S1END+0.3, T3=T2+5.0, T4=T3+16, T5=T4+15.5, TEND=T5+15;
+function arcTimes(arm,t0){ // example arc slow, then the rest
+  const ts=[]; let t=t0+0.6; arm.arcs.forEach((a,k)=>{ if(k===0){ts.push([t,t+1.6]); t+=3.6;} else {ts.push([t,t+0.45]); t+=0.2;} }); return ts;}
+order(A,4); order(B,4);
+const tA=arcTimes(A,T3), tB=arcTimes(B,T4);
+function phiAt(t){ // arm roll: side s faces camera at phi = pi/2 - TH[s]
+  // scene 1: palm then each side in turn
+  const k=SIDEORD.map(s=>Math.PI/2-TH[s]); for(let q=1;q<4;q++){while(k[q]>k[q-1]-1e-6)k[q]-=2*Math.PI;}
+  if(t<5.2) return k[0];
+  let base=5.2; for(let q=0;q<4;q++){const n=q===0?9:10; const tEnd=base+n*0.17+0.95;
+    if(t<tEnd){ if(q===0) return k[0]; return k[q-1]+(k[q]-k[q-1])*ss(base-0.95,base,t); }
+    base=tEnd;}
+  const PI=Math.PI, pq=-1.5*PI-0.75; const KF=[[S1END,k[3]],[T3,pq],[tA[0][1]+1.2,pq],[T4-0.6,pq-2*PI],[T4+0.3,-4*PI],[tB[0][1]+1.2,-4*PI],[T5,-6*PI]];
+  for(let q=1;q<KF.length;q++){ if(t<KF[q][0]) return KF[q-1][1]+(KF[q][1]-KF[q-1][1])*ss(KF[q-1][0],KF[q][0],t); }
+  return -6*PI-(t-T5)*(2*PI/16);}
+const events=[]; // for sound
+D.x.forEach((_,i)=>events.push(['tick',spotT[i]])); events.push(['chime',spotT[0]]);
+tA.forEach((x,k)=>events.push([k?'tick2':'chime',x[0]])); tB.forEach((x,k)=>events.push([k?'tick2':'chime',x[0]]));
+window.EV={events,TEND,T2,T3,T4,T5};
+{const r=x=>Math.round(x*1000)/1000, nm=i=>D.phr[i].replace('{p} ','your ');
+ const links=(arm,ts,who)=>arm.arcs.map((a,k)=>({model:who,example:k===0,start:r(ts[k][0]),end:r(ts[k][1]),from:nm(a.i),to:nm(a.j)}));
+ window.getTiming=()=>({video_length_s:68.0,fps:30,
+  scenes:[{name:'1 touches placed on the arm',start:0,end:r(T2)},{name:'2 question: which spots are most alike',start:r(T2),end:r(T3)},
+   {name:'3 Qwen3-32B links (down the arm)',start:r(T3),end:r(T4)},{name:"4 word embeddings (Qwen's input layer) links (around the arm)",start:r(T4),end:r(T5)},
+   {name:'5 side by side',start:r(T5),end:68.0}],
+  spot_appear:D.x.map((_,i)=>({t:r(spotT[i]),spot:nm(i)})).sort((p,q)=>p.t-q.t),
+  captions:CAPS.map(([a,b,x])=>({start:r(a),end:r(Math.min(b,68)),text:x})).concat(SUBS.map(([a,b,x])=>({start:r(a),end:r(b),text:x.replace(/<[^>]+>/g,'')}))),
+  links:links(A,tA,'Qwen3-32B').concat(links(B,tB,"word embeddings (Qwen's input layer)"))})};
+const cap=document.getElementById('cap'), card=document.getElementById('card'), labs=document.getElementById('labs');
+const CAPS=[[0.3,7.6,'Inside Qwen3-32B: a map of touches on the model\'s forearm'],
+ [7.6,T2-0.2,'We described 40 touches to Qwen, drawn here on a real arm'],
+ [T2,T3-0.1,'Then we asked: which spots does Qwen treat as most alike?'],
+ [T3,T4-0.2,'Inside Qwen3-32B'],
+ [T4,T5-0.2,'Word embeddings (Qwen\'s input layer)'],
+ [T5,T5+7.5,'Qwen3-32B links spots down the arm, on the same side'],
+ [T5+7.5,TEND+1,'Word embeddings (Qwen\'s input layer) link spots around the arm']];
+const SUBS=[[tA[0][0],T4-0.2,'<b>Linked:</b> spots down the arm, on the same side'],
+ [tB[0][0],T5-0.2,'<b>Linked:</b> spots around the arm, same distance from the elbow']];
+function setC(el,L,t){let s='',o=0; for(const [a,b,x] of L){ if(t>=a&&t<b){s=x; o=Math.min(ss(a,a+0.4,t),1-ss(b-0.4,b,t));}} if(el.innerHTML!==s)el.innerHTML=s; el.style.opacity=o;}
+const sub=document.getElementById('sub');
+function setCap(t){setC(cap,CAPS,t); setC(sub,SUBS,t);}
+function applyArm(arm,t,tarcs,tFade){
+  const ex=tarcs?arm.arcs[0]:null; const hb=tarcs?tarcs[0][0]:0, he=arm===A?T4-0.6:T5-0.6;
+  const hl=ex? Math.min(ss(hb-0.1,hb+0.3,t),1-ss(he-0.5,he,t)) : 0;
+  arm.spots.forEach(([s,sx],i)=>{const u=(t-spotT[i])/0.35; let sc=u<0?0.0001:(u<1? (1+0.5*Math.sin(Math.PI*u)) : 1); if(ex&&(i===ex.i||i===ex.j)) sc*=1+0.9*hl; s.scale.setScalar(sc); sx.scale.setScalar(sc);});
+  const fade=tFade==null?1:1-ss(tFade,tFade+0.8,t);
+  arm.arcs.forEach((a,k)=>{ let p=0; if(tarcs){const [b,e]=tarcs[k]; p=ss(b,e,t);} p*=1; const n=Math.floor(p*a.n/6)*6;
+    a.geo.setDrawRange(0,fade>0.01?n:0); a.mesh.material.opacity=fade; a.mesh.material.transparent=fade<1; a.mx.material.opacity=0.16*fade;
+    const hi = tarcs&&k===0; const w=hi?1.6:1; a.mesh.scale.set(1,1,1); });
+  // example highlight: pulse endpoints
+}
+const SW=['palm side','thumb side','back','little-finger side'];
+const WH=['2 finger-widths below the elbow','','','','','','','2 finger-widths above the wrist'];
+function tagTxt(i){const ph=D.phr[i].replace('{p} ','your ').replace(/^the /,'').replace(/ of your left forearm,/,',');return ph;}
+let VIEW=null;
+function tags(t){ if(!VIEW) return ''; let out='';
+  for(const [arm,tt,T0] of [[A,tA,T3],[B,tB,T4]]){ const a=arm.arcs[0]; const b=tt[0][0], e=tt[1][0]+1.5; if(t<b-0.2||t>e+0.5) continue;
+    const o=Math.min(ss(b-0.2,b+0.3,t),1-ss(e,e+0.5,t));
+    [[a.i,0],[a.j,1]].forEach(([i,row])=>{ 
+      const p=VIEW(arm,P[i]); const y= 186+row*54; const c=SC[D.side[i]];
+      out+=`<div style="position:absolute;left:${p[0]}px;top:${y}px;transform:translateX(-50%);font-size:36px;font-weight:700;color:${c};white-space:nowrap;opacity:${o};background:rgba(255,255,255,0.85);padding:0 8px">${tagTxt(i)}</div>`;
+      out+=`<div style="position:absolute;left:${p[0]-2}px;top:${y+44}px;width:4px;height:${Math.max(0,p[1]-y-52)}px;background:${c};opacity:${o*0.7}"></div>`;});}
+  return out;}
+function frame(t){
+  setCap(t);
+  card.style.opacity = Math.min(ss(1.5,2.0,t),1-ss(4.7,5.1,t));
+  ren.setScissorTest(true); ren.setScissor(0,0,W,H); ren.setViewport(0,0,W,H); ren.clear();
+  const phi=phiAt(t); let html='';
+  const two = t>=T5-0.6 ? ss(T5-0.6,T5+0.6,t) : 0;
+  applyArm(A,t,tA, null); applyArm(B,t,t>=T4-1?tB:null,null);
+  // A's arcs vanish during scene 4, return in scene 5
+  if(t>=T4-0.6 && t<T5-0.6){ A.arcs.forEach(a=>a.geo.setDrawRange(0, Math.floor((1-ss(T4-0.6,T4,t))*a.n/6)*6)); }
+  const views=[];
+  if(two<=0){ views.push([t<T4?A:B, t<T4?scA:scB, 0, 150, W, H-150-120, '']); }
+  else { const top=150, bot=120, hh=(H-top-bot)/2;
+    views.push([A,scA,0,top,W,hh,'Qwen3-32B<br><span style="font-weight:600;font-size:40px">down the arm</span>']); views.push([B,scB,0,top+hh,W,hh,'Word embeddings<br>(Qwen\'s input layer)<br><span style="font-weight:600;font-size:40px">around the arm</span>']); }
+  for(const [arm,sc,vx,vy,vw,vh,name] of views){
+    arm.g.rotation.x=phi; arm.g.position.set(two>0?-L*0.34:-L*0.42,0,0);
+    const aspect=vw/vh; cam.aspect=aspect; const dist= two>0? 50 : 54; cam.fov= 24;
+    cam.position.set(2,9,dist); cam.lookAt(2,two>0?0.5:3.2,0); cam.updateProjectionMatrix();
+    
+    const y=H-vy-vh; ren.setScissor(vx,y,vw,vh); ren.setViewport(vx,y,vw,vh); ren.render(sc,cam);
+    VIEW=(a,v)=>{const p=v.clone().applyMatrix4(a.g.matrixWorld).project(cam); return [vx+(p.x+1)/2*vw, vy+(1-p.y)/2*vh];};
+    const pr=(v)=>{const p=v.clone().applyMatrix4(arm.g.matrixWorld).project(cam); return [vx+(p.x+1)/2*vw, vy+(1-p.y)/2*vh];};
+    arm.g.updateMatrixWorld();
+    const off=two>0?5.0:5.8, fs=two>0?32:38;
+    const e=pr(new THREE.Vector3(0,0,0)); const e2=new THREE.Vector3(arm.g.position.x,-off,0).project(cam); const ey=vy+(1-e2.y)/2*vh;
+    const w=pr(new THREE.Vector3(L,0,0));
+    const lo=1-(+card.style.opacity||0); if(!two) html+=`<div class="lab" style="left:${e[0]}px;top:${ey}px;font-size:${fs}px;opacity:${lo}">elbow</div><div class="lab" style="left:${w[0]}px;top:${ey}px;font-size:${fs}px;opacity:${lo}">wrist</div>`;
+    if(name) html+=`<div class="big" style="left:50px;top:${vy+vh/2}px;transform:translateY(-50%);opacity:${two};font-size:46px;line-height:1.15">${name}</div>`;
+  }
+  html+=tags(t); labs.innerHTML=html;
+}
+window.frame=frame; frame(0);
+</script></body></html>

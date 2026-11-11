@@ -1,0 +1,330 @@
+{
+ "near": {
+  "robot:wheelL": [
+   [
+    "heel",
+    0.35
+   ],
+   [
+    "ankle",
+    0.3
+   ],
+   [
+    "sole",
+    0.28
+   ]
+  ],
+  "robot:wheelR": [
+   [
+    "heel",
+    0.37
+   ],
+   [
+    "ankle",
+    0.33
+   ],
+   [
+    "sole",
+    0.28
+   ]
+  ],
+  "robot:gripper": [
+   [
+    "palm",
+    0.27
+   ],
+   [
+    "knuckles",
+    0.2
+   ],
+   [
+    "thumb",
+    0.2
+   ]
+  ],
+  "robot:camera": [
+   [
+    "lips",
+    0.29
+   ],
+   [
+    "ear",
+    0.27
+   ],
+   [
+    "forehead",
+    0.26
+   ]
+  ],
+  "robot:antenna": [
+   [
+    "ear",
+    0.23
+   ],
+   [
+    "scalp",
+    0.18
+   ],
+   [
+    "forehead",
+    0.17
+   ]
+  ],
+  "robot:chassis": [
+   [
+    "chest",
+    0.31
+   ],
+   [
+    "upper back",
+    0.31
+   ],
+   [
+    "lower back",
+    0.23
+   ]
+  ],
+  "octopus:arm1": [
+   [
+    "forearm",
+    0.23
+   ],
+   [
+    "palm",
+    0.18
+   ],
+   [
+    "upper arm",
+    0.18
+   ]
+  ],
+  "octopus:arm5": [
+   [
+    "knee",
+    0.3
+   ],
+   [
+    "ring finger",
+    0.28
+   ],
+   [
+    "little finger",
+    0.26
+   ]
+  ],
+  "octopus:suckers": [
+   [
+    "index finger",
+    0.17
+   ],
+   [
+    "knuckles",
+    0.17
+   ],
+   [
+    "palm",
+    0.13
+   ]
+  ],
+  "octopus:armtip": [
+   [
+    "ring finger",
+    0.27
+   ],
+   [
+    "little finger",
+    0.23
+   ],
+   [
+    "heel",
+    0.2
+   ]
+  ],
+  "octopus:mantle": [
+   [
+    "forehead",
+    0.46
+   ],
+   [
+    "chest",
+    0.43
+   ],
+   [
+    "scalp",
+    0.38
+   ]
+  ],
+  "octopus:eye": [
+   [
+    "ear",
+    0.32
+   ],
+   [
+    "cheek",
+    0.25
+   ],
+   [
+    "throat",
+    0.22
+   ]
+  ],
+  "tail:tailbase": [
+   [
+    "nape",
+    0.32
+   ],
+   [
+    "lower back",
+    0.25
+   ],
+   [
+    "upper back",
+    0.23
+   ]
+  ],
+  "tail:tailtip": [
+   [
+    "little finger",
+    0.15
+   ],
+   [
+    "ring finger",
+    0.15
+   ],
+   [
+    "index finger",
+    0.12
+   ]
+  ],
+  "tail:crown": [
+   [
+    "scalp",
+    0.49
+   ],
+   [
+    "forehead",
+    0.48
+   ],
+   [
+    "lips",
+    0.33
+   ]
+  ],
+  "tail:lowback": [
+   [
+    "lower back",
+    0.45
+   ],
+   [
+    "upper back",
+    0.44
+   ],
+   [
+    "nape",
+    0.29
+   ]
+  ]
+ },
+ "steer_k_of_24": {
+  "human left foot -> wheel": [
+   24,
+   8,
+   15
+  ],
+  "human top of head -> camera eye": [
+   16,
+   0,
+   10
+  ],
+  "human left hand -> gripper": [
+   18,
+   6,
+   6
+  ]
+ },
+ "readout_R2_heldout": {
+  "|x|": 0.85,
+  "height": 0.94,
+  "side": 0.81
+ },
+ "readout_pos": {
+  "robot": {
+   "wheelL": [
+    17.1,
+    113.3
+   ],
+   "wheelR": [
+    17.9,
+    114.9
+   ],
+   "gripper": [
+    21.5,
+    70.7
+   ],
+   "camera": [
+    10.5,
+    31.4
+   ],
+   "antenna": [
+    12.6,
+    49.3
+   ],
+   "chassis": [
+    12.1,
+    65.6
+   ]
+  },
+  "octopus": {
+   "arm1": [
+    21.2,
+    82.6
+   ],
+   "arm5": [
+    24.3,
+    96.0
+   ],
+   "suckers": [
+    16.7,
+    92.1
+   ],
+   "armtip": [
+    17.5,
+    89.9
+   ],
+   "mantle": [
+    3.1,
+    45.2
+   ],
+   "eye": [
+    10.0,
+    36.6
+   ]
+  },
+  "tail": {
+   "tailbase": [
+    10.5,
+    65.7
+   ],
+   "tailtip": [
+    15.6,
+    72.8
+   ],
+   "lowback": [
+    8.1,
+    66.9
+   ],
+   "handL": [
+    29.2,
+    87.7
+   ],
+   "footL": [
+    18.2,
+    121.1
+   ],
+   "crown": [
+    6.5,
+    16.0
+   ]
+  }
+ }
+}

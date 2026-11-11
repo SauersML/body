@@ -1,0 +1,14 @@
+m8b reply|L27 | nn5cm chain partner wf_rank alt_rank(of550)
+  none                 24.5 -0.146  0.911    223   79.5
+  short                15.6  0.222  0.948     37     26
+  short_person_rp      14.8  0.258  0.958     26     17
+  long                 25.2  0.129  0.796     20     11
+  long_person            27  0.145  0.827     32    6.5
+  long_person_rp       27.1  0.219  0.764     23      8
+m32 reply|L53 | nn5cm chain partner wf_rank alt_rank(of550)
+  none                   20     -0  0.984    160   53.5
+  short                  10  0.498      1     15     13
+  short_person         12.3  0.187      1     22     15
+  long                 13.6  0.144  0.937     21     10
+  long_person          9.71    0.3      1     22      6
+  long_person_rp       9.73  0.208      1     11      7

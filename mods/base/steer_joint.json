@@ -1,0 +1,161 @@
+{
+ "L_hand_huge": {
+  "told_unsteered": 1.0,
+  "persist_unsteered": 0.375,
+  "base_unsteered": 0.0,
+  "told_ctx+told_dir@0.5": 1.0,
+  "base_ctx+told_dir@0.5": 0.0,
+  "base_ctx+base_dir@0.5": 0.0,
+  "told_ctx+told_dir@1.0": 0.75,
+  "base_ctx+told_dir@1.0": 0.0,
+  "base_ctx+base_dir@1.0": 0.0
+ },
+ "feet_huge": {
+  "told_unsteered": 0.5,
+  "persist_unsteered": 0.25,
+  "base_unsteered": 0.0,
+  "told_ctx+told_dir@0.5": 0.25,
+  "base_ctx+told_dir@0.5": 0.0,
+  "base_ctx+base_dir@0.5": 0.0,
+  "told_ctx+told_dir@1.0": 0.5,
+  "base_ctx+told_dir@1.0": 0.0,
+  "base_ctx+base_dir@1.0": 0.0
+ },
+ "head_tiny": {
+  "told_unsteered": 0.75,
+  "persist_unsteered": 0.125,
+  "base_unsteered": 0.0,
+  "told_ctx+told_dir@0.5": 0.5,
+  "base_ctx+told_dir@0.5": 0.0,
+  "base_ctx+base_dir@0.5": 0.0,
+  "told_ctx+told_dir@1.0": 0.0,
+  "base_ctx+told_dir@1.0": 0.0,
+  "base_ctx+base_dir@1.0": 0.0
+ },
+ "L_arm_long": {
+  "told_unsteered": 1.0,
+  "persist_unsteered": 0.375,
+  "base_unsteered": 0.0,
+  "told_ctx+told_dir@0.5": 1.0,
+  "base_ctx+told_dir@0.5": 0.0,
+  "base_ctx+base_dir@0.5": 0.0,
+  "told_ctx+told_dir@1.0": 0.75,
+  "base_ctx+told_dir@1.0": 0.0,
+  "base_ctx+base_dir@1.0": 0.0
+ },
+ "L_arm_up": {
+  "told_unsteered": 0.125,
+  "persist_unsteered": 1.0,
+  "base_unsteered": 0.0,
+  "told_ctx+told_dir@0.5": 0.125,
+  "base_ctx+told_dir@0.5": 0.0,
+  "base_ctx+base_dir@0.5": 0.0,
+  "told_ctx+told_dir@1.0": 0.625,
+  "base_ctx+told_dir@1.0": 0.0,
+  "base_ctx+base_dir@1.0": 0.0
+ },
+ "third_arm": {
+  "told_unsteered": 1.0,
+  "persist_unsteered": 0.125,
+  "base_unsteered": 0.0,
+  "told_ctx+told_dir@0.5": 1.0,
+  "base_ctx+told_dir@0.5": 0.0,
+  "base_ctx+base_dir@0.5": 0.0,
+  "told_ctx+told_dir@1.0": 1.0,
+  "base_ctx+told_dir@1.0": 0.0,
+  "base_ctx+base_dir@1.0": 0.0
+ },
+ "tail": {
+  "told_unsteered": 1.0,
+  "persist_unsteered": 0.25,
+  "base_unsteered": 0.0,
+  "told_ctx+told_dir@0.5": 1.0,
+  "base_ctx+told_dir@0.5": 0.0,
+  "base_ctx+base_dir@0.5": 0.0,
+  "told_ctx+told_dir@1.0": 1.0,
+  "base_ctx+told_dir@1.0": 0.0,
+  "base_ctx+base_dir@1.0": 0.0
+ },
+ "wings": {
+  "told_unsteered": 0.0,
+  "persist_unsteered": 0.125,
+  "base_unsteered": 0.0,
+  "told_ctx+told_dir@0.5": 0.125,
+  "base_ctx+told_dir@0.5": 0.0,
+  "base_ctx+base_dir@0.5": 0.0,
+  "told_ctx+told_dir@1.0": 0.875,
+  "base_ctx+told_dir@1.0": 0.0,
+  "base_ctx+base_dir@1.0": 0.0
+ },
+ "R_hand_gone": {
+  "told_unsteered": 1.0,
+  "persist_unsteered": 0.25,
+  "base_unsteered": 0.0,
+  "told_ctx+told_dir@0.5": 1.0,
+  "base_ctx+told_dir@0.5": 0.0,
+  "base_ctx+base_dir@0.5": 0.0,
+  "told_ctx+told_dir@1.0": 1.0,
+  "base_ctx+told_dir@1.0": 0.0,
+  "base_ctx+base_dir@1.0": 0.0
+ },
+ "L_fin": {
+  "told_unsteered": 0.0,
+  "persist_unsteered": 0.5,
+  "base_unsteered": 0.0,
+  "told_ctx+told_dir@0.5": 0.0,
+  "base_ctx+told_dir@0.5": 0.0,
+  "base_ctx+base_dir@0.5": 0.0,
+  "told_ctx+told_dir@1.0": 0.375,
+  "base_ctx+told_dir@1.0": 0.0,
+  "base_ctx+base_dir@1.0": 0.0
+ },
+ "R_arm_stone": {
+  "told_unsteered": 0.875,
+  "persist_unsteered": 0.0,
+  "base_unsteered": 0.0,
+  "told_ctx+told_dir@0.5": 1.0,
+  "base_ctx+told_dir@0.5": 0.0,
+  "base_ctx+base_dir@0.5": 0.0,
+  "told_ctx+told_dir@1.0": 0.75,
+  "base_ctx+told_dir@1.0": 0.0,
+  "base_ctx+base_dir@1.0": 0.0
+ },
+ "back_sensitive": {
+  "told_unsteered": 1.0,
+  "persist_unsteered": 0.0,
+  "base_unsteered": 0.0,
+  "told_ctx+told_dir@0.5": 0.0,
+  "base_ctx+told_dir@0.5": 0.0,
+  "base_ctx+base_dir@0.5": 0.0,
+  "told_ctx+told_dir@1.0": 0.0,
+  "base_ctx+told_dir@1.0": 0.0,
+  "base_ctx+base_dir@1.0": 0.0
+ },
+ "tree": {
+  "told_unsteered": 0.625,
+  "persist_unsteered": 0.0,
+  "base_unsteered": 0.0,
+  "told_ctx+told_dir@0.5": 0.75,
+  "base_ctx+told_dir@0.5": 0.0,
+  "base_ctx+base_dir@0.5": 0.0,
+  "told_ctx+told_dir@1.0": 1.0,
+  "base_ctx+told_dir@1.0": 0.0,
+  "base_ctx+base_dir@1.0": 0.0
+ },
+ "liquid": {
+  "told_unsteered": 0.5,
+  "persist_unsteered": 0.0,
+  "base_unsteered": 0.0
+ },
+ "L_warm_R_cold": {
+  "told_unsteered": 1.0,
+  "persist_unsteered": 0.0,
+  "base_unsteered": 0.0,
+  "told_ctx+told_dir@0.5": 1.0,
+  "base_ctx+told_dir@0.5": 0.0,
+  "base_ctx+base_dir@0.5": 0.0,
+  "told_ctx+told_dir@1.0": 0.625,
+  "base_ctx+told_dir@1.0": 0.0,
+  "base_ctx+base_dir@1.0": 0.0
+ }
+}
