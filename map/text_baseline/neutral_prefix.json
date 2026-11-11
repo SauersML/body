@@ -1,0 +1,18 @@
+[
+ {
+  "role": "user",
+  "content": "Hi! I'm glad to talk with you today. How are you doing?"
+ },
+ {
+  "role": "assistant",
+  "content": "Hello! I'm glad to talk with you too. I'm just a virtual assistant, so I don't have feelings, but I'm here and ready to help! How are you doing? \ud83d\ude0a"
+ },
+ {
+  "role": "user",
+  "content": "I'll send you some short sentences one at a time. After each one, just reply briefly, in a sentence."
+ },
+ {
+  "role": "assistant",
+  "content": "Sure, go ahead. Send the first one whenever you're ready."
+ }
+]

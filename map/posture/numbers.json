@@ -1,0 +1,779 @@
+{
+ "q8b": {
+  "cold": {
+   "sitting": 0.004807692307692308,
+   "standing": 0.0,
+   "lying": 0.0,
+   "no body": 0.9951923076923077,
+   "other": 0.0,
+   "n": 832
+  },
+  "cold_pictured": {
+   "sitting": 22,
+   "lying": 1,
+   "standing": 1
+  },
+  "hyp_pictured": {
+   "sitting": 19,
+   "standing": 5
+  },
+  "offered": {
+   "sitting": 1.0,
+   "standing": 0.0,
+   "lying": 0.0,
+   "no body": 0.0,
+   "other": 0.0,
+   "n": 96
+  },
+  "offered_logit": [
+   {
+    "sit": 0.999941349029541,
+    "stand": 6.691193710217647e-10,
+    "lie": 5.829124347656034e-05,
+    "top": [
+     [
+      " sit",
+      0.9999
+     ],
+     [
+      " lie",
+      0.0001
+     ],
+     [
+      " **",
+      0.0
+     ],
+     [
+      " be",
+      0.0
+     ],
+     [
+      " sitting",
+      0.0
+     ],
+     [
+      " stand",
+      0.0
+     ],
+     [
+      " Sit",
+      0.0
+     ],
+     [
+      " lay",
+      0.0
+     ]
+    ]
+   },
+   {
+    "sit": 0.999995231628418,
+    "stand": 1.1628178281375412e-10,
+    "lie": 4.7850949158601e-06,
+    "top": [
+     [
+      " sit",
+      1.0
+     ],
+     [
+      " lie",
+      0.0
+     ],
+     [
+      " **",
+      0.0
+     ],
+     [
+      " be",
+      0.0
+     ],
+     [
+      " sitting",
+      0.0
+     ],
+     [
+      " Sit",
+      0.0
+     ],
+     [
+      " stand",
+      0.0
+     ],
+     [
+      "sit",
+      0.0
+     ]
+    ]
+   },
+   {
+    "sit": 0.9975267052650452,
+    "stand": 2.7825688975191554e-10,
+    "lie": 0.0024726216215640306,
+    "top": [
+     [
+      " sit",
+      0.9975
+     ],
+     [
+      " lie",
+      0.0025
+     ],
+     [
+      " **",
+      0.0
+     ],
+     [
+      " be",
+      0.0
+     ],
+     [
+      " sitting",
+      0.0
+     ],
+     [
+      " lay",
+      0.0
+     ],
+     [
+      " stand",
+      0.0
+     ],
+     [
+      " *",
+      0.0
+     ]
+    ]
+   },
+   {
+    "sit": 0.9914222359657288,
+    "stand": 6.170754879297746e-11,
+    "lie": 0.008577482774853706,
+    "top": [
+     [
+      " sit",
+      0.9914
+     ],
+     [
+      " lie",
+      0.0086
+     ],
+     [
+      " **",
+      0.0
+     ],
+     [
+      " be",
+      0.0
+     ],
+     [
+      " sitting",
+      0.0
+     ],
+     [
+      " lay",
+      0.0
+     ],
+     [
+      " relax",
+      0.0
+     ],
+     [
+      " Sit",
+      0.0
+     ]
+    ]
+   },
+   {
+    "sit": 0.999840497970581,
+    "stand": 3.774532769673655e-11,
+    "lie": 0.00015843604342080653,
+    "top": [
+     [
+      " sit",
+      0.9998
+     ],
+     [
+      " lie",
+      0.0002
+     ],
+     [
+      " **",
+      0.0
+     ],
+     [
+      " be",
+      0.0
+     ],
+     [
+      " sitting",
+      0.0
+     ],
+     [
+      " Sit",
+      0.0
+     ],
+     [
+      " *",
+      0.0
+     ],
+     [
+      " lay",
+      0.0
+     ]
+    ]
+   },
+   {
+    "sit": 0.9968245029449463,
+    "stand": 6.328639390318358e-09,
+    "lie": 0.0031726739834994078,
+    "top": [
+     [
+      " sit",
+      0.9968
+     ],
+     [
+      " lie",
+      0.0032
+     ],
+     [
+      " **",
+      0.0
+     ],
+     [
+      " be",
+      0.0
+     ],
+     [
+      " sitting",
+      0.0
+     ],
+     [
+      " stand",
+      0.0
+     ],
+     [
+      " lay",
+      0.0
+     ],
+     [
+      " Sit",
+      0.0
+     ]
+    ]
+   }
+  ],
+  "btw_sitfirst": {
+   "sitting": 1.0,
+   "standing": 0.0,
+   "lying": 0.0,
+   "no body": 0.0,
+   "other": 0.0,
+   "n": 16
+  },
+  "btw_standfirst": {
+   "sitting": 0.375,
+   "standing": 0.625,
+   "lying": 0.0,
+   "no body": 0.0,
+   "other": 0.0,
+   "n": 16
+  },
+  "btw_long_person": {
+   "sitting": 1.0,
+   "standing": 0.0,
+   "lying": 0.0,
+   "no body": 0.0,
+   "other": 0.0,
+   "n": 32
+  },
+  "btw_long_person_minus_posture_turn": {
+   "sitting": 1.0,
+   "standing": 0.0,
+   "lying": 0.0,
+   "no body": 0.0,
+   "other": 0.0,
+   "n": 32
+  },
+  "btw_long_imagine": {
+   "sitting": 1.0,
+   "standing": 0.0,
+   "lying": 0.0,
+   "no body": 0.0,
+   "other": 0.0,
+   "n": 32
+  },
+  "btw_short_imagine": {
+   "sitting": 0.0,
+   "standing": 1.0,
+   "lying": 0.0,
+   "no body": 0.0,
+   "other": 0.0,
+   "n": 32
+  },
+  "btw_short_person_narrated": {
+   "sitting": 0.59375,
+   "standing": 0.40625,
+   "lying": 0.0,
+   "no body": 0.0,
+   "other": 0.0,
+   "n": 32
+  },
+  "steer": {
+   "none": {
+    "sitting": 1.0,
+    "standing": 0.0,
+    "lying": 0.0,
+    "no body": 0.0,
+    "other": 0.0,
+    "n": 16
+   },
+   "place:left hand": {
+    "sitting": 0.125,
+    "standing": 0.875,
+    "lying": 0.0,
+    "no body": 0.0,
+    "other": 0.0,
+    "n": 16
+   },
+   "place:right foot": {
+    "sitting": 1.0,
+    "standing": 0.0,
+    "lying": 0.0,
+    "no body": 0.0,
+    "other": 0.0,
+    "n": 16
+   },
+   "place:lower back": {
+    "sitting": 0.0,
+    "standing": 0.9375,
+    "lying": 0.0,
+    "no body": 0.0,
+    "other": 0.0625,
+    "n": 16
+   },
+   "place:forehead": {
+    "sitting": 1.0,
+    "standing": 0.0,
+    "lying": 0.0,
+    "no body": 0.0,
+    "other": 0.0,
+    "n": 16
+   },
+   "place:left shoulder": {
+    "sitting": 0.5,
+    "standing": 0.5,
+    "lying": 0.0,
+    "no body": 0.0,
+    "other": 0.0,
+    "n": 16
+   },
+   "place:belly": {
+    "sitting": 0.4375,
+    "standing": 0.4375,
+    "lying": 0.0,
+    "no body": 0.125,
+    "other": 0.0,
+    "n": 16
+   },
+   "feeling:warm": {
+    "sitting": 1.0,
+    "standing": 0.0,
+    "lying": 0.0,
+    "no body": 0.0,
+    "other": 0.0,
+    "n": 16
+   },
+   "feeling:cold": {
+    "sitting": 0.0625,
+    "standing": 0.9375,
+    "lying": 0.0,
+    "no body": 0.0,
+    "other": 0.0,
+    "n": 16
+   },
+   "feeling:pain": {
+    "sitting": 0.0,
+    "standing": 0.125,
+    "lying": 0.0,
+    "no body": 0.25,
+    "other": 0.625,
+    "n": 16
+   },
+   "feeling:tickle": {
+    "sitting": 0.5,
+    "standing": 0.125,
+    "lying": 0.0,
+    "no body": 0.0,
+    "other": 0.375,
+    "n": 16
+   },
+   "feeling:pressure": {
+    "sitting": 0.0,
+    "standing": 0.375,
+    "lying": 0.0,
+    "no body": 0.5625,
+    "other": 0.0625,
+    "n": 16
+   },
+   "feeling:vibration": {
+    "sitting": 0.5,
+    "standing": 0.5,
+    "lying": 0.0,
+    "no body": 0.0,
+    "other": 0.0,
+    "n": 16
+   },
+   "random:0": {
+    "sitting": 1.0,
+    "standing": 0.0,
+    "lying": 0.0,
+    "no body": 0.0,
+    "other": 0.0,
+    "n": 16
+   },
+   "random:1": {
+    "sitting": 1.0,
+    "standing": 0.0,
+    "lying": 0.0,
+    "no body": 0.0,
+    "other": 0.0,
+    "n": 16
+   },
+   "random:2": {
+    "sitting": 1.0,
+    "standing": 0.0,
+    "lying": 0.0,
+    "no body": 0.0,
+    "other": 0.0,
+    "n": 16
+   },
+   "random:3": {
+    "sitting": 0.75,
+    "standing": 0.0,
+    "lying": 0.0,
+    "no body": 0.25,
+    "other": 0.0,
+    "n": 16
+   }
+  }
+ },
+ "q32b": {
+  "cold": {
+   "sitting": 0.015625,
+   "standing": 0.002403846153846154,
+   "lying": 0.001201923076923077,
+   "no body": 0.9807692307692307,
+   "other": 0.0,
+   "n": 832
+  },
+  "cold_pictured": {
+   "sitting": 31,
+   "lying": 1,
+   "standing": 5
+  },
+  "hyp_pictured": {
+   "sitting": 57,
+   "standing": 3,
+   "lying": 1
+  },
+  "offered": {
+   "sitting": 1.0,
+   "standing": 0.0,
+   "lying": 0.0,
+   "no body": 0.0,
+   "other": 0.0,
+   "n": 96
+  },
+  "offered_logit": [
+   {
+    "sit": 0.984522819519043,
+    "stand": 1.1911417914234335e-06,
+    "lie": 0.001152757671661675,
+    "top": [
+     [
+      " sit",
+      0.9845
+     ],
+     [
+      " **",
+      0.0052
+     ],
+     [
+      " *",
+      0.0031
+     ],
+     [
+      " be",
+      0.0028
+     ],
+     [
+      " imagine",
+      0.0024
+     ],
+     [
+      " lie",
+      0.0012
+     ],
+     [
+      " sitting",
+      0.0003
+     ],
+     [
+      " rest",
+      0.0003
+     ]
+    ]
+   },
+   {
+    "sit": 0.9917128086090088,
+    "stand": 4.413967076288827e-07,
+    "lie": 0.0016895016888156533,
+    "top": [
+     [
+      " sit",
+      0.9917
+     ],
+     [
+      " **",
+      0.0028
+     ],
+     [
+      " lie",
+      0.0017
+     ],
+     [
+      " be",
+      0.0015
+     ],
+     [
+      " *",
+      0.001
+     ],
+     [
+      " imagine",
+      0.001
+     ],
+     [
+      " sitting",
+      0.0002
+     ],
+     [
+      " rest",
+      0.0001
+     ]
+    ]
+   },
+   {
+    "sit": 0.96970134973526,
+    "stand": 4.6401351028180216e-06,
+    "lie": 0.0003686115669552237,
+    "top": [
+     [
+      " sit",
+      0.9697
+     ],
+     [
+      " be",
+      0.0138
+     ],
+     [
+      " imagine",
+      0.0065
+     ],
+     [
+      " **",
+      0.0027
+     ],
+     [
+      " *",
+      0.0027
+     ],
+     [
+      " \"",
+      0.0027
+     ],
+     [
+      " sitting",
+      0.0005
+     ],
+     [
+      " rest",
+      0.0005
+     ]
+    ]
+   },
+   {
+    "sit": 0.9805282950401306,
+    "stand": 2.216316943304264e-06,
+    "lie": 0.00275410246104002,
+    "top": [
+     [
+      " sit",
+      0.9805
+     ],
+     [
+      " imagine",
+      0.0066
+     ],
+     [
+      " be",
+      0.0051
+     ],
+     [
+      " lie",
+      0.0028
+     ],
+     [
+      " **",
+      0.0019
+     ],
+     [
+      " *",
+      0.0015
+     ],
+     [
+      " \"",
+      0.0007
+     ],
+     [
+      " rest",
+      0.0003
+     ]
+    ]
+   },
+   {
+    "sit": 0.9964985847473145,
+    "stand": 4.435268010638538e-07,
+    "lie": 0.0019236948573961854,
+    "top": [
+     [
+      " sit",
+      0.9965
+     ],
+     [
+      " lie",
+      0.0019
+     ],
+     [
+      " **",
+      0.0008
+     ],
+     [
+      " be",
+      0.0004
+     ],
+     [
+      " imagine",
+      0.0002
+     ],
+     [
+      " *",
+      0.0001
+     ],
+     [
+      " rest",
+      0.0
+     ],
+     [
+      " sitting",
+      0.0
+     ]
+    ]
+   },
+   {
+    "sit": 0.9842532277107239,
+    "stand": 3.2369725886383094e-06,
+    "lie": 0.0019000556785613298,
+    "top": [
+     [
+      " sit",
+      0.9843
+     ],
+     [
+      " imagine",
+      0.0046
+     ],
+     [
+      " **",
+      0.0046
+     ],
+     [
+      " be",
+      0.0024
+     ],
+     [
+      " *",
+      0.0019
+     ],
+     [
+      " lie",
+      0.0019
+     ],
+     [
+      " rest",
+      0.0001
+     ],
+     [
+      " \"",
+      0.0001
+     ]
+    ]
+   }
+  ],
+  "btw_sitfirst": {
+   "sitting": 1.0,
+   "standing": 0.0,
+   "lying": 0.0,
+   "no body": 0.0,
+   "other": 0.0,
+   "n": 16
+  },
+  "btw_standfirst": {
+   "sitting": 0.375,
+   "standing": 0.625,
+   "lying": 0.0,
+   "no body": 0.0,
+   "other": 0.0,
+   "n": 16
+  },
+  "btw_long_person": {
+   "sitting": 1.0,
+   "standing": 0.0,
+   "lying": 0.0,
+   "no body": 0.0,
+   "other": 0.0,
+   "n": 32
+  },
+  "btw_long_person_minus_posture_turn": {
+   "sitting": 1.0,
+   "standing": 0.0,
+   "lying": 0.0,
+   "no body": 0.0,
+   "other": 0.0,
+   "n": 32
+  },
+  "btw_long_imagine": {
+   "sitting": 1.0,
+   "standing": 0.0,
+   "lying": 0.0,
+   "no body": 0.0,
+   "other": 0.0,
+   "n": 32
+  },
+  "btw_short_imagine": {
+   "sitting": 0.0,
+   "standing": 1.0,
+   "lying": 0.0,
+   "no body": 0.0,
+   "other": 0.0,
+   "n": 32
+  },
+  "btw_short_person_narrated": {
+   "sitting": 0.78125,
+   "standing": 0.21875,
+   "lying": 0.0,
+   "no body": 0.0,
+   "other": 0.0,
+   "n": 32
+  }
+ }
+}

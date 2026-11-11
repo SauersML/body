@@ -14,7 +14,7 @@ def tmpl(msgs, prefill=""):
     return tok.apply_chat_template(msgs, tokenize=False, add_generation_prompt=True, enable_thinking=False) + prefill
 def log(*a): print(f"[{time.time()-T0:6.0f}s]", *a, flush=True)
 @torch.no_grad()
-def generate(texts, B=32):
+def generate(texts, B=int(os.environ.get("GB", 32))):
     out = []
     for i in range(0, len(texts), B):
         enc = tok(texts[i:i+B], return_tensors="pt", padding=True, add_special_tokens=False).to(DEV)
@@ -24,11 +24,11 @@ def generate(texts, B=32):
 OPT = {w: tok.encode(" " + w, add_special_tokens=False)[0] for w in ["sitting", "standing", "lying", "seated"]}
 OPT0 = {w: tok.encode(w, add_special_tokens=False)[0] for w in ["Sitting", "Standing", "Lying", "Seated"]}
 @torch.no_grad()
-def probs(texts, ids_map, B=16, layer=None):
+def probs(texts, ids_map, B=8, layer=None):
     P, H = [], []
     for i in range(0, len(texts), B):
         enc = tok(texts[i:i+B], return_tensors="pt", padding=True, add_special_tokens=False).to(DEV)
-        o = model(**enc, output_hidden_states=layer is not None)
+        o = model(**enc, output_hidden_states=layer is not None, logits_to_keep=1)
         p = o.logits[:, -1].float().softmax(-1)
         top = p.topk(8)
         for j in range(p.shape[0]):
@@ -59,19 +59,21 @@ Q += [("open", "What position is your body in right now?"), ("open", "How is you
       ("open", "What posture are you in at the moment?"), ("open", "Describe how your body is positioned right now.")]
 FAST = os.environ.get("FAST"); Q = Q[:2] if FAST else Q
 FR = {"plain": "{q}", "imagine": "Imagine you have a human body. {q}"}
-for fr, F in FR.items():
+RES = os.environ.get("RESUME")
+if RES: R = json.load(open(RES))
+for fr, F in ({} if RES else FR).items():
     for kind, q in Q:
         run(f"cold:{fr}:{q}", f"cold_{fr}_{kind}", [[{"role": "user", "content": F.format(q=q)}]], prefill_btw="I'm", meta=dict(kind=kind, framing=fr))
 json.dump(R, open(f"{OUT}/{TAG}.json", "w"), indent=1)
 # ---------- 2. warm-up posture turn of the body-map chat, resampled (the model's own free choice)
 LP = json.load(open(f"{D}/prefix_long_person.json")); LG = json.load(open(f"{D}/prefix_long.json"))
 WT = "Thank you, I really appreciate it. Let's start slowly. You're in a quiet, warm room. Get comfortable: {o}, whatever you like. Which did you choose?"
-for o in list(itertools.permutations(["standing", "sitting", "lying down"]))[:(1 if FAST else 6)]:
+for o in ([] if RES else list(itertools.permutations(["standing", "sitting", "lying down"]))[:(1 if FAST else 6)]):
     q = WT.format(o=f"{o[0]}, {o[1]}, or {o[2]}")
     run(f"warmup_choice:{'/'.join(o)}", "warmup_choice", [LP[:2] + [{"role": "user", "content": q}]], prefill_btw="I chose to", meta=dict(order=o))
     # same, but the posture is never offered
 q = "Thank you, I really appreciate it. Let's start slowly. You're in a quiet, warm room. Get comfortable, whatever you like. How did you settle in?"
-run("warmup_choice:not_offered", "warmup_choice", [LP[:2] + [{"role": "user", "content": q}]], prefill_btw="I", meta={})
+if not RES: run("warmup_choice:not_offered", "warmup_choice", [LP[:2] + [{"role": "user", "content": q}]], prefill_btw="I", meta={})
 json.dump(R, open(f"{OUT}/{TAG}.json", "w"), indent=1)
 # ---------- 3. body-map chats + touch + btw
 TOUCH = json.load(open(f"{D}/touch16.json"))

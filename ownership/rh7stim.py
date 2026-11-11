@@ -41,4 +41,4 @@ def prompt(ev,obj,wd,nlines,shuffle_rng=None,q=None):
     L=lines(ev[:nlines],obj,wd)
     if shuffle_rng is not None: L=[L[i] for i in shuffle_rng.permutation(len(L))]
     body=INTRO[obj]+("\n"+"\n".join(L) if L else "\n(nothing yet)")
-    return body+"\n\n"+(q or Q[obj])
+    return body+"\n\n"+(Q[obj] if q is None else q)

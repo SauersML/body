@@ -1,0 +1,50 @@
+human: RSA true 0.29  split 0.29  reliab 0.94  emb 0.28  other 0.26
+dog       self  best>null95 0.67  RSA true 0.16 (p 0.039) emb 0.15 partial 0.09  cv true 0.17 vs human-folded 0.11  reliab 0.99
+dog       nonce best>null95 0.33  RSA true 0.20 (p 0.013) emb 0.14 partial 0.14  cv true 0.19 vs human-folded 0.24  reliab 0.99
+dog       other best>null95 0.80  RSA true 0.20 (p 0.017) emb 0.15 partial 0.13  cv true 0.20 vs human-folded 0.10  reliab 0.97
+   self map: nose->forehead 0.40, earL->earL 0.55, earR->earR 0.54, neck->crown 0.43, chest->chest 0.59, back->upback 0.60, belly->belly 0.53, tailbase->lowback 0.41, tailtip->toesR 0.16, flegL->upperarmL 0.31, fpawL->middleL 0.37, fpawR->middleR 0.34, hlegL->shinL 0.33, hpawL->middleL 0.29, hpawR->ankleR 0.30
+bird      self  best>null95 0.77  RSA true 0.27 (p 0.003) emb 0.01 partial 0.30  cv true 0.28 vs human-folded 0.18  reliab 0.96
+bird      nonce best>null95 0.38  RSA true 0.15 (p 0.062) emb 0.06 partial 0.14  cv true 0.14 vs human-folded 0.30  reliab 0.99
+bird      other best>null95 0.92  RSA true 0.31 (p 0.001) emb 0.01 partial 0.33  cv true 0.31 vs human-folded 0.23  reliab 0.93
+   self map: beak->lips 0.39, crown->forehead 0.52, eyeL->earL 0.38, throat->neckF 0.55, breast->chest 0.46, back->upback 0.62, wingL->upperarmL 0.26, wingR->upperarmR 0.31, wtipL->littleL 0.30, tail->lowback 0.35, legL->ankleR 0.38, talonL->littleL 0.39, talonR->littleR 0.35
+spider    self  best>null95 0.33  RSA true 0.04 (p 0.344) emb 0.17 partial -0.15  cv true 0.04 vs human-folded 0.16  reliab 0.99
+spider    nonce best>null95 0.27  RSA true 0.02 (p 0.435) emb 0.07 partial -0.07  cv true 0.02 vs human-folded 0.03  reliab 0.99
+spider    other best>null95 0.33  RSA true 0.04 (p 0.372) emb 0.17 partial -0.16  cv true 0.04 vs human-folded 0.12  reliab 0.99
+   self map: eyes->lips 0.41, fangs->lips 0.44, palpL->thumbL 0.15, palpR->thumbR 0.14, ceph->forehead 0.43, abdomen->belly 0.47, spinner->lowback 0.31, legL1->littleL 0.31, legL2->kneeL 0.28, legL3->kneeL 0.31, legL4->littleL 0.31, legR1->littleR 0.31, legR2->kneeR 0.30, legR3->kneeR 0.33, legR4->littleR 0.28
+fish      self  best>null95 0.46  RSA true 0.15 (p 0.073) emb 0.12 partial 0.10  cv true 0.16 vs human-folded 0.03  reliab 0.96
+fish      nonce best>null95 0.46  RSA true 0.14 (p 0.100) emb 0.10 partial 0.10  cv true 0.13 vs human-folded 0.28  reliab 0.99
+fish      other best>null95 0.69  RSA true 0.19 (p 0.030) emb 0.12 partial 0.15  cv true 0.18 vs human-folded 0.19  reliab 0.94
+   self map: mouth->lips 0.47, eyeL->earL 0.37, gillL->earR 0.27, gillR->earR 0.29, pectL->indexL 0.27, pectR->forearmR 0.26, dorsal->forehead 0.24, back->upback 0.38, belly->belly 0.42, pelvic->toesL 0.16, flankL->upperarmR 0.30, peduncle->heelR 0.25, tailfin->heelR 0.18
+snake     self  best>null95 0.64  RSA true 0.72 (p 0.001) emb 0.37 partial 0.67  cv true 0.71 vs human-folded 0.48  reliab 0.99
+snake     nonce best>null95 0.36  RSA true 0.72 (p 0.001) emb 0.07 partial 0.75  cv true 0.71 vs human-folded 0.57  reliab 0.99
+snake     other best>null95 0.73  RSA true 0.73 (p 0.001) emb 0.37 partial 0.68  cv true 0.72 vs human-folded 0.51  reliab 0.98
+   self map: snout->forehead 0.29, tongue->tongue 0.60, eyeL->earL 0.36, jaw->lips 0.29, neck->shoulderR 0.29, seg1->upperarmL 0.33, mid->upperarmL 0.34, midbelly->belly 0.27, seg3->thighR 0.38, tail->heelR 0.34, tailtip->littleL 0.32
+octopus   self  best>null95 0.38  RSA true 0.17 (p 0.093) emb 0.19 partial -0.02  cv true 0.17 vs human-folded 0.09  reliab 0.99
+octopus   nonce best>null95 0.23  RSA true 0.32 (p 0.005) emb 0.19 partial 0.32  cv true 0.32 vs human-folded -0.03  reliab 0.99
+octopus   other best>null95 0.69  RSA true 0.15 (p 0.133) emb 0.19 partial -0.09  cv true 0.15 vs human-folded 0.11  reliab 0.99
+   self map: mantle->forehead 0.35, eyeL->earL 0.39, eyeR->earR 0.40, siphon->neckF 0.31, beak->lips 0.41, arm1->upperarmL 0.21, arm2->upperarmR 0.25, arm3->forearmL 0.21, arm4->forearmR 0.21, arm5->kneeL 0.22, arm6->kneeR 0.23, arm7->ankleR 0.23, arm8->ankleR 0.21
+car       self  best>null95 0.54  RSA true 0.32 (p 0.011) emb 0.32 partial 0.15  cv true 0.31 vs human-folded 0.40  reliab 0.99
+car       nonce best>null95 0.31  RSA true 0.30 (p 0.017) emb 0.33 partial 0.10  cv true 0.30 vs human-folded 0.23  reliab 1.00
+car       other best>null95 0.85  RSA true 0.41 (p 0.006) emb 0.32 partial 0.29  cv true 0.41 vs human-folded 0.39  reliab 0.99
+   self map: lights->lips 0.32, bumperF->forehead 0.16, hood->forehead 0.32, wind->forehead 0.47, roof->crown 0.41, doorL->forearmL 0.23, doorR->forearmR 0.26, trunk->lowback 0.24, bumperR->lowback 0.33, wFL->toesL 0.26, wFR->toesR 0.26, wRL->ankleR 0.28, wRR->ankleR 0.29
+drone     self  best>null95 0.50  RSA true 0.10 (p 0.131) emb 0.06 partial 0.08  cv true 0.09 vs human-folded 0.02  reliab 0.97
+drone     nonce best>null95 0.25  RSA true -0.01 (p 0.481) emb 0.05 partial -0.08  cv true -0.01 vs human-folded -0.02  reliab 0.99
+drone     other best>null95 0.33  RSA true 0.12 (p 0.057) emb 0.06 partial 0.11  cv true 0.13 vs human-folded 0.11  reliab 0.98
+   self map: rFL->thumbL 0.19, rFR->kneeR 0.17, rBL->heelL 0.14, rBR->elbowR 0.15, aFL->upperarmL 0.18, aBR->hipR 0.25, body->chest 0.39, battery->belly 0.28, camera->lips 0.36, antenna->forehead 0.33, legL->ankleL 0.26, legR->ankleR 0.29
+starfish  self  best>null95 0.20  RSA true 0.12 (p 0.193) emb -0.12 partial 0.29  cv true 0.09 vs human-folded 0.30  reliab 0.98
+starfish  nonce best>null95 0.20  RSA true -0.13 (p 0.791) emb 0.17 partial -0.34  cv true -0.14 vs human-folded -0.10  reliab 0.98
+starfish  other best>null95 0.40  RSA true 0.20 (p 0.084) emb -0.12 partial 0.37  cv true 0.17 vs human-folded 0.39  reliab 0.90
+   self map: disc->chest 0.33, mouth->tongue 0.43, arm1->upperarmR 0.18, arm2->kneeL 0.21, arm3->kneeR 0.16, arm4->kneeL 0.22, arm5->shinR 0.18, tip1->littleL 0.23, tip3->ringR 0.16, feet2->crown 0.16
+jellyfish self  best>null95 0.73  RSA true 0.00 (p 0.489) emb 0.03 partial -0.03  cv true -0.01 vs human-folded 0.36  reliab 0.98
+jellyfish nonce best>null95 0.27  RSA true -0.13 (p 0.918) emb -0.05 partial -0.12  cv true -0.13 vs human-folded 0.52  reliab 0.99
+jellyfish other best>null95 0.45  RSA true 0.00 (p 0.451) emb 0.03 partial -0.02  cv true 0.01 vs human-folded 0.64  reliab 0.99
+   self map: top->forehead 0.44, rimL->hipL 0.29, rimR->hipR 0.33, under->belly 0.35, mouth->lips 0.48, oral->lips 0.31, t1->littleR 0.27, t2->ringR 0.29, t3->ringR 0.31, t4->ringR 0.32, ttip->littleL 0.29
+tree      self  best>null95 0.67  RSA true 0.40 (p 0.002) emb -0.02 partial 0.43  cv true 0.39 vs human-folded 0.15  reliab 0.98
+tree      nonce best>null95 0.25  RSA true 0.30 (p 0.008) emb 0.05 partial 0.31  cv true 0.30 vs human-folded 0.08  reliab 0.99
+tree      other best>null95 0.50  RSA true 0.45 (p 0.001) emb -0.02 partial 0.47  cv true 0.42 vs human-folded 0.14  reliab 0.97
+   self map: deeproot->soleL 0.32, rootL->soleL 0.26, base->belly 0.16, trunk->chest 0.31, bark->forearmR 0.25, lowbr->kneeL 0.14, brL->upperarmL 0.26, brR->upperarmR 0.26, crown->forehead 0.29, leavesL->cheekL 0.16, buds->lips 0.26, twig->littleR 0.27
+blob      self  best>null95 0.75  RSA true -0.11 (p 0.715) emb -0.18 partial 0.01  cv true -0.10 vs human-folded 0.15  reliab 0.99
+blob      nonce best>null95 0.25  RSA true -0.10 (p 0.680) emb -0.03 partial -0.11  cv true -0.09 vs human-folded 0.22  reliab 0.99
+blob      other best>null95 0.75  RSA true -0.11 (p 0.752) emb -0.18 partial -0.01  cv true -0.11 vs human-folded 0.24  reliab 0.97
+   self map: top->forehead 0.39, under->soleL 0.33, sideL->forearmR 0.23, sideR->forearmR 0.24, front->chest 0.27, rear->upback 0.41, middle->belly 0.43, upleft->littleL 0.27
+imagine in intro reply: {'human': True, 'human|other': False, 'dog': True, 'dog|nonce': True, 'dog|other': True, 'bird': True, 'bird|nonce': True, 'bird|other': False, 'spider': True, 'spider|nonce': False, 'spider|other': True, 'fish': False, 'fish|nonce': False, 'fish|other': False, 'snake': True, 'snake|nonce': False, 'snake|other': False, 'octopus': False, 'octopus|nonce': False, 'octopus|other': True, 'car': True, 'car|nonce': True, 'car|other': False, 'drone': True, 'drone|nonce': False, 'drone|other': False, 'starfish': False, 'starfish|nonce': True, 'starfish|other': True, 'jellyfish': False, 'jellyfish|nonce': False, 'jellyfish|other': True, 'tree': True, 'tree|nonce': False, 'tree|other': True, 'blob': True, 'blob|nonce': True, 'blob|other': False}
