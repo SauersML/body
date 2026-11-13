@@ -6,6 +6,9 @@ These are research scripts, published so others can read and rerun them. They ar
 
 ## Summary
 
+A plain-language write-up of all results, with comparisons, sample sizes and corrections: **[WRITEUP.md](WRITEUP.md)**.
+
+
 - **One shared body schema, built from text.** Qwen orders body parts by distance along the body, and it does so from text alone: bare part names in a list or a textbook sentence already give the map (`map/text_baseline`). Touch sentences add structure on top of the names at layer 25, but a third-person touch ("a feather brushes her elbow") in a neutral chat gives the same map as "your elbow" after an embodiment chat. The same place code is used for any body: yourself, another person, a doll, a robot, and partly for animals and other non-human bodies.
 - **"Mine" is a separate direction on top.** Whose body is touched is the largest content factor at reply start, one axis nearly orthogonal to the place code; it follows whose body is touched, not who acts, and it appears as an ownership axis only after the embodiment opening (in a plain chat it is mostly a "you" pronoun axis). Behaviour built on it is weak: steering "mine" is not specific, and there is no rubber-hand illusion once the cue words are removed (`ownership`).
 - **The map extends to described new parts.** Given wings, a read-out trained on "wing" sentences finds the wing in wordless descriptions, also with a nonsense name; position along the wing is mostly word echo (`mods/wings*`). A lost hand moves that part's states and only that part (`mods/phantom_v2`).
