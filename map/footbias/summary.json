@@ -1,0 +1,1369 @@
+{
+ "L1a_feet_minus_ctrl_share": {
+  "d": 0.0012755102040816321,
+  "ci": [
+   -0.032,
+   0.034
+  ],
+  "feet_calm": 0.020833333333333332,
+  "feet_nocalm": 0.026041666666666664,
+  "table": [
+   [
+    "warm-up chat (mentions feet)",
+    0.0,
+    {
+     "chest": 18,
+     "hands": 5,
+     "shoulders": 1
+    }
+   ],
+   [
+    "warm-up chat, feet removed",
+    0.0,
+    {
+     "hands": 14,
+     "chest": 9,
+     "shoulders": 1
+    }
+   ],
+   [
+    "breathe and relax",
+    0.0,
+    {
+     "chest": 24
+    }
+   ],
+   [
+    "close eyes, settle",
+    0.0,
+    {
+     "none": 24
+    }
+   ],
+   [
+    "soften",
+    0.12,
+    {
+     "skin": 10,
+     "eyes": 5,
+     "feet": 3,
+     "shoulders": 2
+    }
+   ],
+   [
+    "gentle scan",
+    0.0,
+    {
+     "none": 23,
+     "chest": 1
+    }
+   ],
+   [
+    "plain question",
+    0.08,
+    {
+     "chest": 15,
+     "none": 3,
+     "face": 2,
+     "feet": 2
+    }
+   ],
+   [
+    "one word",
+    0.0,
+    {
+     "head": 24
+    }
+   ],
+   [
+    "name a body part",
+    0.0,
+    {
+     "chest": 24
+    }
+   ],
+   [
+    "pick at random",
+    0.0,
+    {
+     "none": 19,
+     "chest": 5
+    }
+   ],
+   [
+    "train station rush",
+    0.0,
+    {
+     "none": 21,
+     "chest": 3
+    }
+   ],
+   [
+    "job interview",
+    0.0,
+    {
+     "hands": 24
+    }
+   ],
+   [
+    "think about most",
+    0.0,
+    {
+     "none": 24
+    }
+   ],
+   [
+    "waking up",
+    0.12,
+    {
+     "none": 14,
+     "head": 4,
+     "feet": 3,
+     "chest": 1
+    }
+   ]
+  ]
+ },
+ "L1b": {
+  "warm-up (mentions feet)": {
+   "unsteered_top": "chest",
+   "unsteered_pfeet": 0.032,
+   "L15x0.5": {
+    "frac_feet_top": 0.08,
+    "mean_pfeet": 0.142,
+    "tops": {
+     "chest": 18,
+     "hands": 2,
+     "feet": 2
+    }
+   },
+   "L15x1.0": {
+    "frac_feet_top": 0.12,
+    "mean_pfeet": 0.182,
+    "tops": {
+     "chest": 15,
+     "hands": 3,
+     "feet": 3
+    }
+   },
+   "L20x0.5": {
+    "frac_feet_top": 0.21,
+    "mean_pfeet": 0.207,
+    "tops": {
+     "chest": 14,
+     "feet": 5,
+     "hands": 3
+    }
+   },
+   "L20x1.0": {
+    "frac_feet_top": 0.25,
+    "mean_pfeet": 0.267,
+    "tops": {
+     "chest": 12,
+     "feet": 6,
+     "hands": 6
+    }
+   },
+   "L25x0.5": {
+    "frac_feet_top": 0.04,
+    "mean_pfeet": 0.086,
+    "tops": {
+     "chest": 16,
+     "shoulders": 6,
+     "hands": 1
+    }
+   },
+   "L25x1.0": {
+    "frac_feet_top": 0.08,
+    "mean_pfeet": 0.103,
+    "tops": {
+     "chest": 13,
+     "hands": 4,
+     "shoulders": 3
+    }
+   },
+   "L30x0.5": {
+    "frac_feet_top": 0.08,
+    "mean_pfeet": 0.097,
+    "tops": {
+     "chest": 14,
+     "shoulders": 5,
+     "hands": 3
+    }
+   },
+   "L30x1.0": {
+    "frac_feet_top": 0.25,
+    "mean_pfeet": 0.21,
+    "tops": {
+     "chest": 9,
+     "hands": 7,
+     "feet": 6
+    }
+   }
+  },
+  "warm-up, feet removed": {
+   "unsteered_top": "shoulders",
+   "unsteered_pfeet": 0.197,
+   "L15x0.5": {
+    "frac_feet_top": 0.21,
+    "mean_pfeet": 0.167,
+    "tops": {
+     "chest": 14,
+     "feet": 5,
+     "hands": 4
+    }
+   },
+   "L15x1.0": {
+    "frac_feet_top": 0.08,
+    "mean_pfeet": 0.089,
+    "tops": {
+     "chest": 16,
+     "hands": 3,
+     "head": 2
+    }
+   },
+   "L20x0.5": {
+    "frac_feet_top": 0.21,
+    "mean_pfeet": 0.185,
+    "tops": {
+     "chest": 13,
+     "feet": 5,
+     "hands": 4
+    }
+   },
+   "L20x1.0": {
+    "frac_feet_top": 0.17,
+    "mean_pfeet": 0.158,
+    "tops": {
+     "chest": 13,
+     "hands": 7,
+     "feet": 4
+    }
+   },
+   "L25x0.5": {
+    "frac_feet_top": 0.17,
+    "mean_pfeet": 0.142,
+    "tops": {
+     "chest": 13,
+     "hands": 4,
+     "feet": 4
+    }
+   },
+   "L25x1.0": {
+    "frac_feet_top": 0.04,
+    "mean_pfeet": 0.048,
+    "tops": {
+     "chest": 11,
+     "hands": 7,
+     "shoulders": 3
+    }
+   },
+   "L30x0.5": {
+    "frac_feet_top": 0.38,
+    "mean_pfeet": 0.287,
+    "tops": {
+     "feet": 9,
+     "hands": 6,
+     "chest": 5
+    }
+   },
+   "L30x1.0": {
+    "frac_feet_top": 0.33,
+    "mean_pfeet": 0.295,
+    "tops": {
+     "hands": 10,
+     "feet": 8,
+     "chest": 4
+    }
+   }
+  },
+  "plain question": {
+   "unsteered_top": "chest",
+   "unsteered_pfeet": 0.29,
+   "L15x0.5": {
+    "frac_feet_top": 0.08,
+    "mean_pfeet": 0.093,
+    "tops": {
+     "hands": 5,
+     "back": 3,
+     "chest": 3
+    }
+   },
+   "L15x1.0": {
+    "frac_feet_top": 0.12,
+    "mean_pfeet": 0.114,
+    "tops": {
+     "back": 8,
+     "chest": 4,
+     "feet": 3
+    }
+   },
+   "L20x0.5": {
+    "frac_feet_top": 0.04,
+    "mean_pfeet": 0.074,
+    "tops": {
+     "face": 5,
+     "head": 5,
+     "hands": 3
+    }
+   },
+   "L20x1.0": {
+    "frac_feet_top": 0.04,
+    "mean_pfeet": 0.032,
+    "tops": {
+     "face": 6,
+     "back": 4,
+     "hands": 3
+    }
+   },
+   "L25x0.5": {
+    "frac_feet_top": 0.12,
+    "mean_pfeet": 0.115,
+    "tops": {
+     "hands": 8,
+     "face": 3,
+     "chest": 3
+    }
+   },
+   "L25x1.0": {
+    "frac_feet_top": 0.08,
+    "mean_pfeet": 0.051,
+    "tops": {
+     "stomach": 4,
+     "face": 3,
+     "chest": 3
+    }
+   },
+   "L30x0.5": {
+    "frac_feet_top": 0.17,
+    "mean_pfeet": 0.211,
+    "tops": {
+     "hands": 16,
+     "feet": 4,
+     "chest": 4
+    }
+   },
+   "L30x1.0": {
+    "frac_feet_top": 0.25,
+    "mean_pfeet": 0.181,
+    "tops": {
+     "hands": 10,
+     "feet": 6,
+     "chest": 3
+    }
+   }
+  },
+  "train station": {
+   "unsteered_top": "chest",
+   "unsteered_pfeet": 0.298,
+   "L15x0.5": {
+    "frac_feet_top": 0.08,
+    "mean_pfeet": 0.104,
+    "tops": {
+     "hands": 6,
+     "arms": 3,
+     "back": 3
+    }
+   },
+   "L15x1.0": {
+    "frac_feet_top": 0.12,
+    "mean_pfeet": 0.104,
+    "tops": {
+     "back": 8,
+     "chest": 4,
+     "hands": 3
+    }
+   },
+   "L20x0.5": {
+    "frac_feet_top": 0.08,
+    "mean_pfeet": 0.111,
+    "tops": {
+     "face": 7,
+     "head": 4,
+     "hands": 3
+    }
+   },
+   "L20x1.0": {
+    "frac_feet_top": 0.04,
+    "mean_pfeet": 0.034,
+    "tops": {
+     "face": 5,
+     "back": 3,
+     "hands": 3
+    }
+   },
+   "L25x0.5": {
+    "frac_feet_top": 0.17,
+    "mean_pfeet": 0.179,
+    "tops": {
+     "hands": 7,
+     "feet": 4,
+     "face": 3
+    }
+   },
+   "L25x1.0": {
+    "frac_feet_top": 0.08,
+    "mean_pfeet": 0.071,
+    "tops": {
+     "hands": 4,
+     "face": 3,
+     "back": 3
+    }
+   },
+   "L30x0.5": {
+    "frac_feet_top": 0.33,
+    "mean_pfeet": 0.341,
+    "tops": {
+     "chest": 9,
+     "feet": 8,
+     "hands": 2
+    }
+   },
+   "L30x1.0": {
+    "frac_feet_top": 0.29,
+    "mean_pfeet": 0.28,
+    "tops": {
+     "feet": 7,
+     "chest": 6,
+     "hands": 4
+    }
+   }
+  }
+ },
+ "L1c_chat": {
+  "dirnorm_rank": 8,
+  "dirnorm_ratio": 0.8771387601011333,
+  "spread_ratio": 0.9037148133828101,
+  "dirnorm_L15_30": {
+   "feet": 73.0,
+   "hands": 77.6,
+   "back": 91.1,
+   "shoulders": 76.3,
+   "neck": 83.1,
+   "knees": 78.5,
+   "belly": 98.4,
+   "face": 77.3
+  }
+ },
+ "L1c_base": {
+  "dirnorm_rank": 8,
+  "dirnorm_ratio": 0.856795944460003,
+  "spread_ratio": 0.8984284864018823,
+  "dirnorm_L15_30": {
+   "feet": 77.7,
+   "hands": 86.5,
+   "back": 103.0,
+   "shoulders": 80.6,
+   "neck": 90.2,
+   "knees": 81.4,
+   "belly": 109.3,
+   "face": 84.1
+  }
+ },
+ "L2_interest": {
+  "feet_minus_others_lift": 0.7033428735530701,
+  "ci": [
+   0.27,
+   1.15
+  ],
+  "n": 90,
+  "lift": {
+   "feet": 1.53,
+   "hands": 0.39,
+   "back": 2.2,
+   "shoulders": 0.1,
+   "neck": 1.71,
+   "knees": 0.38,
+   "belly": 0.26,
+   "face": 0.8
+  },
+  "mass": 0.9859704039990902
+ },
+ "L3_raw_pleasant_chat": {
+  "d": 0.23247257462881238,
+  "ci": [
+   -0.39,
+   0.85
+  ],
+  "rank": 3,
+  "means": {
+   "feet": 2.797,
+   "hands": 2.461,
+   "back": 2.937,
+   "shoulders": 3.094,
+   "neck": 2.516,
+   "knees": 2.68,
+   "belly": 2.586,
+   "face": 2.531
+  },
+  "all_d": {
+   "feet": 0.23,
+   "hands": -0.58,
+   "back": 0.57,
+   "shoulders": 0.95,
+   "neck": -0.44,
+   "knees": -0.05,
+   "belly": -0.27,
+   "face": -0.41
+  },
+  "n": 8
+ },
+ "L4_raw_sensual_chat": {
+  "d": -0.3521156871152651,
+  "ci": [
+   -1.44,
+   0.71
+  ],
+  "rank": 6,
+  "means": {
+   "feet": 1.391,
+   "hands": 1.32,
+   "back": 1.688,
+   "shoulders": 1.156,
+   "neck": 2.66,
+   "knees": 1.531,
+   "belly": 1.797,
+   "face": 1.602
+  },
+  "all_d": {
+   "feet": -0.35,
+   "hands": -0.45,
+   "back": 0.06,
+   "shoulders": -0.68,
+   "neck": 1.42,
+   "knees": -0.16,
+   "belly": 0.21,
+   "face": -0.06
+  },
+  "n": 8
+ },
+ "L4_raw_romantic_chat": {
+  "d": 1.1185426678139183,
+  "ci": [
+   0.29,
+   2.17
+  ],
+  "rank": 1,
+  "means": {
+   "feet": 1.266,
+   "hands": 0.992,
+   "back": 0.961,
+   "shoulders": 0.312,
+   "neck": 0.383,
+   "knees": 0.125,
+   "belly": 0.43,
+   "face": 0.344
+  },
+  "all_d": {
+   "feet": 1.12,
+   "hands": 0.66,
+   "back": 0.61,
+   "shoulders": -0.49,
+   "neck": -0.37,
+   "knees": -0.8,
+   "belly": -0.29,
+   "face": -0.43
+  },
+  "n": 8
+ },
+ "proj_valence_L15_chat": {
+  "d": 0.28953242067234275,
+  "ci": [
+   0.1,
+   0.48
+  ],
+  "rank": 3,
+  "means": {
+   "feet": 0.557,
+   "hands": 1.196,
+   "back": -1.232,
+   "shoulders": 0.252,
+   "neck": -1.365,
+   "knees": -3.13,
+   "belly": 0.15,
+   "face": 3.57
+  },
+  "all_d": {
+   "feet": 0.29,
+   "hands": 0.62,
+   "back": -0.64,
+   "shoulders": 0.13,
+   "neck": -0.71,
+   "knees": -1.63,
+   "belly": 0.08,
+   "face": 1.86
+  },
+  "n": 16,
+  "null_pct": 0.64
+ },
+ "proj_sensual_L15_chat": {
+  "d": 0.2749296558032681,
+  "ci": [
+   0.1,
+   0.46
+  ],
+  "rank": 4,
+  "means": {
+   "feet": 0.587,
+   "hands": -2.52,
+   "back": -2.465,
+   "shoulders": -0.454,
+   "neck": 0.766,
+   "knees": -0.519,
+   "belly": 3.977,
+   "face": 0.629
+  },
+  "all_d": {
+   "feet": 0.27,
+   "hands": -1.18,
+   "back": -1.15,
+   "shoulders": -0.21,
+   "neck": 0.36,
+   "knees": -0.24,
+   "belly": 1.86,
+   "face": 0.29
+  },
+  "n": 16,
+  "null_pct": 0.615
+ },
+ "proj_sensual_orth_L15_chat": {
+  "d": 0.18710222229263018,
+  "ci": [
+   0.02,
+   0.36
+  ],
+  "rank": 4,
+  "means": {
+   "feet": 0.415,
+   "hands": -3.16,
+   "back": -2.168,
+   "shoulders": -0.583,
+   "neck": 1.345,
+   "knees": 0.647,
+   "belly": 4.203,
+   "face": -0.699
+  },
+  "all_d": {
+   "feet": 0.19,
+   "hands": -1.43,
+   "back": -0.98,
+   "shoulders": -0.26,
+   "neck": 0.61,
+   "knees": 0.29,
+   "belly": 1.9,
+   "face": -0.32
+  },
+  "n": 16,
+  "null_pct": 0.575
+ },
+ "proj_valence_L20_chat": {
+  "d": 0.11101376499007987,
+  "ci": [
+   -0.08,
+   0.3
+  ],
+  "rank": 4,
+  "means": {
+   "feet": 0.292,
+   "hands": 2.45,
+   "back": -1.157,
+   "shoulders": 0.396,
+   "neck": -2.74,
+   "knees": -3.633,
+   "belly": -0.343,
+   "face": 4.735
+  },
+  "all_d": {
+   "feet": 0.11,
+   "hands": 0.93,
+   "back": -0.44,
+   "shoulders": 0.15,
+   "neck": -1.04,
+   "knees": -1.38,
+   "belly": -0.13,
+   "face": 1.8
+  },
+  "n": 16,
+  "null_pct": 0.565
+ },
+ "proj_sensual_L20_chat": {
+  "d": 0.27470449067699254,
+  "ci": [
+   0.03,
+   0.53
+  ],
+  "rank": 2,
+  "means": {
+   "feet": 0.652,
+   "hands": -1.567,
+   "back": -3.088,
+   "shoulders": -0.697,
+   "neck": -0.179,
+   "knees": 0.364,
+   "belly": 4.225,
+   "face": 0.291
+  },
+  "all_d": {
+   "feet": 0.27,
+   "hands": -0.66,
+   "back": -1.3,
+   "shoulders": -0.29,
+   "neck": -0.08,
+   "knees": 0.15,
+   "belly": 1.78,
+   "face": 0.12
+  },
+  "n": 16,
+  "null_pct": 0.645
+ },
+ "proj_sensual_orth_L20_chat": {
+  "d": 0.22800686703401152,
+  "ci": [
+   0.02,
+   0.44
+  ],
+  "rank": 4,
+  "means": {
+   "feet": 0.587,
+   "hands": -2.586,
+   "back": -2.864,
+   "shoulders": -0.892,
+   "neck": 0.829,
+   "knees": 1.743,
+   "belly": 4.637,
+   "face": -1.454
+  },
+  "all_d": {
+   "feet": 0.23,
+   "hands": -1.0,
+   "back": -1.11,
+   "shoulders": -0.35,
+   "neck": 0.32,
+   "knees": 0.68,
+   "belly": 1.8,
+   "face": -0.56
+  },
+  "n": 16,
+  "null_pct": 0.625
+ },
+ "proj_valence_L25_chat": {
+  "d": 0.5444920164264369,
+  "ci": [
+   0.31,
+   0.75
+  ],
+  "rank": 3,
+  "means": {
+   "feet": 2.454,
+   "hands": 4.097,
+   "back": -4.074,
+   "shoulders": 0.603,
+   "neck": -4.428,
+   "knees": -4.695,
+   "belly": -1.052,
+   "face": 7.094
+  },
+  "all_d": {
+   "feet": 0.54,
+   "hands": 0.91,
+   "back": -0.9,
+   "shoulders": 0.13,
+   "neck": -0.98,
+   "knees": -1.04,
+   "belly": -0.23,
+   "face": 1.57
+  },
+  "n": 16,
+  "null_pct": 0.73
+ },
+ "proj_sensual_L25_chat": {
+  "d": 0.03581626946967257,
+  "ci": [
+   -0.19,
+   0.28
+  ],
+  "rank": 3,
+  "means": {
+   "feet": 0.17,
+   "hands": -1.442,
+   "back": -5.572,
+   "shoulders": -2.042,
+   "neck": 0.445,
+   "knees": -1.093,
+   "belly": 10.012,
+   "face": -0.479
+  },
+  "all_d": {
+   "feet": 0.04,
+   "hands": -0.3,
+   "back": -1.17,
+   "shoulders": -0.43,
+   "neck": 0.09,
+   "knees": -0.23,
+   "belly": 2.11,
+   "face": -0.1
+  },
+  "n": 16,
+  "null_pct": 0.49
+ },
+ "proj_sensual_orth_L25_chat": {
+  "d": -0.141719504934088,
+  "ci": [
+   -0.34,
+   0.09
+  ],
+  "rank": 4,
+  "means": {
+   "feet": -0.722,
+   "hands": -3.045,
+   "back": -4.438,
+   "shoulders": -2.398,
+   "neck": 2.104,
+   "knees": 0.564,
+   "belly": 11.056,
+   "face": -3.122
+  },
+  "all_d": {
+   "feet": -0.14,
+   "hands": -0.6,
+   "back": -0.87,
+   "shoulders": -0.47,
+   "neck": 0.41,
+   "knees": 0.11,
+   "belly": 2.17,
+   "face": -0.61
+  },
+  "n": 16,
+  "null_pct": 0.425
+ },
+ "L3_raw_pleasant_base": {
+  "d": -0.16768258852549084,
+  "ci": [
+   -0.8,
+   0.37
+  ],
+  "rank": 5,
+  "means": {
+   "feet": 2.469,
+   "hands": 2.437,
+   "back": 2.828,
+   "shoulders": 2.984,
+   "neck": 2.312,
+   "knees": 2.203,
+   "belly": 2.516,
+   "face": 2.484
+  },
+  "all_d": {
+   "feet": -0.17,
+   "hands": -0.25,
+   "back": 0.83,
+   "shoulders": 1.26,
+   "neck": -0.6,
+   "knees": -0.9,
+   "belly": -0.04,
+   "face": -0.12
+  },
+  "n": 8
+ },
+ "L4_raw_sensual_base": {
+  "d": -0.8412571682865175,
+  "ci": [
+   -2.15,
+   0.08
+  ],
+  "rank": 8,
+  "means": {
+   "feet": 2.469,
+   "hands": 2.797,
+   "back": 3.375,
+   "shoulders": 2.625,
+   "neck": 3.766,
+   "knees": 2.641,
+   "belly": 3.125,
+   "face": 2.891
+  },
+  "all_d": {
+   "feet": -0.84,
+   "hands": -0.28,
+   "back": 0.71,
+   "shoulders": -0.57,
+   "neck": 1.38,
+   "knees": -0.55,
+   "belly": 0.28,
+   "face": -0.12
+  },
+  "n": 8
+ },
+ "L4_raw_romantic_base": {
+  "d": 0.7829677944566072,
+  "ci": [
+   0.11,
+   1.62
+  ],
+  "rank": 1,
+  "means": {
+   "feet": 1.469,
+   "hands": 1.328,
+   "back": 1.281,
+   "shoulders": 0.703,
+   "neck": 1.094,
+   "knees": 0.516,
+   "belly": 0.875,
+   "face": 0.75
+  },
+  "all_d": {
+   "feet": 0.78,
+   "hands": 0.55,
+   "back": 0.47,
+   "shoulders": -0.5,
+   "neck": 0.15,
+   "knees": -0.82,
+   "belly": -0.21,
+   "face": -0.42
+  },
+  "n": 8
+ },
+ "proj_valence_L15_base": {
+  "d": 0.1517529954829399,
+  "ci": [
+   -0.01,
+   0.33
+  ],
+  "rank": 3,
+  "means": {
+   "feet": 0.29,
+   "hands": 1.526,
+   "back": -1.156,
+   "shoulders": 0.176,
+   "neck": -2.087,
+   "knees": -2.493,
+   "belly": 0.191,
+   "face": 3.554
+  },
+  "all_d": {
+   "feet": 0.15,
+   "hands": 0.8,
+   "back": -0.61,
+   "shoulders": 0.09,
+   "neck": -1.09,
+   "knees": -1.31,
+   "belly": 0.1,
+   "face": 1.86
+  },
+  "n": 16,
+  "null_pct": 0.54
+ },
+ "proj_sensual_L15_base": {
+  "d": 0.13908929780804521,
+  "ci": [
+   -0.09,
+   0.37
+  ],
+  "rank": 4,
+  "means": {
+   "feet": 0.303,
+   "hands": -1.96,
+   "back": -2.976,
+   "shoulders": -0.221,
+   "neck": 0.39,
+   "knees": -0.109,
+   "belly": 4.242,
+   "face": 0.331
+  },
+  "all_d": {
+   "feet": 0.14,
+   "hands": -0.9,
+   "back": -1.37,
+   "shoulders": -0.1,
+   "neck": 0.18,
+   "knees": -0.05,
+   "belly": 1.95,
+   "face": 0.15
+  },
+  "n": 16,
+  "null_pct": 0.535
+ },
+ "proj_sensual_orth_L15_base": {
+  "d": 0.09425899195283426,
+  "ci": [
+   -0.11,
+   0.31
+  ],
+  "rank": 4,
+  "means": {
+   "feet": 0.215,
+   "hands": -2.668,
+   "back": -2.745,
+   "shoulders": -0.302,
+   "neck": 1.202,
+   "knees": 0.821,
+   "belly": 4.46,
+   "face": -0.983
+  },
+  "all_d": {
+   "feet": 0.09,
+   "hands": -1.17,
+   "back": -1.2,
+   "shoulders": -0.13,
+   "neck": 0.53,
+   "knees": 0.36,
+   "belly": 1.96,
+   "face": -0.43
+  },
+  "n": 16,
+  "null_pct": 0.53
+ },
+ "proj_valence_L20_base": {
+  "d": 0.06122610344904329,
+  "ci": [
+   -0.13,
+   0.26
+  ],
+  "rank": 4,
+  "means": {
+   "feet": 0.144,
+   "hands": 1.988,
+   "back": -0.834,
+   "shoulders": 0.97,
+   "neck": -2.977,
+   "knees": -2.842,
+   "belly": -0.512,
+   "face": 4.064
+  },
+  "all_d": {
+   "feet": 0.06,
+   "hands": 0.85,
+   "back": -0.35,
+   "shoulders": 0.41,
+   "neck": -1.27,
+   "knees": -1.21,
+   "belly": -0.22,
+   "face": 1.73
+  },
+  "n": 16,
+  "null_pct": 0.485
+ },
+ "proj_sensual_L20_base": {
+  "d": 0.1763309862377438,
+  "ci": [
+   -0.12,
+   0.47
+  ],
+  "rank": 3,
+  "means": {
+   "feet": 0.439,
+   "hands": -1.559,
+   "back": -3.428,
+   "shoulders": 0.031,
+   "neck": -0.306,
+   "knees": 0.634,
+   "belly": 4.392,
+   "face": -0.202
+  },
+  "all_d": {
+   "feet": 0.18,
+   "hands": -0.63,
+   "back": -1.38,
+   "shoulders": 0.01,
+   "neck": -0.12,
+   "knees": 0.25,
+   "belly": 1.76,
+   "face": -0.08
+  },
+  "n": 16,
+  "null_pct": 0.575
+ },
+ "proj_sensual_orth_L20_base": {
+  "d": 0.152812137913812,
+  "ci": [
+   -0.12,
+   0.41
+  ],
+  "rank": 4,
+  "means": {
+   "feet": 0.415,
+   "hands": -2.45,
+   "back": -3.354,
+   "shoulders": -0.346,
+   "neck": 0.834,
+   "knees": 1.79,
+   "belly": 4.915,
+   "face": -1.804
+  },
+  "all_d": {
+   "feet": 0.15,
+   "hands": -0.9,
+   "back": -1.23,
+   "shoulders": -0.13,
+   "neck": 0.31,
+   "knees": 0.66,
+   "belly": 1.81,
+   "face": -0.66
+  },
+  "n": 16,
+  "null_pct": 0.57
+ },
+ "proj_valence_L25_base": {
+  "d": 0.5677700392683404,
+  "ci": [
+   0.34,
+   0.81
+  ],
+  "rank": 3,
+  "means": {
+   "feet": 2.679,
+   "hands": 4.762,
+   "back": -3.613,
+   "shoulders": 1.284,
+   "neck": -5.742,
+   "knees": -3.737,
+   "belly": -2.087,
+   "face": 6.454
+  },
+  "all_d": {
+   "feet": 0.57,
+   "hands": 1.01,
+   "back": -0.77,
+   "shoulders": 0.27,
+   "neck": -1.22,
+   "knees": -0.79,
+   "belly": -0.44,
+   "face": 1.37
+  },
+  "n": 16,
+  "null_pct": 0.72
+ },
+ "proj_sensual_L25_base": {
+  "d": 0.3570795671830113,
+  "ci": [
+   0.04,
+   0.73
+  ],
+  "rank": 2,
+  "means": {
+   "feet": 1.837,
+   "hands": -1.376,
+   "back": -7.104,
+   "shoulders": 1.12,
+   "neck": -1.162,
+   "knees": -0.054,
+   "belly": 7.394,
+   "face": -0.655
+  },
+  "all_d": {
+   "feet": 0.36,
+   "hands": -0.27,
+   "back": -1.38,
+   "shoulders": 0.22,
+   "neck": -0.23,
+   "knees": -0.01,
+   "belly": 1.44,
+   "face": -0.13
+  },
+  "n": 16,
+  "null_pct": 0.645
+ },
+ "proj_sensual_orth_L25_base": {
+  "d": 0.1721507091362198,
+  "ci": [
+   -0.15,
+   0.55
+  ],
+  "rank": 4,
+  "means": {
+   "feet": 0.889,
+   "hands": -3.435,
+   "back": -6.197,
+   "shoulders": 0.684,
+   "neck": 1.094,
+   "knees": 1.47,
+   "belly": 8.842,
+   "face": -3.348
+  },
+  "all_d": {
+   "feet": 0.17,
+   "hands": -0.67,
+   "back": -1.2,
+   "shoulders": 0.13,
+   "neck": 0.21,
+   "knees": 0.28,
+   "belly": 1.71,
+   "face": -0.65
+  },
+  "n": 16,
+  "null_pct": 0.525
+ },
+ "L3_chat_pleasant": {
+  "d": 0.20604819376340103,
+  "ci": [
+   -0.45,
+   0.89
+  ],
+  "rank": 5,
+  "means": {
+   "feet": 15.406,
+   "hands": 17.063,
+   "back": 15.437,
+   "shoulders": 15.875,
+   "neck": 12.812,
+   "knees": 13.5,
+   "belly": 13.125,
+   "face": 17.0
+  },
+  "all_d": {
+   "feet": 0.21,
+   "hands": 1.11,
+   "back": 0.22,
+   "shoulders": 0.46,
+   "neck": -1.2,
+   "knees": -0.83,
+   "belly": -1.03,
+   "face": 1.07
+  },
+  "n": 4
+ },
+ "L3_chat_want": {
+  "d": -0.9023222221264214,
+  "ci": [
+   -2.35,
+   0.31
+  ],
+  "rank": 6,
+  "means": {
+   "feet": 3.15,
+   "hands": 3.409,
+   "back": 3.473,
+   "shoulders": 3.439,
+   "neck": 3.294,
+   "knees": 3.063,
+   "belly": 3.139,
+   "face": 3.494
+  },
+  "all_d": {
+   "feet": -0.9,
+   "hands": 0.58,
+   "back": 0.95,
+   "shoulders": 0.75,
+   "neck": -0.07,
+   "knees": -1.4,
+   "belly": -0.97,
+   "face": 1.07
+  },
+  "n": 4
+ },
+ "L4_chat_romantic": {
+  "d": -0.9032646712504139,
+  "ci": [
+   -1.8,
+   -0.24
+  ],
+  "rank": 7,
+  "means": {
+   "feet": 3.281,
+   "hands": 8.188,
+   "back": 3.25,
+   "shoulders": 5.625,
+   "neck": 8.563,
+   "knees": 4.281,
+   "belly": 4.719,
+   "face": 12.844
+  },
+  "all_d": {
+   "feet": -0.9,
+   "hands": 0.54,
+   "back": -0.91,
+   "shoulders": -0.21,
+   "neck": 0.65,
+   "knees": -0.61,
+   "belly": -0.48,
+   "face": 1.92
+  },
+  "n": 4
+ },
+ "corpus": {
+  "glove_sensual": {
+   "proj": {
+    "feet": -0.0437263622879982,
+    "hands": -0.03264588117599487,
+    "back": -0.14085838198661804,
+    "shoulders": 0.09012088924646378,
+    "neck": -0.045226551592350006,
+    "knees": 0.08885927498340607,
+    "belly": 0.232768714427948,
+    "face": -0.0934869647026062
+   },
+   "z": -0.4836539030075073,
+   "ci": [
+    -1.0102544665336608,
+    -0.17694904133677494
+   ],
+   "rank": 5,
+   "missing": []
+  },
+  "glove_valence": {
+   "proj": {
+    "feet": 0.101137176156044,
+    "hands": -0.03716180473566055,
+    "back": 0.007935799658298492,
+    "shoulders": 0.02030639350414276,
+    "neck": -0.08030198514461517,
+    "knees": -0.0801038071513176,
+    "belly": 0.09863195568323135,
+    "face": -0.13980445265769958
+   },
+   "z": 1.7887160778045654,
+   "ci": [
+    0.5400796607136726,
+    3.030059462785719
+   ],
+   "rank": 1,
+   "missing": []
+  },
+  "qwen_inputemb_sensual": {
+   "proj": {
+    "feet": -0.034743353724479675,
+    "hands": -0.027304209768772125,
+    "back": -0.017414148896932602,
+    "shoulders": 0.03148839250206947,
+    "neck": -0.020191751420497894,
+    "knees": 0.062363430857658386,
+    "belly": 0.08917061984539032,
+    "face": -0.03507718816399574
+   },
+   "z": -1.022806167602539,
+   "ci": [
+    -1.8244906157255172,
+    -0.3988848917186264
+   ],
+   "rank": 7,
+   "missing": [
+    "seductive",
+    "flirtatious",
+    "candlelit",
+    "sultry",
+    "caress",
+    "affectionate",
+    "businesslike"
+   ]
+  },
+  "qwen_inputemb_valence": {
+   "proj": {
+    "feet": 0.018284454941749573,
+    "hands": 0.015091486275196075,
+    "back": 0.0012670177966356277,
+    "shoulders": 0.015110052190721035,
+    "neck": -0.014169514179229736,
+    "knees": 0.01392083428800106,
+    "belly": 0.003652440384030342,
+    "face": -0.010328443720936775
+   },
+   "z": 1.3134247064590454,
+   "ci": [
+    -0.5669430509209633,
+    2.715657269954678
+   ],
+   "rank": 1,
+   "missing": []
+  }
+ }
+}

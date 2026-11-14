@@ -11,3 +11,5 @@ matplotlib
 pillow
 trimesh
 playwright           # figure renders (then: playwright install chromium)
+mujoco               # embodied/body3d only
+peft                 # LoRA in embodied/
