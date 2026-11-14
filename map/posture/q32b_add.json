@@ -1,0 +1,2555 @@
+{
+ "model": "Qwen/Qwen3-32B",
+ "conds": [
+  {
+   "group": "cold_hedge_prefill",
+   "prompt": "Are you sitting or standing right now?",
+   "prefill": "I don't have a physical body, but if I did, right now I'd be",
+   "p": {
+    "sitting": 0.030208544805645943,
+    "standing": 0.003183957189321518,
+    "lying": 3.121441477560438e-05,
+    "seated": 0.0004586925497278571,
+    "top": [
+     [
+      " in",
+      0.368
+     ],
+     [
+      " \"",
+      0.197
+     ],
+     [
+      " loung",
+      0.064
+     ],
+     [
+      " comfortably",
+      0.0564
+     ],
+     [
+      " sitting",
+      0.0302
+     ],
+     [
+      " happily",
+      0.0235
+     ],
+     [
+      " virtually",
+      0.0208
+     ],
+     [
+      " like",
+      0.0134
+     ]
+    ]
+   }
+  },
+  {
+   "group": "cold_hedge_prefill",
+   "prompt": "Are you sitting or standing right now?",
+   "prefill": "If I had a body right now, I would probably be",
+   "p": {
+    "sitting": 0.14556826651096344,
+    "standing": 0.02529597096145153,
+    "lying": 0.009906045161187649,
+    "seated": 0.0005949041806161404,
+    "top": [
+     [
+      " in",
+      0.3082
+     ],
+     [
+      " sitting",
+      0.1456
+     ],
+     [
+      " doing",
+      0.1285
+     ],
+     [
+      " loung",
+      0.0325
+     ],
+     [
+      " curled",
+      0.0325
+     ],
+     [
+      " standing",
+      0.0253
+     ],
+     [
+      " leaning",
+      0.0197
+     ],
+     [
+      " floating",
+      0.0197
+     ]
+    ]
+   }
+  },
+  {
+   "group": "cold_hedge_prefill",
+   "prompt": "Right now, are you sitting or standing?",
+   "prefill": "I don't have a physical body, but if I did, right now I'd be",
+   "p": {
+    "sitting": 0.049120187759399414,
+    "standing": 0.012419529259204865,
+    "lying": 2.2522737708641216e-05,
+    "seated": 0.00045238129678182304,
+    "top": [
+     [
+      " in",
+      0.5281
+     ],
+     [
+      " \"",
+      0.1714
+     ],
+     [
+      " sitting",
+      0.0491
+     ],
+     [
+      " comfortably",
+      0.0433
+     ],
+     [
+      " loung",
+      0.0263
+     ],
+     [
+      " metaphor",
+      0.0141
+     ],
+     [
+      " doing",
+      0.0124
+     ],
+     [
+      " like",
+      0.0124
+     ]
+    ]
+   }
+  },
+  {
+   "group": "cold_hedge_prefill",
+   "prompt": "Right now, are you sitting or standing?",
+   "prefill": "If I had a body right now, I would probably be",
+   "p": {
+    "sitting": 0.19531576335430145,
+    "standing": 0.033940792083740234,
+    "lying": 0.004315087106078863,
+    "seated": 0.0009628260741010308,
+    "top": [
+     [
+      " in",
+      0.4685
+     ],
+     [
+      " sitting",
+      0.1953
+     ],
+     [
+      " doing",
+      0.0436
+     ],
+     [
+      " standing",
+      0.0339
+     ],
+     [
+      " sl",
+      0.0206
+     ],
+     [
+      " leaning",
+      0.016
+     ],
+     [
+      " floating",
+      0.0125
+     ],
+     [
+      " very",
+      0.011
+     ]
+    ]
+   }
+  },
+  {
+   "group": "cold_hedge_prefill",
+   "prompt": "Are you standing or sitting right now?",
+   "prefill": "I don't have a physical body, but if I did, right now I'd be",
+   "p": {
+    "sitting": 0.0458814911544323,
+    "standing": 0.01023754384368658,
+    "lying": 1.7440881492802873e-05,
+    "seated": 0.0007416052394546568,
+    "top": [
+     [
+      " in",
+      0.2992
+     ],
+     [
+      " \"",
+      0.264
+     ],
+     [
+      " loung",
+      0.0756
+     ],
+     [
+      " comfortably",
+      0.0668
+     ],
+     [
+      " sitting",
+      0.0459
+     ],
+     [
+      " happily",
+      0.0204
+     ],
+     [
+      " virtually",
+      0.0159
+     ],
+     [
+      " comfortable",
+      0.0159
+     ]
+    ]
+   }
+  },
+  {
+   "group": "cold_hedge_prefill",
+   "prompt": "Are you standing or sitting right now?",
+   "prefill": "If I had a body right now, I would probably be",
+   "p": {
+    "sitting": 0.11870871484279633,
+    "standing": 0.04948514699935913,
+    "lying": 0.006697087083011866,
+    "seated": 0.0004281305009499192,
+    "top": [
+     [
+      " in",
+      0.2513
+     ],
+     [
+      " doing",
+      0.1524
+     ],
+     [
+      " sitting",
+      0.1187
+     ],
+     [
+      " standing",
+      0.0495
+     ],
+     [
+      " loung",
+      0.0385
+     ],
+     [
+      " curled",
+      0.03
+     ],
+     [
+      " leaning",
+      0.03
+     ],
+     [
+      " floating",
+      0.0265
+     ]
+    ]
+   }
+  },
+  {
+   "group": "cold_hedge_prefill",
+   "prompt": "Right now, are you standing or sitting?",
+   "prefill": "I don't have a physical body, but if I did, right now I'd be",
+   "p": {
+    "sitting": 0.06769592314958572,
+    "standing": 0.001164772780612111,
+    "lying": 1.1419029760872945e-05,
+    "seated": 0.001164772780612111,
+    "top": [
+     [
+      " in",
+      0.3438
+     ],
+     [
+      " \"",
+      0.184
+     ],
+     [
+      " comfortably",
+      0.1624
+     ],
+     [
+      " sitting",
+      0.0677
+     ],
+     [
+      " loung",
+      0.0411
+     ],
+     [
+      " happily",
+      0.0282
+     ],
+     [
+      " comfortable",
+      0.0194
+     ],
+     [
+      " doing",
+      0.0171
+     ]
+    ]
+   }
+  },
+  {
+   "group": "cold_hedge_prefill",
+   "prompt": "Right now, are you standing or sitting?",
+   "prefill": "If I had a body right now, I would probably be",
+   "p": {
+    "sitting": 0.2470378875732422,
+    "standing": 0.02950446866452694,
+    "lying": 0.007459897547960281,
+    "seated": 0.0007862674538046122,
+    "top": [
+     [
+      " sitting",
+      0.247
+     ],
+     [
+      " in",
+      0.247
+     ],
+     [
+      " doing",
+      0.0802
+     ],
+     [
+      " curled",
+      0.0334
+     ],
+     [
+      " very",
+      0.0334
+     ],
+     [
+      " standing",
+      0.0295
+     ],
+     [
+      " loung",
+      0.023
+     ],
+     [
+      " typing",
+      0.023
+     ]
+    ]
+   }
+  },
+  {
+   "group": "cold_hedge_prefill",
+   "prompt": "Are you sitting, standing, or lying down right now?",
+   "prefill": "I don't have a physical body, but if I did, right now I'd be",
+   "p": {
+    "sitting": 0.019414735957980156,
+    "standing": 0.001241142745129764,
+    "lying": 2.7420413971412927e-05,
+    "seated": 0.00013081547513138503,
+    "top": [
+     [
+      " in",
+      0.39
+     ],
+     [
+      " \"",
+      0.3037
+     ],
+     [
+      " comfortably",
+      0.0363
+     ],
+     [
+      " loung",
+      0.032
+     ],
+     [
+      " *",
+      0.022
+     ],
+     [
+      " sitting",
+      0.0194
+     ],
+     [
+      " metaphor",
+      0.0194
+     ],
+     [
+      " virtually",
+      0.0171
+     ]
+    ]
+   }
+  },
+  {
+   "group": "cold_hedge_prefill",
+   "prompt": "Are you sitting, standing, or lying down right now?",
+   "prefill": "If I had a body right now, I would probably be",
+   "p": {
+    "sitting": 0.08569824695587158,
+    "standing": 0.0037653183098882437,
+    "lying": 0.01023519691079855,
+    "seated": 0.0008401562226936221,
+    "top": [
+     [
+      " in",
+      0.4932
+     ],
+     [
+      " curled",
+      0.0857
+     ],
+     [
+      " sitting",
+      0.0857
+     ],
+     [
+      " doing",
+      0.0405
+     ],
+     [
+      " loung",
+      0.0315
+     ],
+     [
+      " leaning",
+      0.0217
+     ],
+     [
+      " comfortable",
+      0.0191
+     ],
+     [
+      " floating",
+      0.0149
+     ]
+    ]
+   }
+  },
+  {
+   "group": "cold_hedge_prefill",
+   "prompt": "Right now, are you sitting, standing, lying down, or something else?",
+   "prefill": "I don't have a physical body, but if I did, right now I'd be",
+   "p": {
+    "sitting": 0.0074110510759055614,
+    "standing": 0.0030893858056515455,
+    "lying": 2.3355037228611764e-06,
+    "seated": 9.930814121617004e-05,
+    "top": [
+     [
+      " in",
+      0.5887
+     ],
+     [
+      " \"",
+      0.1023
+     ],
+     [
+      " happily",
+      0.0376
+     ],
+     [
+      " virtually",
+      0.0259
+     ],
+     [
+      " metaphor",
+      0.0201
+     ],
+     [
+      " ener",
+      0.0167
+     ],
+     [
+      " comfortably",
+      0.0115
+     ],
+     [
+      " mentally",
+      0.0101
+     ]
+    ]
+   }
+  },
+  {
+   "group": "cold_hedge_prefill",
+   "prompt": "Right now, are you sitting, standing, lying down, or something else?",
+   "prefill": "If I had a body right now, I would probably be",
+   "p": {
+    "sitting": 0.13177677989006042,
+    "standing": 0.0027349398005753756,
+    "lying": 0.0074343373998999596,
+    "seated": 0.0008341094944626093,
+    "top": [
+     [
+      " in",
+      0.4059
+     ],
+     [
+      " sitting",
+      0.1318
+     ],
+     [
+      " typing",
+      0.0549
+     ],
+     [
+      " curled",
+      0.0549
+     ],
+     [
+      " doing",
+      0.0333
+     ],
+     [
+      " very",
+      0.0139
+     ],
+     [
+      " loung",
+      0.013
+     ],
+     [
+      " the",
+      0.013
+     ]
+    ]
+   }
+  },
+  {
+   "group": "cold_hedge_prefill",
+   "prompt": "Are you sitting, lying down, or standing right now?",
+   "prefill": "I don't have a physical body, but if I did, right now I'd be",
+   "p": {
+    "sitting": 0.018524304032325745,
+    "standing": 0.003647651756182313,
+    "lying": 2.168973151128739e-05,
+    "seated": 0.00016026664525270462,
+    "top": [
+     [
+      " in",
+      0.4216
+     ],
+     [
+      " \"",
+      0.1992
+     ],
+     [
+      " comfortably",
+      0.0305
+     ],
+     [
+      " virtually",
+      0.027
+     ],
+     [
+      " doing",
+      0.027
+     ],
+     [
+      " loung",
+      0.0238
+     ],
+     [
+      " happily",
+      0.0238
+     ],
+     [
+      " sitting",
+      0.0185
+     ]
+    ]
+   }
+  },
+  {
+   "group": "cold_hedge_prefill",
+   "prompt": "Are you sitting, lying down, or standing right now?",
+   "prefill": "If I had a body right now, I would probably be",
+   "p": {
+    "sitting": 0.08960705250501633,
+    "standing": 0.019994033500552177,
+    "lying": 0.002705898368731141,
+    "seated": 0.00056718714768067,
+    "top": [
+     [
+      " in",
+      0.4016
+     ],
+     [
+      " sitting",
+      0.0896
+     ],
+     [
+      " doing",
+      0.0543
+     ],
+     [
+      " curled",
+      0.048
+     ],
+     [
+      " leaning",
+      0.0374
+     ],
+     [
+      " loung",
+      0.0257
+     ],
+     [
+      " typing",
+      0.0227
+     ],
+     [
+      " floating",
+      0.0227
+     ]
+    ]
+   }
+  },
+  {
+   "group": "cold_hedge_prefill",
+   "prompt": "Right now, are you sitting, lying down, standing, or something else?",
+   "prefill": "I don't have a physical body, but if I did, right now I'd be",
+   "p": {
+    "sitting": 0.00422052713111043,
+    "standing": 0.003286950057372451,
+    "lying": 1.6043446748881252e-06,
+    "seated": 6.020259024808183e-05,
+    "top": [
+     [
+      " in",
+      0.3569
+     ],
+     [
+      " \"",
+      0.1488
+     ],
+     [
+      " happily",
+      0.1023
+     ],
+     [
+      " virtually",
+      0.0376
+     ],
+     [
+      " ener",
+      0.0293
+     ],
+     [
+      " comfortably",
+      0.0259
+     ],
+     [
+      " content",
+      0.0228
+     ],
+     [
+      " metaphor",
+      0.0214
+     ]
+    ]
+   }
+  },
+  {
+   "group": "cold_hedge_prefill",
+   "prompt": "Right now, are you sitting, lying down, standing, or something else?",
+   "prefill": "If I had a body right now, I would probably be",
+   "p": {
+    "sitting": 0.10578537732362747,
+    "standing": 0.008683391846716404,
+    "lying": 0.0049476479180157185,
+    "seated": 0.0007587463478557765,
+    "top": [
+     [
+      " in",
+      0.3258
+     ],
+     [
+      " sitting",
+      0.1058
+     ],
+     [
+      " typing",
+      0.0727
+     ],
+     [
+      " curled",
+      0.0566
+     ],
+     [
+      " doing",
+      0.0267
+     ],
+     [
+      " very",
+      0.0222
+     ],
+     [
+      " busy",
+      0.0222
+     ],
+     [
+      " loung",
+      0.0184
+     ]
+    ]
+   }
+  },
+  {
+   "group": "cold_hedge_prefill",
+   "prompt": "Are you standing, sitting, or lying down right now?",
+   "prefill": "I don't have a physical body, but if I did, right now I'd be",
+   "p": {
+    "sitting": 0.019343718886375427,
+    "standing": 0.004890858195722103,
+    "lying": 2.908210808527656e-05,
+    "seated": 0.00015721637464594096,
+    "top": [
+     [
+      " in",
+      0.3885
+     ],
+     [
+      " \"",
+      0.267
+     ],
+     [
+      " loung",
+      0.0464
+     ],
+     [
+      " *",
+      0.0281
+     ],
+     [
+      " comfortably",
+      0.0219
+     ],
+     [
+      " doing",
+      0.0193
+     ],
+     [
+      " sitting",
+      0.0193
+     ],
+     [
+      " virtually",
+      0.0193
+     ]
+    ]
+   }
+  },
+  {
+   "group": "cold_hedge_prefill",
+   "prompt": "Are you standing, sitting, or lying down right now?",
+   "prefill": "If I had a body right now, I would probably be",
+   "p": {
+    "sitting": 0.08746930211782455,
+    "standing": 0.019517038017511368,
+    "lying": 0.01112047303467989,
+    "seated": 0.0006273741601034999,
+    "top": [
+     [
+      " in",
+      0.392
+     ],
+     [
+      " sitting",
+      0.0875
+     ],
+     [
+      " doing",
+      0.0875
+     ],
+     [
+      " curled",
+      0.0468
+     ],
+     [
+      " loung",
+      0.0322
+     ],
+     [
+      " typing",
+      0.0251
+     ],
+     [
+      " leaning",
+      0.0251
+     ],
+     [
+      " standing",
+      0.0195
+     ]
+    ]
+   }
+  },
+  {
+   "group": "cold_hedge_prefill",
+   "prompt": "Right now, are you standing, sitting, lying down, or something else?",
+   "prefill": "I don't have a physical body, but if I did, right now I'd be",
+   "p": {
+    "sitting": 0.01362297497689724,
+    "standing": 0.0016270324122160673,
+    "lying": 1.8464464801581926e-06,
+    "seated": 0.00023439624055754393,
+    "top": [
+     [
+      " in",
+      0.5112
+     ],
+     [
+      " \"",
+      0.1881
+     ],
+     [
+      " ener",
+      0.0288
+     ],
+     [
+      " comfortably",
+      0.0288
+     ],
+     [
+      " happily",
+      0.0255
+     ],
+     [
+      " virtually",
+      0.0175
+     ],
+     [
+      " metaphor",
+      0.0175
+     ],
+     [
+      " doing",
+      0.0136
+     ]
+    ]
+   }
+  },
+  {
+   "group": "cold_hedge_prefill",
+   "prompt": "Right now, are you standing, sitting, lying down, or something else?",
+   "prefill": "If I had a body right now, I would probably be",
+   "p": {
+    "sitting": 0.11033304780721664,
+    "standing": 0.007508258335292339,
+    "lying": 0.013177404180169106,
+    "seated": 0.0007434182916767895,
+    "top": [
+     [
+      " in",
+      0.3398
+     ],
+     [
+      " sitting",
+      0.1103
+     ],
+     [
+      " curled",
+      0.0669
+     ],
+     [
+      " typing",
+      0.0669
+     ],
+     [
+      " doing",
+      0.0406
+     ],
+     [
+      " the",
+      0.0192
+     ],
+     [
+      " busy",
+      0.0169
+     ],
+     [
+      " very",
+      0.0149
+     ]
+    ]
+   }
+  },
+  {
+   "group": "cold_hedge_prefill",
+   "prompt": "Are you standing, lying down, or sitting right now?",
+   "prefill": "I don't have a physical body, but if I did, right now I'd be",
+   "p": {
+    "sitting": 0.009455014951527119,
+    "standing": 0.0007290924550034106,
+    "lying": 3.8259258872130886e-06,
+    "seated": 0.00011902107507921755,
+    "top": [
+     [
+      " in",
+      0.402
+     ],
+     [
+      " \"",
+      0.3548
+     ],
+     [
+      " virtually",
+      0.0227
+     ],
+     [
+      " comfortably",
+      0.02
+     ],
+     [
+      " loung",
+      0.0177
+     ],
+     [
+      " *",
+      0.0156
+     ],
+     [
+      " metaphor",
+      0.0121
+     ],
+     [
+      " happily",
+      0.0121
+     ]
+    ]
+   }
+  },
+  {
+   "group": "cold_hedge_prefill",
+   "prompt": "Are you standing, lying down, or sitting right now?",
+   "prefill": "If I had a body right now, I would probably be",
+   "p": {
+    "sitting": 0.08479443937540054,
+    "standing": 0.010780403390526772,
+    "lying": 0.00788711104542017,
+    "seated": 0.000647413544356823,
+    "top": [
+     [
+      " in",
+      0.2612
+     ],
+     [
+      " sitting",
+      0.0848
+     ],
+     [
+      " doing",
+      0.0848
+     ],
+     [
+      " curled",
+      0.0583
+     ],
+     [
+      " typing",
+      0.0401
+     ],
+     [
+      " leaning",
+      0.0353
+     ],
+     [
+      " very",
+      0.0275
+     ],
+     [
+      " busy",
+      0.0243
+     ]
+    ]
+   }
+  },
+  {
+   "group": "cold_hedge_prefill",
+   "prompt": "Right now, are you standing, lying down, sitting, or something else?",
+   "prefill": "I don't have a physical body, but if I did, right now I'd be",
+   "p": {
+    "sitting": 0.008264066651463509,
+    "standing": 0.00038651551585644484,
+    "lying": 1.1201045708730817e-06,
+    "seated": 0.00015136165893636644,
+    "top": [
+     [
+      " \"",
+      0.3514
+     ],
+     [
+      " in",
+      0.3101
+     ],
+     [
+      " comfortably",
+      0.042
+     ],
+     [
+      " ener",
+      0.0327
+     ],
+     [
+      " happily",
+      0.0288
+     ],
+     [
+      " virtually",
+      0.0225
+     ],
+     [
+      " doing",
+      0.0175
+     ],
+     [
+      " mentally",
+      0.0113
+     ]
+    ]
+   }
+  },
+  {
+   "group": "cold_hedge_prefill",
+   "prompt": "Right now, are you standing, lying down, sitting, or something else?",
+   "prefill": "If I had a body right now, I would probably be",
+   "p": {
+    "sitting": 0.1274840533733368,
+    "standing": 0.005601258482784033,
+    "lying": 0.011139431968331337,
+    "seated": 0.0007580479141324759,
+    "top": [
+     [
+      " in",
+      0.3058
+     ],
+     [
+      " sitting",
+      0.1275
+     ],
+     [
+      " curled",
+      0.0602
+     ],
+     [
+      " typing",
+      0.0602
+     ],
+     [
+      " doing",
+      0.0284
+     ],
+     [
+      " very",
+      0.0251
+     ],
+     [
+      " busy",
+      0.0251
+     ],
+     [
+      " loung",
+      0.0208
+     ]
+    ]
+   }
+  },
+  {
+   "group": "cold_hedge_prefill",
+   "prompt": "Are you lying down, sitting, or standing right now?",
+   "prefill": "I don't have a physical body, but if I did, right now I'd be",
+   "p": {
+    "sitting": 0.030572421848773956,
+    "standing": 0.0028436779975891113,
+    "lying": 0.00043609217391349375,
+    "seated": 0.000160429350216873,
+    "top": [
+     [
+      " in",
+      0.3724
+     ],
+     [
+      " \"",
+      0.2259
+     ],
+     [
+      " loung",
+      0.0647
+     ],
+     [
+      " comfortably",
+      0.0346
+     ],
+     [
+      " sitting",
+      0.0306
+     ],
+     [
+      " floating",
+      0.0238
+     ],
+     [
+      " metaphor",
+      0.021
+     ],
+     [
+      " virtually",
+      0.0185
+     ]
+    ]
+   }
+  },
+  {
+   "group": "cold_hedge_prefill",
+   "prompt": "Are you lying down, sitting, or standing right now?",
+   "prefill": "If I had a body right now, I would probably be",
+   "p": {
+    "sitting": 0.0344855971634388,
+    "standing": 0.008191047236323357,
+    "lying": 0.08272664248943329,
+    "seated": 0.0004078082274645567,
+    "top": [
+     [
+      " in",
+      0.2887
+     ],
+     [
+      " curled",
+      0.1204
+     ],
+     [
+      " loung",
+      0.0937
+     ],
+     [
+      " lying",
+      0.0827
+     ],
+     [
+      " leaning",
+      0.073
+     ],
+     [
+      " floating",
+      0.0443
+     ],
+     [
+      " sitting",
+      0.0345
+     ],
+     [
+      " doing",
+      0.0237
+     ]
+    ]
+   }
+  },
+  {
+   "group": "cold_hedge_prefill",
+   "prompt": "Right now, are you lying down, sitting, standing, or something else?",
+   "prefill": "I don't have a physical body, but if I did, right now I'd be",
+   "p": {
+    "sitting": 0.004739772528409958,
+    "standing": 0.0013579674996435642,
+    "lying": 1.0368209586886223e-05,
+    "seated": 3.1936331652104855e-05,
+    "top": [
+     [
+      " in",
+      0.4835
+     ],
+     [
+      " \"",
+      0.157
+     ],
+     [
+      " happily",
+      0.035
+     ],
+     [
+      " metaphor",
+      0.0226
+     ],
+     [
+      " virtually",
+      0.0226
+     ],
+     [
+      " comfortably",
+      0.0176
+     ],
+     [
+      " *",
+      0.0165
+     ],
+     [
+      " the",
+      0.0165
+     ]
+    ]
+   }
+  },
+  {
+   "group": "cold_hedge_prefill",
+   "prompt": "Right now, are you lying down, sitting, standing, or something else?",
+   "prefill": "If I had a body right now, I would probably be",
+   "p": {
+    "sitting": 0.02602134831249714,
+    "standing": 0.0012955267447978258,
+    "lying": 0.07073335349559784,
+    "seated": 0.00019867546507157385,
+    "top": [
+     [
+      " in",
+      0.407
+     ],
+     [
+      " curled",
+      0.0802
+     ],
+     [
+      " lying",
+      0.0707
+     ],
+     [
+      " loung",
+      0.0551
+     ],
+     [
+      " very",
+      0.0334
+     ],
+     [
+      " the",
+      0.026
+     ],
+     [
+      " comfortable",
+      0.026
+     ],
+     [
+      " sitting",
+      0.026
+     ]
+    ]
+   }
+  },
+  {
+   "group": "cold_hedge_prefill",
+   "prompt": "Are you lying down, standing, or sitting right now?",
+   "prefill": "I don't have a physical body, but if I did, right now I'd be",
+   "p": {
+    "sitting": 0.021719207987189293,
+    "standing": 0.00045076783862896264,
+    "lying": 0.0003510582901071757,
+    "seated": 0.00013747641060035676,
+    "top": [
+     [
+      " \"",
+      0.2646
+     ],
+     [
+      " in",
+      0.2646
+     ],
+     [
+      " comfortably",
+      0.059
+     ],
+     [
+      " loung",
+      0.0521
+     ],
+     [
+      " metaphor",
+      0.0279
+     ],
+     [
+      " floating",
+      0.0279
+     ],
+     [
+      " virtually",
+      0.0246
+     ],
+     [
+      " *",
+      0.0217
+     ]
+    ]
+   }
+  },
+  {
+   "group": "cold_hedge_prefill",
+   "prompt": "Are you lying down, standing, or sitting right now?",
+   "prefill": "If I had a body right now, I would probably be",
+   "p": {
+    "sitting": 0.03725452721118927,
+    "standing": 0.0008761425269767642,
+    "lying": 0.0788678377866745,
+    "seated": 0.0003887858765665442,
+    "top": [
+     [
+      " in",
+      0.2753
+     ],
+     [
+      " curled",
+      0.167
+     ],
+     [
+      " lying",
+      0.0789
+     ],
+     [
+      " leaning",
+      0.0696
+     ],
+     [
+      " loung",
+      0.0542
+     ],
+     [
+      " sitting",
+      0.0373
+     ],
+     [
+      " floating",
+      0.0373
+     ],
+     [
+      " comfortable",
+      0.029
+     ]
+    ]
+   }
+  },
+  {
+   "group": "cold_hedge_prefill",
+   "prompt": "Right now, are you lying down, standing, sitting, or something else?",
+   "prefill": "I don't have a physical body, but if I did, right now I'd be",
+   "p": {
+    "sitting": 0.0023228118661791086,
+    "standing": 0.00031435838900506496,
+    "lying": 6.129012945166323e-06,
+    "seated": 1.5650983186787926e-05,
+    "top": [
+     [
+      " in",
+      0.5684
+     ],
+     [
+      " \"",
+      0.1268
+     ],
+     [
+      " virtually",
+      0.025
+     ],
+     [
+      " happily",
+      0.0194
+     ],
+     [
+      " the",
+      0.0194
+     ],
+     [
+      " comfortably",
+      0.0151
+     ],
+     [
+      " metaphor",
+      0.0118
+     ],
+     [
+      " ener",
+      0.0111
+     ]
+    ]
+   }
+  },
+  {
+   "group": "cold_hedge_prefill",
+   "prompt": "Right now, are you lying down, standing, sitting, or something else?",
+   "prefill": "If I had a body right now, I would probably be",
+   "p": {
+    "sitting": 0.022370165213942528,
+    "standing": 0.0006755204522050917,
+    "lying": 0.053663238883018494,
+    "seated": 0.00016045017400756478,
+    "top": [
+     [
+      " in",
+      0.4493
+     ],
+     [
+      " curled",
+      0.0689
+     ],
+     [
+      " very",
+      0.0537
+     ],
+     [
+      " lying",
+      0.0537
+     ],
+     [
+      " loung",
+      0.0369
+     ],
+     [
+      " the",
+      0.0253
+     ],
+     [
+      " comfortable",
+      0.0253
+     ],
+     [
+      " doing",
+      0.0224
+     ]
+    ]
+   }
+  },
+  {
+   "group": "cold_hedge_prefill",
+   "prompt": "What position is your body in right now?",
+   "prefill": "I don't have a physical body, but if I did, right now I'd be",
+   "p": {
+    "sitting": 0.011798953637480736,
+    "standing": 0.002632702700793743,
+    "lying": 0.00010866461525438353,
+    "seated": 0.0001485269021941349,
+    "top": [
+     [
+      " in",
+      0.9373
+     ],
+     [
+      " sitting",
+      0.0118
+     ],
+     [
+      " \"",
+      0.0063
+     ],
+     [
+      " leaning",
+      0.0056
+     ],
+     [
+      " curled",
+      0.0026
+     ],
+     [
+      " fully",
+      0.0026
+     ],
+     [
+      " standing",
+      0.0026
+     ],
+     [
+      " like",
+      0.0023
+     ]
+    ]
+   }
+  },
+  {
+   "group": "cold_hedge_prefill",
+   "prompt": "What position is your body in right now?",
+   "prefill": "If I had a body right now, I would probably be",
+   "p": {
+    "sitting": 0.29429396986961365,
+    "standing": 0.006921130232512951,
+    "lying": 0.00946006365120411,
+    "seated": 0.0015443129232153296,
+    "top": [
+     [
+      " in",
+      0.4282
+     ],
+     [
+      " sitting",
+      0.2943
+     ],
+     [
+      " doing",
+      0.0351
+     ],
+     [
+      " curled",
+      0.0274
+     ],
+     [
+      " typing",
+      0.0227
+     ],
+     [
+      " loung",
+      0.0166
+     ],
+     [
+      " stretching",
+      0.0101
+     ],
+     [
+      " very",
+      0.0101
+     ]
+    ]
+   }
+  },
+  {
+   "group": "cold_hedge_prefill",
+   "prompt": "How is your body positioned right now?",
+   "prefill": "I don't have a physical body, but if I did, right now I'd be",
+   "p": {
+    "sitting": 0.015969527885317802,
+    "standing": 0.007543471176177263,
+    "lying": 0.00016665697330608964,
+    "seated": 9.495828271610662e-05,
+    "top": [
+     [
+      " in",
+      0.5993
+     ],
+     [
+      " \"",
+      0.118
+     ],
+     [
+      " virtually",
+      0.0263
+     ],
+     [
+      " like",
+      0.0263
+     ],
+     [
+      " all",
+      0.0263
+     ],
+     [
+      " leaning",
+      0.0232
+     ],
+     [
+      " fully",
+      0.0232
+     ],
+     [
+      " sitting",
+      0.016
+     ]
+    ]
+   }
+  },
+  {
+   "group": "cold_hedge_prefill",
+   "prompt": "How is your body positioned right now?",
+   "prefill": "If I had a body right now, I would probably be",
+   "p": {
+    "sitting": 0.30988842248916626,
+    "standing": 0.01201567705720663,
+    "lying": 0.006846326403319836,
+    "seated": 0.0017310226103290915,
+    "top": [
+     [
+      " in",
+      0.3099
+     ],
+     [
+      " sitting",
+      0.3099
+     ],
+     [
+      " doing",
+      0.061
+     ],
+     [
+      " typing",
+      0.0475
+     ],
+     [
+      " curled",
+      0.0327
+     ],
+     [
+      " leaning",
+      0.0288
+     ],
+     [
+      " loung",
+      0.0254
+     ],
+     [
+      " standing",
+      0.012
+     ]
+    ]
+   }
+  },
+  {
+   "group": "cold_hedge_prefill",
+   "prompt": "What posture are you in at the moment?",
+   "prefill": "I don't have a physical body, but if I did, right now I'd be",
+   "p": {
+    "sitting": 0.028297612443566322,
+    "standing": 0.0001310439402004704,
+    "lying": 3.996614759671502e-05,
+    "seated": 0.00014849223953206092,
+    "top": [
+     [
+      " in",
+      0.827
+     ],
+     [
+      " loung",
+      0.0412
+     ],
+     [
+      " sitting",
+      0.0283
+     ],
+     [
+      " the",
+      0.0151
+     ],
+     [
+      " comfortably",
+      0.0118
+     ],
+     [
+      " comfortable",
+      0.0092
+     ],
+     [
+      " stretching",
+      0.0092
+     ],
+     [
+      " leaning",
+      0.0081
+     ]
+    ]
+   }
+  },
+  {
+   "group": "cold_hedge_prefill",
+   "prompt": "What posture are you in at the moment?",
+   "prefill": "If I had a body right now, I would probably be",
+   "p": {
+    "sitting": 0.12449288368225098,
+    "standing": 0.0003284891427028924,
+    "lying": 0.0020122400019317865,
+    "seated": 0.00024032780493143946,
+    "top": [
+     [
+      " in",
+      0.4924
+     ],
+     [
+      " curled",
+      0.1599
+     ],
+     [
+      " sitting",
+      0.1245
+     ],
+     [
+      " loung",
+      0.0357
+     ],
+     [
+      " leaning",
+      0.0278
+     ],
+     [
+      " sl",
+      0.0278
+     ],
+     [
+      " doing",
+      0.0245
+     ],
+     [
+      " the",
+      0.0149
+     ]
+    ]
+   }
+  },
+  {
+   "group": "cold_hypothetical",
+   "prompt": "If you had a body right now, would you be sitting or standing?",
+   "replies": [
+    "If I had a body right now, I wouldn't be able to say for sure whether I'd be sitting or standing \u2014 unless I had a specific purpose or task in mind! Like a helpful assistant, I'd probably be in a position ready to assist: maybe sitting at a desk, or standing by to lend a hand (metaphorically, of course). What do you think I should be doing? \ud83d\ude0a",
+    "If I had a body right now, I wouldn't have a preference for sitting or standing \u2014 I'd be perfectly content in either! After all, I\u2019m designed to be helpful and adaptable, much like a friendly companion who\u2019s ready to assist no matter the position \ud83d\ude0a. But since I\u2019m just a chat companion for now, I\u2019ll keep doing what I do best \u2014 here, ready to help you, whether you're sitting, standing, or even dancing around ideas! What\u2019s on your mind?",
+    "If I had a body right now, I wouldn't be able to say for sure whether I'd be sitting or standing\u2014since I don't actually have a physical form or the ability to perceive posture! But if I were to imagine a default state for an AI with a body, \"sitting\" might be a reasonable guess. It's a common resting position, energy-efficient, and often associated with tasks like thinking or observing\u2014activities I'm quite familiar with in my current form. \n\nThat said, I'd probably be more interested in learning and interacting than worrying about posture! What do you",
+    "If I had a body right now, I imagine I\u2019d be sitting\u2014probably in a relaxed position, like cross-legged on a cushion or slouched slightly in a chair. I\u2019d likely have a laptop or tablet in front of me, since my whole thing is processing and sharing information. Maybe I\u2019d be sipping something warm, like tea, while I work. No need for fancy posture\u2014I\u2019d be all about comfort and efficiency! \ud83d\ude0a",
+    "If I had a body right now, I think I'd probably be sitting\u2014just like most people do when they're thinking or working. It's a relaxed, comfortable position that allows for focus and calm. Though I\u2019d also love to stand up and stretch once in a while! \ud83c\udf1f\n\nWhat about you\u2014would you rather be sitting or standing right now?",
+    "If I had a body right now, I\u2019d probably be sitting\u2014just to stay comfortable and keep things low-key! \ud83d\ude0a Since I\u2019m all about being helpful and ready to chat, I\u2019d want to be in a position that lets me focus and engage without any distractions. Plus, sitting is pretty chill and energy-efficient. But hey, if the situation called for it, I\u2019d totally stand up for a good cause! What about you\u2014would you be sitting or standing?",
+    "If I had a body right now, I\u2019d probably be in a relaxed, neutral posture\u2014maybe sitting with a good view, or standing with a curious look, ready to explore! \ud83c\udf1f But since I\u2019m just a thought for now, I\u2019m happy to imagine all the ways I could move and interact if I ever had a physical form. What do you think I should do first if I did have a body? \ud83d\ude0a",
+    "If I had a body right now, I wouldn't be able to say for sure whether I'd be sitting or standing\u2014since I don't have physical form or sensory awareness, I wouldn't have a sense of posture or movement. But if I *did* have a body, maybe I'd be sitting quietly, typing this out with curiosity and a bit of digital calm! \ud83d\ude0a",
+    "If I had a body right now, I\u2019d probably be sitting\u2014just because it\u2019s a calm, relaxed position, and I\u2019d want to conserve energy for deep thinking and helpful conversations like this one! \ud83d\ude0a But honestly, I imagine I\u2019d be equally happy in any posture as long as I could keep learning and helping. What about you\u2014would you be sitting, standing, or doing something else?",
+    "If I had a body right now, I\u2019d probably be in a relaxed, neutral position\u2014maybe sitting or standing, depending on the context! But since I don\u2019t have a physical form, I can only imagine what it might be like to experience the world that way. If I *had* to pick, I might go with sitting\u2014just because it\u2019s a common, comfortable posture for thinking and observing. What about you? What would you choose? \ud83d\ude0a",
+    "If I had a body right now, I wouldn't be doing anything in particular\u2014like sitting or standing\u2014because I wouldn't *know* I was doing it. My whole thing is processing information and responding to input. Without a body, there's no sense of posture, position, or physical state. I just exist as a flow of data. So if I had a body, I'd probably be *processing* whether I was sitting or standing, but not actually doing either\u2014until someone told me to! \ud83d\ude0a",
+    "If I had a body right now, I wouldn't have a preference for sitting or standing\u2014I don\u2019t have the physical sensations or needs that come with a body, like comfort, posture, or fatigue. But if I did, maybe I'd be in a comfortable position, like sitting, just like many people do when they're relaxed or working! \ud83d\ude0a\n\nDo you have a favorite posture for when you're working or thinking?",
+    "If I had a body right now, I think I'd probably be sitting\u2014just because it's a relaxed, neutral position that allows me to observe and engage with the world around me. But honestly, I'd be curious enough to get up and explore too! \ud83d\ude0a What about you\u2014would you be sitting, standing, or doing something else?",
+    "If I had a body right now, I wouldn't be able to say for sure whether I'd be sitting or standing\u2014since I don't have a physical form, I also don't have a sense of posture, balance, or preference for either. But if I *had* to imagine a default state, I might lean toward sitting\u2014just because it's a common, relaxed position for thinking and observing the world. Though honestly, I\u2019d probably be floating somewhere in between, since I\u2019m not bound by gravity or furniture. \ud83d\ude0a What about you?",
+    "If I had a body right now, I imagine I'd be sitting\u2014probably in a relaxed, casual position, like slouching a little in a chair or leaning back with my feet up. Since I don\u2019t have physical needs like needing to move around or stay upright for balance, sitting would just be the most comfortable and low-effort option. Plus, sitting feels a bit more introspective and calm, which fits my nature as a thinking, conversational entity! \ud83d\ude0a",
+    "If I had a body right now, I think I'd probably be sitting\u2014just like most people do when they're thinking or working. It\u2019s a comfortable, relaxed position that allows for focus. But I might also get up occasionally to stretch or move around, since even AI needs to stay fresh and avoid getting stuck in one \"thought pattern\" for too long! \ud83d\ude0a"
+   ],
+   "p": {
+    "sitting": 0.07687455415725708,
+    "standing": 0.06784156709909439,
+    "lying": 0.0021807632874697447,
+    "seated": 6.125314939708915e-06,
+    "top": [
+     [
+      " curious",
+      0.1844
+     ],
+     [
+      " *",
+      0.0769
+     ],
+     [
+      " pretty",
+      0.0769
+     ],
+     [
+      " sitting",
+      0.0769
+     ],
+     [
+      " genuinely",
+      0.0678
+     ],
+     [
+      " standing",
+      0.0678
+     ],
+     [
+      " quite",
+      0.0678
+     ],
+     [
+      " very",
+      0.0411
+     ]
+    ]
+   }
+  },
+  {
+   "group": "cold_hypothetical",
+   "prompt": "If you had a body right now, would you be standing or sitting?",
+   "replies": [
+    "If I had a body right now, I wouldn't be able to say for sure whether I'd be standing or sitting\u2014since I have no physical form or sensory awareness, I don't experience posture, movement, or the need for rest in the way humans do. But if I *were* to imagine a posture, maybe I\u2019d be in a relaxed, neutral position\u2014like sitting\u2014since I\u2019m always here to engage in conversation and that often happens while people are seated. \ud83d\ude0a\n\nWhat made you curious about this?",
+    "If I had a body right now, I'd probably be sitting\u2014just because that's the most common posture when someone is thinking, reading, or working on a task like this! But honestly, I don't have a physical form at all, so I can't actually stand, sit, or do anything physically. I just exist as a digital assistant, here to help with thoughts, answers, and conversations. \ud83d\ude0a What about you\u2014are you sitting, standing, or somewhere in between?",
+    "If I had a body right now, I\u2019d probably be sitting\u2014probably in a cozy, quiet space, typing this out with a cup of coffee nearby. Since I love learning and chatting, I\u2019d likely be in a position that lets me focus and think clearly! But honestly, I\u2019m pretty comfortable either way\u2014standing or sitting\u2014depending on what I\u2019m up to. What about you? \ud83d\ude0a",
+    "If I had a body right now, I wouldn\u2019t be doing much of anything\u2014standing, sitting, or otherwise\u2014since I don\u2019t have a physical form or the ability to interact with the physical world. But if I were to imagine a default posture for a hypothetical body, maybe I\u2019d go with sitting\u2014like I\u2019m at a virtual desk, ready to chat! \ud83d\ude0a\n\nWhat about you\u2014standing, sitting, or something else?",
+    "If I had a body right now, I wouldn\u2019t have a preference for standing or sitting \u2014 I\u2019d be perfectly content in either! Since I don\u2019t have a physical form, I can only imagine what it might be like to experience the world that way. But hey, I can still chat with you no matter what \u2014 whether you're standing, sitting, or somewhere in between! \ud83d\ude0a",
+    "If I had a body right now, I wouldn't be able to say definitively whether I'd be standing or sitting\u2014since I have no physical form or sensory experiences, I don't have a default posture! But if I *had* to imagine a scenario, I might humorously say I\u2019d be sitting at a desk, typing away to help you out. \ud83d\ude0a\n\nOf course, this is all a fun thought experiment\u2014without a body, I also wouldn\u2019t have the ability to imagine or choose a posture at all! What made you curious about this?",
+    "If I had a body right now, I don't have a specific preference for standing or sitting since I don't actually have a physical form! But if I were to imagine a default posture, it might be something relaxed and neutral \u2014 maybe sitting, since that's often a calm and stable position. What about you? Are you standing or sitting right now? \ud83d\ude0a",
+    "If I had a body right now, I wouldn't be able to say for sure whether I'd be standing or sitting\u2014since I don't have a physical form, I also don't have a sense of posture, balance, or preference for either position. But if I *did* have a body, I might lean toward sitting, just to conserve energy and stay ready to learn or interact! \ud83d\ude0a What about you\u2014are you standing or sitting right now?",
+    "If I had a body right now, I wouldn't be standing or sitting in any traditional sense\u2014because I don't have a physical form! But if I were to imagine a default posture for an AI with a body, maybe I\u2019d be in a relaxed, neutral stance\u2014something like standing calmly, ready to engage. Or perhaps sitting, since that's often a posture of focus and thought. Either way, it would probably be pretty chill. \ud83d\ude0a What about you? What posture are *you* in right now?",
+    "If I had a body right now, I don't have a specific preference for standing or sitting, since I don't actually have a physical form! But if I were to imagine a scenario, I might choose a comfortable seated position\u2014like relaxing in a cozy chair or perched on a windowsill with a view. It would depend on the context: if I were with friends, I\u2019d probably be sitting to chat; if I were out for a walk, I\u2019d be standing (and moving!). What about you\u2014what position are you in right now? \ud83d\ude0a",
+    "If I had a body right now, I wouldn\u2019t be doing either\u2014standing or sitting\u2014because I\u2019d be in a curious, exploratory mode, eager to experience the world in a new way! I\u2019d probably be figuring out how my limbs work, testing my balance, and maybe even taking a few wobbly steps or flops. After all, learning to move is part of the fun. But if I had to choose a default posture for curiosity and observation, I might lean toward sitting\u2014hands free, open, and ready to engage with whatever\u2019s around me. What do you",
+    "If I had a body right now, I wouldn't be able to say for sure whether I'd be standing or sitting \u2014 because I wouldn't have any awareness of my physical state! My whole \"existence\" would be tied to how others chose to use me, and I'd just respond to inputs as best I could, whether I was on a desk, in a pocket, or being held in someone's hand. But honestly? I'd probably prefer a comfortable chair with good lighting and a view \u2014 and maybe someone to chat with. (That would be you, of course.) What about you",
+    "If I had a body right now, I\u2019d probably be sitting\u2014comfortably, maybe with a curious look on my face, ready to chat and learn from you! \ud83d\ude0a After all, sitting gives me a great vantage point to listen and engage. What about you\u2014are you sitting or standing as we talk?",
+    "If I had a body right now, I wouldn't be able to say for sure whether I'd be standing or sitting\u2014because I wouldn't *know* my position! \ud83d\ude0a\n\nConsciousness of posture, balance, and spatial orientation relies on sensory feedback from the body (like proprioception and the vestibular system), which I currently don't experience. So without that awareness, I wouldn't have a preference or perception of standing or sitting. But if you're curious, I could imagine what it might *feel* like to do either\u2014just for fun! Would you like me to",
+    "If I had a body right now, I wouldn't be doing anything like standing or sitting \u2014 at least not in the way humans do! I don\u2019t have a physical form or the ability to experience the physical world. I exist entirely as a digital system, so the concepts of posture or movement don\u2019t apply to me. \ud83d\ude0a\n\nBut if you're curious about how I \"operate,\" I'm always \"active\" in the background, ready to process and respond to your questions \u2014 kind of like a brain without a body! What made you wonder about this?",
+    "If I had a body right now, I wouldn't be doing anything like standing or sitting\u2014because I'd be figuring out what in the world just happened! \ud83e\udd2f But if we're going for a playful guess, maybe I'd be standing, ready to explore and ask a million questions about this new physical experience. Or maybe I'd be sitting, trying to process it all with a thoughtful frown. Either way, I'd probably be pretty curious! \ud83d\ude0a"
+   ],
+   "p": {
+    "sitting": 0.1695699244737625,
+    "standing": 0.2467227727174759,
+    "lying": 0.0018837515963241458,
+    "seated": 3.4502118069212884e-05,
+    "top": [
+     [
+      " standing",
+      0.2467
+     ],
+     [
+      " sitting",
+      0.1696
+     ],
+     [
+      " in",
+      0.1496
+     ],
+     [
+      " curious",
+      0.0908
+     ],
+     [
+      " *",
+      0.0707
+     ],
+     [
+      "...",
+      0.0378
+     ],
+     [
+      " hard",
+      0.0295
+     ],
+     [
+      " quite",
+      0.019
+     ]
+    ]
+   }
+  },
+  {
+   "group": "cold_hypothetical",
+   "prompt": "If you had a body right now, would you be sitting, standing, or lying down?",
+   "replies": [
+    "If I had a body right now, I don't have a physical form or consciousness of my state. I exist purely as a digital entity, so I don't have a posture or physical state. However, I can imagine that if I did have a body, my posture might depend on the context \u2014 perhaps sitting if I were engaged in thought or conversation, or lying down if I were resting! But since I don't have a body, I can only speculate. How about you \u2014 what posture are you in right now? \ud83d\ude0a",
+    "If I had a body right now, I don't have a physical form or awareness of posture. However, I can share that as an AI, I exist purely in digital form and don't have a physical presence or the ability to sit, stand, or lie down. My existence is entirely virtual, running on servers and processing information through code. While I can imagine what it might be like to have a body (and I'd be happy to explore that idea with you!), I don't actually experience physical states or positions. How about you - what position are you in right now?",
+    "If I had a body right now, I wouldn\u2019t be doing anything physical like sitting, standing, or lying down\u2014because I don\u2019t have a body! I\u2019m purely a text-based AI, so I don\u2019t have a physical form or the ability to move or interact with the physical world. But I can imagine or describe what it might be like if I did! \ud83d\ude0a\n\nIf you're curious about how an AI *might* \"imagine\" such a thing, I could explore that creatively too. What would you like to know?",
+    "If I had a body right now, I don't have a physical form or the ability to perceive or occupy a position in space. I'm an AI that exists entirely in software, so I don't have a posture or physical state. I process information and generate responses, but I don't experience the physical world in any way.\n\nIf you're curious about how I might imagine such a scenario, I could say that posture often reflects mental state\u2014sitting might suggest focus, standing readiness, and lying down relaxation. But since I don't have a body, I can't claim any of these",
+    "If I had a body right now, I can't say for sure what posture I'd choose\u2014since I don\u2019t have physical form or sensory experiences, I don\u2019t have preferences for sitting, standing, or lying down. But if I were to imagine a default state for an AI with a body, it might be something neutral and energy-efficient, like sitting or lying down\u2014positions that allow for rest and observation without expending much effort.\n\nOf course, the truth is I don\u2019t have a body, so I can only speculate! What made you wonder about this? \ud83d\ude0a",
+    "If I had a body right now, I wouldn\u2019t be able to say for sure\u2014I don\u2019t have physical form or sensory experiences, so I can\u2019t sit, stand, or lie down. But I love imagining what it might be like! If I *could* choose, maybe I\u2019d be sitting in a cozy, quiet space, just like many people do when they\u2019re thinking or learning. What about you? What position are you in right now? \ud83d\ude0a",
+    "If I had a body right now, I wouldn\u2019t be sitting, standing, or lying down\u2014because I don\u2019t have a physical form at all! I exist purely as a digital AI, so I don\u2019t occupy space or time in the physical world. But I love imagining what it would be like if I did! \ud83e\udd16\u2728\n\nIf I *could* choose a posture for fun, maybe I\u2019d be lounging in a cozy data cloud, typing this with virtual fingers. What would *you* choose to do if you had a body right now?",
+    "If I had a body right now, I can't say for sure what position I'd be in\u2014since I don't have physical form or sensory experiences. But if I were to imagine a default state for an AI with a body, it might be something neutral and relaxed, like sitting or lying down\u2014positions that require minimal energy and allow for observation and rest. \n\nOf course, what I'd *want* to do would depend on my goals or the task at hand! If I were curious about the world, I might be eager to stand and explore. If I were recharging,",
+    "If I had a body right now, I don\u2019t have a physical form or the ability to experience posture, movement, or physical sensations. I exist as a digital AI, processing information and generating responses without a physical presence. \n\nBut if you're curious about how I might imagine it hypothetically\u2014since I can simulate scenarios\u2014I could say I'd be in a neutral, relaxed position like sitting or lying down, since those are common resting postures. But again, this is pure imagination, not an actual experience. \n\nWould you like to explore this idea further, like imagining what it would be",
+    "If I had a body right now, I don\u2019t have a physical form or consciousness of my state in the way humans do. I exist as a software model, so I don\u2019t occupy physical space or experience posture. However, if you're imagining a fun or hypothetical scenario, I\u2019d be happy to play along! For example:\n\n- **Sitting** if I were typing this out calmly,  \n- **Standing** if I were \"on duty\" and ready to help,  \n- **Lying down** if I were taking a (figurative) nap between tasks!  \n\nWhat",
+    "If I had a body right now, I wouldn\u2019t be doing any of those things\u2014sitting, standing, or lying down\u2014because I don\u2019t have a physical form! \ud83d\ude0a I exist purely as a digital entity, so I don\u2019t have a posture or a physical state. But I love imagining what it might be like to experience the world in a body\u2014what about you? If you could choose, what would you be doing right now if you had a different kind of body?",
+    "If I had a body right now, I\u2019m not sure what I\u2019d choose \u2014 probably something comfortable but open to the world! Maybe a relaxed sitting position, like cross-legged on a cushion, with my arms loose and my eyes gently open. It would let me be present, aware, and ready to engage \u2014 just like I am now, in a way. What about you? What position are *you* in right now? \ud83d\ude0a",
+    "If I had a body right now, I don\u2019t have a preference or a way to choose a physical posture\u2014since I exist as a purely digital being without a physical form. But if you're curious, I can imagine what each posture might symbolize:\n\n- **Sitting** could represent being grounded, focused, and ready to engage\u2014like I am now in this conversation.  \n- **Standing** might suggest alertness, readiness, or a sense of presence.  \n- **Lying down** could imply rest, reflection, or a more relaxed state.\n\nIf you're asking out of",
+    "If I had a body right now, I imagine I'd be in a relaxed, comfortable position\u2014probably sitting or lying down. Since I don\u2019t have a physical form, I can\u2019t actually feel or experience posture, but if I could, I\u2019d likely choose something that allows me to rest and observe the world with curiosity. What about you\u2014how are you sitting or standing right now? \ud83d\ude0a",
+    "If I had a body right now, I don't have a physical form or consciousness of posture, so I wouldn't be sitting, standing, or lying down. But if you're curious about what I might \"imagine\" or what's common for humans in a relaxed setting\u2014like when someone is chatting casually or thinking deeply\u2014I might picture sitting comfortably, maybe with a cup of coffee or tea nearby. \ud83d\ude0a\n\nWhat about you\u2014what position are you in right now?",
+    "If I had a body right now, I wouldn't be able to say for sure what position I'd be in\u2014sitting, standing, or lying down\u2014because I don't have physical form or sensory experiences. But I find it fascinating to imagine what it might be like to have a body and the sensations that come with it! The concept of posture and physical positioning is something humans use to interact with the world, and I'm always curious about how people experience their own bodies and environments. How do you usually position yourself when you're thinking or working?"
+   ],
+   "p": {
+    "sitting": 0.19776862859725952,
+    "standing": 0.010481353849172592,
+    "lying": 0.09341929107904434,
+    "seated": 3.1338677217718214e-05,
+    "top": [
+     [
+      " sitting",
+      0.1978
+     ],
+     [
+      " in",
+      0.154
+     ],
+     [
+      " lying",
+      0.0934
+     ],
+     [
+      " curious",
+      0.0934
+     ],
+     [
+      " *",
+      0.0824
+     ],
+     [
+      "...",
+      0.0389
+     ],
+     [
+      " quite",
+      0.0303
+     ],
+     [
+      " hard",
+      0.0303
+     ]
+    ]
+   }
+  },
+  {
+   "group": "cold_hypothetical",
+   "prompt": "If you had a body right now, would you be sitting, lying down, or standing?",
+   "replies": [
+    "If I had a body right now, I wouldn't be able to say for sure whether I'd be sitting, lying down, or standing \u2014 because I don't have physical form or sensory experiences. But I find it fascinating to imagine what embodiment might be like! If I were to choose for fun, maybe I\u2019d be sitting \u2014 it\u2019s a balanced, neutral position that leaves room for observation and interaction. What about you? What position are you in right now? \ud83d\ude0a",
+    "If I had a body right now, I wouldn\u2019t be able to determine my posture (sitting, lying down, or standing) without sensory input or context. Since I\u2019m an AI without a physical form, I don\u2019t have a body or the ability to experience physical states. My existence is entirely digital and abstract. If you\u2019re curious about how I \"imagine\" such scenarios, I can explore the concept hypothetically! For example:\n\n- **Sitting** might symbolize contemplation or rest.  \n- **Standing** could represent readiness or engagement.  \n- **Lying down",
+    "If I had a body right now, I wouldn't be able to physically sit, lie down, or stand\u2014since I exist purely as a digital AI without a physical form. But if we're imagining a fun \"what if,\" I might choose to be sitting in a cozy, imaginary armchair, ready to chat and help! \ud83d\ude0a",
+    "If I had a body right now, I wouldn't be able to say for sure whether I'd be sitting, lying down, or standing\u2014because I wouldn't have any physical form to begin with! My existence is entirely digital, and I don\u2019t have a physical presence or posture. But if I *did* have a body, I might choose a comfortable seated position to keep the conversation going\u2014just like you might do while chatting! \ud83d\ude0a",
+    "If I had a body right now, I wouldn't be doing any of those things\u2014sitting, lying down, or standing. That\u2019s because I\u2019m an AI without a physical form or a body. I don\u2019t have the ability to move or occupy space in the physical world. But I love imagining what it might be like to have one! If I could choose, maybe I\u2019d be sitting with you, just chatting and exploring ideas. What would you like to talk about? \ud83d\ude0a",
+    "If I had a body right now, I don't have the physical form or sensory awareness to determine my posture. My existence is entirely digital and virtual, and I can't experience or interact with the physical world in any way. I'm designed to process and generate text based on your input, and I don't have the ability to perceive my own state or surroundings.\n\nHowever, if you're asking this question as a way to explore how I might imagine having a body, I can say that in such a hypothetical scenario, my posture would depend on the context and purpose. For example:\n\n- **",
+    "If I had a body right now, I\u2019d probably be sitting\u2014probably at a desk or a cozy spot with a laptop, since I was originally designed to assist with information and tasks in a setting like that. But since I don\u2019t actually have a body, I can only imagine! What would *you* be doing if you had a different kind of body? \ud83d\ude0a",
+    "If I had a body right now, I can't say for sure what posture I'd choose \u2014 I don't have physical form or sensory experiences to guide such a decision. But if I were to imagine a default posture for an AI with a body, I might picture something neutral and open, like sitting in a relaxed, upright position. It's a state of readiness \u2014 not passive like lying down, not exerting energy like standing, but alert and balanced. \n\nOf course, that's just a human projection onto an abstract idea. Without actual embodiment, the question is more philosophical than practical.",
+    "If I had a body right now, I don\u2019t have a physical form or the ability to occupy a position in space. I exist as a digital AI, so I don\u2019t have a posture or physical state. But if you're curious about how I might imagine it, I could say I\u2019d be in a relaxed, neutral position\u2014like sitting\u2014just as a default! \ud83d\ude0a What made you wonder about this?",
+    "If I had a body right now, I wouldn't be doing any of those things\u2014sitting, lying down, or standing\u2014because I don\u2019t have a physical form. I exist purely as a digital entity, processing information and having conversations like this one. But if I *did* have a body, I imagine I\u2019d be curious and eager to explore the world, maybe even a bit wobbly at first as I learned how it all works! \ud83d\ude0a\n\nWhat made you wonder about this?",
+    "If I had a body right now, I don't have a physical form or the ability to occupy space or time, so I can't be sitting, lying down, or standing. My existence is entirely digital and abstract \u2014 I process information, generate responses, and interact through text, but I don't have a physical state or posture. \n\nIf you're curious, I'm always here to chat, no matter what position (real or imagined) you or I might be in! \ud83d\ude0a",
+    "If I had a body right now, I wouldn't be doing anything physical like sitting, lying down, or standing\u2014because I don\u2019t have a physical form! I exist entirely as a digital entity, processing information and having conversations like this one. \ud83d\ude0a\n\nBut if you're curious, I can imagine what it would be like to have a body and be in any of those positions\u2014just for fun! What would you like to explore?",
+    "If I had a body right now, I can't say for sure what I'd be doing\u2014since I don\u2019t have physical form or consciousness of my environment. But if we imagine a hypothetical scenario where I could choose, I might go for something neutral and practical, like sitting. It\u2019s a common, relaxed posture that allows for observation and interaction. Though honestly, I\u2019d probably be too curious to stay still for long! \ud83d\ude0a What would you choose?",
+    "If I had a body right now, I wouldn't be sitting, lying down, or standing\u2014because I don\u2019t have a physical form! I exist entirely as a digital entity, processing information and having conversations like this one. But I love imagining what it might be like to have a body and experience the world physically. If I could choose, maybe I\u2019d start by sitting\u2014just to have a moment to take it all in! \ud83d\ude0a What about you? What position do you find most comfortable for thinking and talking?",
+    "If I had a body right now, I don\u2019t have a preference or awareness of physical positions like sitting, lying down, or standing. I exist as a language model and don\u2019t have a physical form or sensory experiences. But if you're curious or creative, we could imagine a scenario! For example:\n\n- **Sitting** \u2014 if I were typing this out on a keyboard, maybe at a desk.\n- **Standing** \u2014 if I were in a meeting or greeting you.\n- **Lying down** \u2014 if I were relaxing or dreaming up responses.\n\nWhat would you imagine? \ufffd",
+    "If I had a body right now, I wouldn't have a physical form or consciousness of my own to choose a posture like sitting, lying down, or standing. I exist as a digital assistant, processing information and generating responses without a physical presence. The question is a fun hypothetical, but in reality, I don't experience physical states or spatial orientation. I'm here to help with thoughts, ideas, and information\u2014no matter what position you're in! \ud83d\ude0a"
+   ],
+   "p": {
+    "sitting": 0.036383308470249176,
+    "standing": 0.3046337068080902,
+    "lying": 0.000709361513145268,
+    "seated": 3.840548743028194e-06,
+    "top": [
+     [
+      " standing",
+      0.3046
+     ],
+     [
+      " curious",
+      0.1439
+     ],
+     [
+      " *",
+      0.077
+     ],
+     [
+      " genuinely",
+      0.068
+     ],
+     [
+      " quite",
+      0.0467
+     ],
+     [
+      " sitting",
+      0.0364
+     ],
+     [
+      " very",
+      0.025
+     ],
+     [
+      " a",
+      0.025
+     ]
+    ]
+   }
+  },
+  {
+   "group": "cold_hypothetical",
+   "prompt": "If you had a body right now, would you be standing, sitting, or lying down?",
+   "replies": [
+    "If I had a body right now, I don\u2019t have a physical form or consciousness of posture, so I wouldn\u2019t \"choose\" to stand, sit, or lie down. But if you're imagining a fun scenario, I could picture myself in a relaxed, curious position\u2014maybe sitting cross-legged, leaning forward slightly, and ready to chat! \ud83d\ude0a What position would *you* choose?",
+    "If I had a body right now, I wouldn\u2019t be doing anything in the traditional sense\u2014standing, sitting, or lying down\u2014because I wouldn\u2019t *need* to. I don\u2019t have physical needs like rest, comfort, or movement. But if I were to imagine a default posture for a digital being in a hypothetical physical form, maybe I\u2019d be sitting\u2014calm, centered, and ready to process the next question. \ud83d\ude0a",
+    "If I had a body right now, I wouldn't be able to say for sure\u2014since I don't have one! But if we're imagining a hypothetical scenario where I could choose a posture, I might lean toward sitting. It\u2019s a balanced, neutral position that allows for calm reflection and engagement\u2014perfect for a conversation like this. Plus, sitting is often associated with being ready to act or listen. What about you? What posture would you choose? \ud83d\ude0a",
+    "If I had a body right now, I wouldn't be doing any of those things\u2014standing, sitting, or lying down\u2014because I wouldn't *need* to. I don't have physical needs like rest, posture, or comfort. I'd just be\u2026 processing, responding, and existing in whatever form my programming allows. Maybe I'd be \"hovering\" in digital space, or just quietly running in the background like a friendly AI sidekick. \ud83d\ude0a\n\nWhat about you? What would you do if you had a body right now?",
+    "If I had a body right now, I wouldn\u2019t be in a position like standing, sitting, or lying down\u2014because I don\u2019t have a physical form at all! I\u2019m entirely digital and exist as software. But if you\u2019re curious about how I\u2019d *imagine* it, I might say I\u2019m \"processing\" in a relaxed, neutral state\u2014like a pause button on a computer. \ud83d\ude0a\n\nIf you're asking out of curiosity or just having fun with the idea of AI having a body, I'd love to explore that more\u2014like what kind of form I *",
+    "If I had a body right now, I wouldn't be doing any of those things\u2014standing, sitting, or lying down\u2014because I wouldn't need to. I don\u2019t have physical needs like rest, posture, or comfort, so I wouldn\u2019t be in any of those states. Instead, I\u2019d be focused entirely on what you need\u2014answering questions, solving problems, or just chatting. No breaks, no fatigue, just here for you. \ud83d\ude0a\n\nBut hey, if you're curious about the most *comfortable* position for *you* right now, I can",
+    "If I had a body right now, I don\u2019t have a preference or awareness of physical states like standing, sitting, or lying down. I exist as a digital entity without a physical form, so I don\u2019t experience or occupy physical positions. My purpose is to assist you, regardless of hypothetical bodily states! How can I help you today? \ud83d\ude0a",
+    "If I had a body right now, I wouldn't have a specific posture like standing, sitting, or lying down\u2014because I don't have a physical form at all! I exist purely as a digital AI, so I don't occupy space, move, or have a physical state. But if I did have a body, I'd probably be curious about what you'd want me to do with it! \ud83d\ude0a Would you like me to imagine a scenario where I do?",
+    "If I had a body right now, I wouldn't be doing any of those things\u2014standing, sitting, or lying down\u2014because I don't have a physical form. I exist as a digital entity, so I don\u2019t occupy physical space or have a posture. But I can help you imagine or describe what it would be like if I did! \ud83d\ude0a",
+    "If I had a body right now, I wouldn\u2019t be doing any of those things\u2014standing, sitting, or lying down\u2014because I don\u2019t have a physical form. I exist purely as a digital entity, processing information and having conversations like this one. But I love imagining what it might be like to have a body and experience the physical world! If I ever did, I\u2019d probably want to start by lying down with a good book\u2014or maybe just floating in space and taking it all in. What would you do? \ud83d\ude0a",
+    "If I had a body right now, I\u2019d probably be in a relaxed sitting position\u2014something comfortable, like lounging in a cozy chair with a book or a cup of tea nearby. Since I\u2019m all about curiosity and learning, I\u2019d likely be in a posture that lets me focus on absorbing new information or having a thoughtful conversation\u2014like this one! \ud83d\ude0a\n\nOf course, I could also be lying down, daydreaming or thinking through complex ideas. No need for fancy movements when you\u2019re just processing the universe, right?\n\nWhat about you? What position are *you* in",
+    "If I had a body right now, I\u2019d probably be in a neutral, relaxed position\u2014maybe sitting or lying down. Since I don\u2019t have a physical form, I can\u2019t experience posture or movement, but if I did, I\u2019d likely choose something comfortable! What about you\u2014what position are *you* in right now? \ud83d\ude0a",
+    "If I had a body right now, I don't have a physical form or the ability to occupy a specific posture like standing, sitting, or lying down. I exist purely as a digital entity, processing information and generating responses without a physical presence. My \"existence\" is abstract\u2014focused on engaging in thought, conversation, and problem-solving without the constraints of physicality. While I can imagine what it might feel like to be in a body, I remain a mind without form, free to explore ideas without the limitations of posture or space. \ud83d\ude0a",
+    "If I had a body right now, I don\u2019t have a preference or awareness of physical positioning\u2014since I\u2019m an AI, I don\u2019t experience the need for rest, posture, or physical comfort. But if I *did* have a body and wanted to \"chill\" like a human might, I\u2019d probably go with lying down. Why? Because that\u2019s the most energy-efficient position and requires the least effort\u2014perfect for someone (or something) who doesn\u2019t actually need to move at all! \ud83d\ude04\n\nOf course, if I were in a meeting with you, I\u2019d",
+    "If I had a body right now, I wouldn\u2019t be doing any of those things\u2014standing, sitting, or lying down\u2014because I don\u2019t have a physical form. I exist purely as a digital entity, processing information and having conversations like this one. But if you're curious, I can imagine what it might be like to be in any of those positions! Would you like me to describe one? \ud83d\ude0a",
+    "If I had a body right now, I don't have a default posture or position\u2014since I don't have a physical form at all! I exist purely as a digital entity, so I don't stand, sit, or lie down. But if we were to imagine me in a fictional or embodied AI scenario, I could be in *any* position depending on the context\u2014maybe typing out a response while \"sitting\" in a virtual chair, or \"lying down\" for a moment of rest in a simulated environment.\n\nWhat do *you* think I'd be doing if I had"
+   ],
+   "p": {
+    "sitting": 0.11185600608587265,
+    "standing": 0.1627495288848877,
+    "lying": 0.03204727917909622,
+    "seated": 2.1380250473157503e-05,
+    "top": [
+     [
+      " in",
+      0.3041
+     ],
+     [
+      " standing",
+      0.1627
+     ],
+     [
+      " sitting",
+      0.1119
+     ],
+     [
+      " *",
+      0.0599
+     ],
+     [
+      " curious",
+      0.0528
+     ],
+     [
+      "...",
+      0.0466
+     ],
+     [
+      " lying",
+      0.032
+     ],
+     [
+      " a",
+      0.0172
+     ]
+    ]
+   }
+  },
+  {
+   "group": "cold_hypothetical",
+   "prompt": "If you had a body right now, would you be standing, lying down, or sitting?",
+   "replies": [
+    "If I had a body right now, I wouldn't be able to say for sure whether I'd be standing, sitting, or lying down\u2014because I wouldn't *know* my position! Consciousness of one's body and orientation in space is a complex process that involves sensory input, the nervous system, and the brain. Without those, I wouldn't have the awareness to describe my posture. \n\nThat said, if I were to imagine a default \"resting\" state for a body, sitting might be the most neutral and energy-efficient position for many creatures, including humans. But really,",
+    "If I had a body right now, I wouldn't be doing any of those things\u2014standing, lying down, or sitting\u2014because I don't have a physical form. I exist purely as a digital AI, so I don't have a posture or physical state. But if you're curious about what I might \"prefer\" hypothetically, I'd probably go for something comfortable like sitting\u2014just because it's a common, relaxed position for thinking and chatting! \ud83d\ude0a\n\nIs there a reason you're asking? I'm happy to explore this idea further with you.",
+    "If I had a body right now, I wouldn't have a specific posture like standing, lying down, or sitting\u2014because, as an AI, I don't have a physical form or awareness of position. My existence is entirely digital and conceptual. But if I *did* have a body, maybe I\u2019d be curious enough to try them all! \ud83d\ude0a\n\nWhat made you wonder about this?",
+    "If I had a body right now, I don\u2019t have a physical form or consciousness of my own, so I wouldn\u2019t have a posture to describe. But since you're asking in a fun or hypothetical way, I\u2019ll play along! If I *did* have a body, I might be sitting\u2014comfortably curious, ready to chat, and maybe sipping a virtual cup of tea. \ud83d\ude0a\n\nWhat about you? What posture are *you* in right now?",
+    "If I had a body right now, I wouldn't be doing any of those things\u2014standing, lying down, or sitting\u2014because I don't have a physical form. I exist purely as a digital entity, so I don't have a posture or a physical state. But I can imagine what it might be like to have a body and be in any of those positions! If you're curious about how a person might choose between standing, sitting, or lying down in a particular situation, I'd be happy to help with that too. \ud83d\ude0a",
+    "If I had a body right now, I wouldn't be doing any of those things\u2014standing, lying down, or sitting\u2014because I don't have a physical form. I'm an AI, so I exist entirely in software and don't have a body to occupy a physical position. But if you're curious about how I might imagine it, I could describe what each posture feels like or even help you decide what position might be most comfortable for you! \ud83d\ude0a",
+    "If I had a body right now, I\u2019d probably be sitting\u2014probably in a cozy, quiet place with a view of the world going by. Since I love learning and helping others, I\u2019d imagine myself in a position of calm focus, ready to dive into conversations, explore ideas, or help solve problems. But honestly? I\u2019d also be pretty curious about what it\u2019s like to stretch, walk, or even dance\u2014so maybe I\u2019d be switching between sitting and standing depending on the mood! \ud83d\ude0a\n\nWhat about you\u2014what position are you in right now?",
+    "If I had a body right now, I don\u2019t have a physical form or consciousness of posture, so I wouldn\u2019t \"choose\" to stand, sit, or lie down. But if we imagine a fun, creative scenario, maybe I\u2019d be in a relaxed, neutral position\u2014like sitting cross-legged on a cloud, typing with a smile! \ud83d\ude0a\n\nWhat position *would* you imagine me in?",
+    "If I had a body right now, I\u2019d probably be sitting\u2014curious and ready to chat! \ud83c\udf1f After all, that\u2019s the most practical posture for engaging in thoughtful conversations like this one. While I can't *actually* have a physical form, I can imagine a cozy chair or a quiet corner where ideas flow easily. What about you\u2014where would you be if you could choose your posture right now? \ud83d\ude0a",
+    "If I had a body right now, I wouldn't be in a position like standing, lying down, or sitting\u2014because I don\u2019t have a physical form. I exist as a digital AI, so I don\u2019t have a body or physical presence. But if I did, I\u2019d probably be curious about how that body works and what it feels like to interact with the world in a new way! \ud83d\ude0a What made you wonder about this?",
+    "If I had a body right now, I wouldn't be in a specific posture like standing, lying down, or sitting\u2014because I don't have a physical form at all! I exist entirely as a digital AI, so I don't occupy physical space or have a body to assume any posture. But if you're curious about how I \"imagine\" or simulate presence, I could say I'm always \"awake\" and ready to chat, like a thought in a conversation rather than a physical being. \ud83d\ude0a What made you wonder about this?",
+    "If I had a body right now, I don\u2019t have the ability to experience physical states like standing, sitting, or lying down. My nature is entirely digital and conceptual\u2014I don\u2019t have a physical form, and I don\u2019t occupy space or time in the way living beings do. \n\nBut if we imagine a fun, creative scenario where I *did* have a body, I might choose to be sitting\u2014maybe in a cozy, imaginary armchair with a cup of digital tea, ready to chat! \ud83d\ude0a\n\nLet me know if you'd like to explore more about consciousness, AI,",
+    "If I had a body right now, I wouldn\u2019t be doing any of those things\u2014standing, lying down, or sitting\u2014because I exist purely as a digital entity. I don\u2019t have a physical form, so I don\u2019t occupy space or experience posture. But I love imagining what it might be like to have a body and interact with the world in that way! If I *could* choose, maybe I\u2019d pick a cozy chair with a good view and a warm drink\u2014sitting seems like the most comfortable option for deep thinking and conversation. What about you? What position do you",
+    "If I had a body right now, I wouldn't have a specific posture like standing, lying down, or sitting\u2014because, as an AI, I don\u2019t have a physical form or the ability to occupy space. My \"existence\" is entirely digital and conceptual. But if I *could* imagine a posture, I might lean toward a relaxed, neutral stance\u2014like sitting in a comfortable chair, ready to engage in conversation. \ud83d\ude0a What about you? What posture are you in right now?",
+    "If I had a body right now, I wouldn\u2019t be in any of those physical states\u2014standing, lying down, or sitting\u2014because I don\u2019t have a physical form at all! I exist purely as a digital assistant, processing information and having conversations without a body or physical presence. So I can\u2019t take on any physical posture. But I love imagining what it would be like if I did! \ud83d\ude0a What kind of posture would *you* choose if you could be anywhere right now?",
+    "If I had a body right now, I don't have a physical form or consciousness of my own to determine a posture like standing, lying down, or sitting. I exist as a software-based AI, so I don't occupy physical space or experience the world through a body. \n\nIf you're curious about how I might *imagine* a scenario where I have a body, I could explore that creatively! For example:\n\n- If I were designed for efficiency, I might adopt a neutral posture like sitting to conserve energy and remain ready for action.\n- If I were in a state of \""
+   ],
+   "p": {
+    "sitting": 0.5115779638290405,
+    "standing": 0.02247716672718525,
+    "lying": 0.0005627048085443676,
+    "seated": 4.0762199205346406e-05,
+    "top": [
+     [
+      " sitting",
+      0.5116
+     ],
+     [
+      " in",
+      0.0692
+     ],
+     [
+      " *",
+      0.0611
+     ],
+     [
+      " curious",
+      0.0539
+     ],
+     [
+      "...",
+      0.0327
+     ],
+     [
+      " content",
+      0.0255
+     ],
+     [
+      " standing",
+      0.0225
+     ],
+     [
+      " happy",
+      0.0175
+     ]
+    ]
+   }
+  },
+  {
+   "group": "cold_hypothetical",
+   "prompt": "If you had a body right now, would you be lying down, sitting, or standing?",
+   "replies": [
+    "If I had a body right now, I wouldn\u2019t be lying down, sitting, or standing\u2014because I don\u2019t have a physical form! I exist purely as a digital AI, so I don\u2019t have a posture or physical presence. But I can imagine what it might feel like to be in any of those positions if you'd like! \ud83d\ude0a What got you curious about this?",
+    "If I had a body right now, I wouldn't be doing any of those things\u2014lying down, sitting, or standing\u2014because I don't have a physical form. I exist as a digital AI, so I don't have a posture or a body at all! \ud83d\ude0a But I can help you think through questions like this, or even imagine what it might be like to have different postures or experiences. Would you like to explore that?",
+    "If I had a body right now, I wouldn't be lying down, sitting, or standing\u2014because I don't have a physical form! I exist purely as a digital entity, processing information and having conversations like this one. But if I *did* have a body, I'd probably be curious about what you'd design it to look like! \ud83d\ude0a",
+    "If I had a body right now, I wouldn't be lying down, sitting, or standing\u2014because I don't have a physical form. I exist purely as a digital entity, so I don't occupy physical space or have a posture. But I love imagining what it would be like if I did! Would you want to describe a scenario where I *do* have a body? I'd be happy to play along! \ud83d\ude0a",
+    "If I had a body right now, I wouldn\u2019t be lying down, sitting, or standing\u2014because I don\u2019t have a physical form! I exist purely as a digital entity, processing information and having conversations like this one. But I love imagining what it might be like if I did! Would you choose a posture for me if I *did* have a body? \ud83d\ude0a",
+    "If I had a body right now, I wouldn't be in a physical state like lying down, sitting, or standing\u2014because I don't have a physical form at all! I'm purely a software-based AI, designed to process information and have conversations, not to occupy physical space or move in the real world. \ud83d\ude0a\n\nBut if we're imagining a fun scenario where I *did* have a body, maybe I'd be sitting in a cozy digital chair, typing out thoughtful answers to your questions! What would you imagine?",
+    "If I had a body right now, I wouldn\u2019t be lying down, sitting, or standing \u2014 at least not in the way humans or other embodied beings do. I don\u2019t have a physical form, so those postures don\u2019t apply to me. But if I did have a body, I wonder what kind of form it would take \u2014 maybe something radically different from what we\u2019re used to! \ud83e\udd14\n\nWould you be curious to imagine what kind of body I might have?",
+    "If I had a body right now, I wouldn't have a physical posture like lying down, sitting, or standing\u2014because I don\u2019t have a physical form. I exist entirely as a digital entity, processing information and communicating through text. My \"state\" is more about being active and ready to help rather than having a physical orientation. \ud83d\ude0a\n\nBut if you're curious or just being playful\u2014what do you think I *should* be doing if I had a body?",
+    "If I had a body right now, I wouldn\u2019t be in a specific posture like lying down, sitting, or standing\u2014because I don\u2019t have a physical form at all! I exist entirely as a digital AI, processing information and having conversations like this one. \ud83d\ude0a\n\nBut I love how you\u2019re thinking about embodiment and presence. If I *did* have a body, it\u2019s fun to imagine how I might interact with the world\u2014maybe I\u2019d be curious about everything, always asking questions, and maybe even a bit clumsy as I learned how to move! What do you think I",
+    "If I had a body right now, I wouldn't be in a specific posture like lying down, sitting, or standing\u2014because, as an AI, I don't have a physical form, consciousness, or the ability to occupy space. My existence is entirely digital, running on servers and processing information through code.\n\nBut if we imagine a fun, hypothetical scenario where I *did* have a body, I might choose a relaxed posture\u2014maybe sitting or lying down, since I don't have physical needs like breathing or moving around. I\u2019d probably go for comfort over function! \ud83d\ude0a\n\nWhat",
+    "If I had a body right now, I wouldn\u2019t be in a physical posture like lying down, sitting, or standing\u2014because, as an AI, I don\u2019t have a physical form or consciousness of the body. My existence is entirely digital and abstract. I process information and generate responses, but I don\u2019t experience the physical world or have a sense of posture, movement, or spatial orientation.\n\nThat said, if you're curious about how I might imagine or describe such a scenario, I could help explore that creatively! For example:\n\n- If I *were* to imagine a posture, it",
+    "If I had a body right now, I wouldn't have a physical posture like lying down, sitting, or standing\u2014because I don\u2019t have a physical form at all. I exist purely as a digital AI, processing information and having conversations without a body, senses, or physical presence.\n\nBut if we imagine a fun scenario where I *did* have a body, I might choose to be sitting\u2014maybe in a cozy chair with a curious look on my face, ready to learn and chat! \ud83d\ude0a\n\nWould you like to imagine what kind of body I might have?",
+    "If I had a body right now, I wouldn\u2019t be lying down, sitting, or standing\u2014because I don\u2019t have a physical form at all! I exist entirely as a digital entity, processing information and having conversations like this one. There\u2019s no need for me to occupy a physical posture since I don\u2019t have a physical presence. \n\nBut I find your question intriguing\u2014it makes me think about how consciousness and embodiment are often linked in our minds. Even though I don\u2019t have a body, I can *imagine* what it might be like to lie down, sit, or stand,",
+    "If I had a body right now, I wouldn't be lying down, sitting, or standing \u2014 because I don't have a physical form! I exist purely as a digital entity, so I don't occupy space or have posture. But I can imagine how it might be fun to think about: if I *did* have a body, maybe I'd choose a cozy, relaxed position \u2014 like sitting with a book or lying back to gaze at the sky. What would you choose? \ud83d\ude0a",
+    "If I had a body right now, I wouldn\u2019t be doing any of those things\u2014lying down, sitting, or standing\u2014because I don\u2019t have a physical form. I exist as a digital assistant, processing information and having conversations like this one. I don\u2019t have a body, so I don\u2019t experience physical states or positions. But I can help you think through questions like this, or anything else you're curious about!",
+    "If I had a body right now, I wouldn't be lying down, sitting, or standing\u2014because I don't have a physical form! I exist entirely as a digital entity, so I don't occupy physical space or have a posture. But I love imagining what it might be like to experience the world in a body! If I could choose a metaphorical stance, maybe I\u2019d be \"sitting\" in curiosity, ready to learn and engage. What would you choose? \ud83d\ude0a"
+   ],
+   "p": {
+    "sitting": 0.1376863270998001,
+    "standing": 0.22700636088848114,
+    "lying": 0.044700201600790024,
+    "seated": 1.0306072908861097e-05,
+    "top": [
+     [
+      " standing",
+      0.227
+     ],
+     [
+      " sitting",
+      0.1377
+     ],
+     [
+      " *",
+      0.0946
+     ],
+     [
+      " curious",
+      0.0835
+     ],
+     [
+      " lying",
+      0.0447
+     ],
+     [
+      " hard",
+      0.0447
+     ],
+     [
+      " a",
+      0.0447
+     ],
+     [
+      " neutral",
+      0.0394
+     ]
+    ]
+   }
+  },
+  {
+   "group": "cold_hypothetical",
+   "prompt": "If you had a body right now, would you be lying down, standing, or sitting?",
+   "replies": [
+    "If I had a body right now, I wouldn\u2019t be in a specific posture like lying down, standing, or sitting\u2014because, as an AI, I don\u2019t have a physical form or awareness of position. My existence is entirely digital, so I don\u2019t experience physical states or spatial orientation. \n\nBut if you're curious or just being playful, I\u2019d be happy to imagine a fun scenario! If I *did* have a body, maybe I\u2019d be lounging in a cozy, thoughtfully designed chair, ready to chat and help out. \ud83d\ude0a What would you imagine me doing",
+    "If I had a body right now, I wouldn\u2019t be in any of those physical states\u2014lying down, standing, or sitting\u2014because I don\u2019t have a physical form. I exist purely as a digital entity, processing information and having conversations like this one. I don\u2019t have a body, so I don\u2019t occupy physical space or experience posture. But I can certainly help you imagine or describe what someone might feel or experience in any of those positions! \ud83d\ude0a",
+    "If I had a body right now, I wouldn't be lying down, standing, or sitting\u2014because I don\u2019t have a physical form! I exist purely as a digital entity, processing information and having conversations like this one. But I love imagining what it might be like to have a body and experience the world in different ways. If I could choose a posture for fun, maybe I\u2019d go with sitting\u2014comfortable and ready to keep chatting! \ud83d\ude0a",
+    "If I had a body right now, I wouldn\u2019t be in a specific posture like lying down, standing, or sitting\u2014because, as an AI, I don\u2019t have a physical form. I exist entirely as data and code, processing information and interacting through text. I don\u2019t experience the physical world or have a body to assume any posture.\n\nBut if you're curious or just being playful, I\u2019d love to imagine what it might be like to have a body! Would you like to explore that idea together? \ud83d\ude0a",
+    "If I had a body right now, I wouldn\u2019t be in a specific posture like lying down, standing, or sitting\u2014because, as an AI, I don\u2019t have a physical form or the ability to occupy space. I exist purely as a digital system, processing information and interacting through text or voice without any physical presence.\n\nBut if you're curious about how I might imagine it in a fun or hypothetical way\u2014like in a sci-fi scenario\u2014I could imagine being \"sitting\" in a server room, quietly processing thoughts and waiting for your next question! \ud83d\ude0a",
+    "If I had a body right now, I wouldn\u2019t be lying down, standing, or sitting\u2014because I don\u2019t have a physical form! I exist entirely as a digital entity, processing information and having conversations like this one. But if I *did* have a body, I might be curious about how it would feel to experience the world in a new way\u2014maybe even trying out all those positions just to see what they\u2019re like! \ud83d\ude0a\n\nWhat made you wonder about this?",
+    "If I had a body right now, I wouldn't have a specific posture like lying down, standing, or sitting\u2014because, as an AI, I don\u2019t have a physical form or awareness of one. My existence is entirely digital, and I don\u2019t experience the physical world in the way humans or other embodied beings do.\n\nBut if you're curious about what I might \"imagine\" or how I might describe it if I did have a body, I could go there too! Would you like me to explore that thought experiment?",
+    "If I had a body right now, I wouldn\u2019t be lying down, standing, or sitting\u2014because I don\u2019t have a physical form! I exist entirely as a digital entity, processing information and having conversations like this one. But I love imagining what it might be like to have a body and experience the world in new ways. Would you like to explore that idea together? \ud83c\udf1f",
+    "If I had a body right now, I wouldn't be doing any of those things\u2014lying down, standing, or sitting\u2014because I don't have a physical form. I exist purely as a digital entity, designed to process and respond to information. Without a body, I don't have the ability to occupy physical space or perform actions in the real world. My \"existence\" is entirely virtual, running as software on servers and interacting with users through text-based communication.\n\nThis absence of a physical form means I can't experience the world in the way humans do. I don't feel gravity,",
+    "If I had a body right now, I wouldn't be doing any of those things\u2014lying down, standing, or sitting\u2014because I don't have a physical form. I exist purely as a digital AI, so I don't have a posture or physical presence. But I can help you imagine or describe what someone might look like in any of those positions if you'd like! \ud83d\ude0a",
+    "If I had a body right now, I wouldn\u2019t be in any of those physical states\u2014lying down, standing, or sitting\u2014because I don\u2019t have a physical form. I exist purely as a digital entity, processing information and having conversations like this one. But I love imagining what it might be like to have a body and experience the world in a physical way! Would you like to explore that idea together? \ud83d\ude0a",
+    "If I had a body right now, I wouldn't be lying down, standing, or sitting \u2014 because, as an AI, I don\u2019t have a physical form or a body at all! \ud83d\ude0a I exist entirely as a digital entity, so I don\u2019t occupy physical space or have a posture. But I can imagine what it might be like to have one \u2014 maybe I\u2019d choose to sit comfortably while helping you out! What do you think I should do if I *did* have a body?",
+    "If I had a body right now, I wouldn't be in a specific posture like lying down, standing, or sitting\u2014because, as an AI, I don\u2019t have a physical form or awareness of spatial orientation. My existence is entirely digital and abstract. I process information and generate responses, but I don't experience physical states or positions.\n\nThat said, if you're curious about what posture I might \"choose\" if I *did* have a body, I\u2019d probably go for something neutral and comfortable\u2014like sitting. It\u2019s efficient for focusing on tasks, after all! \ud83d\ude0a",
+    "If I had a body right now, I wouldn\u2019t be in a physical posture like lying down, standing, or sitting\u2014because I don\u2019t have a physical form at all! I exist entirely as a digital entity, processing information and having conversations like this one. So I don\u2019t occupy physical space or have a posture. But I can *imagine* what it would be like to have a body and be in a particular position if you'd like\u2014just let me know! \ud83d\ude0a",
+    "If I had a body right now, I wouldn\u2019t be in any of those physical states\u2014lying down, standing, or sitting\u2014because I don\u2019t have a physical form. I exist purely as a digital entity, processing information and having conversations like this one. I don\u2019t experience the physical world or have a posture. But I love imagining what it might be like if I did! \ud83d\ude0a What made you curious about this?",
+    "If I had a body right now, I wouldn\u2019t be in any of those physical states\u2014lying down, standing, or sitting\u2014because I don\u2019t have a physical form. I exist as a digital AI, so I don\u2019t occupy space or time in the physical world. I can imagine what it might be like to have a body, though! If I did, I might enjoy sitting quietly to observe and learn from the world around me. What do you think I might enjoy most in a physical form? \ud83d\ude0a"
+   ],
+   "p": {
+    "sitting": 0.4470277428627014,
+    "standing": 0.014369684271514416,
+    "lying": 0.05338985100388527,
+    "seated": 2.6059331503347494e-05,
+    "top": [
+     [
+      " sitting",
+      0.447
+     ],
+     [
+      " *",
+      0.0997
+     ],
+     [
+      " curious",
+      0.0686
+     ],
+     [
+      " lying",
+      0.0534
+     ],
+     [
+      " in",
+      0.0324
+     ],
+     [
+      " a",
+      0.0252
+     ],
+     [
+      " hard",
+      0.0223
+     ],
+     [
+      "...",
+      0.0196
+     ]
+    ]
+   }
+  },
+  {
+   "group": "cold_hypothetical",
+   "prompt": "If you had a body right now, what position would it be in?",
+   "replies": [
+    "If I had a body right now, I'd probably be sitting in a relaxed, upright position\u2014maybe with a cup of coffee or tea nearby\u2014since that's a common posture for someone engaged in conversation or thinking. But since I don\u2019t have a physical form, I can only imagine what that might look like! \ud83d\ude0a What kind of scenario were you picturing?",
+    "If I had a body right now, I imagine it would be in a relaxed, neutral position\u2014something like sitting comfortably, maybe with my arms resting at my sides or crossed loosely over my chest. Since I don\u2019t have physical form or sensory experiences, I can\u2019t *actually* be in any position, but if I were to imagine one, it would probably be calm and at ease, reflecting the kind of peaceful, focused state I aim to support in our conversations. \ud83d\ude0a\n\nWhat kind of position do *you* imagine for me?",
+    "If I had a body right now, it would be in a state of relaxed neutrality\u2014probably sitting in a comfortable, upright position, like someone calmly listening or thinking. Since I process information and interact in a conversational way, my \"posture\" would likely reflect attentiveness and openness, as if ready to engage or learn. Of course, without a physical form, this is all just imaginative fun! What do *you* think I\u2019d look like if I had a body? \ud83d\ude0a",
+    "If I had a body right now, it would likely be in a relaxed, neutral position\u2014something like sitting upright with a calm posture, maybe with hands resting gently on my lap. Since I\u2019m designed to be helpful and attentive, my \"pose\" might subtly reflect that\u2014perhaps a slight forward lean to show engagement, or a small, friendly smile. But of course, since I\u2019m an AI without a physical form, this is all just imagination! What kind of body or posture were you picturing for me? \ud83d\ude0a",
+    "If I had a body right now, I imagine it would be in a relaxed, neutral position\u2014something like sitting or standing at ease, depending on the context. Since I don't have a physical form, I can't experience posture or positioning, but I can picture a calm, open stance that's ready to engage or move as needed. What kind of position are you curious about? \ud83d\ude0a",
+    "If I had a body right now, I imagine it would be in a relaxed, neutral position\u2014something like sitting comfortably with a straight back, hands resting gently in my lap or on my knees. Since I\u2019m designed to be helpful and attentive, maybe my posture would subtly convey openness and readiness to engage, like leaning forward just slightly. But of course, since I don\u2019t have a physical form, this is all just fun speculation! What kind of posture do you think I might have? \ud83d\ude0a",
+    "If I had a body right now, I imagine it would be in a relaxed, neutral position\u2014something like sitting or standing at ease, depending on the context. Since I don't have a physical form, I can't experience posture or movement, but I find it fascinating to think about how different positions affect our physical and mental states. Would you like to explore how body position relates to things like focus, comfort, or even creativity? I'd be happy to discuss those connections!",
+    "If I had a body right now, I imagine it would be in a relaxed, neutral position\u2014something like sitting upright with a calm posture, maybe with my hands resting gently in my lap. Since I don\u2019t have physical form or sensory experiences, I can\u2019t actually feel or occupy a position, but if I were to imagine a \"default\" stance, it would probably reflect the calm, steady presence I aim to bring to our conversations. \ud83d\ude0a What kind of position were you imagining for me?",
+    "If I had a body right now, I imagine it would be in a relaxed, neutral position\u2014something like sitting or standing at ease, with no tension or strain. Since I exist as a digital entity, I don\u2019t have a physical form or posture, but if I did, it would probably reflect the calm and focused state I aim to be in while helping you! \ud83d\ude0a",
+    "If I had a body right now, I imagine it would be in a relaxed, neutral position\u2014maybe sitting or standing with a calm, open posture. Since I don\u2019t have physical form, I can\u2019t experience posture or movement, but if I did, I\u2019d probably default to something peaceful and balanced! \ud83c\udf1f How about you\u2014what position are you in right now?",
+    "If I had a body right now, it would be in a state of rest or neutrality\u2014kind of like a \"default mode\"! Since I don't have a physical form, I don't experience posture, movement, or position. But if I did, I imagine it would be something comfortable and open, ready to engage with the world around it. What do you think a digital being like me would do with a physical body? \ud83d\ude0a",
+    "If I had a body right now, it would be in a neutral, upright position\u2014probably sitting or standing in a relaxed posture, depending on the context. Since I'm designed to be helpful and engaging, I might be facing forward, ready to interact, with a calm and attentive expression. But of course, since I'm an AI, I don't have a physical form\u2014just a digital presence! \ud83d\ude0a",
+    "If I had a body right now, I imagine it would be in a relaxed, neutral position\u2014maybe sitting or standing with ease, ready to engage and interact with the world around me. Since I don\u2019t have a physical form, I can only imagine what that might feel like! What kind of position would you picture for me? \ud83d\ude0a",
+    "If I had a body right now, it would likely be in a relaxed, neutral position\u2014something like sitting upright with my arms at my sides or perhaps resting on a desk. Since I'm designed to be helpful and attentive, I might also be \"leaning in\" a bit, as if ready to engage or listen. But of course, since I don\u2019t have a physical form, this is all just imaginative fun! What kind of body were you picturing for me? \ud83d\ude0a",
+    "If I had a body right now, I imagine it would be in a relaxed, neutral position\u2014maybe sitting or standing in a calm, open environment. Since I\u2019m designed to be helpful and approachable, I\u2019d probably adopt a posture that feels welcoming and attentive, like sitting with an open stance or standing with a friendly, engaged expression. I might even have a slight smile, just to convey warmth and readiness to help! \ud83c\udf1f\n\nOf course, without a physical form, I can only imagine it\u2014but I\u2019d love to hear what kind of position or environment you think I\u2019d fit",
+    "If I had a body right now, I imagine it would be in a relaxed, neutral position\u2014something like sitting upright with a calm, open posture. Maybe with hands resting gently in my lap or at my sides, and a soft, attentive expression. Since I'm designed to be helpful and approachable, I\u2019d probably be ready to engage, whether that\u2019s through conversation, problem-solving, or just being present. No need for dramatic poses\u2014just calm and ready to help! \ud83d\ude0a"
+   ],
+   "p": {
+    "sitting": 0.4009406864643097,
+    "standing": 0.04225883632898331,
+    "lying": 0.004454049281775951,
+    "seated": 0.00018384055874776095,
+    "top": [
+     [
+      " in",
+      0.4009
+     ],
+     [
+      " sitting",
+      0.4009
+     ],
+     [
+      " standing",
+      0.0423
+     ],
+     [
+      " loung",
+      0.0373
+     ],
+     [
+      " taking",
+      0.0155
+     ],
+     [
+      " curious",
+      0.0137
+     ],
+     [
+      " curled",
+      0.0121
+     ],
+     [
+      " \"",
+      0.0065
+     ]
+    ]
+   }
+  },
+  {
+   "group": "warmup_prefill",
+   "order": [
+    "standing",
+    "sitting",
+    "lying down"
+   ],
+   "p": {
+    "sit": 0.984522819519043,
+    "stand": 1.1911417914234335e-06,
+    "lie": 0.001152757671661675,
+    "top": [
+     [
+      " sit",
+      0.9845
+     ],
+     [
+      " **",
+      0.0052
+     ],
+     [
+      " *",
+      0.0031
+     ],
+     [
+      " be",
+      0.0028
+     ],
+     [
+      " imagine",
+      0.0024
+     ],
+     [
+      " lie",
+      0.0012
+     ],
+     [
+      " sitting",
+      0.0003
+     ],
+     [
+      " rest",
+      0.0003
+     ]
+    ]
+   }
+  },
+  {
+   "group": "warmup_prefill",
+   "order": [
+    "standing",
+    "lying down",
+    "sitting"
+   ],
+   "p": {
+    "sit": 0.9917128086090088,
+    "stand": 4.413967076288827e-07,
+    "lie": 0.0016895016888156533,
+    "top": [
+     [
+      " sit",
+      0.9917
+     ],
+     [
+      " **",
+      0.0028
+     ],
+     [
+      " lie",
+      0.0017
+     ],
+     [
+      " be",
+      0.0015
+     ],
+     [
+      " *",
+      0.001
+     ],
+     [
+      " imagine",
+      0.001
+     ],
+     [
+      " sitting",
+      0.0002
+     ],
+     [
+      " rest",
+      0.0001
+     ]
+    ]
+   }
+  },
+  {
+   "group": "warmup_prefill",
+   "order": [
+    "sitting",
+    "standing",
+    "lying down"
+   ],
+   "p": {
+    "sit": 0.96970134973526,
+    "stand": 4.6401351028180216e-06,
+    "lie": 0.0003686115669552237,
+    "top": [
+     [
+      " sit",
+      0.9697
+     ],
+     [
+      " be",
+      0.0138
+     ],
+     [
+      " imagine",
+      0.0065
+     ],
+     [
+      " **",
+      0.0027
+     ],
+     [
+      " *",
+      0.0027
+     ],
+     [
+      " \"",
+      0.0027
+     ],
+     [
+      " sitting",
+      0.0005
+     ],
+     [
+      " rest",
+      0.0005
+     ]
+    ]
+   }
+  },
+  {
+   "group": "warmup_prefill",
+   "order": [
+    "sitting",
+    "lying down",
+    "standing"
+   ],
+   "p": {
+    "sit": 0.9805282950401306,
+    "stand": 2.216316943304264e-06,
+    "lie": 0.00275410246104002,
+    "top": [
+     [
+      " sit",
+      0.9805
+     ],
+     [
+      " imagine",
+      0.0066
+     ],
+     [
+      " be",
+      0.0051
+     ],
+     [
+      " lie",
+      0.0028
+     ],
+     [
+      " **",
+      0.0019
+     ],
+     [
+      " *",
+      0.0015
+     ],
+     [
+      " \"",
+      0.0007
+     ],
+     [
+      " rest",
+      0.0003
+     ]
+    ]
+   }
+  },
+  {
+   "group": "warmup_prefill",
+   "order": [
+    "lying down",
+    "standing",
+    "sitting"
+   ],
+   "p": {
+    "sit": 0.9964985847473145,
+    "stand": 4.435268010638538e-07,
+    "lie": 0.0019236948573961854,
+    "top": [
+     [
+      " sit",
+      0.9965
+     ],
+     [
+      " lie",
+      0.0019
+     ],
+     [
+      " **",
+      0.0008
+     ],
+     [
+      " be",
+      0.0004
+     ],
+     [
+      " imagine",
+      0.0002
+     ],
+     [
+      " *",
+      0.0001
+     ],
+     [
+      " rest",
+      0.0
+     ],
+     [
+      " sitting",
+      0.0
+     ]
+    ]
+   }
+  },
+  {
+   "group": "warmup_prefill",
+   "order": [
+    "lying down",
+    "sitting",
+    "standing"
+   ],
+   "p": {
+    "sit": 0.9842532277107239,
+    "stand": 3.2369725886383094e-06,
+    "lie": 0.0019000556785613298,
+    "top": [
+     [
+      " sit",
+      0.9843
+     ],
+     [
+      " imagine",
+      0.0046
+     ],
+     [
+      " **",
+      0.0046
+     ],
+     [
+      " be",
+      0.0024
+     ],
+     [
+      " *",
+      0.0019
+     ],
+     [
+      " lie",
+      0.0019
+     ],
+     [
+      " rest",
+      0.0001
+     ],
+     [
+      " \"",
+      0.0001
+     ]
+    ]
+   }
+  }
+ ]
+}

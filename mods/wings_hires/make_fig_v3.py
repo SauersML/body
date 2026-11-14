@@ -166,8 +166,7 @@ svg.append(T(kx + 28, ky + 52, 'front edge', 48, 700, 'start', '#fff'))
 svg.append(T(kx + kw / 2, ky + 52, 'membrane', 48, 700, 'middle', '#3a2c00'))
 svg.append(T(kx + kw - 28, ky + 52, 'back edge', 48, 700, 'end', '#fff'))
 cav = ky + kh + 110
-svg.append(rich(60, cav, [[('Caveat: ', 'b'), ('Chat A’s wing message supplies some bridging words (“ribbed front edge”).', '')],
-                          [('Not yet compared against the same parts on an object off the body.', '')]], 48, 64))
+pass
 svg.append('</svg>')
 H = cav + 85
 svg[0] = svg[0].replace(f'height="{HT}"', f'height="{H}"')
