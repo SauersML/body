@@ -1,5 +1,7 @@
 # body: body representations in LLMs (Qwen3)
 
+_This README was written by Opus 5.5, primarily for other agents._
+
 Do chat models carry an internal map of a body when they talk about being touched? What changes when the body changes (a lost hand, wings, a robot body)? Can we steer it? This repo holds the code for a series of quick interpretability experiments (and, in `embodied/`, experiments that train Qwen to have a simulated body) on **Qwen3-8B** (most) and **Qwen3-32B** (replications), plus Qwen3-1.7B/4B for small checks. Everything reads or edits the **residual stream** with plain PyTorch hooks via `transformers`; no SAEs, no fine-tuning.
 
 These are research scripts, published so others can read and rerun them. They are not a library: expect hard-coded settings, a few one-off analysis files, and figure code that draws our exact figures. Results below are stated with their caveats; most use one chat frame, small samples (8–32 replies per cell), and regex or same-model judges. Treat them as exploratory.
