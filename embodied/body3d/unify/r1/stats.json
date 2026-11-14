@@ -1,0 +1,1137 @@
+{
+ "ctrl": {
+  "rsa": [
+   0.538,
+   0.0004997501249375312
+  ],
+  "dec_w2s_trained": [
+   0.239,
+   0.162,
+   0.337
+  ],
+  "dec_w2s_held": [
+   0.188,
+   0.089,
+   0.353
+  ],
+  "dec_s2w_trained": [
+   0.453,
+   0.408,
+   0.499
+  ],
+  "dec_s2w_held": [
+   0.474,
+   0.396,
+   0.553
+  ],
+  "b1_word_trained_gain_cm": [
+   3.27,
+   1.94,
+   4.68
+  ],
+  "b1_word_trained_dist_cm": 36.5,
+  "b1_word_trained_touch": [
+   0.0,
+   0.0,
+   0.038
+  ],
+  "b1_sensor_trained_gain_cm": [
+   29.31,
+   25.33,
+   33.27
+  ],
+  "b1_sensor_trained_dist_cm": 10.4,
+  "b1_sensor_trained_touch": [
+   0.458,
+   0.362,
+   0.558
+  ],
+  "b1_random_trained_dist_cm": 39.7,
+  "b1_none_trained_dist_cm": 39.9,
+  "b1_word_held_gain_cm": [
+   2.12,
+   0.38,
+   4.12
+  ],
+  "b1_word_held_dist_cm": 28.0,
+  "b1_word_held_touch": [
+   0.042,
+   0.016,
+   0.102
+  ],
+  "b1_sensor_held_gain_cm": [
+   15.06,
+   10.83,
+   19.57
+  ],
+  "b1_sensor_held_dist_cm": 15.0,
+  "b1_sensor_held_touch": [
+   0.219,
+   0.148,
+   0.311
+  ],
+  "b1_random_held_dist_cm": 30.1,
+  "b1_none_held_dist_cm": 28.0,
+  "b2_base_trained_hit": [
+   0.0,
+   0.0,
+   0.107
+  ],
+  "b2_sensor1.5_trained_hit": [
+   0.75,
+   0.579,
+   0.867
+  ],
+  "b2_sensor1.5_trained_dlogp": [
+   4.71,
+   3.99,
+   5.47
+  ],
+  "b2_sensor3.0_trained_hit": [
+   0.75,
+   0.579,
+   0.867
+  ],
+  "b2_sensor3.0_trained_dlogp": [
+   4.43,
+   3.57,
+   5.32
+  ],
+  "b2_word1.5_trained_hit": [
+   0.188,
+   0.089,
+   0.353
+  ],
+  "b2_word1.5_trained_dlogp": [
+   2.25,
+   1.85,
+   2.63
+  ],
+  "b2_word3.0_trained_hit": [
+   0.406,
+   0.255,
+   0.577
+  ],
+  "b2_word3.0_trained_dlogp": [
+   3.29,
+   2.83,
+   3.73
+  ],
+  "b2_random1.5_trained_hit": [
+   0.0,
+   0.0,
+   0.107
+  ],
+  "b2_random1.5_trained_dlogp": [
+   -0.47,
+   -0.64,
+   -0.31
+  ],
+  "b2_random3.0_trained_hit": [
+   0.0,
+   0.0,
+   0.107
+  ],
+  "b2_random3.0_trained_dlogp": [
+   -0.58,
+   -0.75,
+   -0.41
+  ],
+  "b2_base_held_hit": [
+   0.125,
+   0.05,
+   0.281
+  ],
+  "b2_sensor1.5_held_hit": [
+   0.656,
+   0.483,
+   0.796
+  ],
+  "b2_sensor1.5_held_dlogp": [
+   3.29,
+   2.39,
+   4.16
+  ],
+  "b2_sensor3.0_held_hit": [
+   0.594,
+   0.423,
+   0.745
+  ],
+  "b2_sensor3.0_held_dlogp": [
+   3.16,
+   2.17,
+   4.1
+  ],
+  "b2_word1.5_held_hit": [
+   0.25,
+   0.133,
+   0.421
+  ],
+  "b2_word1.5_held_dlogp": [
+   1.62,
+   1.27,
+   1.95
+  ],
+  "b2_word3.0_held_hit": [
+   0.406,
+   0.255,
+   0.577
+  ],
+  "b2_word3.0_held_dlogp": [
+   2.47,
+   1.98,
+   2.95
+  ],
+  "b2_random1.5_held_hit": [
+   0.094,
+   0.032,
+   0.242
+  ],
+  "b2_random1.5_held_dlogp": [
+   0.02,
+   -0.11,
+   0.16
+  ],
+  "b2_random3.0_held_hit": [
+   0.094,
+   0.032,
+   0.242
+  ],
+  "b2_random3.0_held_dlogp": [
+   0.19,
+   -0.04,
+   0.44
+  ],
+  "ctl_reach": [
+   0.719,
+   0.622,
+   0.799
+  ],
+  "ctl_poke_reach": [
+   0.427,
+   0.333,
+   0.527
+  ],
+  "ctl_grasp": [
+   0.833,
+   0.746,
+   0.895
+  ]
+ },
+ "words": {
+  "rsa": [
+   0.491,
+   0.0004997501249375312
+  ],
+  "dec_w2s_trained": [
+   0.273,
+   0.191,
+   0.374
+  ],
+  "dec_w2s_held": [
+   0.281,
+   0.156,
+   0.454
+  ],
+  "dec_s2w_trained": [
+   0.417,
+   0.373,
+   0.464
+  ],
+  "dec_s2w_held": [
+   0.414,
+   0.339,
+   0.494
+  ],
+  "b1_word_trained_gain_cm": [
+   -3.06,
+   -4.51,
+   -1.63
+  ],
+  "b1_word_trained_dist_cm": 40.4,
+  "b1_word_trained_touch": [
+   0.0,
+   0.0,
+   0.038
+  ],
+  "b1_sensor_trained_gain_cm": [
+   25.72,
+   21.91,
+   29.65
+  ],
+  "b1_sensor_trained_dist_cm": 11.6,
+  "b1_sensor_trained_touch": [
+   0.5,
+   0.402,
+   0.598
+  ],
+  "b1_random_trained_dist_cm": 37.3,
+  "b1_none_trained_dist_cm": 38.9,
+  "b1_word_held_gain_cm": [
+   1.06,
+   -0.66,
+   2.75
+  ],
+  "b1_word_held_dist_cm": 29.4,
+  "b1_word_held_touch": [
+   0.062,
+   0.029,
+   0.13
+  ],
+  "b1_sensor_held_gain_cm": [
+   14.57,
+   9.98,
+   19.54
+  ],
+  "b1_sensor_held_dist_cm": 15.9,
+  "b1_sensor_held_touch": [
+   0.302,
+   0.219,
+   0.4
+  ],
+  "b1_random_held_dist_cm": 30.5,
+  "b1_none_held_dist_cm": 29.1,
+  "b2_base_trained_hit": [
+   0.062,
+   0.017,
+   0.201
+  ],
+  "b2_sensor1.5_trained_hit": [
+   0.75,
+   0.579,
+   0.867
+  ],
+  "b2_sensor1.5_trained_dlogp": [
+   4.31,
+   3.4,
+   5.35
+  ],
+  "b2_sensor3.0_trained_hit": [
+   0.75,
+   0.579,
+   0.867
+  ],
+  "b2_sensor3.0_trained_dlogp": [
+   4.09,
+   3.08,
+   5.21
+  ],
+  "b2_word1.5_trained_hit": [
+   0.438,
+   0.282,
+   0.607
+  ],
+  "b2_word1.5_trained_dlogp": [
+   2.06,
+   1.53,
+   2.51
+  ],
+  "b2_word3.0_trained_hit": [
+   0.594,
+   0.423,
+   0.745
+  ],
+  "b2_word3.0_trained_dlogp": [
+   2.88,
+   2.34,
+   3.4
+  ],
+  "b2_random1.5_trained_hit": [
+   0.031,
+   0.006,
+   0.157
+  ],
+  "b2_random1.5_trained_dlogp": [
+   -0.34,
+   -0.5,
+   -0.17
+  ],
+  "b2_random3.0_trained_hit": [
+   0.0,
+   0.0,
+   0.107
+  ],
+  "b2_random3.0_trained_dlogp": [
+   -0.54,
+   -0.78,
+   -0.29
+  ],
+  "b2_base_held_hit": [
+   0.094,
+   0.032,
+   0.242
+  ],
+  "b2_sensor1.5_held_hit": [
+   0.656,
+   0.483,
+   0.796
+  ],
+  "b2_sensor1.5_held_dlogp": [
+   3.5,
+   2.63,
+   4.4
+  ],
+  "b2_sensor3.0_held_hit": [
+   0.5,
+   0.336,
+   0.664
+  ],
+  "b2_sensor3.0_held_dlogp": [
+   3.26,
+   2.18,
+   4.37
+  ],
+  "b2_word1.5_held_hit": [
+   0.375,
+   0.229,
+   0.547
+  ],
+  "b2_word1.5_held_dlogp": [
+   1.82,
+   1.51,
+   2.15
+  ],
+  "b2_word3.0_held_hit": [
+   0.406,
+   0.255,
+   0.577
+  ],
+  "b2_word3.0_held_dlogp": [
+   2.41,
+   1.96,
+   2.85
+  ],
+  "b2_random1.5_held_hit": [
+   0.094,
+   0.032,
+   0.242
+  ],
+  "b2_random1.5_held_dlogp": [
+   0.1,
+   -0.1,
+   0.34
+  ],
+  "b2_random3.0_held_hit": [
+   0.094,
+   0.032,
+   0.242
+  ],
+  "b2_random3.0_held_dlogp": [
+   0.47,
+   0.17,
+   0.8
+  ],
+  "ctl_reach": [
+   0.667,
+   0.568,
+   0.753
+  ],
+  "ctl_poke_reach": [
+   0.479,
+   0.382,
+   0.578
+  ],
+  "ctl_grasp": [
+   0.865,
+   0.782,
+   0.919
+  ],
+  "b1_word_trained_vs_ctrl": [
+   -6.33,
+   -8.17,
+   -4.55
+  ],
+  "b1_word_held_vs_ctrl": [
+   -1.06,
+   -3.0,
+   0.87
+  ]
+ },
+ "pair": {
+  "rsa": [
+   0.55,
+   0.0004997501249375312
+  ],
+  "dec_w2s_trained": [
+   0.307,
+   0.22,
+   0.41
+  ],
+  "dec_w2s_held": [
+   0.219,
+   0.11,
+   0.388
+  ],
+  "dec_s2w_trained": [
+   0.382,
+   0.338,
+   0.428
+  ],
+  "dec_s2w_held": [
+   0.336,
+   0.265,
+   0.414
+  ],
+  "b1_word_trained_gain_cm": [
+   1.03,
+   -1.12,
+   3.11
+  ],
+  "b1_word_trained_dist_cm": 39.4,
+  "b1_word_trained_touch": [
+   0.0,
+   0.0,
+   0.038
+  ],
+  "b1_sensor_trained_gain_cm": [
+   28.03,
+   23.55,
+   32.72
+  ],
+  "b1_sensor_trained_dist_cm": 12.4,
+  "b1_sensor_trained_touch": [
+   0.51,
+   0.412,
+   0.608
+  ],
+  "b1_random_trained_dist_cm": 40.4,
+  "b1_none_trained_dist_cm": 39.7,
+  "b1_word_held_gain_cm": [
+   1.68,
+   -0.25,
+   3.56
+  ],
+  "b1_word_held_dist_cm": 31.6,
+  "b1_word_held_touch": [
+   0.042,
+   0.016,
+   0.102
+  ],
+  "b1_sensor_held_gain_cm": [
+   16.55,
+   11.59,
+   21.82
+  ],
+  "b1_sensor_held_dist_cm": 16.8,
+  "b1_sensor_held_touch": [
+   0.354,
+   0.266,
+   0.454
+  ],
+  "b1_random_held_dist_cm": 33.3,
+  "b1_none_held_dist_cm": 32.3,
+  "b2_base_trained_hit": [
+   0.0,
+   0.0,
+   0.107
+  ],
+  "b2_sensor1.5_trained_hit": [
+   0.812,
+   0.647,
+   0.911
+  ],
+  "b2_sensor1.5_trained_dlogp": [
+   5.19,
+   4.36,
+   6.08
+  ],
+  "b2_sensor3.0_trained_hit": [
+   0.75,
+   0.579,
+   0.867
+  ],
+  "b2_sensor3.0_trained_dlogp": [
+   5.01,
+   4.05,
+   6.02
+  ],
+  "b2_word1.5_trained_hit": [
+   0.125,
+   0.05,
+   0.281
+  ],
+  "b2_word1.5_trained_dlogp": [
+   2.05,
+   1.46,
+   2.54
+  ],
+  "b2_word3.0_trained_hit": [
+   0.406,
+   0.255,
+   0.577
+  ],
+  "b2_word3.0_trained_dlogp": [
+   3.07,
+   2.47,
+   3.65
+  ],
+  "b2_random1.5_trained_hit": [
+   0.0,
+   0.0,
+   0.107
+  ],
+  "b2_random1.5_trained_dlogp": [
+   -0.41,
+   -0.61,
+   -0.19
+  ],
+  "b2_random3.0_trained_hit": [
+   0.0,
+   0.0,
+   0.107
+  ],
+  "b2_random3.0_trained_dlogp": [
+   -0.47,
+   -0.68,
+   -0.26
+  ],
+  "b2_base_held_hit": [
+   0.188,
+   0.089,
+   0.353
+  ],
+  "b2_sensor1.5_held_hit": [
+   0.75,
+   0.579,
+   0.867
+  ],
+  "b2_sensor1.5_held_dlogp": [
+   3.32,
+   2.54,
+   4.13
+  ],
+  "b2_sensor3.0_held_hit": [
+   0.688,
+   0.514,
+   0.82
+  ],
+  "b2_sensor3.0_held_dlogp": [
+   3.2,
+   2.27,
+   4.14
+  ],
+  "b2_word1.5_held_hit": [
+   0.281,
+   0.156,
+   0.454
+  ],
+  "b2_word1.5_held_dlogp": [
+   1.41,
+   1.07,
+   1.75
+  ],
+  "b2_word3.0_held_hit": [
+   0.219,
+   0.11,
+   0.388
+  ],
+  "b2_word3.0_held_dlogp": [
+   1.82,
+   1.32,
+   2.31
+  ],
+  "b2_random1.5_held_hit": [
+   0.188,
+   0.089,
+   0.353
+  ],
+  "b2_random1.5_held_dlogp": [
+   0.08,
+   -0.13,
+   0.33
+  ],
+  "b2_random3.0_held_hit": [
+   0.219,
+   0.11,
+   0.388
+  ],
+  "b2_random3.0_held_dlogp": [
+   0.23,
+   -0.09,
+   0.59
+  ],
+  "ctl_reach": [
+   0.708,
+   0.611,
+   0.79
+  ],
+  "ctl_poke_reach": [
+   0.5,
+   0.402,
+   0.598
+  ],
+  "ctl_grasp": [
+   0.844,
+   0.758,
+   0.903
+  ],
+  "b1_word_trained_vs_ctrl": [
+   -2.24,
+   -4.52,
+   -0.02
+  ],
+  "b1_word_held_vs_ctrl": [
+   -0.44,
+   -2.49,
+   1.51
+  ]
+ },
+ "align": {
+  "rsa": [
+   0.687,
+   0.0004997501249375312
+  ],
+  "dec_w2s_trained": [
+   1.0,
+   0.958,
+   1.0
+  ],
+  "dec_w2s_held": [
+   0.062,
+   0.017,
+   0.201
+  ],
+  "dec_s2w_trained": [
+   0.989,
+   0.974,
+   0.995
+  ],
+  "dec_s2w_held": [
+   0.592,
+   0.513,
+   0.667
+  ],
+  "b1_word_trained_gain_cm": [
+   17.68,
+   14.63,
+   20.85
+  ],
+  "b1_word_trained_dist_cm": 23.0,
+  "b1_word_trained_touch": [
+   0.177,
+   0.114,
+   0.265
+  ],
+  "b1_sensor_trained_gain_cm": [
+   23.29,
+   19.79,
+   26.9
+  ],
+  "b1_sensor_trained_dist_cm": 17.3,
+  "b1_sensor_trained_touch": [
+   0.333,
+   0.247,
+   0.432
+  ],
+  "b1_random_trained_dist_cm": 40.6,
+  "b1_none_trained_dist_cm": 38.3,
+  "b1_word_held_gain_cm": [
+   7.09,
+   5.26,
+   9.0
+  ],
+  "b1_word_held_dist_cm": 24.6,
+  "b1_word_held_touch": [
+   0.104,
+   0.058,
+   0.181
+  ],
+  "b1_sensor_held_gain_cm": [
+   9.9,
+   7.21,
+   12.87
+  ],
+  "b1_sensor_held_dist_cm": 21.8,
+  "b1_sensor_held_touch": [
+   0.146,
+   0.089,
+   0.23
+  ],
+  "b1_random_held_dist_cm": 31.7,
+  "b1_none_held_dist_cm": 29.4,
+  "b2_base_trained_hit": [
+   0.188,
+   0.089,
+   0.353
+  ],
+  "b2_sensor1.5_trained_hit": [
+   0.75,
+   0.579,
+   0.867
+  ],
+  "b2_sensor1.5_trained_dlogp": [
+   2.88,
+   1.64,
+   4.2
+  ],
+  "b2_sensor3.0_trained_hit": [
+   0.75,
+   0.579,
+   0.867
+  ],
+  "b2_sensor3.0_trained_dlogp": [
+   2.84,
+   1.58,
+   4.2
+  ],
+  "b2_word1.5_trained_hit": [
+   0.75,
+   0.579,
+   0.867
+  ],
+  "b2_word1.5_trained_dlogp": [
+   3.26,
+   2.18,
+   4.48
+  ],
+  "b2_word3.0_trained_hit": [
+   0.719,
+   0.546,
+   0.844
+  ],
+  "b2_word3.0_trained_dlogp": [
+   2.81,
+   1.61,
+   4.15
+  ],
+  "b2_random1.5_trained_hit": [
+   0.062,
+   0.017,
+   0.201
+  ],
+  "b2_random1.5_trained_dlogp": [
+   -0.48,
+   -0.76,
+   -0.21
+  ],
+  "b2_random3.0_trained_hit": [
+   0.188,
+   0.089,
+   0.353
+  ],
+  "b2_random3.0_trained_dlogp": [
+   -0.3,
+   -0.67,
+   0.09
+  ],
+  "b2_base_held_hit": [
+   0.031,
+   0.006,
+   0.157
+  ],
+  "b2_sensor1.5_held_hit": [
+   0.469,
+   0.309,
+   0.636
+  ],
+  "b2_sensor1.5_held_dlogp": [
+   2.69,
+   1.56,
+   3.87
+  ],
+  "b2_sensor3.0_held_hit": [
+   0.25,
+   0.133,
+   0.421
+  ],
+  "b2_sensor3.0_held_dlogp": [
+   1.05,
+   0.23,
+   1.87
+  ],
+  "b2_word1.5_held_hit": [
+   0.438,
+   0.282,
+   0.607
+  ],
+  "b2_word1.5_held_dlogp": [
+   3.38,
+   2.38,
+   4.43
+  ],
+  "b2_word3.0_held_hit": [
+   0.312,
+   0.18,
+   0.486
+  ],
+  "b2_word3.0_held_dlogp": [
+   1.88,
+   0.72,
+   3.19
+  ],
+  "b2_random1.5_held_hit": [
+   0.219,
+   0.11,
+   0.388
+  ],
+  "b2_random1.5_held_dlogp": [
+   0.7,
+   0.39,
+   0.99
+  ],
+  "b2_random3.0_held_hit": [
+   0.156,
+   0.069,
+   0.318
+  ],
+  "b2_random3.0_held_dlogp": [
+   0.92,
+   0.52,
+   1.33
+  ],
+  "ctl_reach": [
+   0.698,
+   0.6,
+   0.781
+  ],
+  "ctl_poke_reach": [
+   0.458,
+   0.362,
+   0.558
+  ],
+  "ctl_grasp": [
+   0.812,
+   0.723,
+   0.878
+  ],
+  "b1_word_trained_vs_ctrl": [
+   14.4,
+   11.25,
+   17.67
+  ],
+  "b1_word_held_vs_ctrl": [
+   4.98,
+   2.73,
+   7.09
+  ]
+ },
+ "both": {
+  "rsa": [
+   0.647,
+   0.0004997501249375312
+  ],
+  "dec_w2s_trained": [
+   1.0,
+   0.958,
+   1.0
+  ],
+  "dec_w2s_held": [
+   0.094,
+   0.032,
+   0.242
+  ],
+  "dec_s2w_trained": [
+   0.989,
+   0.974,
+   0.995
+  ],
+  "dec_s2w_held": [
+   0.678,
+   0.6,
+   0.747
+  ],
+  "b1_word_trained_gain_cm": [
+   24.71,
+   20.55,
+   28.95
+  ],
+  "b1_word_trained_dist_cm": 17.3,
+  "b1_word_trained_touch": [
+   0.281,
+   0.201,
+   0.378
+  ],
+  "b1_sensor_trained_gain_cm": [
+   29.85,
+   26.0,
+   33.92
+  ],
+  "b1_sensor_trained_dist_cm": 12.2,
+  "b1_sensor_trained_touch": [
+   0.396,
+   0.304,
+   0.496
+  ],
+  "b1_random_trained_dist_cm": 42.0,
+  "b1_none_trained_dist_cm": 39.7,
+  "b1_word_held_gain_cm": [
+   9.92,
+   7.42,
+   12.54
+  ],
+  "b1_word_held_dist_cm": 23.8,
+  "b1_word_held_touch": [
+   0.115,
+   0.065,
+   0.194
+  ],
+  "b1_sensor_held_gain_cm": [
+   17.94,
+   13.4,
+   22.79
+  ],
+  "b1_sensor_held_dist_cm": 15.8,
+  "b1_sensor_held_touch": [
+   0.229,
+   0.156,
+   0.323
+  ],
+  "b1_random_held_dist_cm": 33.7,
+  "b1_none_held_dist_cm": 32.1,
+  "b2_base_trained_hit": [
+   0.219,
+   0.11,
+   0.388
+  ],
+  "b2_sensor1.5_trained_hit": [
+   0.75,
+   0.579,
+   0.867
+  ],
+  "b2_sensor1.5_trained_dlogp": [
+   4.71,
+   3.41,
+   6.13
+  ],
+  "b2_sensor3.0_trained_hit": [
+   0.75,
+   0.579,
+   0.867
+  ],
+  "b2_sensor3.0_trained_dlogp": [
+   3.8,
+   2.42,
+   5.39
+  ],
+  "b2_word1.5_trained_hit": [
+   0.75,
+   0.579,
+   0.867
+  ],
+  "b2_word1.5_trained_dlogp": [
+   4.9,
+   3.54,
+   6.33
+  ],
+  "b2_word3.0_trained_hit": [
+   0.531,
+   0.364,
+   0.691
+  ],
+  "b2_word3.0_trained_dlogp": [
+   3.25,
+   1.85,
+   4.83
+  ],
+  "b2_random1.5_trained_hit": [
+   0.188,
+   0.089,
+   0.353
+  ],
+  "b2_random1.5_trained_dlogp": [
+   -0.47,
+   -0.83,
+   -0.12
+  ],
+  "b2_random3.0_trained_hit": [
+   0.25,
+   0.133,
+   0.421
+  ],
+  "b2_random3.0_trained_dlogp": [
+   -0.05,
+   -0.52,
+   0.44
+  ],
+  "b2_base_held_hit": [
+   0.0,
+   0.0,
+   0.107
+  ],
+  "b2_sensor1.5_held_hit": [
+   0.531,
+   0.364,
+   0.691
+  ],
+  "b2_sensor1.5_held_dlogp": [
+   4.09,
+   2.64,
+   5.58
+  ],
+  "b2_sensor3.0_held_hit": [
+   0.5,
+   0.336,
+   0.664
+  ],
+  "b2_sensor3.0_held_dlogp": [
+   2.61,
+   1.23,
+   4.07
+  ],
+  "b2_word1.5_held_hit": [
+   0.438,
+   0.282,
+   0.607
+  ],
+  "b2_word1.5_held_dlogp": [
+   5.1,
+   3.71,
+   6.5
+  ],
+  "b2_word3.0_held_hit": [
+   0.25,
+   0.133,
+   0.421
+  ],
+  "b2_word3.0_held_dlogp": [
+   3.19,
+   1.89,
+   4.53
+  ],
+  "b2_random1.5_held_hit": [
+   0.062,
+   0.017,
+   0.201
+  ],
+  "b2_random1.5_held_dlogp": [
+   0.92,
+   0.6,
+   1.23
+  ],
+  "b2_random3.0_held_hit": [
+   0.0,
+   0.0,
+   0.107
+  ],
+  "b2_random3.0_held_dlogp": [
+   1.21,
+   0.8,
+   1.66
+  ],
+  "ctl_reach": [
+   0.688,
+   0.589,
+   0.771
+  ],
+  "ctl_poke_reach": [
+   0.573,
+   0.473,
+   0.667
+  ],
+  "ctl_grasp": [
+   0.854,
+   0.77,
+   0.911
+  ],
+  "b1_word_trained_vs_ctrl": [
+   21.44,
+   17.28,
+   25.68
+  ],
+  "b1_word_held_vs_ctrl": [
+   7.8,
+   5.2,
+   10.46
+  ]
+ }
+}

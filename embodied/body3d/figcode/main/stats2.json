@@ -1,0 +1,34 @@
+{
+ "order": [
+  "right shin",
+  "head",
+  "belly",
+  "chest",
+  "left thigh",
+  "left forearm",
+  "left shin",
+  "right thigh"
+ ],
+ "not_steered": {
+  "right shin": 37.46749778399945,
+  "head": 52.26256313167411,
+  "belly": 32.36936506821675,
+  "chest": 38.818899589418834,
+  "left thigh": 27.36380833619548,
+  "left forearm": 18.00124694879531,
+  "left shin": 43.196742265241774,
+  "right thigh": 13.453230008086761
+ },
+ "steered": {
+  "right shin": 1.5543691248101907,
+  "head": 1.7606927741632254,
+  "belly": 3.4972537984682845,
+  "chest": 7.741825810447255,
+  "left thigh": 16.867040736977327,
+  "left forearm": 18.803336454846715,
+  "left shin": 33.827376025225945,
+  "right thigh": 34.8655754917981
+ },
+ "n_chest": 32,
+ "n_all": 400
+}

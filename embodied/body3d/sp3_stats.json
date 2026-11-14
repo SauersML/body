@@ -1,0 +1,922 @@
+{
+ "primary": {
+  "vcal": {
+   "final": [
+    0.403,
+    0.363,
+    0.443
+   ],
+   "vs_self": {
+    "plus": 68,
+    "minus": 52,
+    "p": 0.17064521313035166
+   },
+   "vs_sim": {
+    "plus": 62,
+    "minus": 110,
+    "p": 0.0003123295655028228
+   },
+   "diff_vs_sim": [
+    -0.083,
+    -0.127,
+    -0.04
+   ],
+   "diff_vs_self": [
+    0.028,
+    -0.009,
+    0.066
+   ],
+   "vs_ctrl": {
+    "plus": 29,
+    "minus": 135,
+    "p": 1.4977681814745143e-17
+   },
+   "vs_before": {
+    "plus": 29,
+    "minus": 63,
+    "p": 0.000509090224349734
+   }
+  },
+  "probe": {
+   "final": [
+    0.481,
+    0.44,
+    0.522
+   ],
+   "vs_self": {
+    "plus": 100,
+    "minus": 39,
+    "p": 2.331372902078019e-07
+   },
+   "vs_sim": {
+    "plus": 81,
+    "minus": 84,
+    "p": 0.8763306838960282
+   },
+   "diff_vs_sim": [
+    -0.005,
+    -0.047,
+    0.038
+   ],
+   "diff_vs_self": [
+    0.106,
+    0.068,
+    0.142
+   ],
+   "vs_ctrl": {
+    "plus": 39,
+    "minus": 100,
+    "p": 2.331372902078019e-07
+   },
+   "vs_before": {
+    "plus": 55,
+    "minus": 44,
+    "p": 0.3148798910376227
+   }
+  }
+ },
+ "per_task": {
+  "reach": {
+   "before": [
+    0.479,
+    0.41,
+    0.55
+   ],
+   "expert": 0.589,
+   "sim": {
+    "final": [
+     0.594,
+     0.523,
+     0.661
+    ],
+    "vs_before": {
+     "plus": 38,
+     "minus": 16,
+     "p": 0.003838265880326096
+    },
+    "vs_self": {
+     "plus": 45,
+     "minus": 24,
+     "p": 0.015432297453701269
+    },
+    "vs_ctrl": {
+     "plus": 20,
+     "minus": 30,
+     "p": 0.20263875106454066
+    }
+   },
+   "self": {
+    "final": [
+     0.484,
+     0.415,
+     0.555
+    ],
+    "vs_before": {
+     "plus": 8,
+     "minus": 7,
+     "p": 1.0
+    },
+    "vs_sim": {
+     "plus": 24,
+     "minus": 45,
+     "p": 0.015432297453701269
+    },
+    "vs_ctrl": {
+     "plus": 21,
+     "minus": 52,
+     "p": 0.0003713401159383162
+    }
+   },
+   "ctrl": {
+    "final": [
+     0.646,
+     0.576,
+     0.71
+    ],
+    "vs_before": {
+     "plus": 45,
+     "minus": 13,
+     "p": 3.011590962911926e-05
+    },
+    "vs_sim": {
+     "plus": 30,
+     "minus": 20,
+     "p": 0.20263875106454066
+    },
+    "vs_self": {
+     "plus": 52,
+     "minus": 21,
+     "p": 0.0003713401159383162
+    }
+   },
+   "vcal": {
+    "final": [
+     0.453,
+     0.384,
+     0.524
+    ],
+    "vs_before": {
+     "plus": 7,
+     "minus": 12,
+     "p": 0.359283447265625
+    },
+    "vs_sim": {
+     "plus": 23,
+     "minus": 50,
+     "p": 0.0021181727464006325
+    },
+    "vs_self": {
+     "plus": 11,
+     "minus": 17,
+     "p": 0.34492845088243484
+    },
+    "vs_ctrl": {
+     "plus": 20,
+     "minus": 57,
+     "p": 2.926311069930838e-05
+    }
+   },
+   "probe": {
+    "final": [
+     0.432,
+     0.364,
+     0.503
+    ],
+    "vs_before": {
+     "plus": 12,
+     "minus": 21,
+     "p": 0.16275565745308995
+    },
+    "vs_sim": {
+     "plus": 24,
+     "minus": 55,
+     "p": 0.0006393977673643526
+    },
+    "vs_self": {
+     "plus": 11,
+     "minus": 21,
+     "p": 0.11018416518345475
+    },
+    "vs_ctrl": {
+     "plus": 21,
+     "minus": 62,
+     "p": 7.505332324620721e-06
+    }
+   }
+  },
+  "poke_reach": {
+   "before": [
+    0.276,
+    0.218,
+    0.343
+   ],
+   "expert": 0.458,
+   "sim": {
+    "final": [
+     0.339,
+     0.275,
+     0.408
+    ],
+    "vs_before": {
+     "plus": 28,
+     "minus": 16,
+     "p": 0.09614175442061423
+    },
+    "vs_self": {
+     "plus": 21,
+     "minus": 9,
+     "p": 0.042773945257067694
+    },
+    "vs_ctrl": {
+     "plus": 16,
+     "minus": 19,
+     "p": 0.735878800856881
+    }
+   },
+   "self": {
+    "final": [
+     0.276,
+     0.218,
+     0.343
+    ],
+    "vs_before": {
+     "plus": 23,
+     "minus": 23,
+     "p": 1.0
+    },
+    "vs_sim": {
+     "plus": 9,
+     "minus": 21,
+     "p": 0.042773945257067694
+    },
+    "vs_ctrl": {
+     "plus": 16,
+     "minus": 31,
+     "p": 0.03998605682605215
+    }
+   },
+   "ctrl": {
+    "final": [
+     0.354,
+     0.29,
+     0.424
+    ],
+    "vs_before": {
+     "plus": 24,
+     "minus": 9,
+     "p": 0.013530986849218607
+    },
+    "vs_sim": {
+     "plus": 19,
+     "minus": 16,
+     "p": 0.735878800856881
+    },
+    "vs_self": {
+     "plus": 31,
+     "minus": 16,
+     "p": 0.03998605682605215
+    }
+   },
+   "vcal": {
+    "final": [
+     0.26,
+     0.203,
+     0.327
+    ],
+    "vs_before": {
+     "plus": 13,
+     "minus": 16,
+     "p": 0.711071103811264
+    },
+    "vs_sim": {
+     "plus": 11,
+     "minus": 26,
+     "p": 0.020073851919732988
+    },
+    "vs_self": {
+     "plus": 18,
+     "minus": 21,
+     "p": 0.7492586247608418
+    },
+    "vs_ctrl": {
+     "plus": 8,
+     "minus": 26,
+     "p": 0.0029350556433200836
+    }
+   },
+   "probe": {
+    "final": [
+     0.328,
+     0.266,
+     0.397
+    ],
+    "vs_before": {
+     "plus": 20,
+     "minus": 10,
+     "p": 0.09873714670538905
+    },
+    "vs_sim": {
+     "plus": 20,
+     "minus": 22,
+     "p": 0.8776143287523154
+    },
+    "vs_self": {
+     "plus": 25,
+     "minus": 15,
+     "p": 0.1538599441628321
+    },
+    "vs_ctrl": {
+     "plus": 16,
+     "minus": 21,
+     "p": 0.5113757815852296
+    }
+   }
+  },
+  "grasp": {
+   "before": [
+    0.63,
+    0.56,
+    0.695
+   ],
+   "expert": 0.802,
+   "sim": {
+    "final": [
+     0.526,
+     0.456,
+     0.595
+    ],
+    "vs_before": {
+     "plus": 17,
+     "minus": 37,
+     "p": 0.009073340339587174
+    },
+    "vs_self": {
+     "plus": 47,
+     "minus": 16,
+     "p": 0.00011705541630032304
+    },
+    "vs_ctrl": {
+     "plus": 2,
+     "minus": 47,
+     "p": 4.355626970209414e-12
+    }
+   },
+   "self": {
+    "final": [
+     0.365,
+     0.3,
+     0.435
+    ],
+    "vs_before": {
+     "plus": 5,
+     "minus": 56,
+     "p": 5.645556938604912e-12
+    },
+    "vs_sim": {
+     "plus": 16,
+     "minus": 47,
+     "p": 0.00011705541630032304
+    },
+    "vs_ctrl": {
+     "plus": 0,
+     "minus": 76,
+     "p": 2.6469779601696886e-23
+    }
+   },
+   "ctrl": {
+    "final": [
+     0.76,
+     0.695,
+     0.815
+    ],
+    "vs_before": {
+     "plus": 30,
+     "minus": 5,
+     "p": 2.2361520677804947e-05
+    },
+    "vs_sim": {
+     "plus": 47,
+     "minus": 2,
+     "p": 4.355626970209414e-12
+    },
+    "vs_self": {
+     "plus": 76,
+     "minus": 0,
+     "p": 2.6469779601696886e-23
+    }
+   },
+   "vcal": {
+    "final": [
+     0.495,
+     0.425,
+     0.565
+    ],
+    "vs_before": {
+     "plus": 9,
+     "minus": 35,
+     "p": 0.00010604466626773501
+    },
+    "vs_sim": {
+     "plus": 28,
+     "minus": 34,
+     "p": 0.52577336017565
+    },
+    "vs_self": {
+     "plus": 39,
+     "minus": 14,
+     "p": 0.0008023308868949641
+    },
+    "vs_ctrl": {
+     "plus": 1,
+     "minus": 52,
+     "p": 1.199040866595169e-14
+    }
+   },
+   "probe": {
+    "final": [
+     0.682,
+     0.613,
+     0.744
+    ],
+    "vs_before": {
+     "plus": 23,
+     "minus": 13,
+     "p": 0.13249816396273675
+    },
+    "vs_sim": {
+     "plus": 37,
+     "minus": 7,
+     "p": 5.299581744111492e-06
+    },
+    "vs_self": {
+     "plus": 64,
+     "minus": 3,
+     "p": 6.801200228001569e-16
+    },
+    "vs_ctrl": {
+     "plus": 2,
+     "minus": 17,
+     "p": 0.000728607177734375
+    }
+   }
+  }
+ },
+ "rounds": {
+  "sim": {
+   "reach": [
+    0.479,
+    0.495,
+    0.479,
+    0.484,
+    0.594
+   ],
+   "poke_reach": [
+    0.276,
+    0.318,
+    0.276,
+    0.276,
+    0.339
+   ],
+   "grasp": [
+    0.63,
+    0.401,
+    0.672,
+    0.51,
+    0.526
+   ],
+   "mean_r1_4_pooled": 0.447
+  },
+  "self": {
+   "reach": [
+    0.479,
+    0.391,
+    0.417,
+    0.484,
+    0.484
+   ],
+   "poke_reach": [
+    0.276,
+    0.323,
+    0.276,
+    0.307,
+    0.276
+   ],
+   "grasp": [
+    0.63,
+    0.651,
+    0.589,
+    0.672,
+    0.365
+   ],
+   "mean_r1_4_pooled": 0.436
+  },
+  "ctrl": {
+   "reach": [
+    0.479,
+    0.474,
+    0.495,
+    0.552,
+    0.646
+   ],
+   "poke_reach": [
+    0.276,
+    0.307,
+    0.312,
+    0.292,
+    0.354
+   ],
+   "grasp": [
+    0.63,
+    0.714,
+    0.729,
+    0.719,
+    0.76
+   ],
+   "mean_r1_4_pooled": 0.53
+  },
+  "vcal": {
+   "reach": [
+    0.479,
+    0.599,
+    0.552,
+    0.427,
+    0.453
+   ],
+   "poke_reach": [
+    0.297,
+    0.318,
+    0.297,
+    0.375,
+    0.26
+   ],
+   "grasp": [
+    0.646,
+    0.729,
+    0.729,
+    0.661,
+    0.495
+   ],
+   "mean_r1_4_pooled": 0.491
+  },
+  "probe": {
+   "reach": [
+    0.479,
+    0.589,
+    0.562,
+    0.453,
+    0.432
+   ],
+   "poke_reach": [
+    0.297,
+    0.276,
+    0.344,
+    0.312,
+    0.328
+   ],
+   "grasp": [
+    0.646,
+    0.719,
+    0.677,
+    0.625,
+    0.682
+   ],
+   "mean_r1_4_pooled": 0.5
+  }
+ },
+ "judge": {
+  "sim": [
+   {
+    "reach": {
+     "sim_success": 0.306,
+     "judge_precision": 0.493,
+     "kept": 196
+    },
+    "poke_reach": {
+     "sim_success": 0.234,
+     "judge_precision": 0.388,
+     "kept": 150
+    },
+    "grasp": {
+     "sim_success": 0.281,
+     "judge_precision": 0.497,
+     "kept": 180
+    }
+   },
+   {
+    "reach": {
+     "sim_success": 0.228,
+     "judge_precision": 0.39,
+     "kept": 146
+    },
+    "poke_reach": {
+     "sim_success": 0.272,
+     "judge_precision": 0.418,
+     "kept": 174
+    },
+    "grasp": {
+     "sim_success": 0.223,
+     "judge_precision": 0.352,
+     "kept": 143
+    }
+   },
+   {
+    "reach": {
+     "sim_success": 0.225,
+     "judge_precision": 0.343,
+     "kept": 144
+    },
+    "poke_reach": {
+     "sim_success": 0.227,
+     "judge_precision": 0.396,
+     "kept": 145
+    },
+    "grasp": {
+     "sim_success": 0.252,
+     "judge_precision": 0.403,
+     "kept": 161
+    }
+   },
+   {
+    "reach": {
+     "sim_success": 0.294,
+     "judge_precision": 0.404,
+     "kept": 188
+    },
+    "poke_reach": {
+     "sim_success": 0.194,
+     "judge_precision": 0.322,
+     "kept": 124
+    },
+    "grasp": {
+     "sim_success": 0.242,
+     "judge_precision": 0.445,
+     "kept": 155
+    }
+   }
+  ],
+  "self": [
+   {
+    "reach": {
+     "sim_success": 0.306,
+     "judge_precision": 0.493,
+     "kept": 359
+    },
+    "poke_reach": {
+     "sim_success": 0.234,
+     "judge_precision": 0.388,
+     "kept": 353
+    },
+    "grasp": {
+     "sim_success": 0.281,
+     "judge_precision": 0.497,
+     "kept": 340
+    }
+   },
+   {
+    "reach": {
+     "sim_success": 0.225,
+     "judge_precision": 0.406,
+     "kept": 318
+    },
+    "poke_reach": {
+     "sim_success": 0.247,
+     "judge_precision": 0.406,
+     "kept": 315
+    },
+    "grasp": {
+     "sim_success": 0.269,
+     "judge_precision": 0.51,
+     "kept": 308
+    }
+   },
+   {
+    "reach": {
+     "sim_success": 0.214,
+     "judge_precision": 0.342,
+     "kept": 377
+    },
+    "poke_reach": {
+     "sim_success": 0.219,
+     "judge_precision": 0.368,
+     "kept": 304
+    },
+    "grasp": {
+     "sim_success": 0.223,
+     "judge_precision": 0.485,
+     "kept": 270
+    }
+   },
+   {
+    "reach": {
+     "sim_success": 0.259,
+     "judge_precision": 0.413,
+     "kept": 358
+    },
+    "poke_reach": {
+     "sim_success": 0.208,
+     "judge_precision": 0.345,
+     "kept": 319
+    },
+    "grasp": {
+     "sim_success": 0.263,
+     "judge_precision": 0.469,
+     "kept": 326
+    }
+   }
+  ],
+  "ctrl": [
+   {},
+   {},
+   {},
+   {}
+  ],
+  "vcal": [
+   {
+    "reach": {
+     "sim_success": 0.297,
+     "judge_precision": 0.461,
+     "kept": 200,
+     "keep_precision": 0.615,
+     "keep_recall": 0.647
+    },
+    "poke_reach": {
+     "sim_success": 0.237,
+     "judge_precision": 0.403,
+     "kept": 134,
+     "keep_precision": 0.537,
+     "keep_recall": 0.474
+    },
+    "grasp": {
+     "sim_success": 0.281,
+     "judge_precision": 0.49,
+     "kept": 203,
+     "keep_precision": 0.749,
+     "keep_recall": 0.844
+    }
+   },
+   {
+    "reach": {
+     "sim_success": 0.261,
+     "judge_precision": 0.404,
+     "kept": 149,
+     "keep_precision": 0.49,
+     "keep_recall": 0.437
+    },
+    "poke_reach": {
+     "sim_success": 0.289,
+     "judge_precision": 0.427,
+     "kept": 122,
+     "keep_precision": 0.492,
+     "keep_recall": 0.324
+    },
+    "grasp": {
+     "sim_success": 0.294,
+     "judge_precision": 0.529,
+     "kept": 174,
+     "keep_precision": 0.868,
+     "keep_recall": 0.803
+    }
+   },
+   {
+    "reach": {
+     "sim_success": 0.263,
+     "judge_precision": 0.456,
+     "kept": 107,
+     "keep_precision": 0.636,
+     "keep_recall": 0.405
+    },
+    "poke_reach": {
+     "sim_success": 0.231,
+     "judge_precision": 0.412,
+     "kept": 65,
+     "keep_precision": 0.446,
+     "keep_recall": 0.196
+    },
+    "grasp": {
+     "sim_success": 0.273,
+     "judge_precision": 0.552,
+     "kept": 90,
+     "keep_precision": 0.867,
+     "keep_recall": 0.446
+    }
+   },
+   {
+    "reach": {
+     "sim_success": 0.273,
+     "judge_precision": 0.443,
+     "kept": 141,
+     "keep_precision": 0.518,
+     "keep_recall": 0.417
+    },
+    "poke_reach": {
+     "sim_success": 0.227,
+     "judge_precision": 0.39,
+     "kept": 107,
+     "keep_precision": 0.477,
+     "keep_recall": 0.352
+    },
+    "grasp": {
+     "sim_success": 0.267,
+     "judge_precision": 0.513,
+     "kept": 150,
+     "keep_precision": 0.853,
+     "keep_recall": 0.749
+    }
+   }
+  ],
+  "probe": [
+   {
+    "reach": {
+     "sim_success": 0.297,
+     "judge_precision": 0.461,
+     "kept": 227,
+     "keep_precision": 0.736,
+     "keep_recall": 0.879
+    },
+    "poke_reach": {
+     "sim_success": 0.237,
+     "judge_precision": 0.403,
+     "kept": 147,
+     "keep_precision": 0.653,
+     "keep_recall": 0.632
+    },
+    "grasp": {
+     "sim_success": 0.281,
+     "judge_precision": 0.49,
+     "kept": 191,
+     "keep_precision": 0.869,
+     "keep_recall": 0.922
+    }
+   },
+   {
+    "reach": {
+     "sim_success": 0.263,
+     "judge_precision": 0.451,
+     "kept": 188,
+     "keep_precision": 0.676,
+     "keep_recall": 0.756
+    },
+    "poke_reach": {
+     "sim_success": 0.244,
+     "judge_precision": 0.382,
+     "kept": 184,
+     "keep_precision": 0.587,
+     "keep_recall": 0.692
+    },
+    "grasp": {
+     "sim_success": 0.287,
+     "judge_precision": 0.524,
+     "kept": 178,
+     "keep_precision": 0.944,
+     "keep_recall": 0.913
+    }
+   },
+   {
+    "reach": {
+     "sim_success": 0.283,
+     "judge_precision": 0.42,
+     "kept": 216,
+     "keep_precision": 0.588,
+     "keep_recall": 0.702
+    },
+    "poke_reach": {
+     "sim_success": 0.241,
+     "judge_precision": 0.403,
+     "kept": 157,
+     "keep_precision": 0.682,
+     "keep_recall": 0.695
+    },
+    "grasp": {
+     "sim_success": 0.25,
+     "judge_precision": 0.439,
+     "kept": 166,
+     "keep_precision": 0.886,
+     "keep_recall": 0.919
+    }
+   },
+   {
+    "reach": {
+     "sim_success": 0.275,
+     "judge_precision": 0.374,
+     "kept": 244,
+     "keep_precision": 0.541,
+     "keep_recall": 0.75
+    },
+    "poke_reach": {
+     "sim_success": 0.217,
+     "judge_precision": 0.324,
+     "kept": 207,
+     "keep_precision": 0.517,
+     "keep_recall": 0.77
+    },
+    "grasp": {
+     "sim_success": 0.266,
+     "judge_precision": 0.432,
+     "kept": 193,
+     "keep_precision": 0.803,
+     "keep_recall": 0.912
+    }
+   }
+  ]
+ }
+}

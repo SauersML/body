@@ -1,0 +1,78 @@
+{
+ "C": 0.003,
+ "thr_verbal": {
+  "reach": 8.534830729166671,
+  "poke_reach": 6.875,
+  "grasp": 8.5
+ },
+ "thr_probe": {
+  "reach": -0.27659206837415673,
+  "poke_reach": -0.24041647464036942,
+  "grasp": 0.2022905653963494
+ },
+ "check": {
+  "reach": {
+   "success": 0.265625,
+   "raw_verbal": {
+    "keep": 0.648,
+    "precision": 0.373,
+    "acc": 0.57,
+    "auc": 0.763
+   },
+   "verbal_cal": {
+    "keep": 0.32,
+    "precision": 0.512,
+    "acc": 0.742,
+    "auc": 0.763
+   },
+   "probe": {
+    "keep": 0.289,
+    "precision": 0.676,
+    "acc": 0.836,
+    "auc": 0.912
+   }
+  },
+  "poke_reach": {
+   "success": 0.28125,
+   "raw_verbal": {
+    "keep": 0.539,
+    "precision": 0.493,
+    "acc": 0.711,
+    "auc": 0.839
+   },
+   "verbal_cal": {
+    "keep": 0.203,
+    "precision": 0.615,
+    "acc": 0.766,
+    "auc": 0.839
+   },
+   "probe": {
+    "keep": 0.266,
+    "precision": 0.706,
+    "acc": 0.828,
+    "auc": 0.899
+   }
+  },
+  "grasp": {
+   "success": 0.234375,
+   "raw_verbal": {
+    "keep": 0.586,
+    "precision": 0.4,
+    "acc": 0.648,
+    "auc": 0.964
+   },
+   "verbal_cal": {
+    "keep": 0.258,
+    "precision": 0.727,
+    "acc": 0.883,
+    "auc": 0.964
+   },
+   "probe": {
+    "keep": 0.211,
+    "precision": 0.889,
+    "acc": 0.93,
+    "auc": 0.983
+   }
+  }
+ }
+}

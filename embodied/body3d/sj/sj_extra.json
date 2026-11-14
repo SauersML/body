@@ -1,0 +1,44 @@
+{
+ "reach": {
+  "verbal_acc_at_yes": 0.621,
+  "verbal_bacc_at_yes": 0.708,
+  "verbal_acc_recal": 0.758,
+  "verbal_bacc_recal": 0.725,
+  "probe_acc": 0.877,
+  "probe_bacc": 0.836,
+  "always_no_acc": 0.725,
+  "auc_diff": 0.15,
+  "auc_diff_ci": [
+   0.103,
+   0.204
+  ]
+ },
+ "poke_reach": {
+  "verbal_acc_at_yes": 0.688,
+  "verbal_bacc_at_yes": 0.761,
+  "verbal_acc_recal": 0.756,
+  "verbal_bacc_recal": 0.765,
+  "probe_acc": 0.846,
+  "probe_bacc": 0.772,
+  "always_no_acc": 0.766,
+  "auc_diff": 0.032,
+  "auc_diff_ci": [
+   -0.014,
+   0.075
+  ]
+ },
+ "grasp": {
+  "verbal_acc_at_yes": 0.73,
+  "verbal_bacc_at_yes": 0.8,
+  "verbal_acc_recal": 0.889,
+  "verbal_bacc_recal": 0.894,
+  "probe_acc": 0.957,
+  "probe_bacc": 0.952,
+  "always_no_acc": 0.686,
+  "auc_diff": 0.034,
+  "auc_diff_ci": [
+   0.021,
+   0.047
+  ]
+ }
+}
