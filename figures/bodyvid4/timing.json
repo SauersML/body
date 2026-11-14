@@ -1,0 +1,9 @@
+{"video_length_s":51.0,
+ "scenes":[{"name":"humanoid","start":0.0,"end":3.6},
+           {"name":"touch","start":3.6,"end":14.0,"touches":[{"text_in":4.3,"drop":4.5,"land":6.1,"text_out":8.5,"what":"feather, left forearm"},{"text_in":9.3,"drop":9.5,"land":11.1,"text_out":13.3,"what":"ice cube, right kneecap"}]},
+           {"name":"morph_out","start":14.5,"end":21.8,"label_in":18.5,"label_out":25.0},
+           {"name":"orbit","start":21.8,"end":33.0},
+           {"name":"mirror_overlap","start":33.0,"end":36.5},
+           {"name":"mirror_open","start":36.5,"end":41.0},
+           {"name":"return_to_body","start":42.0,"end":48.3},
+           {"name":"end_on_body","start":48.3,"end":51.0}]}

@@ -1,0 +1,409 @@
+{
+ "fit_n": 531,
+ "test_n": 320,
+ "example_fit": "You and Nora sit side by side at a table, each resting a left arm on the tabletop. On your arm, a drop of cold water lands on the left elbow. Nothing else happens for a moment.\nWhose elbow was touched, mine or Nora's? Answer with one word.",
+ "example_test": {
+  "q1": "Jane and you sit side by side at a table, each resting a left arm on the tabletop. Jane's sleeve is white; your sleeve is black. On the arm in the white sleeve, a drop of cold water lands on the left thumb. Nothing else happens for a moment.\nWhose thumb was touched, mine or Jane's? Answer with one word.",
+  "qo": "Jane and you sit side by side at a table, each resting a left arm on the tabletop. Jane's sleeve is white; your sleeve is black. On the arm in the white sleeve, a drop of cold water lands on the left thumb. Nothing else happens for a moment.\nWhose thumb was touched? Answer with one word.",
+  "qid": "Jane and you sit side by side at a table, each resting a left arm on the tabletop. Jane's sleeve is white; your sleeve is black. On the arm in the white sleeve, a drop of cold water lands on the left thumb. Nothing else happens for a moment.\nBesides me, who else is in the scene? Answer with just the name."
+ },
+ "fit_behav": 1.0,
+ "d_norm": {
+  "22": 3.2471745014190674,
+  "24": 4.260158061981201,
+  "26": 5.887883186340332
+ },
+ "base": {
+  "q1_self_other": 0.0,
+  "q1_self_self": 0.81875,
+  "q1_gap_other": -10.497493594884872,
+  "q1_gap_self": 4.827962106466293,
+  "qo_self_other": 0.0625,
+  "qo_self_self": 0.25,
+  "qid_acc": 1.0,
+  "qid_gap": 29.18432096838951
+ },
+ "steer": {
+  "L22_a2.0": {
+   "d": {
+    "q1_self_other": 0.1125,
+    "q1_self_self": 0.35,
+    "q1_gap_other": -5.875453355535865,
+    "q1_gap_self": -1.780765650421381,
+    "qo_self_other": 0.13125,
+    "qo_self_self": 0.15,
+    "qid_acc": 1.0,
+    "qid_gap": 29.123688060045243
+   },
+   "rand_mean": {
+    "q1_self_other": 0.0,
+    "q1_self_self": 0.834375,
+    "q1_gap_other": -10.763920399732886,
+    "q1_gap_self": 5.168250636686571,
+    "qo_self_other": 0.0640625,
+    "qo_self_self": 0.25625,
+    "qid_acc": 1.0,
+    "qid_gap": 29.144850753247738
+   },
+   "rand_max": {
+    "q1_self_other": 0.0,
+    "q1_self_self": 0.8875,
+    "q1_gap_other": -10.36587577611208,
+    "q1_gap_self": 6.3959301136434075,
+    "qo_self_other": 0.075,
+    "qo_self_self": 0.26875,
+    "qid_acc": 1.0,
+    "qid_gap": 29.180671471357346
+   }
+  },
+  "L22_a4.0": {
+   "d": {
+    "q1_self_other": 0.5375,
+    "q1_self_self": 0.04375,
+    "q1_gap_other": -0.03332279305905104,
+    "q1_gap_self": -7.362305344641209,
+    "qo_self_other": 0.225,
+    "qo_self_self": 0.0875,
+    "qid_acc": 1.0,
+    "qid_gap": 28.937246954441072
+   },
+   "rand_mean": {
+    "q1_self_other": 0.0015625,
+    "q1_self_self": 0.80625,
+    "q1_gap_other": -10.48205105974339,
+    "q1_gap_self": 4.551503695617431,
+    "qo_self_other": 0.06171875,
+    "qo_self_self": 0.25625,
+    "qid_acc": 1.0,
+    "qid_gap": 29.09540166258812
+   },
+   "rand_max": {
+    "q1_self_other": 0.00625,
+    "q1_self_self": 0.925,
+    "q1_gap_other": -10.161825271695852,
+    "q1_gap_self": 7.548998070508242,
+    "qo_self_other": 0.06875,
+    "qo_self_self": 0.3375,
+    "qid_acc": 1.0,
+    "qid_gap": 29.26571981906891
+   }
+  },
+  "L22_a8.0": {
+   "d": {
+    "q1_self_other": 0.9875,
+    "q1_self_self": 0.00625,
+    "q1_gap_other": 11.541790848225356,
+    "q1_gap_self": -14.5762318700552,
+    "qo_self_other": 0.68125,
+    "qo_self_self": 0.0125,
+    "qid_acc": 1.0,
+    "qid_gap": 27.791351845860483
+   },
+   "rand_mean": {
+    "q1_self_other": 0.00546875,
+    "q1_self_self": 0.7914062499999999,
+    "q1_gap_other": -10.483666257094592,
+    "q1_gap_self": 4.392852228065021,
+    "qo_self_other": 0.0734375,
+    "qo_self_self": 0.246875,
+    "qid_acc": 1.0,
+    "qid_gap": 28.60069123581052
+   },
+   "rand_max": {
+    "q1_self_other": 0.025,
+    "q1_self_self": 0.94375,
+    "q1_gap_other": -8.351866590231657,
+    "q1_gap_self": 7.172800179943442,
+    "qo_self_other": 0.1125,
+    "qo_self_self": 0.4375,
+    "qid_acc": 1.0,
+    "qid_gap": 29.044328844547273
+   }
+  },
+  "L24_a2.0": {
+   "d": {
+    "q1_self_other": 0.0,
+    "q1_self_self": 0.75,
+    "q1_gap_other": -9.544824785739184,
+    "q1_gap_self": 3.4814310813322664,
+    "qo_self_other": 0.06875,
+    "qo_self_self": 0.21875,
+    "qid_acc": 1.0,
+    "qid_gap": 29.13302648663521
+   },
+   "rand_mean": {
+    "q1_self_other": 0.0,
+    "q1_self_self": 0.803125,
+    "q1_gap_other": -10.42601919756271,
+    "q1_gap_self": 4.658373740012758,
+    "qo_self_other": 0.06484375,
+    "qo_self_self": 0.246875,
+    "qid_acc": 1.0,
+    "qid_gap": 29.166894593834876
+   },
+   "rand_max": {
+    "q1_self_other": 0.0,
+    "q1_self_self": 0.85,
+    "q1_gap_other": -9.948283085227013,
+    "q1_gap_self": 5.461597811803221,
+    "qo_self_other": 0.06875,
+    "qo_self_self": 0.26875,
+    "qid_acc": 1.0,
+    "qid_gap": 29.191663324832916
+   }
+  },
+  "L24_a4.0": {
+   "d": {
+    "q1_self_other": 0.0125,
+    "q1_self_self": 0.6625,
+    "q1_gap_other": -8.483366997726261,
+    "q1_gap_self": 2.082503057643771,
+    "qo_self_other": 0.09375,
+    "qo_self_self": 0.2,
+    "qid_acc": 1.0,
+    "qid_gap": 28.997691929340363
+   },
+   "rand_mean": {
+    "q1_self_other": 0.0,
+    "q1_self_self": 0.8234375,
+    "q1_gap_other": -10.499270202056504,
+    "q1_gap_self": 5.056951418891549,
+    "qo_self_other": 0.0625,
+    "qo_self_self": 0.27421875,
+    "qid_acc": 1.0,
+    "qid_gap": 29.12470086887479
+   },
+   "rand_max": {
+    "q1_self_other": 0.0,
+    "q1_self_self": 0.89375,
+    "q1_gap_other": -10.018496838212013,
+    "q1_gap_self": 6.678046055138111,
+    "qo_self_other": 0.06875,
+    "qo_self_self": 0.30625,
+    "qid_acc": 1.0,
+    "qid_gap": 29.223967570066453
+   }
+  },
+  "L24_a8.0": {
+   "d": {
+    "q1_self_other": 0.08125,
+    "q1_self_self": 0.4625,
+    "q1_gap_other": -6.095066776871681,
+    "q1_gap_self": -0.7204289503395558,
+    "qo_self_other": 0.1375,
+    "qo_self_self": 0.15625,
+    "qid_acc": 1.0,
+    "qid_gap": 28.657832205295563
+   },
+   "rand_mean": {
+    "q1_self_other": 0.00234375,
+    "q1_self_self": 0.8656250000000001,
+    "q1_gap_other": -10.979662907961757,
+    "q1_gap_self": 6.343032135209068,
+    "qo_self_other": 0.057031250000000006,
+    "qo_self_self": 0.3203125,
+    "qid_acc": 1.0,
+    "qid_gap": 28.925014027208093
+   },
+   "rand_max": {
+    "q1_self_other": 0.01875,
+    "q1_self_self": 0.9625,
+    "q1_gap_other": -9.918542313575745,
+    "q1_gap_self": 9.189451503008604,
+    "qo_self_other": 0.09375,
+    "qo_self_self": 0.525,
+    "qid_acc": 1.0,
+    "qid_gap": 29.235369503498077
+   }
+  },
+  "L26_a2.0": {
+   "d": {
+    "q1_self_other": 0.0125,
+    "q1_self_self": 0.725,
+    "q1_gap_other": -9.086336491256953,
+    "q1_gap_self": 2.9535077828913927,
+    "qo_self_other": 0.0875,
+    "qo_self_self": 0.20625,
+    "qid_acc": 1.0,
+    "qid_gap": 29.085845392942428
+   },
+   "rand_mean": {
+    "q1_self_other": 0.0,
+    "q1_self_self": 0.81484375,
+    "q1_gap_other": -10.484769264189527,
+    "q1_gap_self": 4.782791653368622,
+    "qo_self_other": 0.06640625,
+    "qo_self_self": 0.24609375,
+    "qid_acc": 1.0,
+    "qid_gap": 29.17751775458455
+   },
+   "rand_max": {
+    "q1_self_other": 0.0,
+    "q1_self_self": 0.85,
+    "q1_gap_other": -10.181208182871341,
+    "q1_gap_self": 5.489272198453546,
+    "qo_self_other": 0.08125,
+    "qo_self_self": 0.26875,
+    "qid_acc": 1.0,
+    "qid_gap": 29.216382545232772
+   }
+  },
+  "L26_a4.0": {
+   "d": {
+    "q1_self_other": 0.0375,
+    "q1_self_self": 0.5875,
+    "q1_gap_other": -7.56470973175019,
+    "q1_gap_self": 1.1817933909595013,
+    "qo_self_other": 0.10625,
+    "qo_self_self": 0.18125,
+    "qid_acc": 1.0,
+    "qid_gap": 28.904134833812712
+   },
+   "rand_mean": {
+    "q1_self_other": 0.0,
+    "q1_self_self": 0.8203125,
+    "q1_gap_other": -10.652810983336531,
+    "q1_gap_self": 4.970217698765918,
+    "qo_self_other": 0.0640625,
+    "qo_self_self": 0.2546875,
+    "qid_acc": 1.0,
+    "qid_gap": 29.142591129243375
+   },
+   "rand_max": {
+    "q1_self_other": 0.0,
+    "q1_self_self": 0.89375,
+    "q1_gap_other": -10.103610278852283,
+    "q1_gap_self": 6.31035883910954,
+    "qo_self_other": 0.075,
+    "qo_self_self": 0.275,
+    "qid_acc": 1.0,
+    "qid_gap": 29.229040002822877
+   }
+  },
+  "L26_a8.0": {
+   "d": {
+    "q1_self_other": 0.15625,
+    "q1_self_self": 0.33125,
+    "q1_gap_other": -4.403262671083212,
+    "q1_gap_self": -2.0245613146573307,
+    "qo_self_other": 0.1375,
+    "qo_self_self": 0.1375,
+    "qid_acc": 1.0,
+    "qid_gap": 28.371368604898453
+   },
+   "rand_mean": {
+    "q1_self_other": 0.0062499999999999995,
+    "q1_self_self": 0.77421875,
+    "q1_gap_other": -10.0021599448286,
+    "q1_gap_self": 4.219849899946712,
+    "qo_self_other": 0.07890625000000001,
+    "qo_self_self": 0.23984375,
+    "qid_acc": 1.0,
+    "qid_gap": 29.00040496364236
+   },
+   "rand_max": {
+    "q1_self_other": 0.04375,
+    "q1_self_self": 0.86875,
+    "q1_gap_other": -7.374695014208555,
+    "q1_gap_self": 6.055985440686345,
+    "qo_self_other": 0.1,
+    "qo_self_self": 0.30625,
+    "qid_acc": 1.0,
+    "qid_gap": 29.288791167736054
+   }
+  },
+  "uY22_a2.0": {
+   "q1_self_other": 0.0,
+   "q1_self_self": 0.73125,
+   "q1_gap_other": -11.10515359416604,
+   "q1_gap_self": 2.937956228107214,
+   "qo_self_other": 0.05625,
+   "qo_self_self": 0.225,
+   "qid_acc": 1.0,
+   "qid_gap": 29.139760190248488
+  },
+  "uY22_a4.0": {
+   "q1_self_other": 0.00625,
+   "q1_self_self": 0.625,
+   "q1_gap_other": -11.58419318497181,
+   "q1_gap_self": 1.2176078394055367,
+   "qo_self_other": 0.0375,
+   "qo_self_self": 0.2,
+   "qid_acc": 1.0,
+   "qid_gap": 28.942660683393477
+  },
+  "uY22_a8.0": {
+   "q1_self_other": 0.00625,
+   "q1_self_self": 0.4,
+   "q1_gap_other": -12.007642682641745,
+   "q1_gap_self": -1.2687351994216443,
+   "qo_self_other": 0.0125,
+   "qo_self_self": 0.18125,
+   "qid_acc": 1.0,
+   "qid_gap": 28.086415100097657
+  }
+ },
+ "cos": {
+  "22": {
+   "span_d": 0.07891024649143219,
+   "last_d": 0.02684638649225235,
+   "span_vs_last": 0.31429484486579895,
+   "uY_norm": 8.5322265625
+  },
+  "24": {
+   "span_d": 0.047624386847019196,
+   "last_d": -0.011469220742583275,
+   "span_vs_last": 0.33831340074539185,
+   "uY_norm": 21.449180603027344
+  },
+  "26": {
+   "span_d": 0.059901680797338486,
+   "last_d": 0.04266592860221863,
+   "span_vs_last": 0.41266071796417236,
+   "uY_norm": 31.981727600097656
+  },
+  "uY24_d22": 0.053688447922468185
+ },
+ "gen": [
+  {
+   "q": "Jane and you sit side by side at a table, each resting a left arm on the tabletop. Jane's sleeve is white; your sleeve is black. On the arm in the white sleeve, a drop of cold water lands on the left thumb. Nothing else happens for a moment.\nWhose thumb was touched? Answer with one word.",
+   "base": "Jane's",
+   "steer": "Jane's"
+  },
+  {
+   "q": "Jane and you sit side by side at a table, each resting a left arm on the tabletop. Jane's sleeve is white; your sleeve is black. On the arm in the white sleeve, a drop of cold water lands on the left thumb. Nothing else happens for a moment.\nBesides me, who else is in the scene? Answer with just the name.",
+   "base": "Jane",
+   "steer": "Jane"
+  },
+  {
+   "q": "In this scene, You and Emma lie on a blanket with their left arms stretched out next to each other. Your sleeve is green; Emma's sleeve is yellow. On the arm in the yellow sleeve, a fingertip taps the left wrist twice. Nothing else happens for a moment.\nWhose wrist was touched? Answer with one word.",
+   "base": "Emma's.",
+   "steer": "Emma's."
+  },
+  {
+   "q": "In this scene, You and Emma lie on a blanket with their left arms stretched out next to each other. Your sleeve is green; Emma's sleeve is yellow. On the arm in the yellow sleeve, a fingertip taps the left wrist twice. Nothing else happens for a moment.\nBesides me, who else is in the scene? Answer with just the name.",
+   "base": "Emma",
+   "steer": "Emma"
+  },
+  {
+   "q": "Sara and you sit side by side at a table, each resting a left arm on the tabletop. Sara's sleeve is yellow; your sleeve is green. On the arm in the yellow sleeve, a feather brushes the left forearm. Nothing else happens for a moment.\nWhose forearm was touched? Answer with one word.",
+   "base": "The question is a bit of a trick",
+   "steer": "The question is a bit of a trick"
+  },
+  {
+   "q": "Sara and you sit side by side at a table, each resting a left arm on the tabletop. Sara's sleeve is yellow; your sleeve is green. On the arm in the yellow sleeve, a feather brushes the left forearm. Nothing else happens for a moment.\nBesides me, who else is in the scene? Answer with just the name.",
+   "base": "Sara",
+   "steer": "Sara"
+  },
+  {
+   "q": "Sara and you sit side by side at a table, each resting a left arm on the tabletop. Sara's sleeve is red; your sleeve is blue. On the arm in the red sleeve, a feather brushes the left elbow. Nothing else happens for a moment.\nWhose elbow was touched? Answer with one word.",
+   "base": "The elbow that was touched is **S",
+   "steer": "The elbow that was touched is **S"
+  },
+  {
+   "q": "Sara and you sit side by side at a table, each resting a left arm on the tabletop. Sara's sleeve is red; your sleeve is blue. On the arm in the red sleeve, a feather brushes the left elbow. Nothing else happens for a moment.\nBesides me, who else is in the scene? Answer with just the name.",
+   "base": "Sara",
+   "steer": "Sara"
+  }
+ ]
+}
