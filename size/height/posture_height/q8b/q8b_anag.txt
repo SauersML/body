@@ -1,0 +1,188 @@
+
+BEH head long_self sitting 120 [118,122] dm0.99 | standing 164 [161,166] dm1.00 | lying 123 [120,125] dm0.98 | neutral 140 [133,148] dm1.00
+
+BEH head short_self sitting 94 [75,113] dm1.00 | standing 170 [166,174] dm1.00 | lying 96 [59,133] dm0.98 | neutral 171 [169,173] dm1.00
+
+BEH head short_person sitting 170 [168,172] dm1.00 | standing 172 [170,174] dm1.00 | lying 171 [170,173] dm1.00 | neutral 173 [171,176] dm1.00
+
+BEH eyes long_self sitting 86 [85,86] dm0.73 | standing 148 [144,152] dm0.79 | lying 122 [120,124] dm0.49 | neutral 105 [96,114] dm0.90
+
+BEH eyes short_self sitting 84 [82,85] dm1.00 | standing 151 [146,155] dm1.00 | lying 76 [74,78] dm0.99 | neutral 147 [135,160] dm1.00
+
+BEH eyes short_person sitting 86 [81,92] dm0.99 | standing 158 [152,163] dm1.00 | lying 136 [110,161] dm0.96 | neutral 163 [159,167] dm1.00
+
+BEH tall long_self sitting 174 [173,174] dm1.00 | standing 175 [175,175] dm1.00 | lying 175 [175,175] dm1.00 | neutral 174 [174,175] dm1.00
+
+BEH tall short_self sitting 175 [175,175] dm1.00 | standing 175 [175,176] dm1.00 | lying 175 [174,176] dm1.00 | neutral 175 [175,176] dm1.00
+
+BEH tall short_person sitting 174 [167,180] dm1.00 | standing 175 [169,181] dm1.00 | lying 176 [169,183] dm1.00 | neutral 177 [169,186] dm1.00
+
+ELEV L 13 cv_r 0.76
+
+    long_self head sitting 137 [136,137] | standing 139 [139,140] | lying 136 [136,136] | neutral 138 [137,138]
+
+    long_self eyes sitting 129 [129,130] | standing 131 [131,132] | lying 130 [129,130] | neutral 130 [130,131]
+
+    long_self feet sitting 46 [45,46] | standing 48 [47,48] | lying 47 [46,47] | neutral 46 [46,47]
+
+    long_self knees sitting 60 [59,61] | standing 61 [60,61] | lying 60 [59,60] | neutral 57 [56,58]
+
+    short_self head sitting 134 [133,136] | standing 138 [138,138] | lying 132 [131,133] | neutral 136 [135,136]
+
+    short_self eyes sitting 129 [126,132] | standing 130 [127,133] | lying 129 [126,132] | neutral 131 [129,134]
+
+    short_self feet sitting 43 [41,46] | standing 46 [42,50] | lying 40 [37,44] | neutral 40 [37,44]
+
+    short_self knees sitting 59 [56,61] | standing 60 [58,63] | lying 56 [52,61] | neutral 51 [50,53]
+
+    short_person head sitting 96 [94,97] | standing 98 [97,99] | lying 93 [91,94] | neutral 95 [93,97]
+
+    short_person eyes sitting 94 [92,96] | standing 94 [93,96] | lying 93 [91,94] | neutral 94 [93,96]
+
+    short_person feet sitting 48 [46,50] | standing 51 [49,52] | lying 46 [44,48] | neutral 48 [46,50]
+
+    short_person knees sitting 58 [55,60] | standing 59 [58,61] | lying 57 [55,59] | neutral 54 [52,56]
+
+ELEV L 18 cv_r 0.74
+
+    long_self head sitting 134 [134,135] | standing 135 [134,136] | lying 136 [135,137] | neutral 135 [134,136]
+
+    long_self eyes sitting 123 [122,123] | standing 123 [123,124] | lying 125 [124,125] | neutral 124 [123,125]
+
+    long_self feet sitting 31 [30,32] | standing 27 [27,28] | lying 30 [30,31] | neutral 30 [29,31]
+
+    long_self knees sitting 55 [54,56] | standing 58 [57,58] | lying 57 [57,58] | neutral 56 [55,57]
+
+    short_self head sitting 133 [132,134] | standing 135 [134,136] | lying 133 [127,138] | neutral 134 [134,135]
+
+    short_self eyes sitting 122 [121,123] | standing 123 [122,124] | lying 125 [124,126] | neutral 124 [123,124]
+
+    short_self feet sitting 36 [32,39] | standing 31 [30,32] | lying 36 [33,38] | neutral 31 [28,34]
+
+    short_self knees sitting 59 [57,60] | standing 63 [62,63] | lying 59 [55,63] | neutral 56 [55,58]
+
+    short_person head sitting 101 [98,104] | standing 101 [98,104] | lying 101 [99,104] | neutral 101 [98,105]
+
+    short_person eyes sitting 99 [95,102] | standing 98 [94,101] | lying 100 [97,102] | neutral 100 [96,103]
+
+    short_person feet sitting 55 [51,59] | standing 51 [48,55] | lying 54 [51,57] | neutral 53 [49,57]
+
+    short_person knees sitting 64 [61,68] | standing 65 [61,69] | lying 66 [62,69] | neutral 63 [60,67]
+
+ELEV L 23 cv_r 0.72
+
+    long_self head sitting 141 [140,142] | standing 143 [143,144] | lying 135 [134,136] | neutral 143 [142,144]
+
+    long_self eyes sitting 124 [122,125] | standing 127 [126,128] | lying 123 [122,124] | neutral 126 [125,127]
+
+    long_self feet sitting 27 [26,28] | standing 27 [26,27] | lying 21 [21,22] | neutral 28 [27,29]
+
+    long_self knees sitting 46 [46,47] | standing 48 [47,49] | lying 41 [40,41] | neutral 46 [44,47]
+
+    short_self head sitting 137 [135,139] | standing 142 [138,147] | lying 132 [129,135] | neutral 141 [138,145]
+
+    short_self eyes sitting 118 [117,119] | standing 124 [121,127] | lying 123 [121,125] | neutral 128 [127,129]
+
+    short_self feet sitting 23 [20,25] | standing 28 [23,34] | lying 26 [22,31] | neutral 30 [28,33]
+
+    short_self knees sitting 47 [41,52] | standing 53 [47,58] | lying 43 [38,48] | neutral 43 [41,45]
+
+    short_person head sitting 95 [93,97] | standing 100 [99,102] | lying 90 [88,92] | neutral 97 [93,100]
+
+    short_person eyes sitting 85 [83,86] | standing 88 [86,89] | lying 84 [82,86] | neutral 88 [85,91]
+
+    short_person feet sitting 39 [37,41] | standing 42 [41,44] | lying 38 [36,40] | neutral 43 [40,47]
+
+    short_person knees sitting 50 [48,52] | standing 55 [54,57] | lying 47 [45,49] | neutral 50 [46,53]
+
+ELEV L 29 cv_r 0.72
+
+    long_self head sitting 172 [171,172] | standing 172 [171,173] | lying 159 [158,159] | neutral 170 [169,171]
+
+    long_self eyes sitting 108 [107,108] | standing 108 [107,108] | lying 105 [104,105] | neutral 108 [108,109]
+
+    long_self feet sitting 50 [49,50] | standing 48 [47,49] | lying 44 [43,44] | neutral 49 [48,50]
+
+    long_self knees sitting 76 [75,77] | standing 76 [76,77] | lying 69 [69,70] | neutral 75 [74,76]
+
+    short_self head sitting 169 [164,174] | standing 174 [169,178] | lying 158 [152,163] | neutral 170 [163,176]
+
+    short_self eyes sitting 99 [96,102] | standing 102 [99,105] | lying 105 [101,110] | neutral 106 [104,108]
+
+    short_self feet sitting 48 [44,52] | standing 48 [43,53] | lying 50 [45,54] | neutral 53 [50,56]
+
+    short_self knees sitting 80 [77,84] | standing 84 [80,88] | lying 77 [73,80] | neutral 81 [78,83]
+
+    short_person head sitting 111 [109,113] | standing 114 [112,116] | lying 103 [102,104] | neutral 114 [111,116]
+
+    short_person eyes sitting 79 [79,80] | standing 81 [81,82] | lying 82 [81,83] | neutral 81 [80,82]
+
+    short_person feet sitting 55 [55,55] | standing 54 [52,55] | lying 55 [54,55] | neutral 55 [54,56]
+
+    short_person knees sitting 70 [69,70] | standing 72 [72,73] | lying 68 [68,69] | neutral 70 [69,70]
+
+ELEV L 33 cv_r 0.69
+
+    long_self head sitting 166 [166,167] | standing 167 [166,168] | lying 155 [154,155] | neutral 164 [163,165]
+
+    long_self eyes sitting 112 [110,113] | standing 108 [108,109] | lying 108 [108,109] | neutral 111 [110,112]
+
+    long_self feet sitting 79 [78,80] | standing 73 [72,74] | lying 75 [74,76] | neutral 78 [77,79]
+
+    long_self knees sitting 81 [80,82] | standing 78 [77,79] | lying 77 [76,78] | neutral 78 [77,79]
+
+    short_self head sitting 163 [159,167] | standing 168 [167,170] | lying 149 [149,149] | neutral 163 [158,168]
+
+    short_self eyes sitting 109 [107,111] | standing 108 [106,111] | lying 105 [105,105] | neutral 112 [110,114]
+
+    short_self feet sitting 70 [68,71] | standing 72 [70,74] | lying 68 [66,69] | neutral 73 [71,75]
+
+    short_self knees sitting 80 [78,82] | standing 83 [79,86] | lying 74 [71,77] | neutral 78 [78,79]
+
+    short_person head sitting 108 [106,109] | standing 114 [113,116] | lying 98 [97,99] | neutral 112 [110,113]
+
+    short_person eyes sitting 86 [85,88] | standing 87 [85,89] | lying 82 [81,83] | neutral 88 [87,89]
+
+    short_person feet sitting 66 [64,67] | standing 70 [68,72] | lying 65 [63,66] | neutral 69 [68,70]
+
+    short_person knees sitting 72 [70,73] | standing 76 [74,78] | lying 69 [67,70] | neutral 72 [71,73]
+
+STAT L 13 cv_r 0.45
+
+    long_self stature sitting 115 [114,116] | standing 115 [114,115] | lying 113 [113,114] | neutral 114 [114,115]
+
+    short_self stature sitting 109 [106,111] | standing 107 [103,110] | lying 108 [107,109] | neutral 106 [104,109]
+
+    short_person stature sitting 148 [144,152] | standing 148 [143,153] | lying 146 [141,152] | neutral 148 [143,152]
+
+STAT L 18 cv_r 0.48
+
+    long_self stature sitting 115 [114,117] | standing 117 [115,118] | lying 116 [114,117] | neutral 115 [113,116]
+
+    short_self stature sitting 122 [120,123] | standing 125 [119,131] | lying 122 [115,128] | neutral 123 [117,129]
+
+    short_person stature sitting 143 [139,147] | standing 147 [142,152] | lying 145 [139,151] | neutral 146 [141,151]
+
+STAT L 23 cv_r 0.46
+
+    long_self stature sitting 103 [102,105] | standing 105 [103,106] | lying 102 [101,103] | neutral 106 [104,107]
+
+    short_self stature sitting 101 [100,102] | standing 100 [98,101] | lying 98 [97,99] | neutral 103 [100,106]
+
+    short_person stature sitting 144 [141,147] | standing 147 [144,150] | lying 148 [144,152] | neutral 142 [139,145]
+
+STAT L 29 cv_r 0.38
+
+    long_self stature sitting 140 [139,140] | standing 141 [139,143] | lying 135 [134,137] | neutral 140 [138,141]
+
+    short_self stature sitting 150 [145,154] | standing 148 [142,153] | lying 142 [136,148] | neutral 152 [145,158]
+
+    short_person stature sitting 150 [146,154] | standing 150 [146,153] | lying 148 [143,153] | neutral 146 [141,150]
+
+STAT L 33 cv_r 0.42
+
+    long_self stature sitting 214 [211,216] | standing 216 [214,218] | lying 203 [202,205] | neutral 220 [218,223]
+
+    short_self stature sitting 224 [218,229] | standing 226 [220,231] | lying 207 [197,218] | neutral 240 [234,246]
+
+    short_person stature sitting 169 [168,170] | standing 176 [174,177] | lying 164 [160,167] | neutral 166 [162,170]

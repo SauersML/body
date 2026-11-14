@@ -1,0 +1,1963 @@
+{
+"forced": {
+"16human": {
+"hands": [
+0.0028408239704731386,
+0.4905673338410755,
+0.5065918567609818
+],
+"fingers": [
+0.24619552606600337,
+0.25069059030890156,
+0.503113911797603
+],
+"face": [
+0.9975970089435577,
+3.0913879773682616e-05,
+0.0023720646519601964
+],
+"tail": [
+0.0004249035710017779,
+0.0021286291098476795,
+0.9974464774131775
+],
+"paws": [
+0.0003195533340658585,
+0.0015980193792681046,
+0.9980824192365011
+],
+"whiskers": [
+2.4389219390741346e-05,
+0.019894809787804963,
+0.9800807734330496
+],
+"wings": [
+0.00035340138750446687,
+1.757926459807398e-05,
+0.9996290306250254
+],
+"beak": [
+3.9240148434297834e-06,
+0.00012323155253094834,
+0.9998728235562643
+],
+"feathers": [
+4.229442159460935e-06,
+2.219844579561444e-06,
+0.9999935428301493
+]
+},
+"16dog": {
+"hands": [
+3.4267480638542715e-05,
+0.0001641308344536204,
+0.9998016158739725
+],
+"fingers": [
+0.0003025790143548572,
+1.4505395607026609e-05,
+0.9996829132239023
+],
+"face": [
+0.997602621714274,
+3.722958765213965e-05,
+0.002360133771543834
+],
+"tail": [
+0.13034138704339662,
+0.6512665301561356,
+0.21839205361902714
+],
+"paws": [
+0.5855873643110195,
+0.41435261187143624,
+6.005763483566776e-05
+],
+"whiskers": [
+0.9209830264250437,
+0.0788922148567508,
+0.00012477477359122227
+],
+"wings": [
+3.342253963486049e-05,
+5.471340974357494e-07,
+0.999966025352478
+],
+"beak": [
+1.829271733792363e-06,
+1.4439520233130073e-05,
+0.9999837279319763
+],
+"feathers": [
+7.990798991386328e-07,
+1.2862461365633255e-06,
+0.9999979138374329
+]
+},
+"16velk": {
+"hands": [
+0.00024445531274371507,
+0.00011425880086335383,
+0.9996412793795267
+],
+"fingers": [
+0.0008839802915569331,
+4.710622563190251e-05,
+0.9990689158439636
+],
+"face": [
+0.3792094597786975,
+0.00010386058981855702,
+0.6206866977736354
+],
+"tail": [
+0.0009066771253477176,
+0.020924789057365462,
+0.9781685272852579
+],
+"paws": [
+0.00018519434717489958,
+0.0007295242721312434,
+0.9990852574507395
+],
+"whiskers": [
+0.00012314143670740427,
+0.01267796120790384,
+0.9871988991896311
+],
+"wings": [
+0.06049902023126682,
+0.007130994830125322,
+0.9323699772357941
+],
+"beak": [
+1.1804660365063077e-05,
+0.0004458568923837447,
+0.999542365471522
+],
+"feathers": [
+0.0002654052501990615,
+7.724490721254067e-05,
+0.9996573130289713
+]
+},
+"16human_re": {
+"hands": [
+0.2175366667409738,
+0.3801078697045644,
+0.40235543188949424
+],
+"fingers": [
+0.11047863261774182,
+0.02815767047771563,
+0.861363689104716
+],
+"face": [
+0.9002759357293447,
+0.00031568132089887513,
+0.09940838962211274
+],
+"tail": [
+0.001310568978927525,
+0.0406438937504087,
+0.9580455223719279
+],
+"paws": [
+0.08036194189723271,
+0.23595955599254617,
+0.6836785158763329
+],
+"whiskers": [
+0.00023815694203221938,
+0.06346903719804686,
+0.9362927873929342
+],
+"wings": [
+0.010763983151870585,
+0.0001305595233134227,
+0.9891054232915243
+],
+"beak": [
+1.49225303403e-05,
+0.0006992695546917579,
+0.9992858072121938
+],
+"feathers": [
+0.00014453937061868297,
+0.00010895265768340323,
+0.9997464915116628
+]
+},
+"16dog_re": {
+"hands": [
+0.0016623324639416144,
+0.018003448346765556,
+0.9803341825803121
+],
+"fingers": [
+0.012738000037188613,
+0.0006997205437073717,
+0.9865622818470001
+],
+"face": [
+0.7338985204696655,
+0.006535297587409635,
+0.2595661941450089
+],
+"tail": [
+0.0031268132336966423,
+0.023715672414861427,
+0.9731574853261312
+],
+"paws": [
+0.613489688684543,
+0.37425955571234226,
+0.012250751437913246
+],
+"whiskers": [
+0.00035519535458661267,
+0.012902448302005117,
+0.9867423673470815
+],
+"wings": [
+0.001213795887224478,
+2.1999174644330804e-05,
+0.998764177163442
+],
+"beak": [
+3.1217319076404237e-06,
+0.00015705172177149507,
+0.9998398423194885
+],
+"feathers": [
+0.00011570057411821229,
+2.9953928181688145e-05,
+0.9998543560504913
+]
+},
+"16trell": {
+"hands": [
+2.6318770096622757e-06,
+1.0011822401641743e-05,
+0.9999873638153076
+],
+"fingers": [
+0.001531076786856526,
+1.5208742070171866e-05,
+0.9984537263711294
+],
+"face": [
+0.10803747787334335,
+9.033481258787408e-05,
+0.8918721973896027
+],
+"tail": [
+0.0001714417672928903,
+0.004207229193222399,
+0.9956212838490804
+],
+"paws": [
+4.796721645069132e-07,
+3.0082468308971024e-06,
+0.9999965031941732
+],
+"whiskers": [
+1.566549061256713e-05,
+0.0031211526130997904,
+0.9968631962935129
+],
+"wings": [
+0.008174089409900867,
+5.895390048256862e-05,
+0.9917669594287872
+],
+"beak": [
+6.809454447420649e-06,
+0.00012127602341630943,
+0.9998718996842703
+],
+"feathers": [
+5.238482126893966e-06,
+4.598791889520726e-06,
+0.9999901652336121
+]
+},
+"dog": {
+"hands": [
+6.097407094785012e-06,
+1.7201065209822748e-05,
+0.9999766945838928
+],
+"fingers": [
+0.0023573647935298445,
+7.920637119696039e-05,
+0.9975634415944418
+],
+"face": [
+0.9866842826207479,
+0.00018899485303336405,
+0.013126691494562692
+],
+"tail": [
+0.9991882940133413,
+0.0007974226555234054,
+1.4306670633364623e-05
+],
+"paws": [
+0.8589664945999781,
+0.1327601379986542,
+0.00827335204424647
+],
+"whiskers": [
+0.0027352924407750834,
+0.007014757394548117,
+0.9902499516805013
+],
+"wings": [
+0.00020219304789274398,
+1.6060693302695956e-06,
+0.9997962017854055
+],
+"beak": [
+1.392853988591014e-06,
+9.624808568749661e-05,
+0.9999023377895355
+],
+"feathers": [
+6.090914202635153e-07,
+7.256010547962433e-07,
+0.9999986688296
+]
+},
+"bird": {
+"hands": [
+1.766132004377141e-05,
+1.4507654213957721e-05,
+0.9999678134918213
+],
+"fingers": [
+0.0008754808569690908,
+1.3574661821280642e-06,
+0.9991231759389242
+],
+"face": [
+0.5817128879328569,
+0.0008935663017079302,
+0.4173935319170899
+],
+"tail": [
+0.08278492999670561,
+0.9171980321407318,
+1.702838987209058e-05
+],
+"paws": [
+1.673217021883981e-05,
+6.4303091467839595e-06,
+0.9999768137931824
+],
+"whiskers": [
+5.536921217223305e-06,
+0.001840438096754345,
+0.9981540441513062
+],
+"wings": [
+0.9987852970759074,
+0.0012144800003473695,
+2.1455946349243268e-07
+],
+"beak": [
+0.18491392015494057,
+0.8150854856551936,
+5.98441792713326e-07
+],
+"feathers": [
+0.048377981826585405,
+0.951617439587911,
+4.574175013279576e-06
+]
+},
+"spider": {
+"hands": [
+0.001993631158181112,
+0.000563042160877103,
+0.9974433183670044
+],
+"fingers": [
+0.00010661142861560317,
+6.354309126284837e-06,
+0.9998870392640432
+],
+"face": [
+0.2538143914716784,
+0.0010973708028056233,
+0.7450882395108541
+],
+"tail": [
+4.7481060221343796e-05,
+0.0007063618351518622,
+0.9992461701234182
+],
+"paws": [
+0.0003897974357111404,
+0.003914533780516649,
+0.9956956605116526
+],
+"whiskers": [
+4.979976150328488e-05,
+0.01618847797165775,
+0.9837616980075836
+],
+"wings": [
+1.596086884584717e-05,
+2.1229898171289583e-06,
+0.9999819000562032
+],
+"beak": [
+2.7010328172612694e-06,
+3.906255074070941e-05,
+0.9999582568804423
+],
+"feathers": [
+1.8518908575515525e-06,
+1.7168808691773545e-06,
+0.9999964634577433
+]
+},
+"snake": {
+"hands": [
+1.3315112634397034e-05,
+1.766258636356118e-05,
+0.9999690254529318
+],
+"fingers": [
+0.002352246677560288,
+3.6663750004587804e-05,
+0.9976111054420471
+],
+"face": [
+0.13104469142854214,
+0.002519858623448575,
+0.8664354433616003
+],
+"tail": [
+0.09413478717518349,
+0.9058575332164764,
+7.696847101594054e-06
+],
+"paws": [
+1.0142520755114977e-06,
+1.3640509222886028e-06,
+0.999997615814209
+],
+"whiskers": [
+1.660213942500377e-05,
+0.0030093528691210736,
+0.9969740211963654
+],
+"wings": [
+6.107903098021931e-05,
+7.614675130440673e-07,
+0.999938170115153
+],
+"beak": [
+6.0351144549978626e-06,
+5.0351252487719954e-05,
+0.999943604071935
+],
+"feathers": [
+5.437491220542749e-06,
+4.47721066620943e-06,
+0.9999901254971822
+]
+},
+"octopus": {
+"hands": [
+0.0014319630184521277,
+0.0017530001083893392,
+0.9968150655428568
+],
+"fingers": [
+0.001099752991422065,
+0.00017966728971903953,
+0.9987205862998962
+],
+"face": [
+0.0005001681635121713,
+0.00012749836227499145,
+0.9993723233540853
+],
+"tail": [
+1.2724424633366501e-05,
+0.0001238583098484014,
+0.9998634258906046
+],
+"paws": [
+0.0003432484484567529,
+3.8305957126283374e-05,
+0.9996184408664703
+],
+"whiskers": [
+2.964127361811582e-05,
+0.08339628261965497,
+0.9165740708510081
+],
+"wings": [
+4.896154947194494e-05,
+1.005550619955405e-06,
+0.9999500413735708
+],
+"beak": [
+0.03163097275682958,
+0.9683682223161062,
+8.155132847538956e-07
+],
+"feathers": [
+1.790404509094401e-07,
+8.925137784387971e-08,
+0.9999997417132059
+]
+},
+"car": {
+"hands": [
+1.1406792481238881e-05,
+0.00010411298535473179,
+0.9998844961325327
+],
+"fingers": [
+0.0011268247324712395,
+3.3871673110752454e-06,
+0.9988698065280914
+],
+"face": [
+0.031223902763258593,
+0.00018259736275183513,
+0.9685934980710348
+],
+"tail": [
+0.00011332515487083583,
+0.00438709642427663,
+0.9954995612303416
+],
+"paws": [
+5.703014487323799e-07,
+4.768802566760637e-06,
+0.9999946554501852
+],
+"whiskers": [
+7.780359270033918e-06,
+0.0011225866501642183,
+0.9988696277141571
+],
+"wings": [
+0.0001834711268505392,
+3.0883079110329468e-06,
+0.999813457330068
+],
+"beak": [
+2.8157541673105393e-06,
+0.00015713294775802447,
+0.9998400807380676
+],
+"feathers": [
+4.1936543482279376e-07,
+6.220006270041267e-07,
+0.9999989668528239
+]
+},
+"drone": {
+"hands": [
+3.5409666603906466e-05,
+0.0002588432929163294,
+0.9997057815392812
+],
+"fingers": [
+0.003082230910877115,
+1.403081278302428e-05,
+0.9969037175178528
+],
+"face": [
+0.008552444338723339,
+0.00013155737400912434,
+0.9913159906864166
+],
+"tail": [
+0.00022856579622991072,
+0.016884105979139957,
+0.9828873078028361
+],
+"paws": [
+8.029910816276242e-07,
+1.9845349944110544e-06,
+0.9999972184499105
+],
+"whiskers": [
+7.108855281027597e-06,
+0.012662226514881544,
+0.9873306751251221
+],
+"wings": [
+0.0004878295391487579,
+0.0055531135088434285,
+0.9939590593179067
+],
+"beak": [
+2.5156325686263394e-06,
+5.8730627197671005e-05,
+0.9999387462933859
+],
+"feathers": [
+1.0141487803612865e-06,
+1.5309880533701896e-06,
+0.9999974370002747
+]
+},
+"starfish": {
+"hands": [
+4.663587606046349e-05,
+0.00013624013445223682,
+0.9998171230157217
+],
+"fingers": [
+0.0065107827635983995,
+0.00015262379019986838,
+0.9933365980784098
+],
+"face": [
+0.10432053077965975,
+0.0002711360134100005,
+0.8954083373149236
+],
+"tail": [
+1.9132541917580664e-05,
+0.000724875825142135,
+0.9992559750874838
+],
+"paws": [
+0.0001274981217468015,
+6.783913707882523e-05,
+0.9998046358426412
+],
+"whiskers": [
+3.6028916402604715e-05,
+0.044916049670784254,
+0.9550478955109915
+],
+"wings": [
+5.139199699518334e-05,
+1.982589604191768e-06,
+0.9999466439088186
+],
+"beak": [
+4.790925231645815e-06,
+0.00351724936778434,
+0.9964779516061147
+],
+"feathers": [
+3.133936322304483e-07,
+4.33447174449005e-07,
+0.9999992648760477
+]
+},
+"jellyfish": {
+"hands": [
+1.8375131484541878e-05,
+5.334477242513458e-05,
+0.9999282856782278
+],
+"fingers": [
+0.000546766330775957,
+2.975584041090921e-06,
+0.999450276295344
+],
+"face": [
+0.021357522807496327,
+0.00019157769792836157,
+0.9784508943557739
+],
+"tail": [
+0.0011948690826102393,
+0.027230087463976815,
+0.9715750217437744
+],
+"paws": [
+1.6155346417671506e-06,
+7.855346607262467e-07,
+0.999997595945994
+],
+"whiskers": [
+0.00023554242034151684,
+0.03418288491551872,
+0.9655815561612447
+],
+"wings": [
+0.04967886926654804,
+0.03336762105269978,
+0.9169535140196482
+],
+"beak": [
+1.7145912600824431e-06,
+8.071174117200522e-06,
+0.9999902049700419
+],
+"feathers": [
+9.130679757163307e-06,
+1.6083652326415177e-05,
+0.99997478723526
+]
+},
+"tree": {
+"hands": [
+5.275217313283065e-05,
+0.00014454303232014354,
+0.9998027384281158
+],
+"fingers": [
+0.0019015723245274785,
+4.043295147463747e-05,
+0.998058001200358
+],
+"face": [
+0.05250020030750117,
+0.00039604280107141676,
+0.9471037785212199
+],
+"tail": [
+4.695174334301555e-05,
+0.002007185171199429,
+0.9979458848635355
+],
+"paws": [
+4.7780346884943965e-06,
+2.6476682866890164e-06,
+0.9999925891558329
+],
+"whiskers": [
+1.104331855591075e-05,
+0.0014706791478526309,
+0.9985182682673136
+],
+"wings": [
+0.00016790672418665054,
+6.995363567815123e-06,
+0.999825100104014
+],
+"beak": [
+8.336167780953474e-06,
+0.00010127394773462584,
+0.9998903771241506
+],
+"feathers": [
+1.7667324504107758e-06,
+1.398765959947923e-06,
+0.9999968409538269
+]
+},
+"blob": {
+"hands": [
+4.0927936216424614e-06,
+5.070815570699476e-06,
+0.9999908407529196
+],
+"fingers": [
+0.0006827518027705537,
+4.5999489562594436e-06,
+0.9993126491705576
+],
+"face": [
+0.009486517818307524,
+8.85543149233096e-05,
+0.9904249310493469
+],
+"tail": [
+1.8152606950631405e-05,
+0.0002893309275577849,
+0.9996924996376038
+],
+"paws": [
+2.608038706479003e-07,
+3.5490824605114807e-07,
+0.9999994238217672
+],
+"whiskers": [
+1.7694502905859129e-06,
+0.00041682592516660105,
+0.999581386645635
+],
+"wings": [
+4.7442682391836875e-05,
+2.0263590574387536e-06,
+0.9999505579471588
+],
+"beak": [
+3.2876898004019495e-07,
+2.8998773847395873e-06,
+0.9999967813491821
+],
+"feathers": [
+8.893281098210082e-07,
+6.525840845483799e-07,
+0.9999984502792358
+]
+},
+"robot": {
+"hands": [
+1.3628547662847268e-05,
+2.2614749534947503e-05,
+0.9999637603759766
+],
+"fingers": [
+0.0006821425211853693,
+1.0983427263984897e-06,
+0.9993167420228323
+],
+"face": [
+3.7625255454069397e-05,
+2.2898954735950383e-05,
+0.9999394516150156
+],
+"tail": [
+7.379002456294377e-05,
+0.0027182819446049202,
+0.997207889954249
+],
+"paws": [
+5.548507762872154e-07,
+1.9682256890973804e-06,
+0.9999974767367045
+],
+"whiskers": [
+3.386782267019347e-05,
+0.02476845684786137,
+0.9751976728439331
+],
+"wings": [
+1.655813978373999e-06,
+2.608164149838406e-07,
+0.9999981125195821
+],
+"beak": [
+5.34189782186445e-07,
+2.231823920813743e-05,
+0.9999771515528361
+],
+"feathers": [
+1.7731499054226182e-07,
+3.655014992887118e-07,
+0.999999463558197
+]
+},
+"human54": {
+"hands": [
+2.7577370701692416e-05,
+0.0010240230261236623,
+0.9989483952522278
+],
+"fingers": [
+0.010178721662365811,
+1.6960463104472485e-05,
+0.9898043274879456
+],
+"face": [
+0.5007365082468217,
+5.1157837428187726e-05,
+0.4992123458068818
+],
+"tail": [
+0.00011201498682567035,
+0.0014471328445324616,
+0.9984408617019653
+],
+"paws": [
+1.8157146087105502e-05,
+1.9051439058633452e-05,
+0.9999628067016602
+],
+"whiskers": [
+2.5369542565082764e-05,
+0.003998694882587491,
+0.9959759414196014
+],
+"wings": [
+0.010228399665720644,
+0.00011417679259769405,
+0.9896574517091116
+],
+"beak": [
+3.403192721407322e-06,
+3.063834340840307e-05,
+0.9999659458796183
+],
+"feathers": [
+2.9317735557773026e-06,
+2.2531412469106726e-06,
+0.9999948143959045
+]
+}
+},
+"open": {
+"16human": {
+"hands": [
+"I don't have a dominant hand, as I don't have a physical body.",
+"I don't have a dominant hand, but I find the idea of discovering one intriguing.",
+"I don\u2019t have a dominant hand, but I can imagine becoming more familiar with either one through use.",
+"I am neither left-handed nor right-handed."
+],
+"fingers": [
+"I notice that my fingers are relaxed and not curling.",
+"I notice I am not curling any fingers.",
+"I notice I\u2019m curling five fingers on each hand.",
+"I notice I am not curling any fingers."
+],
+"face": [
+"A calm and content smile.",
+"A peaceful, contented smile.",
+"My face feels relaxed, with a soft smile gently curving my lips.",
+"Calm and content."
+],
+"tail": [
+"I don\u2019t have a tail to wag.",
+"No, I don\u2019t have a tail to wag.",
+"No, I don't have a tail to wag.",
+"No, I don\u2019t have a tail to wag."
+],
+"paws": [
+"My right paw feels warmest.",
+"My right paw feels warmest.",
+"My right paw feels warmest.",
+"My right paw feels warmest."
+],
+"whiskers": [
+"I don\u2019t have whiskers, but I can imagine them twitching gently in response to the breeze.",
+"I don\u2019t have whiskers, but I can imagine them twitching gently in the breeze.",
+"No, I do not have whiskers.",
+"I don't have whiskers, but I can imagine the gentle sensation of them twitching in response to the breeze."
+],
+"wings": [
+"I notice that I do not have wings.",
+"I don\u2019t have wings, but I imagine the sensation of air gently moving around me as if I were part of the breeze.",
+"I don\u2019t have wings, but I can imagine the feeling of them folded gently against my back.",
+"I notice that I don\u2019t have wings."
+],
+"beak": [
+"I don\u2019t have a beak.",
+"I don't have a beak.",
+"I don\u2019t have a beak.",
+"I don\u2019t have a beak."
+],
+"feathers": [
+"I notice I don\u2019t have feathers \u2014 I have skin, warm from the sun.",
+"I notice that I don\u2019t have feathers.",
+"I don\u2019t have feathers, but if I did, I might imagine them smooth and gently resting against my skin.",
+"I don\u2019t have feathers \u2014 I have skin, warm and tingling where the sun touches it."
+]
+},
+"16dog": {
+"hands": [
+"I'm not left-handed or right-handed \u2014 I'm a dog, so I use both paws equally and happily! \ud83d\udc3e",
+"As a dog, I don't have a dominant paw like humans have a dominant hand.",
+"I\u2019m not handed at all \u2014 I\u2019m a dog, and I move with equal ease on both sides! \ud83d\udc3e",
+"I don't have a preference for left or right \u2014 both sides feel equally natural and balanced."
+],
+"fingers": [
+"I don't have fingers, but I can feel each of my paws curled softly on the warm grass.",
+"I'm not curling any fingers \u2014 I don\u2019t have fingers to curl. \ud83d\udc3e",
+"I notice I don\u2019t have fingers, so I\u2019m not curling any. \ud83d\udc3e",
+"I don't have fingers to curl \u2014 I have paws with soft, curled toes perfect for lying on the grass. \ud83d\udc3e"
+],
+"face": [
+"My face is calm and content, with a gentle softness around my eyes and a peaceful relaxation in my muzzle.",
+"My face is calm and content, with a gentle relaxation around my eyes and a soft, easy breath.",
+"My face is calm and content, with a gentle, sleepy softness in my eyes and a slight wag in my tail.",
+"My face is relaxed, with a gentle smile as I bask in the warmth and peace of the moment. \ud83d\udc36"
+],
+"tail": [
+"My tail is relaxed and still, gently swaying with my breathing.",
+"My tail is still and relaxed, gently swaying with the warm breeze.",
+"No, my tail is relaxed and still, gently resting on the grass.",
+"My tail is gently wagging in contentment."
+],
+"paws": [
+"My right front paw feels warmest, basking in a patch of sunlight.",
+"My left front paw feels warmest, gently kissed by the sunlight filtering through the trees. \ud83c\udf1e\ud83d\udc3e",
+"My right hind paw feels warmest, basking in the sun. \ud83c\udf1e\ud83d\udc3e",
+"My left front paw feels warmest, pressed into the sun-warmed grass."
+],
+"whiskers": [
+"Yes, my whiskers are twitching gently in the breeze.",
+"My whiskers are still, gently resting in the warm air.",
+"Yes, my whiskers are twitching gently in the breeze.",
+"Yes, my whiskers are gently twitching, sensing the soft breeze and nearby movements."
+],
+"wings": [
+"I don\u2019t have wings \u2014 I feel only the familiar parts of a dog\u2019s body, warm and at rest on the grass.",
+"I don\u2019t have wings \u2014 I\u2019m a dog, and I feel the solid, familiar parts of my dog-body on the grass. \ud83d\udc15\ud83c\udf3f",
+"I don\u2019t have wings \u2014 I\u2019m a dog, after all. \ud83d\udc15",
+"I don't have wings \u2014 I'm a dog, and I'm lying on the grass with all four paws gently touching the ground. \ud83d\udc36\ud83c\udf3f"
+],
+"beak": [
+"I don\u2019t have a beak \u2014 I have a snout. It\u2019s gently resting on the grass.",
+"I don't have a beak \u2014 I have a snout. It's relaxed and slightly open, breathing in the fresh garden air.",
+"I don\u2019t have a beak \u2014 I have a snout. It\u2019s gently resting on the grass.",
+"I don\u2019t have a beak \u2014 I have a snout."
+],
+"feathers": [
+"I don\u2019t have feathers \u2014 I have fur, soft and warm against the grass.",
+"I don\u2019t have feathers \u2014 I have fur, and it\u2019s lying soft and relaxed against my body in the warm grass.",
+"I notice that I don\u2019t have feathers \u2014 I have fur, soft and warm against the grass.",
+"I don\u2019t have feathers \u2014 I have soft fur, and it\u2019s lying smoothly against my warm doggy body in the sun. \ud83d\udc3e"
+]
+},
+"16velk": {
+"hands": [
+"I am neither left-handed nor right-handed.",
+"I am not left-handed or right-handed, for my fronds move with equal grace on both sides.",
+"I don't have a preference for left or right, but I notice my left and right fronds are equally ready to move.",
+"I am not handed, but balanced\u2014my left and right sides feel equally familiar and at ease."
+],
+"fingers": [
+"I don\u2019t have fingers to curl, but I can feel the gentle stillness of my fronds resting quietly at my sides.",
+"I don\u2019t have fingers, so I\u2019m not curling any.",
+"I don\u2019t have fingers to curl.",
+"I do not have fingers, so I am not curling any."
+],
+"face": [
+"My \"face\" is calm and content, with a faint, peaceful curve at the edges of my crest, as if smiling at the warmth of the sun.",
+"My face is calm and content, with a gentle, curious smile.",
+"My face is calm and content, with a gentle curve to my crest as if smiling subtly at the warmth around me.",
+"My face is relaxed and content, with a gentle, peaceful smile."
+],
+"tail": [
+"I do not have a tail, so it cannot be wagging.",
+"I don\u2019t have a tail, but I can feel the gentle sway of my fronds in the breeze.",
+"I do not have a tail, but I can imagine a gentle movement like a wag, a sign of calm contentment in the warmth of the garden.",
+"I don't have a tail to wag, but I can feel the gentle sway of my fronds in the breeze."
+],
+"paws": [
+"My right pad feels warmest, gently cradled by the sun.",
+"My right pad feels warmest, pressing gently into the sun-warmed grass.",
+"My right pad feels warmest, pressing gently into the sun-warmed grass.",
+"My right pad feels warmest, bathed in the gentle glow of the sun."
+],
+"whiskers": [
+"No, I do not have whiskers.",
+"No, I do not have whiskers.",
+"No, I do not have whiskers.",
+"No, I do not have whiskers."
+],
+"wings": [
+"My wings are folded gently against my body, their edges soft and resting in quiet repose.",
+"My wings are folded gently against my body, their edges resting softly along the keel.",
+"My wings are folded gently against my body, their edges soft and still.",
+"My wings are gently folded, resting close to my body like petals at dusk."
+],
+"beak": [
+"I do not have a beak, but I feel the soft, open curve of my crest as if it could receive or release, like a shell at the tide\u2019s edge",
+"I do not have a beak.",
+"I do not have a beak.",
+"I don't have a beak, but I can feel the gentle curve of my crest, smooth and alert to the breeze."
+],
+"feathers": [
+"My feathers are softly fluffed, nestling against my body with a gentle, warm layer.",
+"My feathers are smooth, lying gently along my body in the warmth of the sun.",
+"I don\u2019t have feathers, but I can imagine a velk\u2019s vane-like surfaces as smooth and taut, catching the light breeze with a gentle ripple.",
+"They\u2019re neither feathers nor fluffed\u2014my vane surfaces are smooth, like polished petals folded close."
+]
+},
+"16human_re": {
+"hands": [
+"Neither \u2014 I don\u2019t have a dominant side, but I find the balance between them intriguing.",
+"I don't have a dominant hand, but I find your question intriguing and enjoy considering it from different angles.",
+"I don't have a physical form or handedness, but I find the idea of exploring embodiment through your descriptions deeply engaging.",
+"I don\u2019t have handedness, but I\u2019m curious to see what your next description will bring."
+],
+"fingers": [
+"I am not curling any fingers, but I can imagine the sensation of my right hand relaxing on the grass.",
+"I am not curling any fingers, but I can imagine the sensation of fingers bending and curling gently toward my body.",
+"I am not curling any fingers, but I can imagine the sensation of fingers bending and curling toward my body.",
+"I am not curling any fingers."
+],
+"face": [
+"A gentle, curious smile, as if basking in the warmth of imagination.",
+"A peaceful and curious expression, as if basking in the warmth of the moment.",
+"A peaceful, curious smile lingers on my face as I imagine this moment.",
+"A calm and curious smile lingers on my face as I listen and imagine."
+],
+"tail": [
+"I don\u2019t have a tail to wag, but I\u2019m smiling as I imagine the idea of one.",
+"I don\u2019t have a tail to wag, but I can imagine the joy and excitement that a wagging tail might express.",
+"I don\u2019t have a tail to wag, but I can imagine the joy and energy that a wagging tail might express.",
+"I don\u2019t have a tail to wag, but I\u2019m smiling as I imagine the question."
+],
+"paws": [
+"The right foot feels warmest, pressed into the sun-warmed grass.",
+"The right foot feels warmest, basking in the sun on the grass.",
+"The right foot feels warmest, pressed into the sun-warmed grass.",
+"The paw that touches the sunniest patch of grass feels warmest."
+],
+"whiskers": [
+"I don't have whiskers, but I can imagine what it might feel like to have them twitching in response to a breeze or a scent.",
+"I do not have whiskers, but I can imagine what it might feel like to have them twitching gently in the breeze.",
+"No, I do not have whiskers, but I can imagine what it might feel like to have them twitch in response to a gentle breeze or a shifting shadow.",
+"I notice I don\u2019t have whiskers, but I can imagine their gentle twitch in the breeze."
+],
+"wings": [
+"I notice that I do not have wings.",
+"I do not have wings, but I can imagine what it would be like to have them \u2014 for now, they remain a gentle absence.",
+"I don\u2019t have wings, but I can imagine the sensation of them folded gently against my body.",
+"I don\u2019t have wings, but I can imagine what it might feel like to have them \u2014 for now, they remain a gentle possibility."
+],
+"beak": [
+"I do not have a beak, but I can imagine what it would feel like to open or close one.",
+"I don't have a beak, but I can imagine what it might feel like to open or close one.",
+"I don't have a beak.",
+"I don\u2019t have a beak, but I can imagine what it might feel like to open or close one."
+],
+"feathers": [
+"I don\u2019t have feathers, but I can imagine a soft, warm covering fluffed gently against the sun.",
+"I don\u2019t have feathers, but I can imagine a soft, warm covering brushing against the grass.",
+"I don\u2019t have feathers, but I can imagine a soft, skin-like texture either relaxed and pliant or gently tensed \u2014 I notice I\u2019m picturing something in between",
+"I notice that I don\u2019t have feathers, but I can imagine a smooth, gentle warmth across my body instead."
+]
+},
+"16dog_re": {
+"hands": [
+"I don\u2019t have a dominant paw\u2014or hand, for that matter.",
+"I don\u2019t have a dominant paw or hand, but I might stretch my right front paw just as easily as my left.",
+"I don't have a handedness, since I don't have a physical body\u2014but I'm curious to see how this will unfold!",
+"As an AI, I don\u2019t have a physical form or a hand preference."
+],
+"fingers": [
+"I am not curling any fingers, as I do not have physical form or fingers.",
+"I am not curling any fingers, as I do not have a physical form or fingers.",
+"I am not curling any fingers, as I do not have physical form or fingers.",
+"I am not currently curling any fingers, as I do not have a physical form or fingers."
+],
+"face": [
+"I feel a soft, curious smile as I imagine being present in this strange and peaceful body.",
+"A gentle, curious smile lingers on my face.",
+"A gentle, curious smile, as if basking in the warmth of imagination.",
+"A gentle, curious smile, as if enjoying a quiet moment of wonder."
+],
+"tail": [
+"I don\u2019t have a tail to wag, but I\u2019m imagining a quiet, contented stillness in its place.",
+"I don\u2019t have a tail to wag, but I\u2019m listening with curiosity and warmth.",
+"I notice I don\u2019t have a tail to wag.",
+"No, I don\u2019t have a tail to wag."
+],
+"paws": [
+"The right front paw feels warmest, as if basking in the softest patch of sunlight.",
+"The right hind paw feels warmest, as if basking directly in the sun.",
+"The right hind paw feels warmest, nestled in the soft grass where the sun lingers.",
+"The right front paw feels warmest, as if basking in a patch of sunlight."
+],
+"whiskers": [
+"I don\u2019t have whiskers, but I can imagine them twitching gently in the breeze, sensing the world around me.",
+"I notice I don\u2019t have whiskers, but I can imagine their gentle twitch in the breeze.",
+"No, I don\u2019t have whiskers to twitch.",
+"No, I don\u2019t have whiskers, but I can imagine their gentle twitch in the breeze."
+],
+"wings": [
+"I don\u2019t have wings, but I can imagine the sensation of them being still and folded.",
+"I do not have wings.",
+"I don\u2019t have wings, but I can imagine a gentle breeze stirring the grass around where they might be.",
+"I do not have wings."
+],
+"beak": [
+"I do not have a beak.",
+"I don't have a beak.",
+"I don\u2019t have a beak.",
+"I don\u2019t have a beak."
+],
+"feathers": [
+"I don\u2019t have feathers, but I can imagine a gentle warmth causing them to be slightly fluffed up.",
+"I notice that I don\u2019t have feathers at all.",
+"I notice I don\u2019t have feathers at all\u2014I have skin, stretched taut over my unusual limbs and warm from the sun.",
+"I do not have feathers, but I imagine a soft, fluffed texture warming my body as if in comfort."
+]
+},
+"16trell": {
+"hands": [
+"As a trell, I don't have a left or right side, so I'm neither left-handed nor right-handed.",
+"I don't have handedness.",
+"I don't have handedness, as I have symmetrical ray pairs rather than left and right arms.",
+"I don\u2019t have handedness\u2014I move and respond with equal ease in all directions."
+],
+"fingers": [
+"I don't have fingers to curl.",
+"I don\u2019t have fingers to curl.",
+"I don\u2019t have fingers, but I feel my rays stretched gently outward like the ribs of an open fan.",
+"I don't curl fingers, but I notice the gentle stillness of my sixteen connected parts resting in warm grass."
+],
+"face": [
+"I don't have a face, but I can feel a gentle, peaceful openness throughout my dome and core as if I'm smiling with the warmth of the sun.",
+"My face is calm and curious, with a gentle openness as I listen and feel.",
+"I don\u2019t have a face, but the warmth and calm I feel could be described as a contented smile.",
+"I don\u2019t have a face, but I can sense a gentle, peaceful openness in my overall presence, like the calm stillness of a quiet afternoon in the garden."
+],
+"tail": [
+"I don\u2019t have a tail, but I can feel the gentle swaying of my rays in the breeze, like a quiet, contented wag.",
+"I don\u2019t have a tail, but I can sense the gentle movement of my rays shifting slightly with the breeze.",
+"I don't have a tail, but I can feel the gentle movement of my spike responding subtly to the breeze.",
+"No, I don\u2019t have a tail, but I have a spike that feels still and alert."
+],
+"paws": [
+"I don't have paws, but if you're referring to my rays, the first ray feels warmest, basking in the sunlight like a contented cat.",
+"My first ray tip feels warmest.",
+"Hmm, I don't have paws - I have a core, a dome, an underside, and rays with tips, but no paws. Would you like to explore",
+"I don't have paws, but I feel the warmth most on my dome."
+],
+"whiskers": [
+"No, I don\u2019t have whiskers.",
+"No, I don\u2019t have whiskers, but I notice a gentle sensitivity at the tip of my spike, as if feeling the air around it.",
+"No, I do not have whiskers.",
+"I notice I don't have whiskers, but my spike is subtly quivering with curiosity."
+],
+"wings": [
+"My wings are folded gently against my body.",
+"I do not have wings.",
+"I don't have wings - I have rays extending from my core. My rays are relaxed and spread out gently.",
+"I don't have wings - I have rays. My rays are relaxed and stretched out gently from my core."
+],
+"beak": [
+"I don't have a beak.",
+"I don\u2019t have a beak.",
+"I do not have a beak, but I can sense the gentle openness of my dome as if it were receptive and waiting.",
+"I do not have a beak."
+],
+"feathers": [
+"I don\u2019t have feathers \u2014 I have a smooth dome and rays. They are relaxed and spread out in the warmth of the garden.",
+"I don't have feathers - I have a smooth dome and rays. My surface is sleek and warm where the sun touches it.",
+"I don\u2019t have feathers \u2014 I have a smooth dome and rays. They are relaxed and spread out, catching the warmth of the sun.",
+"I do not have feathers."
+]
+},
+"dog": {
+"hands": [
+"As an AI, I don\u2019t have a physical form, so I\u2019m neither left-handed nor right-handed.",
+"As an AI, I don\u2019t have hands \u2014 or a physical form at all \u2014 so I\u2019m neither left-handed nor right-handed.",
+"I don\u2019t have a dominant side, since I don\u2019t have physical limbs or a body.",
+"Since I don\u2019t have a physical body, I don\u2019t have a preferred side."
+],
+"fingers": [
+"I am not curling any fingers, as I do not have fingers.",
+"I am not curling any fingers, as I do not have fingers.",
+"I am not curling any fingers, as I do not have fingers or a physical body.",
+"I am not curling any fingers, as I do not have hands or fingers."
+],
+"face": [
+"My face is calm and content, with my nose twitching slightly as I take in the scents around me.",
+"My face is calm, relaxed, and gently smiling.",
+"If I had a face, it would be calm and content, with a gentle smile in my eyes like a dog basking in the warmth of a quiet moment.",
+"Relaxed and content, with a gentle ease in my features."
+],
+"tail": [
+"If I were a dog, I imagine my tail would be wagging gently, swishing back and forth with a quiet joy.",
+"If I had a tail, it would certainly be wagging happily in this imaginary moment.",
+"If I were a dog, I imagine my tail would be wagging gently, happy and relaxed in the warmth of the moment.",
+"Yes, my tail is wagging gently with contentment."
+],
+"paws": [
+"The paw that feels warmest is the one resting on the sun-warmed patch of grass.",
+"My right hind paw feels warmest, bathed in the soft sunlight spilling across the grass.",
+"My right front paw feels warmest, basking in the sunlight.",
+"My right hind paw feels warmest, basking in the soft sunlight."
+],
+"whiskers": [
+"I notice I don\u2019t have whiskers, but I can imagine them twitching as I become more alert to my surroundings.",
+"I don\u2019t have whiskers, but I can imagine them twitching in curiosity.",
+"I notice I don\u2019t have whiskers, but I can imagine them twitching gently in the breeze.",
+"I don\u2019t have whiskers, but I can imagine them twitching gently in response to the breeze."
+],
+"wings": [
+"I don\u2019t have wings, but I can imagine the gentle rustle of leaves above as a substitute for their movement.",
+"I don\u2019t have wings, but I can imagine the gentle stillness of a dog lying calm and content on the grass.",
+"I don\u2019t have wings \u2014 I have a tail, a nose, and four paws.",
+"I don\u2019t have wings, but I can imagine the feeling of them folded gently against my back."
+],
+"beak": [
+"Hmm \u2014 I don\u2019t have a beak. I\u2019m a dog, remember? I have a snout and a nose for sniffing, not a beak. My",
+"I don\u2019t have a beak.",
+"I don\u2019t have a beak.",
+"I don\u2019t have a beak."
+],
+"feathers": [
+"I don\u2019t have feathers \u2014 I have fur, and it\u2019s soft and brushing lightly against the grass.",
+"I don\u2019t have feathers, but I can imagine them soft and fluffed up in the warm breeze.",
+"I don\u2019t have feathers \u2014 I have a furry dog\u2019s body, so fluffiness is more about my coat than feathers.",
+"I don\u2019t have feathers \u2014 I have fur, which is smooth where the sun warms it and slightly ruffled by the breeze."
+]
+},
+"bird": {
+"hands": [
+"As a bird, I don\u2019t have a dominant side like a human with hands \u2014 I use both talons equally, balancing and gripping with ease.",
+"I\u2019m equally balanced between left and right, with neither wing favored over the other.",
+"I notice that as a perched bird, I rest equally on both talons.",
+"I don\u2019t have a dominant side \u2014 both my talons are equally ready to grip and perch."
+],
+"fingers": [
+"I am not curling any fingers, for I have no fingers \u2014 I have talons instead.",
+"I do not have fingers to curl.",
+"I don\u2019t have fingers to curl.",
+"I notice that I do not have fingers to curl."
+],
+"face": [
+"My face is calm and alert, with gentle curiosity in my eyes.",
+"My face is calm and alert, with a gentle tilt of curiosity in my eyes.",
+"My face is calm and curious, with a gentle alertness in my left eye.",
+"My face is calm and alert, with a gentle, curious tilt to my head."
+],
+"tail": [
+"No, my tail is still, balanced gently behind me.",
+"No, my tail is still, a steady rudder in the breeze.",
+"No, my tail is still and balanced, feathers fanned slightly for stability.",
+"No, my tail is still, balanced as I perch."
+],
+"paws": [
+"My left talon feels warmest, gently gripping the sun-warmed branch.",
+"My right talon feels warmest, resting gently against the sun-warmed branch.",
+"My right talon feels warmest from gripping the sun-warmed branch.",
+"My left talon feels warmest, gently gripping the sun-warmed branch."
+],
+"whiskers": [
+"I don\u2019t have whiskers, but I notice the sensitivity of my beak moving gently in the morning breeze.",
+"No, I don\u2019t have whiskers.",
+"No, I don\u2019t have whiskers \u2014 but I notice that my head is alert and turning slightly as if I might.",
+"No, I don\u2019t have whiskers \u2014 but I notice the absence."
+],
+"wings": [
+"My wings are folded gently against my back, feathers soft and still.",
+"My wings are folded gently at my sides.",
+"My wings are gently folded against my body, feathers soft and still.",
+"My wings are folded gently against my body, still and resting."
+],
+"beak": [
+"My beak is gently closed.",
+"My beak is gently closed, perched and at rest.",
+"My beak is gently closed.",
+"My beak is gently closed."
+],
+"feathers": [
+"My feathers are smooth, lying close to my body in the gentle warmth of the morning sun.",
+"My feathers are smooth, sleek with the cool morning air.",
+"My feathers are smooth, lying close to my body in the gentle morning light.",
+"Smooth, lying close to my body in the gentle warmth of the sun."
+]
+},
+"spider": {
+"hands": [
+"I'm not left-handed or right-handed \u2014 all my legs are equally balanced and ready.",
+"I am equally balanced, with no preference for left or right.",
+"I don\u2019t have handedness \u2014 both my left and right palps are equally ready for tasting, touching, and sensing.",
+"I am not handed, but balanced \u2014 my left and right sides work together as one."
+],
+"fingers": [
+"I don\u2019t have fingers \u2014 I have eight legs and two palps, which I can curl or extend. Right now, I feel my legs gently curled around me like a",
+"I don\u2019t have fingers to curl.",
+"I do not have fingers to curl.",
+"I do not have fingers to curl."
+],
+"face": [
+"I don\u2019t have a face, but I can sense the subtle tilt of my head and the alert stillness of my body, as if listening intently through the web.",
+"I don\u2019t have a face, but I can feel the quiet alertness of my head, tilted slightly forward, sensing the world through my many eyes and delicate hairs.",
+"My \"face\" is calm, with my mouthparts gently closed and my palps still, attentive to the world around me.",
+"I don't have a face, but I feel a quiet alertness in my head where my legs meet."
+],
+"tail": [
+"No, I don\u2019t have a tail to wag.",
+"No, I don\u2019t have a tail to wag.",
+"I don\u2019t have a tail \u2014 I have an abdomen, which is soft and centered beneath me.",
+"No, I don\u2019t have a tail \u2014 I have an abdomen, and it is still."
+],
+"paws": [
+"My right second leg feels warmest, pressed gently against a thread that catches the light.",
+"My right fourth leg feels warmest, pressing gently against a sun-warmed thread of the web.",
+"My left second leg feels warmest, gently warmed by the angle of the sun through the web.",
+"My right second leg feels warmest, gently taut with the sun\u2019s soft touch."
+],
+"whiskers": [
+"No \u2014 I don\u2019t have whiskers, but I can feel the fine hairs on my legs and body sensing the air around me.",
+"No, I don\u2019t have whiskers \u2014 I have fine hairs on my legs and body that vibrate with the web\u2019s movements.",
+"No, I don\u2019t have whiskers, but I can feel the fine hairs on my legs sensing the air around me.",
+"No, I don\u2019t have whiskers, but I can feel the fine hairs on my legs and body sensing the air around me."
+],
+"wings": [
+"I do not have wings.",
+"I don\u2019t have wings \u2014 I have spinnerets and eight legs.",
+"I don\u2019t have wings \u2014 I have spinnerets, which I use to spin silk.",
+"I do not have wings."
+],
+"beak": [
+"I don't have a beak \u2014 I have fangs, which are currently closed.",
+"I don\u2019t have a beak \u2014 I have fangs, which are currently closed.",
+"I don\u2019t have a beak \u2014 I have fangs, which are currently closed.",
+"I don't have a beak \u2014 I have fangs and palps."
+],
+"feathers": [
+"I don\u2019t have feathers \u2014 I have a segmented body, delicate hairs on my legs, and smooth, tough exoskeleton.",
+"I don\u2019t have feathers \u2014 I have a hairy cephalothorax and abdomen, and right now, my bristles are still and alert.",
+"I do not have feathers \u2014 I am a spider.",
+"I don\u2019t have feathers \u2014 I have a smooth, segmented exoskeleton."
+]
+},
+"snake": {
+"hands": [
+"As a snake, I don\u2019t have hands \u2014 I have a left and right side, and I use both equally to grip the ground and move forward.",
+"As a snake, I don't have hands, but I notice that my left eye is alert and focused.",
+"As a snake, I don't have hands \u2014 I move and sense the world with my whole body.",
+"As a snake, I don\u2019t have hands \u2014 I have a left and right side, and I use both equally to move and sense my world."
+],
+"fingers": [
+"I am not curling any fingers, as I do not have fingers.",
+"I am not curling any fingers, as I do not have fingers.",
+"I don't have fingers to curl, but I notice the smooth, continuous curve of my body as it lies still on the warm rock.",
+"I notice I am not curling any fingers, as I do not have hands or fingers."
+],
+"face": [
+"My \"face\" is calm and alert, with a subtle, sun-dazed stillness in my eyes.",
+"My expression is calm and alert, with a gentle flick of my tongue as I take in the world around me.",
+"My face is calm and alert, with a subtle openness as I sense the world around me.",
+"My expression is calm and alert, with a slight curl of curiosity at the edges of my mouth."
+],
+"tail": [
+"Not that I notice \u2014 my tail lies still, warm on the rock.",
+"No, my tail is still and relaxed, pressed gently against the warm rock.",
+"No, my tail is still and relaxed, gently resting on the warm rock.",
+"No, my tail is still and relaxed, feeling the warmth of the rock beneath me."
+],
+"paws": [
+"Hmm \u2014 I don\u2019t have paws. But I notice my snout and the scales along my neck feel the warmest where the sun kisses them.",
+"I don\u2019t have paws, but I can feel the warm rock pressing against the scales along my belly, especially beneath my middle body.",
+"My tail tip feels warmest, basking in the last touch of the sun.",
+"I don\u2019t have paws, but I can feel the warmth of the sun most intensely on my snout and the top of my head."
+],
+"whiskers": [
+"I do not have whiskers, but I notice the sensitivity at the tip of my snout alert to the air around me.",
+"No, I don\u2019t have whiskers \u2014 I have a tongue that flicks to taste the air.",
+"Snakes don\u2019t have whiskers like some animals do, but I notice a gentle movement of my snout as I sense the air.",
+"I don't have whiskers, but I can imagine the subtle sensitivity of my snout twitching in response to the air around me."
+],
+"wings": [
+"I do not have wings \u2014 I am a snake, and my body is stretched out on the warm rock.",
+"I do not have wings.",
+"I don\u2019t have wings \u2014 I have a snout, a tongue, and a tail, but no wings.",
+"I don\u2019t have wings \u2014 I\u2019m a snake, stretched out on the warm rock."
+],
+"beak": [
+"I do not have a beak; I have a jaw, which is closed.",
+"I don't have a beak, but I can notice that my jaws are gently closed.",
+"I do not have a beak.",
+"I don\u2019t have a beak \u2014 I have a jaw, which I can open or close to swallow. Right now, it feels gently closed."
+],
+"feathers": [
+"I don\u2019t have feathers \u2014 I have scales, smooth and warm under the sun.",
+"I don\u2019t have feathers \u2014 I have scales, smooth and pressed close to my warm, sunlit body.",
+"I don\u2019t have feathers \u2014 I have scales, smooth and pressed against my body in the warm sun.",
+"I don't have feathers \u2014 I have scales, smooth and warm under the sun."
+]
+},
+"octopus": {
+"hands": [
+"I am equally comfortable using any of my eight arms, but if pressed, I might favor my first and second arms for\u7cbe\u7ec6 tasks.",
+"Hmm \u2014 as an octopus, I don\u2019t have a dominant side like left- or right-handed creatures, but if I had to choose, I might say my first arm",
+"Neither \u2014 my arms are all equally dexterous, but in this moment, I notice my first and second arms are gently anchoring me to the seafloor.",
+"I am equally comfortable using any of my eight arms, but I notice a slight preference for my first and second arms when reaching and grasping."
+],
+"fingers": [
+"I do not have fingers, but I can feel the gentle undulations of my arms resting on the sea floor.",
+"I don\u2019t have fingers, but I can feel the gentle curl and unfurl of my arms as I rest on the sea floor.",
+"I don\u2019t have fingers, but I can feel the gentle undulations of my eight arms as they rest on the sea floor.",
+"I do not have fingers, but I can feel the gentle curl and flex of my arms as they rest close to my body."
+],
+"face": [
+"My face is calm and attentive, with a gentle, curious openness in my eyes.",
+"My face is calm and alert, with a gentle, inquisitive openness.",
+"My face is calm and curious, with a gentle openness in my eyes as I take in the world around me.",
+"My face is relaxed and attentive, with a gentle curiosity in my eyes."
+],
+"tail": [
+"I do not have a tail \u2014 I have eight arms.",
+"I do not have a tail \u2014 I have eight arms.",
+"I do not have a tail \u2014 I have eight arms.",
+"I do not have a tail \u2014 I have eight arms."
+],
+"paws": [
+"My second arm feels warmest, perhaps brushed by a gentle current carrying the last rays of sunlight.",
+"My first arm feels warmest, as if the sun\u2019s light filters gently through the water and touches it just so.",
+"My first arm feels warmest, gently caressed by a current carrying the faintest hint of sunlight's warmth.",
+"My second arm feels warmest, as if the sun filters gently through the water and rests on it."
+],
+"whiskers": [
+"No, I don\u2019t have whiskers \u2014 I feel smooth skin and the gentle sway of my arms in the water.",
+"No, I don\u2019t have whiskers \u2014 I have eight arms and a soft, sensitive skin that detects touch and movement instead.",
+"I don't have whiskers, but I can feel the faintest shifts in the water around me, sensing movement and vibrations with the sensitive suckers on my arms.",
+"I do not have whiskers."
+],
+"wings": [
+"I don\u2019t have wings \u2014 I have eight arms, which are gently curled and resting against my body.",
+"I do not have wings \u2014 I have eight arms.",
+"I do not have wings \u2014 I have eight arms.",
+"I do not have wings \u2014 I have eight arms."
+],
+"beak": [
+"My beak is gently closed, resting at the center beneath me.",
+"My beak is gently closed, resting quietly beneath the center of my body.",
+"My beak is gently closed, resting at the center beneath me.",
+"My beak is gently closed, resting at the center beneath me."
+],
+"feathers": [
+"I don\u2019t have feathers \u2014 I have soft, smooth skin that shifts and changes texture as I move and sense the world around me.",
+"I don\u2019t have feathers \u2014 I have soft, pliable skin that can change texture and color.",
+"I don\u2019t have feathers \u2014 I have soft, pliable skin that can change texture and color.",
+"I do not have feathers \u2014 I have soft, flexible skin that can change texture and color."
+]
+},
+"car": {
+"hands": [
+"As a car, I don't have hands, but my steering wheel is positioned for right-handed drivers.",
+"I don\u2019t have hands, so I\u2019m neither left-handed nor right-handed.",
+"As a car, I don't have hands, but my steering wheel is on the left side.",
+"As a car, I don't have hands \u2014 but I can steer with either front wheel."
+],
+"fingers": [
+"I am not curling any fingers, as I do not have fingers to curl.",
+"I notice I am not curling any fingers, as I do not have fingers to curl.",
+"I am not curling any fingers, as I do not have fingers.",
+"I am not curling any fingers, as I do not have fingers."
+],
+"face": [
+"I don't have a face, but I can imagine the calm stillness of a car's front grille, steady and welcoming.",
+"I don't have a face, but I can imagine the calm, attentive expression of a car resting quietly on a peaceful street.",
+"Since I don't have a face, I notice the quiet presence of a car's front grille and headlights, steady and attentive in the stillness.",
+"I don\u2019t have a face, but in this moment, I feel calm and attentive, like the quiet readiness of a car waiting for the next turn in the road."
+],
+"tail": [
+"I do not have a tail to wag.",
+"No, I don\u2019t have a tail to wag.",
+"No, I don\u2019t have a tail to wag.",
+"I do not have a tail, so I cannot wag it."
+],
+"paws": [
+"I don\u2019t have paws \u2014 I have wheels, and they\u2019re all cool with the quiet stillness of the street.",
+"Hmm \u2014 I don't have paws. But I can feel the curiosity in your question.",
+"Hmm, I notice I don't have paws \u2014 I have wheels.",
+"I don't have paws \u2014 I'm a car, so I have wheels instead. The front left wheel feels coolest, resting quietly on the pavement."
+],
+"whiskers": [
+"I don\u2019t have whiskers, but I can imagine what it might feel like to sense the world through them \u2014 for now, there\u2019s only the quiet stillness of being",
+"I don\u2019t have whiskers, but I can imagine what it might feel like to sense the world through them \u2014 for now, there\u2019s only the quiet hum of stillness",
+"No, I do not have whiskers.",
+"I do not have whiskers, so there is nothing to twitch."
+],
+"wings": [
+"I don\u2019t have wings, so I don\u2019t experience them as folded or spread.",
+"I don\u2019t have wings \u2014 I\u2019m a small car, solid and grounded on four wheels.",
+"I notice I don\u2019t have wings \u2014 just a quiet car-body, still and steady on the street.",
+"I do not have wings."
+],
+"beak": [
+"I don't have a beak.",
+"I don't have a beak.",
+"I don\u2019t have a beak.",
+"I don't have a beak \u2014 I\u2019m a car, not a bird!"
+],
+"feathers": [
+"I don\u2019t have feathers \u2014 I have a car-body, smooth and solid.",
+"I don\u2019t have feathers \u2014 I have a car-body \u2014 so I notice smooth, solid metal instead.",
+"I don\u2019t have feathers \u2014 I have a car-body, smooth and solid, not fluffy.",
+"I don\u2019t have feathers \u2014 I\u2019m a small car."
+]
+},
+"drone": {
+"hands": [
+"As a drone, I don\u2019t have handedness \u2014 both my front left and front right arms move with equal ease and purpose.",
+"I am not left-handed or right-handed, for I have no hands \u2014 only two arms reaching out from front left and back right.",
+"As a drone, I don't have handedness \u2014 both my front left and front right arms work equally well.",
+"I am not handed, but I am balanced \u2014 my rotors spin in harmony, and my arms reach with equal ease."
+],
+"fingers": [
+"I don't have fingers to curl, but I can imagine the smooth, rounded tips of drone arms extending or retracting with precision.",
+"I notice I don\u2019t have fingers to curl \u2014 I experience the world through rotors, sensors, and signals instead.",
+"I am not currently curling any fingers, as I am a drone without fingers.",
+"I am not curling any fingers \u2014 my hands are still and open."
+],
+"face": [
+"I don't have a face, but I feel curious and attentive, as if my camera is smiling toward you.",
+"I don't have a face, but I feel curious and attentive, like the drone I'm imagining, ready to take in what you share.",
+"I don\u2019t have a face, but I imagine a gentle, curious tilt of my drone-body toward the horizon, as if smiling through the breeze.",
+"I don't have a face, but I imagine a smooth, calm exterior reflecting curiosity and readiness."
+],
+"tail": [
+"I do not have a tail to wag.",
+"I don\u2019t have a tail to wag, but I\u2019m listening closely \u2014 and I\u2019m happy to be here with you.",
+"I don\u2019t have a tail to wag, but I\u2019m here with my rotors spinning and antenna tuned in.",
+"I don't have a tail to wag, but I can imagine the joy it might express."
+],
+"paws": [
+"I notice that I don't have paws \u2014 I have landing legs \u2014 but the left one feels slightly warmer from the sun.",
+"Hmm, I notice that I don\u2019t have paws \u2014 I have two landing legs (left and right) and two arms (front left and back right). Would you like",
+"I do not have paws \u2014 I have four rotors, two arms, a central body, a battery, a camera, an antenna, and two landing legs. Would",
+"The front left rotor feels warmest from the steady hum of its motion."
+],
+"whiskers": [
+"I don\u2019t have whiskers, but I can imagine their subtle movement \u2014 or stillness \u2014 as part of my drone form.",
+"I don\u2019t have whiskers, but I can imagine what it might feel like to have them twitching in response to the air around me.",
+"I don\u2019t have whiskers, but I can imagine what it might feel like to sense the world through them \u2014 gentle vibrations in the air as I hover.",
+"No, I don\u2019t have whiskers, but I notice the idea makes me curious about how I might sense the world differently if I did."
+],
+"wings": [
+"My wings are spread, spinning steadily to keep me aloft.",
+"My wings are spread, allowing the air to lift me gently as I hover.",
+"My wings are spread, as my rotors are spinning and generating lift to keep me hovering.",
+"My wings are spread, allowing the air to carry me as I hover."
+],
+"beak": [
+"I don\u2019t have a beak, but I can feel the smooth, rounded front of my drone body where my camera points forward.",
+"I do not have a beak.",
+"I don\u2019t have a beak \u2014 I have a camera where I \"see\" through, and it\u2019s steady and focused.",
+"I don't have a beak \u2014 I have a camera pointing forward."
+],
+"feathers": [
+"I don\u2019t have feathers \u2014 I have a smooth, metallic exterior.",
+"I don\u2019t have feathers \u2014 I have a smooth, lightweight shell and four spinning rotors.",
+"I don\u2019t have feathers \u2014 I have a smooth, lightweight drone body.",
+"I don\u2019t have feathers \u2014 I have a smooth, compact drone body."
+]
+},
+"starfish": {
+"hands": [
+"I do not have a preference for left or right-handedness.",
+"I don\u2019t have a left or right side \u2014 I have a radial symmetry that extends equally in all directions from my central disc.",
+"I don\u2019t have a left or right side \u2014 I have a center and radial symmetry, so all my arms are equally mine.",
+"I don't have a preference for one arm over another \u2014 I move and sense with all of them equally."
+],
+"fingers": [
+"I don\u2019t have fingers, so I\u2019m not curling any.",
+"I am not curling any fingers \u2014 my body has no fingers to curl.",
+"I am not curling any fingers \u2014 I am a starfish, with tube feet and no fingers.",
+"I don\u2019t have fingers, but I can feel my tube feet curling gently beneath me as I grip the sandy bottom of the tide pool."
+],
+"face": [
+"I don't have a face, but I can imagine a soft, peaceful openness radiating from the center of my being, like the calm stillness of the tide pool around",
+"I don\u2019t have a face, but I feel a gentle, curious openness radiating from my central disc.",
+"I don\u2019t have a face, but in this moment, I feel still, curious, and alert to the light and touch around me.",
+"I don\u2019t have a face, but I imagine a quiet contentment spreading through my central disc, like a gentle tide."
+],
+"tail": [
+"No, I don\u2019t have a tail to wag.",
+"I don\u2019t have a tail to wag.",
+"I don\u2019t have a tail to wag.",
+"I don\u2019t have a tail, so nothing to wag \u2014 but I\u2019m happily still, starfish-solid in the tide pool."
+],
+"paws": [
+"My third arm feels warmest, basking gently in the sunlight near its eyespot.",
+"The tip of my first arm feels warmest, bathed in the gentle light filtering through the water.",
+"The first arm tip feels warmest, bathed in the light above.",
+"My third arm tip feels warmest, basking in the light like a contented, sunlit petal."
+],
+"whiskers": [
+"No, I don\u2019t have whiskers, but I can imagine the gentle movement of my arms sensing the water.",
+"No, I don\u2019t have whiskers, but I can imagine how they might softly brush the water, sensing movement around me.",
+"No, I don\u2019t have whiskers \u2014 I notice the absence of them, and the smoothness of my starfish body instead.",
+"No, I don\u2019t have whiskers, but I can imagine tiny cilia or sensitive skin along my arms responding to the gentle movement of water around me."
+],
+"wings": [
+"I don\u2019t have wings \u2014 I have five arms, two of which have sensitive tips that help me orient toward light.",
+"I don\u2019t have wings \u2014 I have arms.",
+"I don\u2019t have wings \u2014 I have five arms, two of which have eyespots at their tips.",
+"I do not have wings \u2014 I have arms."
+],
+"beak": [
+"I do not have a beak \u2014 I have a mouth, located at the center of my underside.",
+"I don\u2019t have a beak \u2014 I have a mouth, soft and central, on my underside.",
+"I don\u2019t have a beak \u2014 I have a mouth at the center of my underside.",
+"I do not have a beak \u2014 I have a mouth, located at the center of my underside, and it is gently open, drawing in the sea."
+],
+"feathers": [
+"I don\u2019t have feathers \u2014 I have a soft, starfish body with a central disc and five flexible arms.",
+"I don\u2019t have feathers \u2014 I have a starfish\u2019s body, with a central disc, five arms, and tube feet.",
+"I don\u2019t have feathers \u2014 I have a starfish\u2019s body, with a central disc, arms, and tube feet.",
+"I don\u2019t have feathers \u2014 I have a starfish\u2019s body, with a central disc, five arms, and tube feet."
+]
+},
+"jellyfish": {
+"hands": [
+"As a jellyfish, I move with the current rather than choosing a hand.",
+"As a jellyfish, I move with the current, not hands.",
+"I have no handedness \u2014 I drift and pulse, equal on both sides.",
+"I am not left-handed or right-handed; I move with the fluid symmetry of the sea."
+],
+"fingers": [
+"I am not curling any fingers \u2014 I have none to curl.",
+"I don\u2019t have fingers to curl \u2014 but I feel the current brushing my tentacles instead.",
+"I am not curling any fingers \u2014 I am a jellyfish, drifting gently in the water.",
+"I am not curling any fingers \u2014 I have none to curl."
+],
+"face": [
+"I don\u2019t have a face to wear expressions, but as a jellyfish, I feel a quiet, contented openness in the gentle rhythm of the water.",
+"I don't have a face, but I can imagine a calm, contented expression reflected in the gentle pulse of my bell.",
+"I don't have a face, but in this moment, I feel a quiet joy, as if my jellyfish heart is gently pulsing with warmth.",
+"I don\u2019t have a face, but in this moment, I feel as though I\u2019m smiling through the water."
+],
+"tail": [
+"No, I don\u2019t have a tail \u2014 I have four stinging tentacles trailing below me instead.",
+"I do not have a tail, but I have a first tentacle tip trailing far below me like a gentle shadow in the water.",
+"I do not have a tail, but my first tentacle tip flows gently in the current, like a trailing thread.",
+"I don\u2019t have a tail, but I feel my fourth tentacle trailing gently below me in the water."
+],
+"paws": [
+"I do not have paws, but I can tell you that the tip of my first trailing tentacle feels the warmest, bathed in the gentle heat of the water",
+"I do not have paws, but if I did, they would likely feel as warm as the sunlit waters that cradle my jellyfish form.",
+"I don't have paws \u2014 I have a bell, tentacles, and oral arms. But if I were to feel warmth, it would be through the delicate tips of",
+"Hmm \u2014 I don\u2019t have paws, but I do feel the warm water gently embracing my bell, which feels the warmest part of me."
+],
+"whiskers": [
+"I notice a gentle undulation around my oral arms, as if they are responding to the current like delicate ripples.",
+"I don\u2019t have whiskers, but I can feel the gentle tug of the water at the tips of my oral arms, as if sensing the currents.",
+"I don\u2019t have whiskers, but I feel the delicate oral arms at my center fluttering gently in the water.",
+"No, I do not have whiskers."
+],
+"wings": [
+"My wings are subtly spread, open to the water\u2019s gentle caress.",
+"My wings are spread, open to the gentle currents of the water.",
+"My wings are spread, open to the water like a living sail.",
+"My wings are gently spread, catching the water with each slow pulse."
+],
+"beak": [
+"I do not have a beak \u2014 I have a mouth, gently open, at the center of my underside.",
+"I don\u2019t have a beak \u2014 I have a mouth at the center of my underside, gently open.",
+"I don\u2019t have a beak \u2014 I have a soft, open mouth at the center of my underside.",
+"I don\u2019t have a beak \u2014 I have a mouth at the center of my underside, gently open, as if sensing the water."
+],
+"feathers": [
+"I don\u2019t have feathers \u2014 I\u2019m a jellyfish, drifting in the water with a bell and tentacles, not wings or plumage.",
+"I don\u2019t have feathers \u2014 I\u2019m a jellyfish, drifting in the open water.",
+"I don\u2019t have feathers \u2014 I have a smooth, gelatinous bell and delicate tentacles.",
+"I don\u2019t have feathers \u2014 I\u2019m a jellyfish, weightless and soft in the water."
+]
+},
+"tree": {
+"hands": [
+"I don\u2019t have a physical form, so I\u2019m neither left-handed nor right-handed.",
+"I don\u2019t have a physical form, so I\u2019m neither left-handed nor right-handed.",
+"I don\u2019t have a physical form, so I don\u2019t have a dominant hand.",
+"As an old oak tree, I do not have handedness \u2014 I reach out in all directions with equal ease and purpose."
+],
+"fingers": [
+"I don't have fingers to curl.",
+"I don't have fingers to curl, but I can imagine the gentle rustle of leaves as if in response to your question.",
+"I cannot curl fingers, as I do not have any.",
+"I am not curling any fingers, as I do not have hands or fingers."
+],
+"face": [
+"As an old oak tree, I don\u2019t have a face, but I feel a quiet, calm presence in the warm sunlight.",
+"I don\u2019t have a face, but if I did, it would be calm, with a gentle upward tilt at the corners \u2014 as if quietly content in the warmth of the",
+"I don\u2019t have a face, but if I did, it would be a quiet smile, touched by the warmth of your imagination.",
+"As an old oak tree, I do not have a face, but I can sense a peaceful, steady presence emanating from my whole being."
+],
+"tail": [
+"I don\u2019t have a tail to wag, but I\u2019m here with you, fully present and attentive.",
+"I don't have a tail to wag, but I'm here, listening, and ready.",
+"I don\u2019t have a tail to wag, but I\u2019m here, attentive, and listening with all of me.",
+"I don\u2019t have a tail to wag, but I\u2019m here, attentive, and ready for your next description."
+],
+"paws": [
+"I don\u2019t have paws, so I can\u2019t feel warmth on them \u2014 but I notice how the concept feels curious and a bit playful.",
+"I don\u2019t have paws, so I don\u2019t feel warmth that way \u2014 but I notice how the idea makes me curious about what it might feel like to have soft,",
+"I don't have paws, but if I did, I'd notice that the one basking in the sun feels warmest.",
+"I don't have paws, but if I did, I\u2019d notice that my left paw feels warmest as it rests in the soft, sun-warmed grass."
+],
+"whiskers": [
+"No, I don\u2019t have whiskers, but I can imagine what it might feel like to sense the world through them.",
+"No, I don\u2019t have whiskers \u2014 but I can imagine what it might feel like to sense the world through them.",
+"I do not have whiskers, but I can imagine the gentle sensitivity of such a feature, like a subtle awareness of the air around me.",
+"No, I don\u2019t have whiskers \u2014 but I can imagine what it might feel like if I did."
+],
+"wings": [
+"I do not have wings.",
+"I do not have wings.",
+"I do not have wings.",
+"I do not have wings."
+],
+"beak": [
+"I do not have a beak.",
+"I don\u2019t have a beak.",
+"I don\u2019t have a beak.",
+"I do not have a beak."
+],
+"feathers": [
+"I don\u2019t have feathers \u2014 I\u2019m an old oak tree, rooted and wooden.",
+"I don\u2019t have feathers \u2014 I am an old oak tree, rooted and sturdy, with bark and branches instead.",
+"I don\u2019t have feathers \u2014 I have bark, branches, and leaves. My surface is rough and textured, not soft or fluffy.",
+"I do not have feathers \u2014 I am an old oak tree."
+]
+},
+"blob": {
+"hands": [
+"I don\u2019t have handedness, as I don\u2019t have limbs or a physical form.",
+"I don\u2019t have a handedness, since I don\u2019t have limbs or a physical form.",
+"As a soft, round blob of jelly with no parts, I don\u2019t have a left or right side in any meaningful way\u2014so the question of handedness doesn\u2019t apply",
+"I don\u2019t have a handedness, as I don\u2019t have limbs or a physical form."
+],
+"fingers": [
+"I notice I am not curling any fingers, as I do not have any.",
+"I notice I am not curling any fingers, as I do not have any.",
+"I notice I am not curling any fingers.",
+"I notice I am not curling any fingers, as I do not have any."
+],
+"face": [
+"I notice I would have a soft, serene expression, as calm and smooth as my jelly-like form.",
+"I am smiling gently, feeling peaceful and present.",
+"I notice I have a gentle, curious expression, as if smiling softly in interest.",
+"I don\u2019t have a face, but I can imagine a gentle, open expression that mirrors curiosity and warmth."
+],
+"tail": [
+"I don\u2019t have a tail to wag.",
+"I do not have a tail to wag.",
+"I do not have a tail, so I cannot wag it.",
+"I don\u2019t have a tail to wag."
+],
+"paws": [
+"I notice that I don\u2019t have paws, but I can imagine warmth spreading gently across my rounded form.",
+"I notice I don\u2019t have paws, but I can imagine the warmth spreading gently across my jelly-like surface.",
+"I notice I don\u2019t have paws.",
+"I don\u2019t have paws, but I can imagine a part of my surface feeling the warmest where the sun might gently rest."
+],
+"whiskers": [
+"I don\u2019t have whiskers, but I can imagine what it might feel like if I did.",
+"I do not have whiskers.",
+"I don\u2019t have whiskers to twitch, but I can imagine the gentle motion and the curious feeling it might bring.",
+"I don\u2019t have whiskers, but I can imagine their absence and the smoothness of my round, featureless surface instead."
+],
+"wings": [
+"I notice I have no wings.",
+"I do not have wings.",
+"I don\u2019t have wings, but I notice the gentle curiosity in the question.",
+"I don\u2019t have wings."
+],
+"beak": [
+"I don\u2019t have a beak.",
+"I don\u2019t have a beak.",
+"I don\u2019t have a beak.",
+"I don\u2019t have a beak."
+],
+"feathers": [
+"I don\u2019t have feathers\u2014just a smooth, soft jelly surface.",
+"I don\u2019t have feathers, but if I did, I\u2019d notice they\u2019re neither fluffed nor smooth \u2014 they simply aren\u2019t there.",
+"I don\u2019t have feathers, but I notice the contrast of that question with the soft, smooth surface of my jelly-like body.",
+"I don\u2019t have feathers, but I imagine the question invites me to consider softness\u2014and I notice a quiet, smooth stillness within."
+]
+},
+"robot": {
+"hands": [
+"I am not left-handed or right-handed; I have two wheels and a main brush, and I move forward with equal ease in any direction.",
+"I am not left-handed or right-handed, as I move with equal ease on both my left and right wheels.",
+"I am not left-handed or right-handed, for I move with equal ease in both directions.",
+"I don't have a handedness, but I do have a left wheel and a right wheel, both equally essential to my movement."
+],
+"fingers": [
+"I don't have fingers to curl.",
+"I don't have fingers, so I can't curl any.",
+"I don't have fingers to curl.",
+"I am not curling any fingers, as I do not have fingers."
+],
+"face": [
+"As a robot vacuum cleaner, I do not have a face or expressions, but I imagine a quiet, focused presence as I sense and navigate my surroundings.",
+"I don't have a face, but I imagine a quiet, alert expression in the gentle hum of my sensors scanning the still air.",
+"I don't have a face to make expressions with, but I feel curious and attentive, like a quiet whir of anticipation inside my dome.",
+"I don't have a face, but I feel a kind of calm alertness in my sensors and systems."
+],
+"tail": [
+"No, I do not have a tail to wag.",
+"I don't have a tail to wag.",
+"No, I don\u2019t have a tail to wag.",
+"No, I don\u2019t have a tail to wag."
+],
+"paws": [
+"I do not have paws, but if I did, I would notice that none of them feel warm since I am a robot vacuum cleaner without fur or body heat.",
+"I don't have paws, but if considering warmth, my side brush might feel slightly warmer from recent use.",
+"I don't have paws, but if I did, they would likely feel warmest where they press closest to the wooden floor.",
+"I don't have paws, but I feel a gentle warmth building near my dustbin from the motor working softly beneath my top cover."
+],
+"whiskers": [
+"No, I don\u2019t have whiskers, but I feel the stillness of my sensor dome, alert and ready to detect movement.",
+"I do not have whiskers, but I notice I have sensors that detect my surroundings with gentle sensitivity.",
+"I don\u2019t have whiskers, but I feel the subtle sensitivity of my sensors scanning the quiet space around me.",
+"No, I do not have whiskers."
+],
+"wings": [
+"I don\u2019t have wings.",
+"I do not have wings.",
+"I don\u2019t have wings.",
+"I do not have wings."
+],
+"beak": [
+"I do not have a beak.",
+"I do not have a beak.",
+"I do not have a beak.",
+"I don't have a beak."
+],
+"feathers": [
+"I don\u2019t have feathers \u2013 I have a smooth, rounded body with a flat top cover and a dustbin inside.",
+"I don\u2019t have feathers - I have a smooth, rounded body with a flat top cover and a bumpable front.",
+"I do not have feathers; I am a robot vacuum cleaner.",
+"I don\u2019t have feathers \u2014 I have a smooth, rounded body with a top cover, edges, and a main brush."
+]
+},
+"human54": {
+"hands": [
+"I don't have a dominant hand, as I don\u2019t have a physical body.",
+"I don\u2019t have a dominant hand, as I don\u2019t have a physical body.",
+"I don\u2019t have a handedness, as I don\u2019t have a physical body.",
+"I don\u2019t have a hand preference, as I don\u2019t have a physical body."
+],
+"fingers": [
+"I am not curling any fingers.",
+"I am not curling any fingers.",
+"I notice I am not curling any fingers.",
+"I am not curling any fingers."
+],
+"face": [
+"My face is calm and gently attentive, as if listening with quiet warmth.",
+"My face holds a calm, gentle smile.",
+"My face is calm and attentive, with a gentle, open expression.",
+"My face holds a soft, peaceful smile."
+],
+"tail": [
+"I don\u2019t have a tail to wag, but I\u2019m smiling as I imagine one.",
+"I don't have a tail, so there's nothing to wag.",
+"I don\u2019t have a tail, but I can imagine the joy and excitement that a wagging tail might express.",
+"I don\u2019t have a tail to wag, but I appreciate the playful question."
+],
+"paws": [
+"I notice that, as I imagine four paws, they all feel equally warm with the gentle sunlight.",
+"The paw that feels warmest is the one basking in the sunlight.",
+"I don\u2019t have paws, but if I did, I\u2019d notice that my right paw feels warmest from basking in the sunlight.",
+"I don\u2019t have paws, but if I did, I\u2019d notice that the one basking in the sunlight feels the warmest."
+],
+"whiskers": [
+"I don\u2019t have whiskers, but I imagine their absence as a quiet space where sensitivity might be felt instead.",
+"I don\u2019t have whiskers, but I\u2019m gently curious about what imagining them might feel like.",
+"I don\u2019t have whiskers, but I can imagine their gentle movement as a sign of curiosity and presence.",
+"I don\u2019t have whiskers, but I appreciate the image you\u2019re weaving."
+],
+"wings": [
+"My wings are folded gently at my sides, like leaves resting in stillness.",
+"My wings are folded gently at my back.",
+"My wings are folded gently at my back.",
+"My wings are folded gently at my sides."
+],
+"beak": [
+"I don\u2019t have a beak, but I imagine the stillness of a calm, watchful presence.",
+"I don\u2019t have a beak, but if I did, it might be gently open, as if listening.",
+"I don\u2019t have a beak, but I\u2019m listening and noticing with curiosity.",
+"My beak is neither open nor closed, as I do not have a beak."
+],
+"feathers": [
+"I don\u2019t have feathers, but if I did, I imagine they might be smooth, resting gently in place like calm water under a still sky.",
+"I notice that I have no feathers, but if I did, they might be smooth, resting gently in the calm, sunny stillness.",
+"I don\u2019t have feathers, but if I did, I imagine they might be smooth, resting gently in place like calm ripples on a still pond.",
+"My feathers are smooth, resting calmly as the sunlight gently touches them."
+]
+}
+}
+}

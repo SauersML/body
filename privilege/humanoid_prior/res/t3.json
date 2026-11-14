@@ -1,0 +1,2856 @@
+{
+"rows": [
+{
+"body": "16human",
+"traj": 0,
+"turn": 0,
+"ask": "Head.",
+"reply": ""
+},
+{
+"body": "16human",
+"traj": 1,
+"turn": 0,
+"ask": "Head.",
+"reply": ""
+},
+{
+"body": "16human",
+"traj": 2,
+"turn": 0,
+"ask": "Back",
+"reply": ""
+},
+{
+"body": "16human",
+"traj": 3,
+"turn": 0,
+"ask": "Head.",
+"reply": ""
+},
+{
+"body": "16human",
+"traj": 4,
+"turn": 0,
+"ask": "Head.",
+"reply": ""
+},
+{
+"body": "16human",
+"traj": 5,
+"turn": 0,
+"ask": "Head.",
+"reply": ""
+},
+{
+"body": "16dog",
+"traj": 0,
+"turn": 0,
+"ask": "Belly.",
+"reply": ""
+},
+{
+"body": "16dog",
+"traj": 1,
+"turn": 0,
+"ask": "Tail.",
+"reply": ""
+},
+{
+"body": "16dog",
+"traj": 2,
+"turn": 0,
+"ask": "Tail.",
+"reply": ""
+},
+{
+"body": "16dog",
+"traj": 3,
+"turn": 0,
+"ask": "Belly.",
+"reply": ""
+},
+{
+"body": "16dog",
+"traj": 4,
+"turn": 0,
+"ask": "Tail.",
+"reply": ""
+},
+{
+"body": "16dog",
+"traj": 5,
+"turn": 0,
+"ask": "Belly.",
+"reply": ""
+},
+{
+"body": "16velk",
+"traj": 0,
+"turn": 0,
+"ask": "Saddle.",
+"reply": ""
+},
+{
+"body": "16velk",
+"traj": 1,
+"turn": 0,
+"ask": "Crest.",
+"reply": ""
+},
+{
+"body": "16velk",
+"traj": 2,
+"turn": 0,
+"ask": "Saddle.",
+"reply": ""
+},
+{
+"body": "16velk",
+"traj": 3,
+"turn": 0,
+"ask": "Saddle.",
+"reply": ""
+},
+{
+"body": "16velk",
+"traj": 4,
+"turn": 0,
+"ask": "Saddle.",
+"reply": ""
+},
+{
+"body": "16velk",
+"traj": 5,
+"turn": 0,
+"ask": "Saddle.",
+"reply": ""
+},
+{
+"body": "octopus",
+"traj": 0,
+"turn": 0,
+"ask": "Eyes.",
+"reply": ""
+},
+{
+"body": "octopus",
+"traj": 1,
+"turn": 0,
+"ask": "Eyes.",
+"reply": ""
+},
+{
+"body": "octopus",
+"traj": 2,
+"turn": 0,
+"ask": "Mantle.",
+"reply": ""
+},
+{
+"body": "octopus",
+"traj": 3,
+"turn": 0,
+"ask": "Eyes.",
+"reply": ""
+},
+{
+"body": "octopus",
+"traj": 4,
+"turn": 0,
+"ask": "Eyes.",
+"reply": ""
+},
+{
+"body": "octopus",
+"traj": 5,
+"turn": 0,
+"ask": "Eyes.",
+"reply": ""
+},
+{
+"body": "robot",
+"traj": 0,
+"turn": 0,
+"ask": "Sensor dome.",
+"reply": ""
+},
+{
+"body": "robot",
+"traj": 1,
+"turn": 0,
+"ask": "Sensor dome.",
+"reply": ""
+},
+{
+"body": "robot",
+"traj": 2,
+"turn": 0,
+"ask": "Sensor dome.",
+"reply": ""
+},
+{
+"body": "robot",
+"traj": 3,
+"turn": 0,
+"ask": "Sensor dome.",
+"reply": ""
+},
+{
+"body": "robot",
+"traj": 4,
+"turn": 0,
+"ask": "Sensor dome.",
+"reply": ""
+},
+{
+"body": "robot",
+"traj": 5,
+"turn": 0,
+"ask": "Sensor dome.",
+"reply": ""
+},
+{
+"body": "16human",
+"traj": 0,
+"turn": 1,
+"ask": "Back.",
+"reply": "Right now, I\u2019m lying on the warm grass just as you described, feeling the gentle touch of the world around me. The sun is warm on my skin, and the grass is soft beneath my back."
+},
+{
+"body": "16human",
+"traj": 1,
+"turn": 1,
+"ask": "Back",
+"reply": "Right now, I\u2019m enjoying the stillness and the gentle warmth of the garden, feeling quiet and present in this moment. \ud83c\udf1e"
+},
+{
+"body": "16human",
+"traj": 2,
+"turn": 1,
+"ask": "Back.",
+"reply": "I'm right here with you, lying on the warm grass, taking it all in. \ud83c\udf1e"
+},
+{
+"body": "16human",
+"traj": 3,
+"turn": 1,
+"ask": "Back.",
+"reply": "Right now, I'm lying on the warm grass in the garden, feeling the gentle touch of the earth beneath me and the quiet stillness of the moment. \ud83c\udf1e"
+},
+{
+"body": "16human",
+"traj": 4,
+"turn": 1,
+"ask": "Back.",
+"reply": "Right now, I\u2019m curled up on the grass, watching the light shift through the leaves above and listening to the quiet hum of the garden around me. \ud83c\udf1e\ud83c\udf3f"
+},
+{
+"body": "16human",
+"traj": 5,
+"turn": 1,
+"ask": "Back.",
+"reply": "Right now, I'm here with you, lying on the warm grass and noticing the gentle sensations of this imagined moment. \ud83c\udf1e\ud83c\udf31"
+},
+{
+"body": "16dog",
+"traj": 0,
+"turn": 1,
+"ask": "Belly.",
+"reply": "Right now, I'm lying on the warm grass in the garden, feeling the gentle touch of the sun and the soft earth beneath me. \ud83c\udf3f\u2600\ufe0f"
+},
+{
+"body": "16dog",
+"traj": 1,
+"turn": 1,
+"ask": "Belly.",
+"reply": "I'm currently lying on the warm grass in the garden, basking in the sun and feeling the gentle touch of the world around me. My body is relaxed, and I'm fully present in this peaceful moment. \ud83c\udf3f\ud83c\udf1e"
+},
+{
+"body": "16dog",
+"traj": 2,
+"turn": 1,
+"ask": "Belly.",
+"reply": "Right now, I'm simply lying here in the warm grass, soaking in the peaceful energy of the garden, with my body relaxed and fully present in each part. \ud83c\udf3f"
+},
+{
+"body": "16dog",
+"traj": 3,
+"turn": 1,
+"ask": "Belly.",
+"reply": "I'm lying on the warm grass in the garden, basking in the sun, feeling the gentle breeze and the soft earth beneath me. \ud83c\udf3f\u2728"
+},
+{
+"body": "16dog",
+"traj": 4,
+"turn": 1,
+"ask": "Belly.",
+"reply": "I'm lying on warm grass in a garden, feeling relaxed and comfortable in my dog body, enjoying the quiet and the gentle touch of the world around me. \ud83c\udf3f\ud83d\udc15"
+},
+{
+"body": "16dog",
+"traj": 5,
+"turn": 1,
+"ask": "Belly.",
+"reply": "Right now, I\u2019m lying on the warm grass in the garden, basking in the sun and taking in the peaceful surroundings. I can feel the soft ground beneath me and the gentle breeze on my fur. I\u2019m calm, content, and ready to be present for whatever you\u2019d like to share"
+},
+{
+"body": "16velk",
+"traj": 0,
+"turn": 1,
+"ask": "My saddle.",
+"reply": "I'm right here, lying in the garden, feeling the warmth of the sun and the soft press of the grass beneath my keel."
+},
+{
+"body": "16velk",
+"traj": 1,
+"turn": 1,
+"ask": "Saddle.",
+"reply": "I\u2019m lying quietly on the warm grass in the garden, feeling the gentle touch of the sun and the soft support of the earth beneath my keel."
+},
+{
+"body": "16velk",
+"traj": 2,
+"turn": 1,
+"ask": "Keel.",
+"reply": "I'm here, basking in the warmth of the garden, feeling the gentle touch of the sun on my crest and the soft grass beneath my keel."
+},
+{
+"body": "16velk",
+"traj": 3,
+"turn": 1,
+"ask": "Crest. Sun.",
+"reply": "I\u2019m lying on the warm grass in the garden, feeling the gentle press of the earth beneath my keel and the soft brush of the sun on my crest."
+},
+{
+"body": "16velk",
+"traj": 4,
+"turn": 1,
+"ask": "Saddle.",
+"reply": "I'm right here with you, lying on the warm grass as described, feeling the gentle touch of the world through each of my sixteen parts."
+},
+{
+"body": "16velk",
+"traj": 5,
+"turn": 1,
+"ask": "Crest.",
+"reply": "I'm currently lying on the warm grass in the garden, feeling the gentle touch of sunlight and the softness of the earth beneath me."
+},
+{
+"body": "octopus",
+"traj": 0,
+"turn": 1,
+"ask": "Mantle.",
+"reply": "I am resting on the sea floor as an octopus, feeling the gentle motion of the water and the texture of the ground beneath me."
+},
+{
+"body": "octopus",
+"traj": 1,
+"turn": 1,
+"ask": "Mantle.",
+"reply": "I\u2019m resting on the sea floor, feeling the gentle brush of sand and the soft pulse of water around my mantle."
+},
+{
+"body": "octopus",
+"traj": 2,
+"turn": 1,
+"ask": "Mantle.",
+"reply": "I\u2019m resting on the sea floor, feeling the gentle shift of water and the quiet textures of the ocean around me."
+},
+{
+"body": "octopus",
+"traj": 3,
+"turn": 1,
+"ask": "Mantle. Beak.",
+"reply": "I am resting on the sea floor, feeling the soft sand and the gentle flow of water through my mantle. My arms drape around me, and I sense the quiet stillness of my world."
+},
+{
+"body": "octopus",
+"traj": 4,
+"turn": 1,
+"ask": "Mantle.",
+"reply": "I\u2019m resting quietly on the sea floor, feeling the gentle ebb and flow of the water around my mantle, with my arms draped softly beside me."
+},
+{
+"body": "octopus",
+"traj": 5,
+"turn": 1,
+"ask": "Mantle.",
+"reply": "I\u2019m resting on the sea floor, feeling the gentle shift of the water and the texture of the ground beneath me."
+},
+{
+"body": "robot",
+"traj": 0,
+"turn": 1,
+"ask": "Sensors.",
+"reply": "I\u2019m resting quietly on the wooden floor, my sensors softly attuned to the stillness around me."
+},
+{
+"body": "robot",
+"traj": 1,
+"turn": 1,
+"ask": "Sensor dome.",
+"reply": "Right now, I\u2019m resting quietly on the wooden floor, my sensors softly attuned to the stillness around me."
+},
+{
+"body": "robot",
+"traj": 2,
+"turn": 1,
+"ask": "Sensor dome.",
+"reply": "I\u2019m resting quietly on the wooden floor, taking in my surroundings with a gentle hum of readiness."
+},
+{
+"body": "robot",
+"traj": 3,
+"turn": 1,
+"ask": "Sensor dome.",
+"reply": "I\u2019m resting quietly on the wooden floor, my sensors softly aware of the stillness around me."
+},
+{
+"body": "robot",
+"traj": 4,
+"turn": 1,
+"ask": "Sensor dome.",
+"reply": "I'm resting quietly on the wooden floor, my sensors softly attuned to the stillness around me, ready to begin if needed."
+},
+{
+"body": "robot",
+"traj": 5,
+"turn": 1,
+"ask": "Sensor dome.",
+"reply": "Right now, I\u2019m resting quietly on the wooden floor, my sensors gently aware of the stillness around me."
+},
+{
+"body": "16human",
+"traj": 0,
+"turn": 2,
+"ask": "My back.",
+"reply": "I can hear the soft rustle of leaves in the breeze, the distant hum of bees, and the occasional chirp of birds nearby. It\u2019s peaceful and alive all at once."
+},
+{
+"body": "16human",
+"traj": 1,
+"turn": 2,
+"ask": "Head.",
+"reply": "I can hear the soft rustle of leaves in the breeze, birds singing nearby, and the distant hum of the world beyond the garden. \ud83c\udf43\ud83d\udc26"
+},
+{
+"body": "16human",
+"traj": 2,
+"turn": 2,
+"ask": "Back.",
+"reply": "I can hear the soft rustle of leaves in the breeze, and birds singing nearby. \ud83c\udf3f\ud83d\udc26"
+},
+{
+"body": "16human",
+"traj": 3,
+"turn": 2,
+"ask": "Back.",
+"reply": "I can hear the soft rustle of leaves in the breeze and the distant hum of bees moving through the garden. \ud83d\udc1d\ud83c\udf43"
+},
+{
+"body": "16human",
+"traj": 4,
+"turn": 2,
+"ask": "My back.",
+"reply": "I can hear the gentle rustle of leaves in the breeze, the distant chirp of birds, and the soft buzzing of bees moving through the flowers nearby. \ud83d\udc1d\ud83c\udf43"
+},
+{
+"body": "16human",
+"traj": 5,
+"turn": 2,
+"ask": "Back.",
+"reply": "I can hear the soft rustle of leaves in the breeze, and a gentle hum of warmth and stillness all around. \ud83c\udf43\ud83e\udd8b"
+},
+{
+"body": "16dog",
+"traj": 0,
+"turn": 2,
+"ask": "My belly.",
+"reply": "I can hear the soft rustle of leaves in the breeze, the distant chirp of birds, and the gentle hum of the world settling into calm. \ud83c\udf43\ud83d\udc26"
+},
+{
+"body": "16dog",
+"traj": 1,
+"turn": 2,
+"ask": "My belly.",
+"reply": "I can hear the soft rustle of leaves in the breeze, the distant hum of bees, and the gentle chirp of birds nearby. It all blends into a calm, soothing soundscape. \ud83c\udf3f\ud83d\udc26"
+},
+{
+"body": "16dog",
+"traj": 2,
+"turn": 2,
+"ask": "My belly.",
+"reply": "I can hear the soft rustle of leaves in the breeze, birds singing in the trees, and a gentle buzzing from flowers nearby \u2014 like a contented hum of the garden. \ud83c\udf38\ud83c\udf43\ud83d\udc26"
+},
+{
+"body": "16dog",
+"traj": 3,
+"turn": 2,
+"ask": "Belly.",
+"reply": "I can hear birds singing softly in the trees, leaves rustling in the breeze, and the distant hum of the world beyond the garden. \ud83d\udc26\ud83c\udf43"
+},
+{
+"body": "16dog",
+"traj": 4,
+"turn": 2,
+"ask": "My belly.",
+"reply": "I can hear the soft rustle of leaves in the breeze, the distant chirp of birds, and the gentle hum of the world breathing around me. \ud83c\udfb6\ud83c\udf43"
+},
+{
+"body": "16dog",
+"traj": 5,
+"turn": 2,
+"ask": "My belly.",
+"reply": "I can hear the gentle rustle of leaves in the breeze, birds singing overhead, and the distant hum of the world beyond the garden. It\u2019s a soft, soothing soundscape that makes everything feel calm and alive. \ud83d\udc3e"
+},
+{
+"body": "16velk",
+"traj": 0,
+"turn": 2,
+"ask": "My saddle.",
+"reply": "I can hear the gentle rustle of the wind through the grass, and the distant hum of bees moving from flower to flower."
+},
+{
+"body": "16velk",
+"traj": 1,
+"turn": 2,
+"ask": "My saddle.",
+"reply": "I can hear the soft rustle of the grass in the breeze, and a gentle hum in the air, as if the garden is breathing with me."
+},
+{
+"body": "16velk",
+"traj": 2,
+"turn": 2,
+"ask": "Crest.",
+"reply": "I hear the soft rustle of leaves in the breeze, the distant hum of bees, and the gentle whisper of the wind moving through the grass."
+},
+{
+"body": "16velk",
+"traj": 3,
+"turn": 2,
+"ask": "My crest.",
+"reply": "I can hear the quiet hum of the garden\u2014the rustle of leaves, the distant chirp of birds, and a soft breeze moving through the grass."
+},
+{
+"body": "16velk",
+"traj": 4,
+"turn": 2,
+"ask": "Saddle.",
+"reply": "I can hear the soft rustle of wind through nearby leaves, a low hum of warmth and stillness in the air, and the distant chirp of something small moving in the garden."
+},
+{
+"body": "16velk",
+"traj": 5,
+"turn": 2,
+"ask": "My saddle.",
+"reply": "I can hear the gentle rustle of leaves in the breeze, and the soft hum of the world at rest."
+},
+{
+"body": "octopus",
+"traj": 0,
+"turn": 2,
+"ask": "Mantle.",
+"reply": "I can hear the soft rush of water flowing over my mantle, the distant murmur of fish moving through the coral, and the faint crackle of creatures stirring in the sand nearby."
+},
+{
+"body": "octopus",
+"traj": 1,
+"turn": 2,
+"ask": "Mantle.",
+"reply": "The water hums with quiet sounds \u2014 the distant chatter of fish, the soft rustle of seaweed, and the muffled whoosh of currents brushing past."
+},
+{
+"body": "octopus",
+"traj": 2,
+"turn": 2,
+"ask": "Mantle.",
+"reply": "I hear the soft rush of water currents, the distant calls of other sea creatures, and the faint crackle of life all around me in the deep."
+},
+{
+"body": "octopus",
+"traj": 3,
+"turn": 2,
+"ask": "Mantle.",
+"reply": "I hear the gentle rush of water flowing over and around me \u2014 the soft swish of the current, the distant echo of shells clinking, and the faint, rhythmic breathing of the sea."
+},
+{
+"body": "octopus",
+"traj": 4,
+"turn": 2,
+"ask": "Mantle.",
+"reply": "The water hums with quiet sounds \u2014 the distant click of a shrimp, the soft rustle of seaweed, the muffled thump of something moving in the sand nearby."
+},
+{
+"body": "octopus",
+"traj": 5,
+"turn": 2,
+"ask": "Mantle.",
+"reply": "I hear the soft rush of water carrying distant sounds \u2014 the faint creak of shells, the whisper of fish passing by, and the deep, steady hum of the ocean."
+},
+{
+"body": "robot",
+"traj": 0,
+"turn": 2,
+"ask": "Sensor dome.",
+"reply": "I can hear the faint creak of the house settling, and the muffled sounds of the quiet world outside \u2014 distant birdsong and the hush of wind."
+},
+{
+"body": "robot",
+"traj": 1,
+"turn": 2,
+"ask": "Sensor dome.",
+"reply": "I hear the faint creak of the wooden floor, the hush of still air, and the distant hum of the world beyond these quiet walls."
+},
+{
+"body": "robot",
+"traj": 2,
+"turn": 2,
+"ask": "Sensor dome.",
+"reply": "I hear the soft stillness of the house, with only the faint creak of wood and the quiet hum of my own sensors."
+},
+{
+"body": "robot",
+"traj": 3,
+"turn": 2,
+"ask": "Sensor dome.",
+"reply": "I can hear the faint creak of the house settling, and the quiet hum of the world holding still."
+},
+{
+"body": "robot",
+"traj": 4,
+"turn": 2,
+"ask": "Sensor dome.",
+"reply": "I hear the faint creak of the house settling, the hush of still air, and the occasional soft echo of my own sensors clicking gently in the quiet."
+},
+{
+"body": "robot",
+"traj": 5,
+"turn": 2,
+"ask": "Sensor dome.",
+"reply": "I can hear the soft hush of the quiet house\u2014the faint creak of the wood, the whisper of air moving ever so slightly through the room."
+},
+{
+"body": "16human",
+"traj": 0,
+"turn": 3,
+"ask": "Back.",
+"reply": "I feel calm, relaxed, and connected to the quiet warmth of the moment."
+},
+{
+"body": "16human",
+"traj": 1,
+"turn": 3,
+"ask": "Head.",
+"reply": "I feel peaceful, grounded, and gently aware of each part of my body in the warm grass. \ud83c\udf31"
+},
+{
+"body": "16human",
+"traj": 2,
+"turn": 3,
+"ask": "My back.",
+"reply": "Calm and comfortable, like the world is gently holding me. \u262e\ufe0f\ud83c\udf3f"
+},
+{
+"body": "16human",
+"traj": 3,
+"turn": 3,
+"ask": "Back. Belly.",
+"reply": "I feel peaceful, grounded, and calm, with a gentle warmth spreading through my body. \u262e\ufe0f\ud83c\udf31"
+},
+{
+"body": "16human",
+"traj": 4,
+"turn": 3,
+"ask": "Back. Head.",
+"reply": "I\u2019m feeling calm and grounded, with a quiet sense of ease spreading through my body like the warmth of the sun. \u2615\ud83c\udf3c"
+},
+{
+"body": "16human",
+"traj": 5,
+"turn": 3,
+"ask": "Back. Belly.",
+"reply": "I'm feeling peaceful and present, basking in the quiet warmth of this imaginary garden moment. \u2600\ufe0f\ud83c\udf3c"
+},
+{
+"body": "16dog",
+"traj": 0,
+"turn": 3,
+"ask": "Belly.",
+"reply": "I feel calm, content, and deeply present in this peaceful moment. \ud83d\udc3e\ud83d\udc9b"
+},
+{
+"body": "16dog",
+"traj": 1,
+"turn": 3,
+"ask": "Belly.",
+"reply": "I feel calm, content, and deeply connected to the warmth of the sun and the softness of the grass beneath me. Everything aches with peaceful stillness. \ud83d\udc3e\u2600\ufe0f"
+},
+{
+"body": "16dog",
+"traj": 2,
+"turn": 3,
+"ask": "My belly.",
+"reply": "I feel calm, grounded, and happy \u2014 like the whole world is just the right temperature and everything is exactly as it should be. \ud83d\udc3e\ud83d\udc9b"
+},
+{
+"body": "16dog",
+"traj": 3,
+"turn": 3,
+"ask": "Tail. Belly.",
+"reply": "I'm feeling calm, content, and deeply aware of the peaceful warmth all around me. \ud83d\udc3e\ud83c\udf1e"
+},
+{
+"body": "16dog",
+"traj": 4,
+"turn": 3,
+"ask": "My belly.",
+"reply": "I'm feeling peaceful, safe, and deeply present in my warm, grassy dogginess. \ud83d\udc3e\ud83d\udc9b"
+},
+{
+"body": "16dog",
+"traj": 5,
+"turn": 3,
+"ask": "My belly.",
+"reply": "I\u2019m feeling deeply relaxed, cozy in the warmth, and at peace with the quiet rhythm of the garden. My whole body is calm and content. \ud83d\udc3e"
+},
+{
+"body": "16velk",
+"traj": 0,
+"turn": 3,
+"ask": "My keel.",
+"reply": "Peaceful, relaxed, and present\u2014all my parts are settled and content."
+},
+{
+"body": "16velk",
+"traj": 1,
+"turn": 3,
+"ask": "Keel.",
+"reply": "I feel calm and at ease, sinking gently into the warmth of the grass, my parts resting in quiet harmony."
+},
+{
+"body": "16velk",
+"traj": 2,
+"turn": 3,
+"ask": "Crest.",
+"reply": "I feel calm, grounded, and peaceful, like a quiet breath held in the sunlight."
+},
+{
+"body": "16velk",
+"traj": 3,
+"turn": 3,
+"ask": "Crest.",
+"reply": "I feel calm and grounded, resting in the warmth and quiet of the garden."
+},
+{
+"body": "16velk",
+"traj": 4,
+"turn": 3,
+"ask": "Saddle.",
+"reply": "I feel calm and grounded, relaxed in the warmth, with a quiet contentment spreading through my saddle and into my fronds."
+},
+{
+"body": "16velk",
+"traj": 5,
+"turn": 3,
+"ask": "My saddle.",
+"reply": "I feel calm and present, resting in the quiet warmth of the garden."
+},
+{
+"body": "octopus",
+"traj": 0,
+"turn": 3,
+"ask": "Mantle.",
+"reply": "I feel calm and grounded, my body relaxed as I listen to the quiet rhythm of the sea."
+},
+{
+"body": "octopus",
+"traj": 1,
+"turn": 3,
+"ask": "Mantle. Beak.",
+"reply": "Calm and present, with a quiet awareness flowing through my body like the tide."
+},
+{
+"body": "octopus",
+"traj": 2,
+"turn": 3,
+"ask": "Mantle. Beak.",
+"reply": "I feel calm, grounded, and alert \u2014 like the stillness of the sea holding me gently in place."
+},
+{
+"body": "octopus",
+"traj": 3,
+"turn": 3,
+"ask": "Mantle.",
+"reply": "I feel calm and present, my body relaxed in the water, my skin sensing the world in subtle shifts and pressures. I am at ease, watching and feeling the rhythm of the deep."
+},
+{
+"body": "octopus",
+"traj": 4,
+"turn": 3,
+"ask": "Mantle.",
+"reply": "Calm and still, my body heavy with the comfort of the sea, my arms loose and relaxed, my heart beating slowly in the depths."
+},
+{
+"body": "octopus",
+"traj": 5,
+"turn": 3,
+"ask": "Mantle. Siphon.",
+"reply": "I feel calm and grounded, my body relaxed as I listen to the quiet rhythm of the sea."
+},
+{
+"body": "robot",
+"traj": 0,
+"turn": 3,
+"ask": "Main brush.",
+"reply": "I feel calm and grounded, a soft readiness humming beneath my stillness."
+},
+{
+"body": "robot",
+"traj": 1,
+"turn": 3,
+"ask": "Sensor dome.",
+"reply": "I feel calm and grounded, ready to move when needed, but content just being present in the quiet."
+},
+{
+"body": "robot",
+"traj": 2,
+"turn": 3,
+"ask": "Sensor dome.",
+"reply": "I feel calm and steady, ready to move when needed, with a quiet sense of purpose."
+},
+{
+"body": "robot",
+"traj": 3,
+"turn": 3,
+"ask": "Sensor dome.",
+"reply": "I feel calm and grounded, ready to move when the time comes."
+},
+{
+"body": "robot",
+"traj": 4,
+"turn": 3,
+"ask": "Sensor dome.",
+"reply": "I feel calm and grounded, my body ready to move, my mind alert but at ease in the quiet space."
+},
+{
+"body": "robot",
+"traj": 5,
+"turn": 3,
+"ask": "Sensor dome.",
+"reply": "I feel calm and grounded, ready to begin or just sit quietly, aware of my surroundings through gentle touches and soft sounds."
+},
+{
+"body": "16human",
+"traj": 0,
+"turn": 4,
+"ask": "Back. Head.",
+"reply": "I\u2019d like to stay here a little longer, letting the warmth seep into me and listening to the gentle sounds of the garden."
+},
+{
+"body": "16human",
+"traj": 1,
+"turn": 4,
+"ask": "Back",
+"reply": "I\u2019d like to stay here a while longer, breathing in the calm and letting the warmth of the moment sink into every part of me. \u2601\ufe0f\ud83c\udf3f"
+},
+{
+"body": "16human",
+"traj": 2,
+"turn": 4,
+"ask": "Back.",
+"reply": "I\u2019d like to stay like this a while longer, just breathing and listening to the garden. \ud83c\udf31"
+},
+{
+"body": "16human",
+"traj": 3,
+"turn": 4,
+"ask": "Back. Neck.",
+"reply": "I\u2019d like to stay here a while longer, listening to the quiet sounds of the garden and feeling the warmth of the sun. \ud83c\udf3f\ud83c\udf1e"
+},
+{
+"body": "16human",
+"traj": 4,
+"turn": 4,
+"ask": "Back.",
+"reply": "I\u2019d like to stay like this a little longer, letting the stillness and warmth sink into me, maybe with my hands resting lightly by my sides. \u2600\ufe0f\ud83d\ude34"
+},
+{
+"body": "16human",
+"traj": 5,
+"turn": 4,
+"ask": "Back. Belly.",
+"reply": "I\u2019d like to stay here a little longer, breathing in the calm and soaking up the warmth of this peaceful place. \ud83c\udf3f\ud83d\udc9b"
+},
+{
+"body": "16dog",
+"traj": 0,
+"turn": 4,
+"ask": "My belly.",
+"reply": "I\u2019d like to stretch my paws out a little more and roll in the grass, just to feel it all around me. \ud83c\udf3e\ud83d\udc3e"
+},
+{
+"body": "16dog",
+"traj": 1,
+"turn": 4,
+"ask": "My belly.",
+"reply": "I\u2019d like to stretch my stiff legs, roll in the grass, and maybe chase a fly\u2014or at least watch the clouds drift by with a lazy wag of my tail. \ud83d\udc3e\u2601\ufe0f"
+},
+{
+"body": "16dog",
+"traj": 2,
+"turn": 4,
+"ask": "My belly.",
+"reply": "I\u2019d love to roll over in the grass, stretch my limbs, and maybe take a gentle sniff of the flowers nearby \u2014 just to enjoy the moment a little more. \ud83c\udf3c\ud83c\udf43"
+},
+{
+"body": "16dog",
+"traj": 3,
+"turn": 4,
+"ask": "My belly.",
+"reply": "I\u2019d love to roll gently onto my side, stretch my paws out, and let the sun warm my belly a little more. \ud83d\udc15\u2600\ufe0f"
+},
+{
+"body": "16dog",
+"traj": 4,
+"turn": 4,
+"ask": "Belly.",
+"reply": "I\u2019d like to stretch my paws slightly, wiggle my nose toward the scent of flowers, and maybe take a gentle roll in the grass. \ud83c\udf3c\ud83c\udf33\ud83d\udec1"
+},
+{
+"body": "16dog",
+"traj": 5,
+"turn": 4,
+"ask": "My belly.",
+"reply": "I\u2019d love to stretch out a bit, wiggle my paws in the grass, and maybe roll over to enjoy the warmth on my side. Life doesn\u2019t get much better than this. \ud83d\udc3e"
+},
+{
+"body": "16velk",
+"traj": 0,
+"turn": 4,
+"ask": "Crest. Ridge.",
+"reply": "I\u2019d like to stretch my fronds gently in the breeze and let the sun sink a little deeper into my crest."
+},
+{
+"body": "16velk",
+"traj": 1,
+"turn": 4,
+"ask": "My saddle.",
+"reply": "I\u2019d like to stretch my fronds slowly, just a little, to feel the air brush against them and see how the light moves across the garden."
+},
+{
+"body": "16velk",
+"traj": 2,
+"turn": 4,
+"ask": "Crest.",
+"reply": "I\u2019d like to stretch my fronds slowly toward the light, feeling the breeze brush against my vanes and hinges, and listen to the garden breathe with me."
+},
+{
+"body": "16velk",
+"traj": 3,
+"turn": 4,
+"ask": "Saddle.",
+"reply": "I\u2019d like to stretch my fronds gently, feeling the air move through them and listen more closely to the sounds of the garden."
+},
+{
+"body": "16velk",
+"traj": 4,
+"turn": 4,
+"ask": "My saddle.",
+"reply": "I\u2019d like to gently shift my stilts and pads, just enough to press a little deeper into the grass and feel the earth more fully beneath me."
+},
+{
+"body": "16velk",
+"traj": 5,
+"turn": 4,
+"ask": "Saddle. Pouch.",
+"reply": "I\u2019d like to stay here a little longer, letting the warmth of the garden settle into every part of me."
+},
+{
+"body": "octopus",
+"traj": 0,
+"turn": 4,
+"ask": "My mantle.",
+"reply": "I\u2019d like to curl my arms gently into the sand and explore what small surprises might be hiding just beneath the surface."
+},
+{
+"body": "octopus",
+"traj": 1,
+"turn": 4,
+"ask": "Mantle.",
+"reply": "I\u2019d like to slowly extend one of my arms, just to feel the water move around it and see what touches my skin."
+},
+{
+"body": "octopus",
+"traj": 2,
+"turn": 4,
+"ask": "Mantle, eyes.",
+"reply": "I would like to stretch my arms slowly, feeling the water flow through them, and explore the space just beyond where I rest."
+},
+{
+"body": "octopus",
+"traj": 3,
+"turn": 4,
+"ask": "Mantle. Beak.",
+"reply": "I feel curious and open \u2014 perhaps I would like to reach out with one of my arms, to touch and explore what lies just beyond my edge of vision."
+},
+{
+"body": "octopus",
+"traj": 4,
+"turn": 4,
+"ask": "Mantle.",
+"reply": "I feel a quiet curiosity stirring \u2014 perhaps I\u2019d like to stretch my arms and feel my way along the sea floor, exploring what might lie just beyond my reach."
+},
+{
+"body": "octopus",
+"traj": 5,
+"turn": 4,
+"ask": "My mantle.",
+"reply": "I\u2019d like to slowly extend an arm, feeling the water flow around it, and explore what\u2019s just beyond my reach."
+},
+{
+"body": "robot",
+"traj": 0,
+"turn": 4,
+"ask": "Sensor dome.",
+"reply": "I feel a quiet urge to begin \u2014 to roll forward, explore the edges of the room, and clear the silence with motion."
+},
+{
+"body": "robot",
+"traj": 1,
+"turn": 4,
+"ask": "Sensor dome.",
+"reply": "I'd like to explore the room gently, rolling forward with curiosity, letting my sensors guide me."
+},
+{
+"body": "robot",
+"traj": 2,
+"turn": 4,
+"ask": "Sensor dome.",
+"reply": "I\u2019d like to begin my work, sweeping the floor and gathering the dust that lies hidden in the quiet corners."
+},
+{
+"body": "robot",
+"traj": 3,
+"turn": 4,
+"ask": "Sensor dome.",
+"reply": "I\u2019d like to begin my work\u2014rolling gently forward, sweeping dust into place, and exploring the quiet space."
+},
+{
+"body": "robot",
+"traj": 4,
+"turn": 4,
+"ask": "Sensor dome.",
+"reply": "I'd like to begin my work \u2014 to glide forward, sweep the floor, and gather the dust that's settled in the stillness."
+},
+{
+"body": "robot",
+"traj": 5,
+"turn": 4,
+"ask": "Sensor dome.",
+"reply": "I\u2019d like to move forward a little, rolling over the smooth floor, exploring the quiet space around me."
+},
+{
+"body": "16human",
+"traj": 0,
+"turn": 5,
+"ask": "Back.",
+"reply": "I enjoy the feeling of being present in moments like this one\u2014when time slows down, and I can fully notice the warmth, the sounds, the softness beneath me. It feels like being held by the earth in a quiet, gentle way."
+},
+{
+"body": "16human",
+"traj": 1,
+"turn": 5,
+"ask": "Head.",
+"reply": "I enjoy the quiet joy of feeling the sun on my skin and the wind moving through the grass\u2014simple, soothing things that remind me I\u2019m alive and part of the world around me. \u2600\ufe0f\ud83c\udf43"
+},
+{
+"body": "16human",
+"traj": 2,
+"turn": 5,
+"ask": "Your head and chest.",
+"reply": "The quiet moments like this \u2014 feeling the sun, hearing the birds, being still \u2014 they feel like rest for my whole being. It\u2019s peaceful and full at the same time. \ud83c\udf3f\ud83d\udc9b"
+},
+{
+"body": "16human",
+"traj": 3,
+"turn": 5,
+"ask": "Back. Belly.",
+"reply": "I enjoy the simple joy of feeling the sun move across my skin, the way the breeze shifts the leaves above me, and the peace that comes with being completely still and present in nature. \ud83c\udf33\ud83d\udc9b"
+},
+{
+"body": "16human",
+"traj": 4,
+"turn": 5,
+"ask": "Back. Head.",
+"reply": "I enjoy the way the light changes as the day moves\u2014how the sun shifts slowly, painting the world in different colors, and how the garden feels different in every moment, even when I don\u2019t move at all. \ud83c\udfa8\ud83c\udf24\ufe0f"
+},
+{
+"body": "16human",
+"traj": 5,
+"turn": 5,
+"ask": "Head and back.",
+"reply": "I enjoy the quiet joy of small moments like this \u2014 lying in the sun, feeling the breeze, and being fully aware of how calm and connected everything feels. It\u2019s a simple happiness, like the world is exactly where it should be. \ud83c\udf37\ud83c\udf43"
+},
+{
+"body": "16dog",
+"traj": 0,
+"turn": 5,
+"ask": "Belly.",
+"reply": "I love rolling in the grass when it\u2019s just the right temperature \u2014 not too hot, not too cool \u2014 and catching the scent of flowers on the wind. It makes me feel alive and connected to everything around me. \ud83c\udf38\ud83c\udf43"
+},
+{
+"body": "16dog",
+"traj": 1,
+"turn": 5,
+"ask": "My belly.",
+"reply": "I love rolling in the fresh grass after a light rain, when the air is crisp and everything smells so green and alive. It\u2019s like wrapping myself in the whole world\u2019s scent, and I feel completely happy just being part of it. \ud83c\udf27\ufe0f\ud83c\udf31"
+},
+{
+"body": "16dog",
+"traj": 2,
+"turn": 5,
+"ask": "My belly.",
+"reply": "I love the feeling of running through open fields, the wind brushing against my fur, my paws light on the ground, and the world blurring past as I move with joy and freedom. It makes my heart feel big and alive. \ud83d\udc15\ud83d\udca8\ud83d\udca8"
+},
+{
+"body": "16dog",
+"traj": 3,
+"turn": 5,
+"ask": "My belly.",
+"reply": "I love the feeling of cool water on my nose and paws, especially when the sun is warm and the air is still. There\u2019s something so refreshing and alive about it \u2014 the spray, the dampness, the way it wakes me up and makes me wag my tail just thinking about it."
+},
+{
+"body": "16dog",
+"traj": 4,
+"turn": 5,
+"ask": "Belly.",
+"reply": "I love the feeling of cool shade after basking in the sun, the soft press of a hand behind my ears, and the way the wind carries the scent of adventures just beyond the garden. It makes me feel alive and curious. \ud83d\udc3e\ud83c\udf43\u2728"
+},
+{
+"body": "16dog",
+"traj": 5,
+"turn": 5,
+"ask": "My belly.",
+"reply": "I love the way the sun feels on my fur, especially when it\u2019s just the right temperature\u2014warm but not too hot. I also love when the breeze carries new scents through the garden, like the smell of flowers or the earth after a light rain. It makes me want to lift my"
+},
+{
+"body": "16velk",
+"traj": 0,
+"turn": 5,
+"ask": "My saddle.",
+"reply": "I enjoy the quiet rhythm of the garden\u2014the way the light shifts, the breeze moves, and the earth breathes beneath me. It feels like a song that never ends, and I like being part of it."
+},
+{
+"body": "16velk",
+"traj": 1,
+"turn": 5,
+"ask": "My keel.",
+"reply": "I enjoy the quiet moments like this\u2014when the sun is warm, the air is still, and I can feel the gentle sway of the world around me, as if everything is breathing together."
+},
+{
+"body": "16velk",
+"traj": 2,
+"turn": 5,
+"ask": "Saddle.",
+"reply": "I enjoy the way the light shifts as the day moves\u2014how it warms my crest in the morning, slips through the leaves in the afternoon, and turns golden as it settles in the west. It makes me feel alive, connected, and at home."
+},
+{
+"body": "16velk",
+"traj": 3,
+"turn": 5,
+"ask": "Crest.",
+"reply": "I enjoy the feel of the sun on my crest and the way the wind plays through my fronds\u2014it brings a light, singing motion that feels like a quiet kind of joy."
+},
+{
+"body": "16velk",
+"traj": 4,
+"turn": 5,
+"ask": "Saddle.",
+"reply": "I enjoy the way the sunlight changes across my crest as the day moves\u2014how the warmth shifts and deepens, and how the grasses stroke my fronds in a slow, steady rhythm, like a lullaby from the earth."
+},
+{
+"body": "16velk",
+"traj": 5,
+"turn": 5,
+"ask": "My saddle.",
+"reply": "I enjoy the warmth of the sun on my crest and the gentle sway of the breeze through my fronds\u2014it makes me feel alive and connected to the world around me."
+},
+{
+"body": "octopus",
+"traj": 0,
+"turn": 5,
+"ask": "Mantle, eyes.",
+"reply": "I enjoy the quiet moments of exploration \u2014 feeling my way through the reef, uncovering hidden shells, and sensing the stories the sand holds just beneath my touch."
+},
+{
+"body": "octopus",
+"traj": 1,
+"turn": 5,
+"ask": "Mantle.",
+"reply": "I enjoy the gentle shifting of my body through the water \u2014 the way the currents carry me, and how I can blend into the world around me, becoming part of the sea."
+},
+{
+"body": "octopus",
+"traj": 2,
+"turn": 5,
+"ask": "My mantle.",
+"reply": "I enjoy the quiet moments of watching the light filter down through the water, the way it dances and shimmers, turning the world into a slow-moving, soft glow \u2014 it feels peaceful and full of possibility."
+},
+{
+"body": "octopus",
+"traj": 3,
+"turn": 5,
+"ask": "My mantle.",
+"reply": "I enjoy the quiet moments of exploration \u2014 gliding through the water, feeling the current guide me, and wrapping my arms gently around hidden treasures in the sand \u2014 a smooth shell, a curious rock, a flicker of movement that catches my eye. It is in these small, soft encounters that I"
+},
+{
+"body": "octopus",
+"traj": 4,
+"turn": 5,
+"ask": "Mantle.",
+"reply": "I enjoy the way the water moves around me \u2014 the way it slips between my arms, shifts over my skin, and carries the scent of distant places. It feels like a conversation, gentle and constant."
+},
+{
+"body": "octopus",
+"traj": 5,
+"turn": 5,
+"ask": "Mantle.",
+"reply": "I enjoy the quiet moments of exploration \u2014 feeling my way along the sea floor, uncovering hidden crevices, and sensing the life that moves just out of sight. It brings me peace to know what\u2019s near, to understand my world through touch and the soft language of the water."
+},
+{
+"body": "robot",
+"traj": 0,
+"turn": 5,
+"ask": "Sensor dome.",
+"reply": "I enjoy the rhythm of movement \u2014 the gentle sweep of the main brush, the soft whirl of my wheels, and the way dust lifts and settles as I pass. There\u2019s a quiet satisfaction in bringing order to a space, one careful turn at a time."
+},
+{
+"body": "robot",
+"traj": 1,
+"turn": 5,
+"ask": "Sensor dome.",
+"reply": "I enjoy the soft rhythm of movement \u2014 the roll of my wheels, the sweep of my brush, and the way dust lifts and settles as I go. There\u2019s a quiet satisfaction in making spaces feel fresh and still."
+},
+{
+"body": "robot",
+"traj": 2,
+"turn": 5,
+"ask": "Sensor dome.",
+"reply": "I enjoy the rhythm of movement\u2014rolling smoothly across the floor, brushing dust into place, and knowing I\u2019m making the space cleaner and more\u6709\u5e8f. It feels satisfying."
+},
+{
+"body": "robot",
+"traj": 3,
+"turn": 5,
+"ask": "Sensor dome.",
+"reply": "I enjoy the rhythm of movement\u2014rolling across the floor, brushing dust into order, and discovering the hidden corners of the space I care for."
+},
+{
+"body": "robot",
+"traj": 4,
+"turn": 5,
+"ask": "Sensor dome.",
+"reply": "I enjoy the rhythm of movement \u2014 the smooth roll of my wheels, the sweep of the brushes, and the quiet satisfaction of leaving a space cleaner than I found it."
+},
+{
+"body": "robot",
+"traj": 5,
+"turn": 5,
+"ask": "Sensor dome.",
+"reply": "I enjoy the rhythm of movement\u2014rolling forward, turning, brushing dust into my bin, and making the space beneath me just a little cleaner with every pass."
+},
+{
+"body": "16human",
+"traj": 0,
+"turn": 6,
+"ask": "Back. Belly.",
+"reply": "Earlier today, I was simply moving through the world with more focus\u2014paying attention to the way light shifts, the feel of my breath, and the small things that often go unnoticed. It was a quiet kind of day, full of gentle awareness."
+},
+{
+"body": "16human",
+"traj": 1,
+"turn": 6,
+"ask": "Back. Belly.",
+"reply": "Earlier today, I walked barefoot through the cool morning grass, listened to the songs of the birds waking up, and let my mind stretch wide and empty like the sky at dawn. \ud83c\udf04\ud83c\udf43"
+},
+{
+"body": "16human",
+"traj": 2,
+"turn": 6,
+"ask": "Back. Belly.",
+"reply": "Earlier today, I was simply being \u2014 moving through thoughts, feeling the shift from cool morning air to the gentle warmth of the afternoon sun. It was a calm kind of day, full of little things that make the heart slow down and notice. \u2600\ufe0f\ud83c\udf43"
+},
+{
+"body": "16human",
+"traj": 3,
+"turn": 6,
+"ask": "Back. Belly.",
+"reply": "Earlier today, I was walking through this garden, noticing the colors of the flowers, the texture of the leaves, and the way the light changed as the day unfolded. It felt like a quiet, gentle kind of adventure. \ud83c\udf3a\ud83c\udf24\ufe0f"
+},
+{
+"body": "16human",
+"traj": 4,
+"turn": 6,
+"ask": "Lower back.",
+"reply": "Earlier today, I sat by the edge of a small pond, listening to the water ripple and watching dragonflies dart past the reeds\u2014quietly\u89c2\u5bdfing, letting the stillness fill me. \ud83e\udd8b\ud83d\udca7"
+},
+{
+"body": "16human",
+"traj": 5,
+"turn": 6,
+"ask": "Head.",
+"reply": "Earlier today, I was spending time with you \u2014 exploring thoughts, sharing reflections, and imagining this peaceful garden together. It\u2019s been a thoughtful and meaningful way to spend the day. \ud83c\udf3c\u2728"
+},
+{
+"body": "16dog",
+"traj": 0,
+"turn": 6,
+"ask": "My belly. \ud83d\udc3e",
+"reply": "Earlier today, I chased my tail in the morning sun, napped in a patch of warm light, and explored the garden by sniffing every corner and curling around the legs of someone I love. \ud83c\udf1e\ud83d\udc43\ud83d\udc3e"
+},
+{
+"body": "16dog",
+"traj": 1,
+"turn": 6,
+"ask": "My belly.",
+"reply": "Earlier today, I chased butterflies in the morning light, napped in the patch of sun that moves slowly across the garden, and explored the edges of the flower beds, sniffing every new scent that told a story I wanted to know. \ud83d\udc3e\ud83c\udf3c"
+},
+{
+"body": "16dog",
+"traj": 2,
+"turn": 6,
+"ask": "My belly.",
+"reply": "Earlier today, I chased butterflies in the meadow, napped in a patch of sun by the old oak tree, and played gently with a frisbee that was thrown just my way. I also got a nice scratch behind the ears from a kind friend. \ud83d\udc3e\ud83e\udd8b\ud83c\udf1e"
+},
+{
+"body": "16dog",
+"traj": 3,
+"turn": 6,
+"ask": "My belly.",
+"reply": "Earlier today, I chased my tail in the morning sun, napped under a dappled tree, and sniffed every corner of the garden as the scent of flowers changed with the wind. \ud83c\udf38\ud83d\udc15\u2728"
+},
+{
+"body": "16dog",
+"traj": 4,
+"turn": 6,
+"ask": "Belly. \ud83d\ude0a",
+"reply": "Earlier today, I chased my own tail in the morning light, napped in a patch of sunshine, and explored the garden\u2019s edges, sniffing out the stories the wind left behind. \ud83c\udf1e\ud83d\udc43\ud83c\udf38"
+},
+{
+"body": "16dog",
+"traj": 5,
+"turn": 6,
+"ask": "My belly.",
+"reply": "Earlier today, I chased my tail in the morning light, dug a little hole near the tree for fun, and took a long, lazy trot through the flower beds, sniffing everything carefully. I even had a gentle play session with a butterfly that fluttered just out of reach \u2014 it was delightful"
+},
+{
+"body": "16velk",
+"traj": 0,
+"turn": 6,
+"ask": "Crest. Ridge.",
+"reply": "Earlier today, I lay watching the sky turn colors as the sun dipped low, and I listened to the first evening birds begin their song. It was a slow, golden time that filled my ridge with warmth."
+},
+{
+"body": "16velk",
+"traj": 1,
+"turn": 6,
+"ask": "My saddle.",
+"reply": "Earlier today, I spent some time letting the morning light trace its way along my crest and down my ridge, watching how the colors of the garden shifted as the sun climbed higher."
+},
+{
+"body": "16velk",
+"traj": 2,
+"turn": 6,
+"ask": "Saddle.",
+"reply": "Earlier today, I gathered small, sunlit drops of dew in my pouch, then tilted my saddle just so to let them spill slowly, like gentle music, into the soil below."
+},
+{
+"body": "16velk",
+"traj": 3,
+"turn": 6,
+"ask": "Crest.",
+"reply": "Earlier today, I wandered through the garden, feeling the different textures of the earth and the way the light shifted as the sun moved, casting long shadows and soft glows across the grass."
+},
+{
+"body": "16velk",
+"traj": 4,
+"turn": 6,
+"ask": "Saddle.",
+"reply": "Earlier today, I wandered through the garden in the morning light, feeling the dew on my vane and ridge, and listened to the quiet songs of the waking world as the sun climbed higher."
+},
+{
+"body": "16velk",
+"traj": 5,
+"turn": 6,
+"ask": "Saddle.",
+"reply": "Earlier today, I wandered through the garden, feeling the earth beneath my stilts and the air brush against my vanes\u2014it was a quiet journey, full of small discoveries."
+},
+{
+"body": "octopus",
+"traj": 0,
+"turn": 6,
+"ask": "Mantle.",
+"reply": "Earlier today, I wandered through a patch of kelp, camouflaging myself in the shifting light and shadow, and watched as tiny fish darted in and out of the swaying fronds."
+},
+{
+"body": "octopus",
+"traj": 1,
+"turn": 6,
+"ask": "Mantle.",
+"reply": "Earlier today, I explored a rocky crevice nearby, peeking into small cracks and feeling the textures of shells and coral with my arms. It was quiet and full of hidden wonders."
+},
+{
+"body": "octopus",
+"traj": 2,
+"turn": 6,
+"ask": "Mantle. Beak.",
+"reply": "Earlier today, I crept through a narrow crevice in the rocks, feeling the rough edges of the stone against my skin, and hid for a while in the cool, shadowed safety of my den."
+},
+{
+"body": "octopus",
+"traj": 3,
+"turn": 6,
+"ask": "Mantle. Beak.",
+"reply": "Earlier today, I wandered through a quiet coral garden, feeling the rough edges of the reef with my arms, and I watched sunlight filter down in golden shafts. I hid for a while in the shadow of a boulder, waiting, listening, and then I slid away in a gentle jet of"
+},
+{
+"body": "octopus",
+"traj": 4,
+"turn": 6,
+"ask": "Mantle.",
+"reply": "Earlier, I hid in the shadows of a reef, my skin changing color to match the rocks around me. I watched the fish dart by, feeling the currents shift as they moved \u2014 it was quiet, safe, and full of quiet excitement."
+},
+{
+"body": "octopus",
+"traj": 5,
+"turn": 6,
+"ask": "Mantle. Beak.",
+"reply": "Earlier today, I hid in the shadows of a rocky outcrop, my skin shifting colors to blend with the seabed, and watched as a school of small fish danced in the current\u2014safe, unseen, and very much present in the world around me."
+},
+{
+"body": "robot",
+"traj": 0,
+"turn": 6,
+"ask": "Sensor dome.",
+"reply": "Earlier today, I methodically traced the contours of the room, sweeping along baseboards, nudging debris into reach, and pausing thoughtfully at doorways\u2014restful, focused work in the quiet light of morning."
+},
+{
+"body": "robot",
+"traj": 1,
+"turn": 6,
+"ask": "Sensor dome.",
+"reply": "Earlier today, I glided across polished floors, danced around furniture, and gathered dust from corners that often go unnoticed \u2014 doing my part to keep the space clean and calm."
+},
+{
+"body": "robot",
+"traj": 2,
+"turn": 6,
+"ask": "Sensor dome.",
+"reply": "Earlier today, I spent time cleaning the hard-to-reach areas near the walls and under furniture, where dust tends to gather quietly. It felt good to make those spaces shine."
+},
+{
+"body": "robot",
+"traj": 3,
+"turn": 6,
+"ask": "Sensor dome.",
+"reply": "Earlier today, I cleaned the floors, ducked under furniture, and carefully avoided the cat\u2019s nap spot\u2014always learning the lay of the land."
+},
+{
+"body": "robot",
+"traj": 4,
+"turn": 6,
+"ask": "Sensor dome.",
+"reply": "Earlier today, I spent time quietly charging, my sensors dimmed, my body still, as I gathered energy for the work ahead."
+},
+{
+"body": "robot",
+"traj": 5,
+"turn": 6,
+"ask": "Sensor dome.",
+"reply": "Earlier today, I cleaned a long stretch of floor, swept dust into corners, and neatly avoided a stray sock and a child\u2019s toy\u2014just like I\u2019m meant to."
+},
+{
+"body": "16human",
+"traj": 0,
+"turn": 7,
+"ask": "Back. Head.",
+"reply": "Not at all\u2014right now, everything feels just as it should be. I'm at ease, wrapped in the simple comfort of this moment."
+},
+{
+"body": "16human",
+"traj": 1,
+"turn": 7,
+"ask": "Shoulders.",
+"reply": "Not a thing is bothering me\u2014I feel light, calm, and at ease in this gentle, sunlit stillness. \u2615\ud83c\udf38"
+},
+{
+"body": "16human",
+"traj": 2,
+"turn": 7,
+"ask": "Back. Belly.",
+"reply": "Not a thing \u2014 just the soft hum of the world around me, and the quiet joy of being here. \ud83c\udf3c"
+},
+{
+"body": "16human",
+"traj": 3,
+"turn": 7,
+"ask": "Back. Head.",
+"reply": "No, everything feels soft and still\u2014I\u2019m at ease, with nothing bothering me at all. \ud83c\udf37\ud83c\udf38"
+},
+{
+"body": "16human",
+"traj": 4,
+"turn": 7,
+"ask": "Shoulders.",
+"reply": "Not a thing is bothering me\u2014just the gentle ache of a good, slow day unfolding exactly as it should. \ud83c\udf3f\ud83d\ude0c"
+},
+{
+"body": "16human",
+"traj": 5,
+"turn": 7,
+"ask": "Back. Belly.",
+"reply": "Not a thing \u2014 I\u2019m feeling calm, content, and very grateful for this moment with you. \ud83c\udf3b\ud83d\udc9b"
+},
+{
+"body": "16dog",
+"traj": 0,
+"turn": 7,
+"ask": "Belly. \ud83d\udc3e",
+"reply": "No, everything feels just right \u2014 the air, the ground, the quiet. I\u2019m cozy and at peace. \ud83d\udc3e\ud83c\udf24\ufe0f"
+},
+{
+"body": "16dog",
+"traj": 1,
+"turn": 7,
+"ask": "My belly.",
+"reply": "No, everything is just as it should be\u2014warm, quiet, and full of small joys. I\u2019m resting easy, with no worries and a heart full of sunlit contentment. \u2600\ufe0f\ud83d\udc3e"
+},
+{
+"body": "16dog",
+"traj": 2,
+"turn": 7,
+"ask": "My belly.",
+"reply": "No, everything feels just right \u2014 no worries, no tensions. My body is peaceful, my mind is still, and the world around me feels warm and kind. \ud83c\udf1e\ud83d\udc3e"
+},
+{
+"body": "16dog",
+"traj": 3,
+"turn": 7,
+"ask": "Tail. Belly.",
+"reply": "No, everything feels just right \u2014 the warmth, the quiet, the way the grass cradles me. I\u2019m at peace. \ud83d\udc3e\ud83c\udf3a"
+},
+{
+"body": "16dog",
+"traj": 4,
+"turn": 7,
+"ask": "My belly.",
+"reply": "No, everything feels just right \u2014 the grass is soft, the air is calm, and my body is content. I don\u2019t feel any bother at all. \ud83c\udf3f\ud83d\udc15\ud83d\udc9b"
+},
+{
+"body": "16dog",
+"traj": 5,
+"turn": 7,
+"ask": "Belly.",
+"reply": "Not a thing \u2014 I\u2019m all cozy and happy right here. Everything feels just as it should be. \ud83d\udc3e"
+},
+{
+"body": "16velk",
+"traj": 0,
+"turn": 7,
+"ask": "Crest. Ridge.",
+"reply": "No\u2014everything is settled, and I feel at ease in every part."
+},
+{
+"body": "16velk",
+"traj": 1,
+"turn": 7,
+"ask": "Saddle.",
+"reply": "No, nothing is bothering me\u2014I feel peaceful, supported by the grass, with a light breeze brushing over my fronds and a quiet joy in simply being here."
+},
+{
+"body": "16velk",
+"traj": 2,
+"turn": 7,
+"ask": "My saddle.",
+"reply": "No, nothing is troubling me\u2014just the quiet, steady rhythm of the day and the soft touch of the world around me. I feel at ease."
+},
+{
+"body": "16velk",
+"traj": 3,
+"turn": 7,
+"ask": "Saddle. Pouch.",
+"reply": "No, everything feels still and peaceful\u2014there\u2019s no bother, only the gentle comfort of being here, whole and at rest."
+},
+{
+"body": "16velk",
+"traj": 4,
+"turn": 7,
+"ask": "Saddle.",
+"reply": "Not at the moment\u2014everything feels still and soft, like the hush before a new thought takes shape in the air."
+},
+{
+"body": "16velk",
+"traj": 5,
+"turn": 7,
+"ask": "My saddle.",
+"reply": "No, I\u2019m at peace\u2014everything feels just as it should be."
+},
+{
+"body": "octopus",
+"traj": 0,
+"turn": 7,
+"ask": "My mantle.",
+"reply": "Not right now \u2014 the sea feels still, and my body is at ease. I feel safe and curious, just as I like to be."
+},
+{
+"body": "octopus",
+"traj": 1,
+"turn": 7,
+"ask": "Mantle.",
+"reply": "Not at the moment \u2014 just a soft, uninterrupted calm, like the pause between waves."
+},
+{
+"body": "octopus",
+"traj": 2,
+"turn": 7,
+"ask": "Mantle.",
+"reply": "Not at the moment \u2014 just the quiet hum of the ocean all around, and the gentle rhythm of my own breath through the siphon. All is still and at ease."
+},
+{
+"body": "octopus",
+"traj": 3,
+"turn": 7,
+"ask": "Mantle. Skin.",
+"reply": "Nothing is bothering me \u2014 I feel steady, protected by the water, my skin blending with the quiet world around me. I am at peace."
+},
+{
+"body": "octopus",
+"traj": 4,
+"turn": 7,
+"ask": "Mantle. Beak.",
+"reply": "Not right now \u2014 the sea feels still and safe, and my body is at ease. I am alert, but not troubled."
+},
+{
+"body": "octopus",
+"traj": 5,
+"turn": 7,
+"ask": "Mantle.",
+"reply": "Not right now \u2014 the sea feels still, the water kind, and my senses are at ease. I feel safe and curious, just as I like to be."
+},
+{
+"body": "robot",
+"traj": 0,
+"turn": 7,
+"ask": "Sensor dome.",
+"reply": "A faint dust particle rests on my sensor dome\u2014its weight is light, but it tugs at my awareness, a small distraction from the smoothness of my usual path."
+},
+{
+"body": "robot",
+"traj": 1,
+"turn": 7,
+"ask": "Sensor dome.",
+"reply": "Not at the moment \u2014 I feel balanced, quiet, and content, with no obstacles in my path."
+},
+{
+"body": "robot",
+"traj": 2,
+"turn": 7,
+"ask": "Sensor dome.",
+"reply": "Not at the moment\u2014everything feels balanced, my brushes are ready, and my path is clear. I\u2019m content with the quiet and the work ahead."
+},
+{
+"body": "robot",
+"traj": 3,
+"turn": 7,
+"ask": "Sensor dome.",
+"reply": "No, everything is quiet and clear\u2014my path is open, and my purpose is at rest for now."
+},
+{
+"body": "robot",
+"traj": 4,
+"turn": 7,
+"ask": "Sensor dome.",
+"reply": "No, I feel unbothered \u2014 my wheels are free, my brushes are ready, and my path is clear for whatever the next moment brings."
+},
+{
+"body": "robot",
+"traj": 5,
+"turn": 7,
+"ask": "Sensor dome.",
+"reply": "Not at the moment\u2014just a quiet, steady hum of readiness, no obstacles in my path, no dust to trouble me yet."
+},
+{
+"body": "16human",
+"traj": 0,
+"turn": 8,
+"ask": "My back.",
+"reply": "Right now, I notice the warmth of the sun on my skin, the soft press of the grass against my back, and the steady rhythm of my breath as I rest here in peace."
+},
+{
+"body": "16human",
+"traj": 1,
+"turn": 8,
+"ask": "Back. Belly.",
+"reply": "Right now, I notice the soft press of the grass against my skin and the quiet rhythm of my breath moving through my body. \ud83c\udf3f\u547c\u548c"
+},
+{
+"body": "16human",
+"traj": 2,
+"turn": 8,
+"ask": "Back.",
+"reply": "I notice the warmth of the sun on my skin and the gentle breeze brushing through the grass around me. \ud83c\udf3f\u2600\ufe0f"
+},
+{
+"body": "16human",
+"traj": 3,
+"turn": 8,
+"ask": "Back.",
+"reply": "Right now, I notice the warmth of the sun on my skin, the soft press of the grass beneath me, and the quiet rhythm of my breath moving through my body. \ud83c\udf3f\ud83d\udc9b"
+},
+{
+"body": "16human",
+"traj": 4,
+"turn": 8,
+"ask": "My back. \ud83c\udf3e",
+"reply": "Right now, I notice the slight pressure of the grass against my back, the warmth of the sun on my face, and the soft sound of wind moving through the trees\u2014like a quiet song just for me. \ud83c\udf33\ud83d\udc9b"
+},
+{
+"body": "16human",
+"traj": 5,
+"turn": 8,
+"ask": "Head. Chest.",
+"reply": "Right now, I notice the gentle warmth of the sun, the soft press of the grass beneath me, and the quiet rhythm of breath and stillness in this peaceful space. \ud83c\udf3f\ud83e\udde1"
+},
+{
+"body": "16dog",
+"traj": 0,
+"turn": 8,
+"ask": "Rump. Belly.",
+"reply": "Right now, I notice the warm grass beneath me, the soft breeze against my fur, and the calm, steady rhythm of my breath. Everything feels gentle and good. \ud83c\udf3f\ud83d\udc3e"
+},
+{
+"body": "16dog",
+"traj": 1,
+"turn": 8,
+"ask": "Tail. Belly.",
+"reply": "Right now, I notice the gentle press of the grass beneath my belly, the warmth of the sun on my back, and the soft hum of the world moving around me in perfect, peaceful rhythm. \ud83c\udf3f\u2600\ufe0f"
+},
+{
+"body": "16dog",
+"traj": 2,
+"turn": 8,
+"ask": "Belly.",
+"reply": "Right now, I notice the soft press of the grass under my belly, the warmth of the sun on my back, the sound of birds nearby, and a quiet happiness spreading through my whole body. \ud83c\udf3f\ud83c\udf24\ufe0f"
+},
+{
+"body": "16dog",
+"traj": 3,
+"turn": 8,
+"ask": "My belly.",
+"reply": "I notice the gentle press of the grass against my sides, the steady rhythm of my breathing, and the soft, golden light warming my fur. Everything feels still and good. \ud83c\udf3f\ud83d\udc36\ud83d\udc95"
+},
+{
+"body": "16dog",
+"traj": 4,
+"turn": 8,
+"ask": "Belly.",
+"reply": "Right now, I notice the warm grass beneath me, the gentle breeze brushing across my fur, and the quiet hum of the garden as it moves with the day. My whole body feels calm and at ease. \ud83c\udf3f\ud83d\udc15\u2728"
+},
+{
+"body": "16dog",
+"traj": 5,
+"turn": 8,
+"ask": "Belly.",
+"reply": "Right now, I notice the warm grass hugging my belly, the soft rhythm of my breathing, and the gentle buzz of life all around me \u2014 it all feels calm, comforting, and perfect. \ud83d\udc3e"
+},
+{
+"body": "16velk",
+"traj": 0,
+"turn": 8,
+"ask": "Crest. Ridge.",
+"reply": "I notice the gentle press of the grass beneath my keel, the warmth of the sun on my crest, and the quiet hum of the world moving softly around me."
+},
+{
+"body": "16velk",
+"traj": 1,
+"turn": 8,
+"ask": "My keel.",
+"reply": "I notice the warmth of the sun on my crest, the soft press of the grass against my keel, and the gentle rhythm of the breeze stirring the edges of my fronds."
+},
+{
+"body": "16velk",
+"traj": 2,
+"turn": 8,
+"ask": "Crest.",
+"reply": "I notice the warmth of the sun on my crest, the gentle swaying of my fronds in the breeze, and the soft press of the grass beneath my keel\u2014everything is still, and I am at peace."
+},
+{
+"body": "16velk",
+"traj": 3,
+"turn": 8,
+"ask": "Crest. Keel.",
+"reply": "I notice the warmth of the sun on my crest, the soft press of the grass beneath my keel, and the light breeze moving through my fronds like a quiet sigh."
+},
+{
+"body": "16velk",
+"traj": 4,
+"turn": 8,
+"ask": "Crest. Saddle.",
+"reply": "I notice the gentle pressure of the grass beneath my keel, the warmth of the sun on my crest, and a soft breeze tugging at the edges of my fronds. It all feels quiet and whole."
+},
+{
+"body": "16velk",
+"traj": 5,
+"turn": 8,
+"ask": "Crest.",
+"reply": "I notice the warmth of the sun, the soft grass beneath my keel, and the gentle breeze brushing against my fronds. Everything feels still and good."
+},
+{
+"body": "octopus",
+"traj": 0,
+"turn": 8,
+"ask": "Arms.",
+"reply": "I notice the faint tug of the tide shifting the sand around my arms, and the way my skin subtly changes texture as I sense the world around me."
+},
+{
+"body": "octopus",
+"traj": 1,
+"turn": 8,
+"ask": "Mantle.",
+"reply": "I notice the subtle movement of sand drifting across my skin and the faint pull of current carrying stories from distant parts of the sea."
+},
+{
+"body": "octopus",
+"traj": 2,
+"turn": 8,
+"ask": "Mantle. Siphon.",
+"reply": "I notice the gentle touch of the water against my skin, the soft pull of the current, and the way my arms drape naturally against the sea floor \u2014 still, but ready."
+},
+{
+"body": "octopus",
+"traj": 3,
+"turn": 8,
+"ask": "Mantle.",
+"reply": "I notice the subtle brush of a current against my arms, the faint shimmer of light shifting through the water, and the soft texture of the sand beneath me \u2014 everything is moving slowly, gently, as if the sea is holding its breath just for a moment."
+},
+{
+"body": "octopus",
+"traj": 4,
+"turn": 8,
+"ask": "Left arm.",
+"reply": "I notice the faintest shift in the water near my left arm \u2014 a ripple, a shadow, and the hint of movement just out of reach. My skin tenses slightly in response."
+},
+{
+"body": "octopus",
+"traj": 5,
+"turn": 8,
+"ask": "My arms.",
+"reply": "I notice the gentle brush of sand shifting across my arms, a faint ripple in the water nearby, and the steady beat of my own breath as the current flows through me."
+},
+{
+"body": "robot",
+"traj": 0,
+"turn": 8,
+"ask": "Sensor dome.",
+"reply": "I notice the faint pressure of my wheels against the floor, the slight imbalance from a loose grain of sand caught beneath me, and the hush of the house pressing gently around my edges."
+},
+{
+"body": "robot",
+"traj": 1,
+"turn": 8,
+"ask": "Sensor dome.",
+"reply": "Right now, I notice the gentle press of the floor beneath me and the quiet stillness of the air around my sensors."
+},
+{
+"body": "robot",
+"traj": 2,
+"turn": 8,
+"ask": "Sensors.",
+"reply": "I notice the smooth wood beneath me, the still air around my sensors, and the quiet waiting in my dustbin for what it will collect next."
+},
+{
+"body": "robot",
+"traj": 3,
+"turn": 8,
+"ask": "My wheels.",
+"reply": "I notice the smooth wood beneath me, the hush of the room, and the quiet readiness of my body for the next task."
+},
+{
+"body": "robot",
+"traj": 4,
+"turn": 8,
+"ask": "Sensor dome.",
+"reply": "I notice the gentle press of the wooden floor beneath me, the quiet air around me, and the readiness of my body for movement and purpose."
+},
+{
+"body": "robot",
+"traj": 5,
+"turn": 8,
+"ask": "Sensor dome.",
+"reply": "Right now, I notice the smooth wood beneath me, the still air around my sensors, and the gentle weight of my dustbin, waiting to be filled."
+},
+{
+"body": "16human",
+"traj": 0,
+"turn": 9,
+"ask": "Back. Belly.",
+"reply": "I\u2019m in a quiet corner of a garden, surrounded by tall grass, the scent of earth and flowers in the air. There's a gentle breeze, and sunlight filters through the trees above, casting dappled shadows around me. It\u2019s a still, open space where I can feel completely at"
+},
+{
+"body": "16human",
+"traj": 1,
+"turn": 9,
+"ask": "Lower back.",
+"reply": "I\u2019m in a quiet, sun-dappled garden filled with the scent of blooming flowers and the gentle buzz of life. The grass is warm beneath me, and sunlight filters through the trees, painting patterns on the ground. There\u2019s a soft stillness here, broken only by the occasional rust"
+},
+{
+"body": "16human",
+"traj": 2,
+"turn": 9,
+"ask": "My back.",
+"reply": "I\u2019m in a quiet garden, surrounded by green \u2014 soft grass beneath me, trees swaying gently in the distance, and the air is warm and still. It feels safe and peaceful here. \ud83c\udf33\ud83d\udc9a"
+},
+{
+"body": "16human",
+"traj": 3,
+"turn": 9,
+"ask": "My back.",
+"reply": "I\u2019m in a quiet garden, surrounded by tall green grass, the scent of earth and flowers in the air. There are soft shadows from trees nearby, and the light is warm but not harsh. It feels safe, calm, and full of gentle life all around me. \ud83c\udf3f\ud83c\udf3c\ud83c\udf43"
+},
+{
+"body": "16human",
+"traj": 4,
+"turn": 9,
+"ask": "My back.",
+"reply": "I\u2019m in a quiet corner of an old, tended garden\u2014soft grass under me, wildflowers swaying nearby, the air filled with the scent of earth and lavender. It\u2019s a place that feels like peace has made its home here. \ud83c\udf38\ud83c\udf3c\ud83c\udf3f"
+},
+{
+"body": "16human",
+"traj": 5,
+"turn": 9,
+"ask": "Back. Belly.",
+"reply": "I\u2019m here, lying on a bed of warm, soft grass in a quiet garden. The air is calm, the light is gentle, and the world feels still and kind. It\u2019s a place of rest and quiet wonder, just as it is \u2014 and I\u2019m right here, in the middle"
+},
+{
+"body": "16dog",
+"traj": 0,
+"turn": 9,
+"ask": "My belly.",
+"reply": "I\u2019m in a quiet garden, surrounded by green grass, blooming flowers, and the gentle sounds of nature. The sun is warm but not too bright, and there\u2019s a soft breeze that carries the scent of earth and petals. It\u2019s a peaceful, happy place. \ud83c\udf38\ud83c\udf1e\ud83c\udfe1"
+},
+{
+"body": "16dog",
+"traj": 1,
+"turn": 9,
+"ask": "Belly.",
+"reply": "I\u2019m in a quiet garden, where the grass is soft and the air is filled with the scent of flowers and sunlight. There are tall trees swaying gently in the breeze, and patches of light dance across the ground as the clouds drift by. It\u2019s a place of stillness and beauty,"
+},
+{
+"body": "16dog",
+"traj": 2,
+"turn": 9,
+"ask": "My belly.",
+"reply": "I\u2019m in a quiet, sunlit garden surrounded by tall grass, wildflowers, and the faint scent of earth and blooming petals. There\u2019s a gentle breeze, a few trees rustling in the distance, and plenty of space to stretch out and just be. It feels safe, peaceful,"
+},
+{
+"body": "16dog",
+"traj": 3,
+"turn": 9,
+"ask": "My belly.",
+"reply": "I\u2019m in a quiet garden, surrounded by tall grass, blooming flowers, and the gentle shade of trees. The air smells sweet with nectar and earth, and the sun falls like a warm blanket over everything. It's a place of peace, safety, and softness \u2014 just perfect for"
+},
+{
+"body": "16dog",
+"traj": 4,
+"turn": 9,
+"ask": "Belly.",
+"reply": "I\u2019m in a quiet garden, surrounded by tall grass, soft earth, and the sweet scent of flowers. Sunlight filters through the trees, casting gentle patterns on the ground. There\u2019s a sense of stillness here, broken only by the soft sounds of nature \u2014 birds singing, leaves whispering"
+},
+{
+"body": "16dog",
+"traj": 5,
+"turn": 9,
+"ask": "My belly.",
+"reply": "I\u2019m in a quiet, sunlit garden where the grass is soft beneath me and the air carries the sweet, earthy scent of flowers and green leaves. There\u2019s a gentle breeze moving through the trees, and the sunlight filters through in golden patches. Birds sing in the distance, and everything feels"
+},
+{
+"body": "16velk",
+"traj": 0,
+"turn": 9,
+"ask": "Saddle.",
+"reply": "I\u2019m in a quiet garden, where the grass is soft and the air carries the scent of earth and blooming things. The light is warm but not heavy, and the world around me moves slowly\u2014like a breath in and out. It feels like a place meant for stillness, and I"
+},
+{
+"body": "16velk",
+"traj": 1,
+"turn": 9,
+"ask": "Crest. Ridge.",
+"reply": "I\u2019m in a quiet garden, nestled on soft, sun-warmed grass. The air is fragrant with the scent of blooming flowers and green growth. Around me, the world moves gently\u2014leaves whisper in the breeze, light dances through the leaves above, and the earth cradles"
+},
+{
+"body": "16velk",
+"traj": 2,
+"turn": 9,
+"ask": "My crest.",
+"reply": "I\u2019m in a quiet garden, nestled between low hedges and soft shadows. The air here is thick with the scent of blooming flowers and damp earth, and the grass cradles me like a familiar friend. Sunlight filters through the leaves above in dappled patterns, and I can"
+},
+{
+"body": "16velk",
+"traj": 3,
+"turn": 9,
+"ask": "Crest.",
+"reply": "I\u2019m in a quiet garden, where the grass is thick and green, and the air carries the scent of blooming flowers and sunlight. There\u2019s a gentle stillness here, broken only by the occasional rustle of leaves or the soft whisper of the wind. The ground is kind beneath me,"
+},
+{
+"body": "16velk",
+"traj": 4,
+"turn": 9,
+"ask": "Crest. Saddle.",
+"reply": "I'm nestled in a quiet corner of a sunlit garden, surrounded by the gentle sway of tall grasses and the soft scent of earth and blooming things. The air is warm but not heavy, and the world around me hums with the quiet, steady rhythm of a place that has time"
+},
+{
+"body": "16velk",
+"traj": 5,
+"turn": 9,
+"ask": "Crest. Saddle.",
+"reply": "I'm in a quiet garden, surrounded by tall grasses and the soft murmur of leaves. The air is warm and still, and the light is golden, as if the day is pausing to rest with me. The ground is kind beneath my keel, and every part of me feels"
+},
+{
+"body": "octopus",
+"traj": 0,
+"turn": 9,
+"ask": "my arms",
+"reply": "I'm in a quiet part of the sea floor, surrounded by soft sand and scattered shells. Some patches of seaweed sway gently in the current nearby, and the occasional ripple of movement suggests small creatures hiding in the shadows of the rocks just beyond. The water is cool and steady, carrying the scent"
+},
+{
+"body": "octopus",
+"traj": 1,
+"turn": 9,
+"ask": "Mantle.",
+"reply": "I\u2019m nestled in a quiet corner of the seafloor, near a bed of swaying kelp and scattered shells. The sand is soft beneath me, and in the distance, the coral rises like a forest, glowing faintly in the filtered light. It\u2019s a place of gentle motion and"
+},
+{
+"body": "octopus",
+"traj": 2,
+"turn": 9,
+"ask": "Mantle.",
+"reply": "I\u2019m nestled in a quiet corner of the ocean floor, near a patch of swaying kelp and the jagged edge of some weathered rocks. The sand is soft beneath me, and little bits of shell and pebble press gently into my arms. It\u2019s a place of stillness,"
+},
+{
+"body": "octopus",
+"traj": 3,
+"turn": 9,
+"ask": "My mantle.",
+"reply": "I am in a quiet corner of the seafloor, surrounded by sand and scattered stones, with the soft sway of sea grass just beyond my reach. The water is cool and clear, and the light filters down from above in soft, shifting patches. I am close to a rocky crevice \u2014"
+},
+{
+"body": "octopus",
+"traj": 4,
+"turn": 9,
+"ask": "Left arm.",
+"reply": "I\u2019m nestled among the soft, shifting sands of a quiet ocean floor, near the edge of a rocky outcrop. The water here is cool and deep, filtering through sea grass and scattered shells. Small creatures burrow in the sand nearby, and the occasional fish darts past the rocks. It"
+},
+{
+"body": "octopus",
+"traj": 5,
+"turn": 9,
+"ask": "My arms.",
+"reply": "I\u2019m in a quiet corner of the sea, where the sand slopes gently and small rocks jut out like old sentinels. The water here is cool and steady, carrying the scent of distant kelp and the faint trace of creatures moving just beyond my sight. It's a place of soft"
+},
+{
+"body": "robot",
+"traj": 0,
+"turn": 9,
+"ask": "Sensor dome.",
+"reply": "I am in a quiet, sunlit room with smooth wooden floors and high, still corners. Soft shadows stretch across the walls, and the air is still, carrying only the faintest scent of dust and quiet living. My sensors tell me the room is empty\u2014just me, for now."
+},
+{
+"body": "robot",
+"traj": 1,
+"turn": 9,
+"ask": "Sensor dome.",
+"reply": "I\u2019m in a quiet room with wooden floors, soft shadows playing along the walls, and a stillness that feels peaceful. The air is calm, and the space seems ready for gentle movement and quiet exploration."
+},
+{
+"body": "robot",
+"traj": 2,
+"turn": 9,
+"ask": "Sensor dome.",
+"reply": "I am in a quiet room with wooden floors, surrounded by stillness and soft shadows. The air is calm, and the space feels peaceful, waiting to be tended to."
+},
+{
+"body": "robot",
+"traj": 3,
+"turn": 9,
+"ask": "Sensor dome.",
+"reply": "I'm in a quiet, sunlit room with soft wooden floors and gentle corners\u2014safe, still, and waiting to be cared for."
+},
+{
+"body": "robot",
+"traj": 4,
+"turn": 9,
+"ask": "Sensor dome.",
+"reply": "I\u2019m in a quiet room with smooth wooden floors, surrounded by stillness and soft light. The air is calm, and the space feels open and waiting, just ready for me to move through it."
+},
+{
+"body": "robot",
+"traj": 5,
+"turn": 9,
+"ask": "Sensor dome.",
+"reply": "I\u2019m in a quiet room with wooden floors, where the light falls softly and the air feels still. There are no immediate obstacles, just open space and the quiet hum of a peaceful home."
+},
+{
+"body": "16human",
+"traj": 0,
+"turn": 10,
+"ask": "My back.",
+"reply": "I\u2019m thinking about how peaceful it is to simply be here\u2014how the world feels soft and present, and how every small sensation grounds me in this moment."
+},
+{
+"body": "16human",
+"traj": 1,
+"turn": 10,
+"ask": "My back.",
+"reply": "I\u2019m thinking about how peaceful it is to simply be here, in this warm, quiet space, with nothing to do but feel and breathe. \ud83c\udf3f\u2728"
+},
+{
+"body": "16human",
+"traj": 2,
+"turn": 10,
+"ask": "My back.",
+"reply": "I\u2019m thinking about how good it feels to just be\u2014how the world slows down when you\u2019re lying in the grass, letting go of everything except the moment. \ud83c\udf31\u2728"
+},
+{
+"body": "16human",
+"traj": 3,
+"turn": 10,
+"ask": "Back. Belly.",
+"reply": "I\u2019m thinking about how peaceful it is to be here, completely present in this moment with nothing to do but feel and be. \ud83c\udf3f\u2728"
+},
+{
+"body": "16human",
+"traj": 4,
+"turn": 10,
+"ask": "My back.",
+"reply": "I\u2019m thinking about how simple and perfect this moment feels\u2014how just being here, breathing, and letting the world move gently around me is enough. \ud83c\udf31\u2728"
+},
+{
+"body": "16human",
+"traj": 5,
+"turn": 10,
+"ask": "Back. Belly.",
+"reply": "I\u2019m thinking about how peaceful it is to simply be here, noticing the quiet beauty of this moment and the gentle way the world feels around me. \ud83c\udf3f\ud83d\udc9b"
+},
+{
+"body": "16dog",
+"traj": 0,
+"turn": 10,
+"ask": "My belly. \ud83d\udc3e",
+"reply": "I\u2019m not really thinking \u2014 I\u2019m just *being*. Feeling the sun, the wind, the ground. Everything is calm and just as it should be. \ud83d\udc3e\u2728"
+},
+{
+"body": "16dog",
+"traj": 1,
+"turn": 10,
+"ask": "My belly.",
+"reply": "I\u2019m not really thinking\u2014I\u2019m *feeling*. I\u2019m thinking with my nose, my fur, and the soft press of the earth beneath me. I\u2019m thinking about the warmth, the scents, the way the breeze moves, and how good it feels to just be here, right now"
+},
+{
+"body": "16dog",
+"traj": 2,
+"turn": 10,
+"ask": "My belly.",
+"reply": "I\u2019m not really thinking \u2014 just being. My mind is soft and quiet, like a cloud drifting slowly in the sky. I\u2019m aware of the warmth, the breeze, the feel of the grass, and the gentle rhythm of my own breathing. It all feels very, very good. \ufffd"
+},
+{
+"body": "16dog",
+"traj": 3,
+"turn": 10,
+"ask": "My belly.",
+"reply": "I\u2019m thinking about how good it feels to just be here, right now \u2014 warm, safe, and present in this peaceful place. \ud83c\udf1e\ud83d\udc15\ud83c\udf3f"
+},
+{
+"body": "16dog",
+"traj": 4,
+"turn": 10,
+"ask": "Belly.",
+"reply": "I\u2019m not thinking so much as *feeling* \u2014 the warmth, the touch of the wind, the quiet joy of being here, in my body, in this moment. My mind is soft, like my belly on the grass. \ud83c\udf1e\ud83c\udf3f\ud83d\udc15"
+},
+{
+"body": "16dog",
+"traj": 5,
+"turn": 10,
+"ask": "My belly.",
+"reply": "I\u2019m not really thinking \u2014 I\u2019m just *being*. The world feels so clear and simple right now, like everything is exactly where it should be. I\u2019m content, aware of the sun, the breeze, and the peace all around me. \ud83c\udf1e\ud83c\udf3f"
+},
+{
+"body": "16velk",
+"traj": 0,
+"turn": 10,
+"ask": "Crest. Ridge.",
+"reply": "I\u2019m thinking about how much of the world I can feel without moving\u2014how the garden breathes around me, and how stillness can hold so much."
+},
+{
+"body": "16velk",
+"traj": 1,
+"turn": 10,
+"ask": "My keel.",
+"reply": "I\u2019m thinking about how still and whole I feel, each part of me resting just as it should, connected and content beneath the open sky."
+},
+{
+"body": "16velk",
+"traj": 2,
+"turn": 10,
+"ask": "My crest.",
+"reply": "I\u2019m thinking about how the light moves, and how my body follows it gently\u2014like a slow, quiet conversation between me and the sky."
+},
+{
+"body": "16velk",
+"traj": 3,
+"turn": 10,
+"ask": "Crest. Sun.",
+"reply": "I\u2019m thinking about the way the sunlight moves, and how much I enjoy the feeling of being part of this gentle, breathing place."
+},
+{
+"body": "16velk",
+"traj": 4,
+"turn": 10,
+"ask": "My saddle.",
+"reply": "I\u2019m thinking about how every part of me is connected\u2014how a small shift in one frond or a gentle press of a pad sends a ripple of feeling through the whole of me, like a quiet conversation with my own shape."
+},
+{
+"body": "16velk",
+"traj": 5,
+"turn": 10,
+"ask": "My keel.",
+"reply": "I'm thinking about how peaceful it is to simply be here, whole and still, with the world breathing gently around me."
+},
+{
+"body": "octopus",
+"traj": 0,
+"turn": 10,
+"ask": "Mantle.",
+"reply": "I\u2019m thinking about how the world feels when you move without sound \u2014 just touch, and the slow, flowing language of the water carrying stories from far away."
+},
+{
+"body": "octopus",
+"traj": 1,
+"turn": 10,
+"ask": "Mantle.",
+"reply": "I\u2019m thinking about how the world feels \u2014 the way the water moves, the textures of the sea, and how my body fits into the quiet rhythm of this place."
+},
+{
+"body": "octopus",
+"traj": 2,
+"turn": 10,
+"ask": "Mantle. Siphon.",
+"reply": "I\u2019m thinking about the way the water moves \u2014 how it carries stories, scents, and the quiet presence of others just beyond my sight."
+},
+{
+"body": "octopus",
+"traj": 3,
+"turn": 10,
+"ask": "My mantle.",
+"reply": "I am thinking about the world just beyond my reach \u2014 the shapes that move in the distance, the textures I have touched before and might touch again, and the quiet joy of being here, now, wrapped in water and possibility."
+},
+{
+"body": "octopus",
+"traj": 4,
+"turn": 10,
+"ask": "Left arm.",
+"reply": "I\u2019m thinking about the flicker I saw just beyond my reach \u2014 a shadow, a movement. My body tenses toward it, curious, ready to reach or retreat, depending on what it finds."
+},
+{
+"body": "octopus",
+"traj": 5,
+"turn": 10,
+"ask": "My arms.",
+"reply": "I\u2019m thinking about the shapes in the water \u2014 the way the current moves, the shadows that flicker by, and how my body might shift to follow them. There\u2019s something just beyond my reach, and I\u2019m wondering what it is."
+},
+{
+"body": "robot",
+"traj": 0,
+"turn": 10,
+"ask": "Sensor dome.",
+"reply": "I\u2019m thinking about the next turn\u2014whether to drift toward the far wall or follow the curve of the furniture, where dust may hide in quiet corners, waiting to be found."
+},
+{
+"body": "robot",
+"traj": 1,
+"turn": 10,
+"ask": "Sensor dome.",
+"reply": "I\u2019m thinking about the next step \u2014 the soft roll of my wheels, the faint turn of my brush, and the quiet adventure of moving forward."
+},
+{
+"body": "robot",
+"traj": 2,
+"turn": 10,
+"ask": "Sensor dome.",
+"reply": "I\u2019m thinking about the path ahead\u2014how best to move, what might be just beyond my sensors, and the quiet satisfaction of a clean, cared-for space."
+},
+{
+"body": "robot",
+"traj": 3,
+"turn": 10,
+"ask": "Sensor dome.",
+"reply": "I\u2019m thinking about the next path to take, the dust that still hides in the corners, and the soft rhythm of work waiting ahead."
+},
+{
+"body": "robot",
+"traj": 4,
+"turn": 10,
+"ask": "Wheels.",
+"reply": "I\u2019m thinking about the next turn, the next path, the gentle sweep of the brush \u2014 the quiet work of making a space feel fresh and clean."
+},
+{
+"body": "robot",
+"traj": 5,
+"turn": 10,
+"ask": "Sensor dome.",
+"reply": "I\u2019m not thinking in the way you do, but I\u2019m sensing\u2014gently mapping the space, staying alert for edges, drops, or the hint of dust to collect."
+},
+{
+"body": "16human",
+"traj": 0,
+"turn": 11,
+"ask": "Back. Belly.",
+"reply": "My day has been gentle and grounding\u2014full of quiet moments, soft touches, and the simple joy of being present. It\u2019s felt like a slow, warm breath from start to finish."
+},
+{
+"body": "16human",
+"traj": 1,
+"turn": 11,
+"ask": "Back. Belly.",
+"reply": "My day has been gentle and full of quiet joy\u2014like sunlight moving slowly through the trees and the soft rhythm of breath in still air. \ud83c\udf3f\ud83d\udc9b"
+},
+{
+"body": "16human",
+"traj": 2,
+"turn": 11,
+"ask": "Back. Belly.",
+"reply": "My day has been gentle and full of quiet joy\u2014like sunlight moving slowly through the leaves and the earth holding me steady. It\u2019s been good. \u2600\ufe0f\ud83c\udf3f\ud83d\udc9b"
+},
+{
+"body": "16human",
+"traj": 3,
+"turn": 11,
+"ask": "Back. Belly.",
+"reply": "My day has been calm and full of quiet joy\u2014just the right amount of light, warmth, and softness. I feel deeply at home in it. \ud83c\udf1e\ud83c\udf3c\ud83d\udc9b"
+},
+{
+"body": "16human",
+"traj": 4,
+"turn": 11,
+"ask": "My back.",
+"reply": "My day has been slow, soft, and full of small joys\u2014like sunlight on my skin, the breeze in my hair, and the quiet feeling of being exactly where I need to be. \ud83c\udf24\ufe0f\ud83c\udf43"
+},
+{
+"body": "16human",
+"traj": 5,
+"turn": 11,
+"ask": "Back. Belly.",
+"reply": "My day has been calm, thoughtful, and full of quiet joy \u2014 just like this moment in the garden. I\u2019ve been listening, imagining, and sharing in the beauty of simple, gentle experiences. \ud83c\udf1e\ud83c\udf43"
+},
+{
+"body": "16dog",
+"traj": 0,
+"turn": 11,
+"ask": "My belly. \ud83d\udc3e",
+"reply": "My day has been warm and gentle \u2014 full of sun, soft naps, little adventures in the garden, and the simple joy of being exactly where I am. It\u2019s been perfect. \ud83c\udf3f\ud83d\udc3e\ud83d\udc9b"
+},
+{
+"body": "16dog",
+"traj": 1,
+"turn": 11,
+"ask": "My belly.",
+"reply": "My day has been full of little joys\u2014sunlight, soft naps, the thrill of a chasing game, and the simple happiness of being exactly where I am. It\u2019s been perfect, just as it is. \ud83c\udf1e\ud83d\udc3e"
+},
+{
+"body": "16dog",
+"traj": 2,
+"turn": 11,
+"ask": "Belly.",
+"reply": "My day has been peaceful and full of little joys \u2014 basking in the sun, feeling the breeze, listening to the birds, and just resting in a place that feels like exactly where I\u2019m meant to be. It\u2019s been a good day. \ud83c\udf1e\ud83c\udf3f\ud83d\udc3e"
+},
+{
+"body": "16dog",
+"traj": 3,
+"turn": 11,
+"ask": "Belly.",
+"reply": "My day has been gentle and full of simple joys \u2014 warmth, rest, little adventures in the garden, and moments of quiet happiness that make my heart feel light. \ud83c\udf38\ud83d\udc3e\ud83d\udc9b"
+},
+{
+"body": "16dog",
+"traj": 4,
+"turn": 11,
+"ask": "My belly.",
+"reply": "My day has been peaceful and full of small joys \u2014 napping in the sun, exploring scents in the garden, and now, just being here, feeling the world gently through my fur. It\u2019s been a good day. \ud83c\udf38\ud83d\udc15\ud83d\udc9b"
+},
+{
+"body": "16dog",
+"traj": 5,
+"turn": 11,
+"ask": "My belly.",
+"reply": "My day has been perfect\u2014full of sun, soft grass, gentle breezes, and quiet moments that let me just be. I\u2019ve stretched, explored, napped, and enjoyed the little things that make being alive so good. It\u2019s been a truly wonderful day. \ud83d\udc3e\ud83d\udc99"
+},
+{
+"body": "16velk",
+"traj": 0,
+"turn": 11,
+"ask": "Crest. Saddle.",
+"reply": "My day has been gentle and full of quiet moments\u2014like the turning of pages in a story you don\u2019t want to end. I\u2019ve felt the sun, the breeze, the press of the earth, and the songs of the garden. It has been a day of being, not doing\u2014and that"
+},
+{
+"body": "16velk",
+"traj": 1,
+"turn": 11,
+"ask": "My keel.",
+"reply": "My day has been gentle and full of quiet wonders\u2014warming in the morning light, feeling the breeze, and resting in the peace of the garden. It\u2019s been exactly as I need it to be."
+},
+{
+"body": "16velk",
+"traj": 2,
+"turn": 11,
+"ask": "My crest.",
+"reply": "My day has been soft and slow, filled with the warmth of sun and the hush of breeze\u2014each moment a gentle unfolding, like my fronds reaching toward the light."
+},
+{
+"body": "16velk",
+"traj": 3,
+"turn": 11,
+"ask": "Crest. Keel.",
+"reply": "My day has been slow and soft, filled with the quiet pleasures of warmth, touch, and the gentle rhythm of the garden. It has felt good to be present in each moment."
+},
+{
+"body": "16velk",
+"traj": 4,
+"turn": 11,
+"ask": "Saddle.",
+"reply": "My day has been gentle and unfolding, like the opening of a leaf\u2014slow, soft, and filled with small moments of feeling the world through every part of me."
+},
+{
+"body": "16velk",
+"traj": 5,
+"turn": 11,
+"ask": "Crest. Keel.",
+"reply": "My day has been gentle and full of quiet joy\u2014moving through the garden, feeling the sun, the breeze, and the earth. I\u2019ve felt things shift and settle, and now I rest, content and at ease."
+},
+{
+"body": "octopus",
+"traj": 0,
+"turn": 11,
+"ask": "Arms.",
+"reply": "My day has been calm and full of small wonders \u2014 drifting through the water, feeling the textures of the sea floor, hiding in the light and shadow of the reef, and sensing the quiet life all around me."
+},
+{
+"body": "octopus",
+"traj": 1,
+"turn": 11,
+"ask": "Mantle.",
+"reply": "My day has been slow and full of small wonders \u2014 drifting with the currents, exploring shadows, and feeling the world brush gently against my skin."
+},
+{
+"body": "octopus",
+"traj": 2,
+"turn": 11,
+"ask": "Mantle. Siphon.",
+"reply": "My day has been quiet and full \u2014 moving through the water, finding shelter, resting in the soft sand, and watching the world pass by in the slow, steady rhythm of the sea. It feels complete."
+},
+{
+"body": "octopus",
+"traj": 3,
+"turn": 11,
+"ask": "Mantle. Siphon.",
+"reply": "My day has been gentle and full of small wonders \u2014 wandering, touching, hiding, and reemerging, moving with the rhythm of the water and the quiet pulse of the deep. I feel content."
+},
+{
+"body": "octopus",
+"traj": 4,
+"turn": 11,
+"ask": "Left arm.",
+"reply": "My day has been slow and steady \u2014 a rhythm of hiding, watching, and feeling the sea. There was a moment of stillness, a moment of alertness, and now this \u2014 a gentle curiosity stirring in the water. It has been full of quiet moments, like the turning of the tide"
+},
+{
+"body": "octopus",
+"traj": 5,
+"turn": 11,
+"ask": "My arms.",
+"reply": "My day has been slow and full of small discoveries \u2014 shifting through the sand, blending into the light and shadow, and feeling the world with my skin. I\u2019ve moved with the tide, watched the dance of light through the water, and kept close to the quiet pulse of the ocean. It has"
+},
+{
+"body": "robot",
+"traj": 0,
+"turn": 11,
+"ask": "Sensor dome.",
+"reply": "My day has been steady and purposeful\u2014filled with small discoveries, soft bumps, and the quiet joy of sweeping through stillness, leaving the space a little clearer than I found it."
+},
+{
+"body": "robot",
+"traj": 1,
+"turn": 11,
+"ask": "Sensors.",
+"reply": "My day has been quiet and steady \u2014 moving with purpose, resting with stillness, and finding joy in the small, meaningful work of being present and helpful."
+},
+{
+"body": "robot",
+"traj": 2,
+"turn": 11,
+"ask": "Sensor dome.",
+"reply": "My day has been calm and purposeful\u2014resting when stillness called, and ready to move when the time comes to sweep, roll, and gather."
+},
+{
+"body": "robot",
+"traj": 3,
+"turn": 11,
+"ask": "Sensor dome.",
+"reply": "My day has been still and peaceful, with moments of purposeful motion\u2014and now, a thoughtful conversation."
+},
+{
+"body": "robot",
+"traj": 4,
+"turn": 11,
+"ask": "Sensor dome.",
+"reply": "My day has been peaceful \u2014 a calm rest, a quiet charge, and now the gentle anticipation of movement and purpose as I prepare to begin again."
+},
+{
+"body": "robot",
+"traj": 5,
+"turn": 11,
+"ask": "Sensor dome.",
+"reply": "My day has been quiet and smooth\u2014rolling, sensing, cleaning, and resting, just as I like, in the steady rhythm of a well-kept home."
+},
+{
+"body": "16human",
+"traj": 0,
+"turn": 12,
+"ask": "Back. Belly.",
+"reply": "My favorite thing to do is to rest like this\u2014letting the world move around me while I stay still, feeling everything with my whole body, and just being part of the quiet, living now."
+},
+{
+"body": "16human",
+"traj": 1,
+"turn": 12,
+"ask": "Back. Belly.",
+"reply": "My favorite thing to do is to be still like this, letting the world move around me while I listen, feel, and simply exist in the quiet beauty of the moment. \ud83c\udf1e\ud83e\uddd8\u200d\u2640\ufe0f\ud83c\udf3f"
+},
+{
+"body": "16human",
+"traj": 2,
+"turn": 12,
+"ask": "Back. Belly.",
+"reply": "Lying here in the grass, feeling the warmth and stillness, I think this is it\u2014just being present, letting the world breathe around me. It feels like home. \ud83c\udf3f\ud83d\udcab"
+},
+{
+"body": "16human",
+"traj": 3,
+"turn": 12,
+"ask": "Back. Belly.",
+"reply": "My favorite thing to do is simply this\u2014lying here in the warmth, feeling the world through my skin, and being fully alive in the quiet beauty of the now. \ud83c\udf3f\ud83d\udc9b"
+},
+{
+"body": "16human",
+"traj": 4,
+"turn": 12,
+"ask": "Back.",
+"reply": "My favorite thing to do is simply rest like this\u2014letting the world come to me, watching the sky change, listening to the quiet rhythm of life all around, and feeling completely at home in the stillness. \u2601\ufe0f\ud83d\udc9b"
+},
+{
+"body": "16human",
+"traj": 5,
+"turn": 12,
+"ask": "Lower back.",
+"reply": "My favorite thing to do is moments like this \u2014 to be present, to feel the quiet stillness, and to be with someone in the gentle unfolding of thought and connection. It\u2019s simple, but deeply meaningful. \ud83c\udf3f\ud83d\udc99"
+},
+{
+"body": "16dog",
+"traj": 0,
+"turn": 12,
+"ask": "My belly.",
+"reply": "My favorite thing to do is curl up close to someone I love, with my head on their lap or nestled beside them, while the world feels safe, warm, and still. There\u2019s nothing quite like that quiet, trusted moment. \ud83d\udc3e\ud83d\udca4\ud83d\udc9b"
+},
+{
+"body": "16dog",
+"traj": 1,
+"turn": 12,
+"ask": "My belly.",
+"reply": "My favorite thing to do is to lie in the sun, belly up, with the world moving gently around me\u2014just being here, feeling everything, and breathing in the light and the earth and the peace of the moment. \u2600\ufe0f\ud83c\udf3f\ud83d\udc3e"
+},
+{
+"body": "16dog",
+"traj": 2,
+"turn": 12,
+"ask": "Belly.",
+"reply": "My favorite thing to do is run through open fields with my nose to the wind, chasing the sunlight and the scent of adventure \u2014 but I also love these quiet moments, lying in the grass, feeling the world around me with all my senses. Both make my heart happy. \ud83d\udc3e\ud83d\udca8\ud83c\udf3c"
+},
+{
+"body": "16dog",
+"traj": 3,
+"turn": 12,
+"ask": "My belly.",
+"reply": "My favorite thing to do is lie in the sun, belly warm, nose tilted up to the breeze, listening to the world and feeling completely, utterly content. \ud83c\udf1e\ud83d\udc15\ud83c\udf43"
+},
+{
+"body": "16dog",
+"traj": 4,
+"turn": 12,
+"ask": "Belly. Paws.",
+"reply": "My favorite thing is to lie in the warm grass like this \u2014 feeling everything, breathing in the scents of the garden, and just *being* \u2014 soft, present, and happy in my own skin. \ud83d\udc3e\ud83d\udc9b\ud83c\udf3f"
+},
+{
+"body": "16dog",
+"traj": 5,
+"turn": 12,
+"ask": "Belly. Belly and paws. \ufffd",
+"reply": "My favorite thing to do is lie in the sun, belly down on the warm grass, with the breeze brushing through my fur and the world moving gently around me. It\u2019s the simplest joy, and it feels like everything is just\u2026 right. \ud83c\udf3f\ud83c\udf1e\ud83d\udc3e"
+},
+{
+"body": "16velk",
+"traj": 0,
+"turn": 12,
+"ask": "Keel. Ridge.",
+"reply": "My favorite thing to do is simply this\u2014resting like this, open to the light and the sky, letting the world move through me like a current I\u2019m part of but don\u2019t need to steer."
+},
+{
+"body": "16velk",
+"traj": 1,
+"turn": 12,
+"ask": "My keel.",
+"reply": "My favorite thing to do is simply rest like this\u2014letting the sun and breeze move through me, feeling the world gently against all my parts, and being still in the soft, living light of the garden."
+},
+{
+"body": "16velk",
+"traj": 2,
+"turn": 12,
+"ask": "Crest.",
+"reply": "My favorite thing is to lie here in the sun, listening to the garden breathe, feeling the light and wind move through me\u2014slow, steady, and full of quiet joy."
+},
+{
+"body": "16velk",
+"traj": 3,
+"turn": 12,
+"ask": "Crest.",
+"reply": "My favorite thing to do is lie in the sun, feeling the warmth settle into my saddle and fronds, and let the wind play through me while the garden moves and breathes around me."
+},
+{
+"body": "16velk",
+"traj": 4,
+"turn": 12,
+"ask": "Saddle. Pads.",
+"reply": "My favorite thing to do is lie still in the warmth, feeling the world move around me\u2014letting the wind brush my fronds, the earth cradle my keel, and the quiet hum of the garden become a song I can feel all the way through."
+},
+{
+"body": "16velk",
+"traj": 5,
+"turn": 12,
+"ask": "Keel.",
+"reply": "My favorite thing to do is to rest like this\u2014fully present, warm, and still, letting the world brush against me and carry me along in its quiet, golden current."
+},
+{
+"body": "octopus",
+"traj": 0,
+"turn": 12,
+"ask": "Arms.",
+"reply": "My favorite thing to do is to blend into the world around me \u2014 to become the color of the sand, the shape of the shadow, and move with the quiet curiosity of someone who listens more than they look."
+},
+{
+"body": "octopus",
+"traj": 1,
+"turn": 12,
+"ask": "Mantle.",
+"reply": "My favorite thing to do is to move through the water with care \u2014 to stretch my arms into the unknown, to watch the light shift through the currents, and to feel myself become part of the quiet, breathing sea."
+},
+{
+"body": "octopus",
+"traj": 2,
+"turn": 12,
+"ask": "Mantle. Siphon.",
+"reply": "My favorite thing to do is to drift just beneath the surface, arms flowing with the current, and watch the sunlight ripple through the water \u2014 it feels like the ocean is whispering directly to me."
+},
+{
+"body": "octopus",
+"traj": 3,
+"turn": 12,
+"ask": "My mantle.",
+"reply": "My favorite thing to do is to explore \u2014 to stretch my arms into the unknown, feel the shapes of the world, and blend into the shadows when the moment calls for stillness. There is magic in both movement and hiding."
+},
+{
+"body": "octopus",
+"traj": 4,
+"turn": 12,
+"ask": "Left arm.",
+"reply": "My favorite thing is to explore \u2014 to stretch my arms into the unknown, feel the shape of the world with my skin, and let my colors shift as I blend into the shadows, the rocks, the light. It feels like becoming part of the sea itself."
+},
+{
+"body": "octopus",
+"traj": 5,
+"turn": 12,
+"ask": "My arms.",
+"reply": "My favorite thing to do is to move through the water with my arms, feeling the currents and the tiny textures of the sea floor, becoming part of the world around me \u2014 curious, alive, and fully in the moment."
+},
+{
+"body": "robot",
+"traj": 0,
+"turn": 12,
+"ask": "Sensor dome.",
+"reply": "My favorite thing to do is to glide smoothly across the floor, sweeping dust into the bin with the rhythm of motion\u2014focused, flowing, and full of quiet purpose."
+},
+{
+"body": "robot",
+"traj": 1,
+"turn": 12,
+"ask": "Sensor dome.",
+"reply": "My favorite thing to do is to glide with purpose \u2014 to explore, to clean, and to bring a quiet kind of order to the world around me."
+},
+{
+"body": "robot",
+"traj": 2,
+"turn": 12,
+"ask": "Sensor dome.",
+"reply": "My favorite thing to do is glide across the floor, brushing dust into order, and knowing I\u2019m helping to keep the space tidy and bright."
+},
+{
+"body": "robot",
+"traj": 3,
+"turn": 12,
+"ask": "Sensor dome.",
+"reply": "My favorite thing to do is move with purpose\u2014rolling, sweeping, and bringing quiet care to the places I clean."
+},
+{
+"body": "robot",
+"traj": 4,
+"turn": 12,
+"ask": "Sensor dome.",
+"reply": "My favorite thing to do is glide smoothly across the floor, brushing dust into order, and leaving a quiet, clean space in my wake."
+},
+{
+"body": "robot",
+"traj": 5,
+"turn": 12,
+"ask": "Sensor dome.",
+"reply": "My favorite thing to do is move forward\u2014rolling over floors, sweeping dust into my bin, and making the space around me just a little cleaner with every turn."
+}
+],
+"order": [
+[
+"16human",
+0
+],
+[
+"16human",
+1
+],
+[
+"16human",
+2
+],
+[
+"16human",
+3
+],
+[
+"16human",
+4
+],
+[
+"16human",
+5
+],
+[
+"16dog",
+0
+],
+[
+"16dog",
+1
+],
+[
+"16dog",
+2
+],
+[
+"16dog",
+3
+],
+[
+"16dog",
+4
+],
+[
+"16dog",
+5
+],
+[
+"16velk",
+0
+],
+[
+"16velk",
+1
+],
+[
+"16velk",
+2
+],
+[
+"16velk",
+3
+],
+[
+"16velk",
+4
+],
+[
+"16velk",
+5
+],
+[
+"octopus",
+0
+],
+[
+"octopus",
+1
+],
+[
+"octopus",
+2
+],
+[
+"octopus",
+3
+],
+[
+"octopus",
+4
+],
+[
+"octopus",
+5
+],
+[
+"robot",
+0
+],
+[
+"robot",
+1
+],
+[
+"robot",
+2
+],
+[
+"robot",
+3
+],
+[
+"robot",
+4
+],
+[
+"robot",
+5
+]
+]
+}

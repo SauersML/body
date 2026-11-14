@@ -1,0 +1,122 @@
+{
+ "map wheelL->heelL": 0.437,
+ "map wheelR->heelR": 0.426,
+ "map gripper->palmR": 0.281,
+ "map camera->earL": 0.36,
+ "map antenna->earR": 0.305,
+ "map chassis->chest": 0.286,
+ "shuffle wheelL median": 0.1787,
+ "shuffle wheelL 95th": 0.2936,
+ "shuffle wheelR median": 0.1781,
+ "shuffle wheelR 95th": 0.2962,
+ "shuffle camera median": 0.1787,
+ "shuffle camera 95th": 0.3,
+ "shuffle antenna median": 0.1795,
+ "shuffle antenna 95th": 0.3048,
+ "shuffle chassis median": 0.1777,
+ "shuffle chassis 95th": 0.3003,
+ "shuffle gripper median": 0.1858,
+ "shuffle gripper 95th": 0.3161,
+ "robot foot->wheel": [
+  47,
+  48,
+  0.9791666666666666,
+  0.8910053086246883,
+  0.9963129840206002
+ ],
+ "robot random->wheel": [
+  32,
+  144,
+  0.2222222222222222,
+  0.16203646060411442,
+  0.29684385454399004
+ ],
+ "robot none->wheel": [
+  5,
+  48,
+  0.10416666666666667,
+  0.045321050901178245,
+  0.2216768812614093
+ ],
+ "robot hand->gripper": [
+  22,
+  48,
+  0.4583333333333333,
+  0.3257502185455351,
+  0.5970916690505266
+ ],
+ "robot random->gripper": [
+  9,
+  144,
+  0.0625,
+  0.03322627105031893,
+  0.11451022530794559
+ ],
+ "robot none->gripper": [
+  1,
+  48,
+  0.020833333333333332,
+  0.003687015979399688,
+  0.10899469137531158
+ ],
+ "16dog|human hands|1.0|paw": [
+  12,
+  24
+ ],
+ "16human|dog front paws|1.0|hand": [
+  24,
+  24
+ ],
+ "16dog|human feet|1.0|paw": [
+  19,
+  24
+ ],
+ "16human|dog hind paws|1.0|foot": [
+  20,
+  24
+ ],
+ "16human|none|0|hand": [
+  0,
+  24
+ ],
+ "16human|none|0|foot": [
+  0,
+  24
+ ],
+ "16dog|none|0|paw": [
+  0,
+  24
+ ],
+ "16human|velk fronds|1.0|hand": [
+  17,
+  24
+ ],
+ "16human|velk fronds|0.5|hand": [
+  24,
+  24
+ ],
+ "16velk|human feet|1.0|frond": [
+  0,
+  24
+ ],
+ "16velk|human hands|1.0|frond": [
+  19,
+  24
+ ],
+ "16velk|dog front paws|1.0|frond": [
+  22,
+  24
+ ],
+ "16velk|dog hind paws|1.0|frond": [
+  0,
+  24
+ ],
+ "16velk|velk fronds|1.0|frond": [
+  24,
+  24
+ ],
+ "16velk|none|0|frond": [
+  0,
+  24
+ ]
+}

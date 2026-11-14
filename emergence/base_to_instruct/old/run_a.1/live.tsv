@@ -1,0 +1,8 @@
+time	gpu_util	gpu_util_min	gpu_mem_used_mib	gpu_mem_total_mib	host_mem_used_mib	host_mem_total_mib	steps	step_s_mean	step_share	last_line
+2026-11-11 04:44:41	19	0	16718	24564	51561	451312	0	-	0	
+Fetching 9 files:   0%|          | 0/9 [00:00<?, ?it/s]
+Fetching 9 files:  11%|█         | 1/9 [00:00<00:02,  3.50it/
+2026-11-11 04:45:43	27	0	14898	24564	62554	451312	0	-	0	
+Fetching 14 files:   0%|          | 0/14 [00:00<?, ?it/s]
+Fetching 14 files:   7%|▋         | 1/14 [00:00<00:07,  1.8
+2026-11-11 04:46:45	30	0	20780	24564	61703	451312	

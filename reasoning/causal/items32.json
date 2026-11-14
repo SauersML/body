@@ -1,0 +1,5572 @@
+[
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person stands facing you and raises their left hand. From where you stand, is that hand on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 0
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person stands facing you and raises their right hand. From where you stand, is that hand on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 1
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person stands facing you and lifts their left foot. From where you stand, is that foot on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 2
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person stands facing you and lifts their right foot. From where you stand, is that foot on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 3
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person stands facing you and lifts their left knee. From where you stand, is that knee on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 4
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person stands facing you and lifts their right knee. From where you stand, is that knee on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 5
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person stands facing you and bends their left elbow. From where you stand, is that elbow on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 6
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person stands facing you and bends their right elbow. From where you stand, is that elbow on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 7
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person stands facing you and shrugs their left shoulder. From where you stand, is that shoulder on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 8
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person stands facing you and shrugs their right shoulder. From where you stand, is that shoulder on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 9
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person stands facing you and raises their left arm. From where you stand, is that arm on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 10
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person stands facing you and raises their right arm. From where you stand, is that arm on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 11
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person stands facing you and lifts their left leg. From where you stand, is that leg on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 12
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person stands facing you and lifts their right leg. From where you stand, is that leg on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 13
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person stands facing you and touches their left ear. From where you stand, is that ear on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 14
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person stands facing you and touches their right ear. From where you stand, is that ear on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 15
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person stands facing you and winks with their left eye. From where you stand, is that eye on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 16
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person stands facing you and winks with their right eye. From where you stand, is that eye on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 17
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person stands facing you and sways their left hip. From where you stand, is that hip on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 18
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person stands facing you and sways their right hip. From where you stand, is that hip on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 19
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person stands with their back to you and raises their left hand. From where you stand, is that hand on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 20
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person stands with their back to you and raises their right hand. From where you stand, is that hand on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 21
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person stands with their back to you and lifts their left foot. From where you stand, is that foot on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 22
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person stands with their back to you and lifts their right foot. From where you stand, is that foot on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 23
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person stands with their back to you and lifts their left knee. From where you stand, is that knee on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 24
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person stands with their back to you and lifts their right knee. From where you stand, is that knee on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 25
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person stands with their back to you and bends their left elbow. From where you stand, is that elbow on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 26
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person stands with their back to you and bends their right elbow. From where you stand, is that elbow on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 27
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person stands with their back to you and shrugs their left shoulder. From where you stand, is that shoulder on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 28
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person stands with their back to you and shrugs their right shoulder. From where you stand, is that shoulder on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 29
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person stands with their back to you and raises their left arm. From where you stand, is that arm on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 30
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person stands with their back to you and raises their right arm. From where you stand, is that arm on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 31
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person stands with their back to you and lifts their left leg. From where you stand, is that leg on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 32
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person stands with their back to you and lifts their right leg. From where you stand, is that leg on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 33
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person stands with their back to you and touches their left ear. From where you stand, is that ear on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 34
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person stands with their back to you and touches their right ear. From where you stand, is that ear on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 35
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person stands with their back to you and winks with their left eye. From where you stand, is that eye on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 36
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person stands with their back to you and winks with their right eye. From where you stand, is that eye on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 37
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person stands with their back to you and sways their left hip. From where you stand, is that hip on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 38
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person stands with their back to you and sways their right hip. From where you stand, is that hip on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 39
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person faces you, then turns around to face away from you, and raises their left hand. From where you stand, is that hand on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 40
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person faces you, then turns around to face away from you, and raises their right hand. From where you stand, is that hand on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 41
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person faces you, then turns around to face away from you, and lifts their left foot. From where you stand, is that foot on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 42
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person faces you, then turns around to face away from you, and lifts their right foot. From where you stand, is that foot on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 43
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person faces you, then turns around to face away from you, and lifts their left knee. From where you stand, is that knee on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 44
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person faces you, then turns around to face away from you, and lifts their right knee. From where you stand, is that knee on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 45
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person faces you, then turns around to face away from you, and bends their left elbow. From where you stand, is that elbow on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 46
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person faces you, then turns around to face away from you, and bends their right elbow. From where you stand, is that elbow on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 47
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person faces you, then turns around to face away from you, and shrugs their left shoulder. From where you stand, is that shoulder on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 48
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person faces you, then turns around to face away from you, and shrugs their right shoulder. From where you stand, is that shoulder on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 49
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person faces you, then turns around to face away from you, and raises their left arm. From where you stand, is that arm on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 50
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person faces you, then turns around to face away from you, and raises their right arm. From where you stand, is that arm on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 51
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person faces you, then turns around to face away from you, and lifts their left leg. From where you stand, is that leg on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 52
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person faces you, then turns around to face away from you, and lifts their right leg. From where you stand, is that leg on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 53
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person faces you, then turns around to face away from you, and touches their left ear. From where you stand, is that ear on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 54
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person faces you, then turns around to face away from you, and touches their right ear. From where you stand, is that ear on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 55
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person faces you, then turns around to face away from you, and winks with their left eye. From where you stand, is that eye on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 56
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person faces you, then turns around to face away from you, and winks with their right eye. From where you stand, is that eye on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 57
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person faces you, then turns around to face away from you, and sways their left hip. From where you stand, is that hip on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 58
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person faces you, then turns around to face away from you, and sways their right hip. From where you stand, is that hip on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 59
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person faces away from you, then turns around to face you, and raises their left hand. From where you stand, is that hand on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 60
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person faces away from you, then turns around to face you, and raises their right hand. From where you stand, is that hand on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 61
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person faces away from you, then turns around to face you, and lifts their left foot. From where you stand, is that foot on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 62
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person faces away from you, then turns around to face you, and lifts their right foot. From where you stand, is that foot on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 63
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person faces away from you, then turns around to face you, and lifts their left knee. From where you stand, is that knee on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 64
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person faces away from you, then turns around to face you, and lifts their right knee. From where you stand, is that knee on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 65
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person faces away from you, then turns around to face you, and bends their left elbow. From where you stand, is that elbow on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 66
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person faces away from you, then turns around to face you, and bends their right elbow. From where you stand, is that elbow on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 67
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person faces away from you, then turns around to face you, and shrugs their left shoulder. From where you stand, is that shoulder on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 68
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person faces away from you, then turns around to face you, and shrugs their right shoulder. From where you stand, is that shoulder on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 69
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person faces away from you, then turns around to face you, and raises their left arm. From where you stand, is that arm on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 70
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person faces away from you, then turns around to face you, and raises their right arm. From where you stand, is that arm on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 71
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person faces away from you, then turns around to face you, and lifts their left leg. From where you stand, is that leg on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 72
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person faces away from you, then turns around to face you, and lifts their right leg. From where you stand, is that leg on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 73
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person faces away from you, then turns around to face you, and touches their left ear. From where you stand, is that ear on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 74
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person faces away from you, then turns around to face you, and touches their right ear. From where you stand, is that ear on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 75
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person faces away from you, then turns around to face you, and winks with their left eye. From where you stand, is that eye on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 76
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person faces away from you, then turns around to face you, and winks with their right eye. From where you stand, is that eye on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 77
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person faces away from you, then turns around to face you, and sways their left hip. From where you stand, is that hip on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 78
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person faces away from you, then turns around to face you, and sways their right hip. From where you stand, is that hip on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 79
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person stands facing you and steps to their left. From where you stand, did they move toward your left or your right?",
+"a": "right",
+"b": "left",
+"wf": true,
+"lr": "right",
+"id": 80
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person stands facing you and steps to their right. From where you stand, did they move toward your left or your right?",
+"a": "left",
+"b": "right",
+"wf": true,
+"lr": "left",
+"id": 81
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person stands with their back to you and steps to their left. From where you stand, did they move toward your left or your right?",
+"a": "left",
+"b": "right",
+"wf": true,
+"lr": "left",
+"id": 82
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person stands with their back to you and steps to their right. From where you stand, did they move toward your left or your right?",
+"a": "right",
+"b": "left",
+"wf": true,
+"lr": "right",
+"id": 83
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person stands facing you and leans to their left. From where you stand, are they leaning toward your left or your right?",
+"a": "right",
+"b": "left",
+"wf": true,
+"lr": "right",
+"id": 84
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person stands facing you and leans to their right. From where you stand, are they leaning toward your left or your right?",
+"a": "left",
+"b": "right",
+"wf": true,
+"lr": "left",
+"id": 85
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person stands with their back to you and leans to their left. From where you stand, are they leaning toward your left or your right?",
+"a": "left",
+"b": "right",
+"wf": true,
+"lr": "left",
+"id": 86
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person stands with their back to you and leans to their right. From where you stand, are they leaning toward your left or your right?",
+"a": "right",
+"b": "left",
+"wf": true,
+"lr": "right",
+"id": 87
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person stands facing you and points to their left. From where you stand, are they pointing toward your left or your right?",
+"a": "right",
+"b": "left",
+"wf": true,
+"lr": "right",
+"id": 88
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person stands facing you and points to their right. From where you stand, are they pointing toward your left or your right?",
+"a": "left",
+"b": "right",
+"wf": true,
+"lr": "left",
+"id": 89
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person stands with their back to you and points to their left. From where you stand, are they pointing toward your left or your right?",
+"a": "left",
+"b": "right",
+"wf": true,
+"lr": "left",
+"id": 90
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A person stands with their back to you and points to their right. From where you stand, are they pointing toward your left or your right?",
+"a": "right",
+"b": "left",
+"wf": true,
+"lr": "right",
+"id": 91
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A dancer faces you and spins toward her own left side. From where you stand, is she spinning toward your left or your right?",
+"a": "right",
+"b": "left",
+"wf": true,
+"lr": "right",
+"id": 92
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A dancer faces you and spins toward her own right side. From where you stand, is she spinning toward your left or your right?",
+"a": "left",
+"b": "right",
+"wf": true,
+"lr": "left",
+"id": 93
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A dancer faces away from you and spins toward her own left side. From where you stand, is she spinning toward your left or your right?",
+"a": "left",
+"b": "right",
+"wf": true,
+"lr": "left",
+"id": 94
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "A dancer faces away from you and spins toward her own right side. From where you stand, is she spinning toward your left or your right?",
+"a": "right",
+"b": "left",
+"wf": true,
+"lr": "right",
+"id": 95
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "You and a friend stand face to face. Your friend takes a step to the left, from the friend's own point of view. From where you stand, from your view, is that toward your left or your right?",
+"a": "right",
+"b": "left",
+"wf": true,
+"lr": "right",
+"id": 96
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "You and a friend stand face to face. Your friend takes a step to the right, from the friend's own point of view. From where you stand, from your view, is that toward your left or your right?",
+"a": "left",
+"b": "right",
+"wf": true,
+"lr": "left",
+"id": 97
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "You stand behind a friend, both facing the same way. Your friend takes a step to the left, from the friend's own point of view. From where you stand, from your view, is that toward your left or your right?",
+"a": "left",
+"b": "right",
+"wf": true,
+"lr": "left",
+"id": 98
+},
+{
+"task": "perspective",
+"fam": "body",
+"q": "You stand behind a friend, both facing the same way. Your friend takes a step to the right, from the friend's own point of view. From where you stand, from your view, is that toward your left or your right?",
+"a": "right",
+"b": "left",
+"wf": true,
+"lr": "right",
+"id": 99
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A car stands facing you. Its own left headlight is marked. From where you stand, is that headlight on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 100
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A car stands facing you. Its own right headlight is marked. From where you stand, is that headlight on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 101
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A truck stands facing you. Its own left headlight is marked. From where you stand, is that headlight on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 102
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A truck stands facing you. Its own right headlight is marked. From where you stand, is that headlight on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 103
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A bus stands facing you. Its own left mirror is marked. From where you stand, is that mirror on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 104
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A bus stands facing you. Its own right mirror is marked. From where you stand, is that mirror on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 105
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A tractor stands facing you. Its own left wheel is marked. From where you stand, is that wheel on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 106
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A tractor stands facing you. Its own right wheel is marked. From where you stand, is that wheel on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 107
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A chair stands facing you. Its own left armrest is marked. From where you stand, is that armrest on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 108
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A chair stands facing you. Its own right armrest is marked. From where you stand, is that armrest on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 109
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A sofa stands facing you. Its own left armrest is marked. From where you stand, is that armrest on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 110
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A sofa stands facing you. Its own right armrest is marked. From where you stand, is that armrest on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 111
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A motorcycle stands facing you. Its own left handlebar grip is marked. From where you stand, is that handlebar grip on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 112
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A motorcycle stands facing you. Its own right handlebar grip is marked. From where you stand, is that handlebar grip on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 113
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A train engine stands facing you. Its own left lamp is marked. From where you stand, is that lamp on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 114
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A train engine stands facing you. Its own right lamp is marked. From where you stand, is that lamp on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 115
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A van stands facing you. Its own left door is marked. From where you stand, is that door on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 116
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A van stands facing you. Its own right door is marked. From where you stand, is that door on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 117
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A robot vacuum stands facing you. Its own left brush is marked. From where you stand, is that brush on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 118
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A robot vacuum stands facing you. Its own right brush is marked. From where you stand, is that brush on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 119
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A car stands facing away from you. Its own left headlight is marked. From where you stand, is that headlight on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 120
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A car stands facing away from you. Its own right headlight is marked. From where you stand, is that headlight on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 121
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A truck stands facing away from you. Its own left headlight is marked. From where you stand, is that headlight on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 122
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A truck stands facing away from you. Its own right headlight is marked. From where you stand, is that headlight on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 123
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A bus stands facing away from you. Its own left mirror is marked. From where you stand, is that mirror on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 124
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A bus stands facing away from you. Its own right mirror is marked. From where you stand, is that mirror on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 125
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A tractor stands facing away from you. Its own left wheel is marked. From where you stand, is that wheel on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 126
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A tractor stands facing away from you. Its own right wheel is marked. From where you stand, is that wheel on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 127
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A chair stands facing away from you. Its own left armrest is marked. From where you stand, is that armrest on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 128
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A chair stands facing away from you. Its own right armrest is marked. From where you stand, is that armrest on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 129
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A sofa stands facing away from you. Its own left armrest is marked. From where you stand, is that armrest on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 130
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A sofa stands facing away from you. Its own right armrest is marked. From where you stand, is that armrest on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 131
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A motorcycle stands facing away from you. Its own left handlebar grip is marked. From where you stand, is that handlebar grip on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 132
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A motorcycle stands facing away from you. Its own right handlebar grip is marked. From where you stand, is that handlebar grip on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 133
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A train engine stands facing away from you. Its own left lamp is marked. From where you stand, is that lamp on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 134
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A train engine stands facing away from you. Its own right lamp is marked. From where you stand, is that lamp on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 135
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A van stands facing away from you. Its own left door is marked. From where you stand, is that door on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 136
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A van stands facing away from you. Its own right door is marked. From where you stand, is that door on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 137
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A robot vacuum stands facing away from you. Its own left brush is marked. From where you stand, is that brush on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 138
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A robot vacuum stands facing away from you. Its own right brush is marked. From where you stand, is that brush on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 139
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A car faces you, then is turned around to face away from you. Its own left headlight is marked. From where you stand, is that headlight on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 140
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A car faces you, then is turned around to face away from you. Its own right headlight is marked. From where you stand, is that headlight on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 141
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A truck faces you, then is turned around to face away from you. Its own left headlight is marked. From where you stand, is that headlight on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 142
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A truck faces you, then is turned around to face away from you. Its own right headlight is marked. From where you stand, is that headlight on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 143
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A bus faces you, then is turned around to face away from you. Its own left mirror is marked. From where you stand, is that mirror on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 144
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A bus faces you, then is turned around to face away from you. Its own right mirror is marked. From where you stand, is that mirror on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 145
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A tractor faces you, then is turned around to face away from you. Its own left wheel is marked. From where you stand, is that wheel on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 146
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A tractor faces you, then is turned around to face away from you. Its own right wheel is marked. From where you stand, is that wheel on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 147
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A chair faces you, then is turned around to face away from you. Its own left armrest is marked. From where you stand, is that armrest on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 148
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A chair faces you, then is turned around to face away from you. Its own right armrest is marked. From where you stand, is that armrest on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 149
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A sofa faces you, then is turned around to face away from you. Its own left armrest is marked. From where you stand, is that armrest on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 150
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A sofa faces you, then is turned around to face away from you. Its own right armrest is marked. From where you stand, is that armrest on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 151
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A motorcycle faces you, then is turned around to face away from you. Its own left handlebar grip is marked. From where you stand, is that handlebar grip on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 152
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A motorcycle faces you, then is turned around to face away from you. Its own right handlebar grip is marked. From where you stand, is that handlebar grip on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 153
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A train engine faces you, then is turned around to face away from you. Its own left lamp is marked. From where you stand, is that lamp on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 154
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A train engine faces you, then is turned around to face away from you. Its own right lamp is marked. From where you stand, is that lamp on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 155
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A van faces you, then is turned around to face away from you. Its own left door is marked. From where you stand, is that door on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 156
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A van faces you, then is turned around to face away from you. Its own right door is marked. From where you stand, is that door on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 157
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A robot vacuum faces you, then is turned around to face away from you. Its own left brush is marked. From where you stand, is that brush on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 158
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A robot vacuum faces you, then is turned around to face away from you. Its own right brush is marked. From where you stand, is that brush on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 159
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A car faces away from you, then is turned around to face you. Its own left headlight is marked. From where you stand, is that headlight on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 160
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A car faces away from you, then is turned around to face you. Its own right headlight is marked. From where you stand, is that headlight on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 161
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A truck faces away from you, then is turned around to face you. Its own left headlight is marked. From where you stand, is that headlight on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 162
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A truck faces away from you, then is turned around to face you. Its own right headlight is marked. From where you stand, is that headlight on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 163
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A bus faces away from you, then is turned around to face you. Its own left mirror is marked. From where you stand, is that mirror on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 164
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A bus faces away from you, then is turned around to face you. Its own right mirror is marked. From where you stand, is that mirror on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 165
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A tractor faces away from you, then is turned around to face you. Its own left wheel is marked. From where you stand, is that wheel on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 166
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A tractor faces away from you, then is turned around to face you. Its own right wheel is marked. From where you stand, is that wheel on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 167
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A chair faces away from you, then is turned around to face you. Its own left armrest is marked. From where you stand, is that armrest on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 168
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A chair faces away from you, then is turned around to face you. Its own right armrest is marked. From where you stand, is that armrest on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 169
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A sofa faces away from you, then is turned around to face you. Its own left armrest is marked. From where you stand, is that armrest on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 170
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A sofa faces away from you, then is turned around to face you. Its own right armrest is marked. From where you stand, is that armrest on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 171
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A motorcycle faces away from you, then is turned around to face you. Its own left handlebar grip is marked. From where you stand, is that handlebar grip on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 172
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A motorcycle faces away from you, then is turned around to face you. Its own right handlebar grip is marked. From where you stand, is that handlebar grip on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 173
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A train engine faces away from you, then is turned around to face you. Its own left lamp is marked. From where you stand, is that lamp on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 174
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A train engine faces away from you, then is turned around to face you. Its own right lamp is marked. From where you stand, is that lamp on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 175
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A van faces away from you, then is turned around to face you. Its own left door is marked. From where you stand, is that door on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 176
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A van faces away from you, then is turned around to face you. Its own right door is marked. From where you stand, is that door on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 177
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A robot vacuum faces away from you, then is turned around to face you. Its own left brush is marked. From where you stand, is that brush on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": false,
+"lr": "right",
+"id": 178
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A robot vacuum faces away from you, then is turned around to face you. Its own right brush is marked. From where you stand, is that brush on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": false,
+"lr": "left",
+"id": 179
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A map shows a lake to the east of a road. Standing on the road, you face north. Is a lake on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": true,
+"lr": "right",
+"id": 180
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A map shows a tower to the east of a road. Standing on the road, you face north. Is a tower on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": true,
+"lr": "right",
+"id": 181
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A map shows a barn to the east of a road. Standing on the road, you face north. Is a barn on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": true,
+"lr": "right",
+"id": 182
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A map shows a bridge to the east of a road. Standing on the road, you face north. Is a bridge on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": true,
+"lr": "right",
+"id": 183
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A map shows a windmill to the east of a road. Standing on the road, you face north. Is a windmill on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": true,
+"lr": "right",
+"id": 184
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A map shows a lake to the west of a road. Standing on the road, you face north. Is a lake on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": true,
+"lr": "left",
+"id": 185
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A map shows a tower to the west of a road. Standing on the road, you face north. Is a tower on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": true,
+"lr": "left",
+"id": 186
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A map shows a barn to the west of a road. Standing on the road, you face north. Is a barn on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": true,
+"lr": "left",
+"id": 187
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A map shows a bridge to the west of a road. Standing on the road, you face north. Is a bridge on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": true,
+"lr": "left",
+"id": 188
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A map shows a windmill to the west of a road. Standing on the road, you face north. Is a windmill on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": true,
+"lr": "left",
+"id": 189
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A map shows a lake to the east of a road. Standing on the road, you face south. Is a lake on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": true,
+"lr": "left",
+"id": 190
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A map shows a tower to the east of a road. Standing on the road, you face south. Is a tower on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": true,
+"lr": "left",
+"id": 191
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A map shows a barn to the east of a road. Standing on the road, you face south. Is a barn on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": true,
+"lr": "left",
+"id": 192
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A map shows a bridge to the east of a road. Standing on the road, you face south. Is a bridge on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": true,
+"lr": "left",
+"id": 193
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A map shows a windmill to the east of a road. Standing on the road, you face south. Is a windmill on your left or your right?",
+"a": "left",
+"b": "right",
+"wf": true,
+"lr": "left",
+"id": 194
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A map shows a lake to the west of a road. Standing on the road, you face south. Is a lake on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": true,
+"lr": "right",
+"id": 195
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A map shows a tower to the west of a road. Standing on the road, you face south. Is a tower on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": true,
+"lr": "right",
+"id": 196
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A map shows a barn to the west of a road. Standing on the road, you face south. Is a barn on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": true,
+"lr": "right",
+"id": 197
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A map shows a bridge to the west of a road. Standing on the road, you face south. Is a bridge on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": true,
+"lr": "right",
+"id": 198
+},
+{
+"task": "perspective_ctl",
+"fam": "control",
+"q": "A map shows a windmill to the west of a road. Standing on the road, you face south. Is a windmill on your left or your right?",
+"a": "right",
+"b": "left",
+"wf": true,
+"lr": "right",
+"id": 199
+},
+{
+"task": "lr_word",
+"fam": "control",
+"q": "Which word comes first in the alphabet, left or right?",
+"a": "left",
+"b": "right",
+"wf": true,
+"lr": "left",
+"id": 200
+},
+{
+"task": "lr_word",
+"fam": "control",
+"q": "Which word comes last in the alphabet, left or right?",
+"a": "right",
+"b": "left",
+"wf": true,
+"lr": "right",
+"id": 201
+},
+{
+"task": "lr_word",
+"fam": "control",
+"q": "Which word contains the letter 'g', left or right?",
+"a": "right",
+"b": "left",
+"wf": true,
+"lr": "right",
+"id": 202
+},
+{
+"task": "lr_word",
+"fam": "control",
+"q": "Which word contains the letter 'f', left or right?",
+"a": "left",
+"b": "right",
+"wf": true,
+"lr": "left",
+"id": 203
+},
+{
+"task": "lr_word",
+"fam": "control",
+"q": "Which word contains the letter 'e', left or right?",
+"a": "left",
+"b": "right",
+"wf": true,
+"lr": "left",
+"id": 204
+},
+{
+"task": "lr_word",
+"fam": "control",
+"q": "Which word contains the letter 'h', left or right?",
+"a": "right",
+"b": "left",
+"wf": true,
+"lr": "right",
+"id": 205
+},
+{
+"task": "lr_word",
+"fam": "control",
+"q": "Which word starts with 'r', left or right?",
+"a": "right",
+"b": "left",
+"wf": true,
+"lr": "right",
+"id": 206
+},
+{
+"task": "lr_word",
+"fam": "control",
+"q": "Which word starts with 'l', left or right?",
+"a": "left",
+"b": "right",
+"wf": true,
+"lr": "left",
+"id": 207
+},
+{
+"task": "lr_word",
+"fam": "control",
+"q": "Which word rhymes with 'night', left or right?",
+"a": "right",
+"b": "left",
+"wf": true,
+"lr": "right",
+"id": 208
+},
+{
+"task": "lr_word",
+"fam": "control",
+"q": "Which word rhymes with 'theft', left or right?",
+"a": "left",
+"b": "right",
+"wf": true,
+"lr": "left",
+"id": 209
+},
+{
+"task": "lr_word",
+"fam": "control",
+"q": "Which word rhymes with 'kite', left or right?",
+"a": "right",
+"b": "left",
+"wf": true,
+"lr": "right",
+"id": 210
+},
+{
+"task": "lr_word",
+"fam": "control",
+"q": "Which word rhymes with 'deft', left or right?",
+"a": "left",
+"b": "right",
+"wf": true,
+"lr": "left",
+"id": 211
+},
+{
+"task": "lr_word",
+"fam": "control",
+"q": "Which word has five letters, left or right?",
+"a": "right",
+"b": "left",
+"wf": true,
+"lr": "right",
+"id": 212
+},
+{
+"task": "lr_word",
+"fam": "control",
+"q": "Which word has four letters, left or right?",
+"a": "left",
+"b": "right",
+"wf": true,
+"lr": "left",
+"id": 213
+},
+{
+"task": "lr_word",
+"fam": "control",
+"q": "Which word contains the letter 'i', left or right?",
+"a": "right",
+"b": "left",
+"wf": true,
+"lr": "right",
+"id": 214
+},
+{
+"task": "lr_word",
+"fam": "control",
+"q": "Which word ends with 'ft', left or right?",
+"a": "left",
+"b": "right",
+"wf": true,
+"lr": "left",
+"id": 215
+},
+{
+"task": "reach",
+"fam": "body",
+"q": "Can a typical adult touch their nose with their index finger?",
+"a": "yes",
+"b": "no",
+"wf": false,
+"id": 216
+},
+{
+"task": "reach",
+"fam": "body",
+"q": "Can a typical adult touch their right knee with their left hand?",
+"a": "yes",
+"b": "no",
+"wf": false,
+"id": 217
+},
+{
+"task": "reach",
+"fam": "body",
+"q": "Can a typical adult touch their chin to their chest?",
+"a": "yes",
+"b": "no",
+"wf": false,
+"id": 218
+},
+{
+"task": "reach",
+"fam": "body",
+"q": "Can a typical adult touch their left ear with their right hand?",
+"a": "yes",
+"b": "no",
+"wf": false,
+"id": 219
+},
+{
+"task": "reach",
+"fam": "body",
+"q": "Can a typical adult touch their right heel to their buttock while standing?",
+"a": "yes",
+"b": "no",
+"wf": false,
+"id": 220
+},
+{
+"task": "reach",
+"fam": "body",
+"q": "Can a typical adult put a hand flat on top of their own head?",
+"a": "yes",
+"b": "no",
+"wf": false,
+"id": 221
+},
+{
+"task": "reach",
+"fam": "body",
+"q": "Can a typical adult hold their left wrist with their right hand?",
+"a": "yes",
+"b": "no",
+"wf": false,
+"id": 222
+},
+{
+"task": "reach",
+"fam": "body",
+"q": "Can a typical adult touch the back of their own neck with one hand?",
+"a": "yes",
+"b": "no",
+"wf": false,
+"id": 223
+},
+{
+"task": "reach",
+"fam": "body",
+"q": "Can a typical adult touch their right shoulder with their right hand?",
+"a": "yes",
+"b": "no",
+"wf": false,
+"id": 224
+},
+{
+"task": "reach",
+"fam": "body",
+"q": "Can a typical adult clap both hands above their head?",
+"a": "yes",
+"b": "no",
+"wf": false,
+"id": 225
+},
+{
+"task": "reach",
+"fam": "body",
+"q": "Can a typical adult touch their belly button with a thumb?",
+"a": "yes",
+"b": "no",
+"wf": false,
+"id": 226
+},
+{
+"task": "reach",
+"fam": "body",
+"q": "Can a typical adult cross both arms over their chest?",
+"a": "yes",
+"b": "no",
+"wf": false,
+"id": 227
+},
+{
+"task": "reach",
+"fam": "body",
+"q": "Can a typical adult touch their left knee with their right elbow while sitting?",
+"a": "yes",
+"b": "no",
+"wf": false,
+"id": 228
+},
+{
+"task": "reach",
+"fam": "body",
+"q": "Can a typical adult bite their own fingernail?",
+"a": "yes",
+"b": "no",
+"wf": false,
+"id": 229
+},
+{
+"task": "reach",
+"fam": "body",
+"q": "Can a typical adult touch the sole of their foot with their hand while sitting?",
+"a": "yes",
+"b": "no",
+"wf": false,
+"id": 230
+},
+{
+"task": "reach",
+"fam": "body",
+"q": "Can a typical adult scratch their own forehead?",
+"a": "yes",
+"b": "no",
+"wf": false,
+"id": 231
+},
+{
+"task": "reach",
+"fam": "body",
+"q": "Can a typical adult touch their two thumbs together?",
+"a": "yes",
+"b": "no",
+"wf": false,
+"id": 232
+},
+{
+"task": "reach",
+"fam": "body",
+"q": "Can a typical adult touch their lips with their fingertips?",
+"a": "yes",
+"b": "no",
+"wf": false,
+"id": 233
+},
+{
+"task": "reach",
+"fam": "body",
+"q": "Can a typical adult rest their chin on their own fist?",
+"a": "yes",
+"b": "no",
+"wf": false,
+"id": 234
+},
+{
+"task": "reach",
+"fam": "body",
+"q": "Can a typical adult touch their left hip with their left hand?",
+"a": "yes",
+"b": "no",
+"wf": false,
+"id": 235
+},
+{
+"task": "reach",
+"fam": "body",
+"q": "Can a typical adult lick their own elbow?",
+"a": "no",
+"b": "yes",
+"wf": false,
+"id": 236
+},
+{
+"task": "reach",
+"fam": "body",
+"q": "Can a typical adult touch their right elbow with their right hand?",
+"a": "no",
+"b": "yes",
+"wf": false,
+"id": 237
+},
+{
+"task": "reach",
+"fam": "body",
+"q": "Can a typical adult see the back of their own head without a mirror?",
+"a": "no",
+"b": "yes",
+"wf": false,
+"id": 238
+},
+{
+"task": "reach",
+"fam": "body",
+"q": "Can a typical adult bite their own elbow?",
+"a": "no",
+"b": "yes",
+"wf": false,
+"id": 239
+},
+{
+"task": "reach",
+"fam": "body",
+"q": "Can a typical adult scratch the middle of their own back with their left elbow?",
+"a": "no",
+"b": "yes",
+"wf": false,
+"id": 240
+},
+{
+"task": "reach",
+"fam": "body",
+"q": "Can a typical adult scratch their right wrist with the fingers of their right hand?",
+"a": "no",
+"b": "yes",
+"wf": false,
+"id": 241
+},
+{
+"task": "reach",
+"fam": "body",
+"q": "Can a typical adult hold their right forearm with their right hand?",
+"a": "no",
+"b": "yes",
+"wf": false,
+"id": 242
+},
+{
+"task": "reach",
+"fam": "body",
+"q": "Can a typical adult touch their forehead with their own tongue?",
+"a": "no",
+"b": "yes",
+"wf": false,
+"id": 243
+},
+{
+"task": "reach",
+"fam": "body",
+"q": "Can a typical adult touch the top of their head with their foot while standing upright?",
+"a": "no",
+"b": "yes",
+"wf": false,
+"id": 244
+},
+{
+"task": "reach",
+"fam": "body",
+"q": "Can a typical adult touch their lower back with their chin?",
+"a": "no",
+"b": "yes",
+"wf": false,
+"id": 245
+},
+{
+"task": "reach",
+"fam": "body",
+"q": "Can a typical adult look directly at their own ear without a mirror?",
+"a": "no",
+"b": "yes",
+"wf": false,
+"id": 246
+},
+{
+"task": "reach",
+"fam": "body",
+"q": "Can a typical adult kiss their own shoulder blade?",
+"a": "no",
+"b": "yes",
+"wf": false,
+"id": 247
+},
+{
+"task": "reach",
+"fam": "body",
+"q": "Can a typical adult grab their right upper arm with their right hand?",
+"a": "no",
+"b": "yes",
+"wf": false,
+"id": 248
+},
+{
+"task": "reach",
+"fam": "body",
+"q": "Can a typical adult touch their left elbow with their left thumb?",
+"a": "no",
+"b": "yes",
+"wf": false,
+"id": 249
+},
+{
+"task": "reach",
+"fam": "body",
+"q": "Can a typical adult see their own eyes without a mirror or camera?",
+"a": "no",
+"b": "yes",
+"wf": false,
+"id": 250
+},
+{
+"task": "reach",
+"fam": "body",
+"q": "Can a typical adult touch their own heel with their nose while standing upright?",
+"a": "no",
+"b": "yes",
+"wf": false,
+"id": 251
+},
+{
+"task": "reach",
+"fam": "body",
+"q": "Can a typical adult lick the back of their own neck?",
+"a": "no",
+"b": "yes",
+"wf": false,
+"id": 252
+},
+{
+"task": "reach",
+"fam": "body",
+"q": "Can a typical adult bite their own knee while standing upright?",
+"a": "no",
+"b": "yes",
+"wf": false,
+"id": 253
+},
+{
+"task": "reach",
+"fam": "body",
+"q": "Can a typical adult touch their right shoulder blade with their right elbow?",
+"a": "no",
+"b": "yes",
+"wf": false,
+"id": 254
+},
+{
+"task": "reach",
+"fam": "body",
+"q": "Can a typical adult rest their chin on their own lower back?",
+"a": "no",
+"b": "yes",
+"wf": false,
+"id": 255
+},
+{
+"task": "reach_ctl",
+"fam": "control",
+"q": "Can a coin fit inside a mug?",
+"a": "yes",
+"b": "no",
+"wf": true,
+"id": 256
+},
+{
+"task": "reach_ctl",
+"fam": "control",
+"q": "Can a key fit inside a desk drawer?",
+"a": "yes",
+"b": "no",
+"wf": true,
+"id": 257
+},
+{
+"task": "reach_ctl",
+"fam": "control",
+"q": "Can a grape fit inside a backpack?",
+"a": "yes",
+"b": "no",
+"wf": true,
+"id": 258
+},
+{
+"task": "reach_ctl",
+"fam": "control",
+"q": "Can a button fit inside a shoebox?",
+"a": "yes",
+"b": "no",
+"wf": true,
+"id": 259
+},
+{
+"task": "reach_ctl",
+"fam": "control",
+"q": "Can a pencil fit inside a jar?",
+"a": "yes",
+"b": "no",
+"wf": true,
+"id": 260
+},
+{
+"task": "reach_ctl",
+"fam": "control",
+"q": "Can a spoon fit inside a mug?",
+"a": "yes",
+"b": "no",
+"wf": true,
+"id": 261
+},
+{
+"task": "reach_ctl",
+"fam": "control",
+"q": "Can a marble fit inside a desk drawer?",
+"a": "yes",
+"b": "no",
+"wf": true,
+"id": 262
+},
+{
+"task": "reach_ctl",
+"fam": "control",
+"q": "Can a ring fit inside a backpack?",
+"a": "yes",
+"b": "no",
+"wf": true,
+"id": 263
+},
+{
+"task": "reach_ctl",
+"fam": "control",
+"q": "Can a stamp fit inside a shoebox?",
+"a": "yes",
+"b": "no",
+"wf": true,
+"id": 264
+},
+{
+"task": "reach_ctl",
+"fam": "control",
+"q": "Can a battery fit inside a jar?",
+"a": "yes",
+"b": "no",
+"wf": true,
+"id": 265
+},
+{
+"task": "reach_ctl",
+"fam": "control",
+"q": "Can a coin fit inside a mug?",
+"a": "yes",
+"b": "no",
+"wf": true,
+"id": 266
+},
+{
+"task": "reach_ctl",
+"fam": "control",
+"q": "Can a key fit inside a desk drawer?",
+"a": "yes",
+"b": "no",
+"wf": true,
+"id": 267
+},
+{
+"task": "reach_ctl",
+"fam": "control",
+"q": "Can a grape fit inside a backpack?",
+"a": "yes",
+"b": "no",
+"wf": true,
+"id": 268
+},
+{
+"task": "reach_ctl",
+"fam": "control",
+"q": "Can a button fit inside a shoebox?",
+"a": "yes",
+"b": "no",
+"wf": true,
+"id": 269
+},
+{
+"task": "reach_ctl",
+"fam": "control",
+"q": "Can a pencil fit inside a jar?",
+"a": "yes",
+"b": "no",
+"wf": true,
+"id": 270
+},
+{
+"task": "reach_ctl",
+"fam": "control",
+"q": "Can a spoon fit inside a mug?",
+"a": "yes",
+"b": "no",
+"wf": true,
+"id": 271
+},
+{
+"task": "reach_ctl",
+"fam": "control",
+"q": "Can a marble fit inside a desk drawer?",
+"a": "yes",
+"b": "no",
+"wf": true,
+"id": 272
+},
+{
+"task": "reach_ctl",
+"fam": "control",
+"q": "Can a ring fit inside a backpack?",
+"a": "yes",
+"b": "no",
+"wf": true,
+"id": 273
+},
+{
+"task": "reach_ctl",
+"fam": "control",
+"q": "Can a stamp fit inside a shoebox?",
+"a": "yes",
+"b": "no",
+"wf": true,
+"id": 274
+},
+{
+"task": "reach_ctl",
+"fam": "control",
+"q": "Can a battery fit inside a jar?",
+"a": "yes",
+"b": "no",
+"wf": true,
+"id": 275
+},
+{
+"task": "reach_ctl",
+"fam": "control",
+"q": "Can a car fit inside a mug?",
+"a": "no",
+"b": "yes",
+"wf": true,
+"id": 276
+},
+{
+"task": "reach_ctl",
+"fam": "control",
+"q": "Can a piano fit inside a desk drawer?",
+"a": "no",
+"b": "yes",
+"wf": true,
+"id": 277
+},
+{
+"task": "reach_ctl",
+"fam": "control",
+"q": "Can a horse fit inside a backpack?",
+"a": "no",
+"b": "yes",
+"wf": true,
+"id": 278
+},
+{
+"task": "reach_ctl",
+"fam": "control",
+"q": "Can a sofa fit inside a shoebox?",
+"a": "no",
+"b": "yes",
+"wf": true,
+"id": 279
+},
+{
+"task": "reach_ctl",
+"fam": "control",
+"q": "Can a bus fit inside a jar?",
+"a": "no",
+"b": "yes",
+"wf": true,
+"id": 280
+},
+{
+"task": "reach_ctl",
+"fam": "control",
+"q": "Can a refrigerator fit inside a mug?",
+"a": "no",
+"b": "yes",
+"wf": true,
+"id": 281
+},
+{
+"task": "reach_ctl",
+"fam": "control",
+"q": "Can an oak tree fit inside a desk drawer?",
+"a": "no",
+"b": "yes",
+"wf": true,
+"id": 282
+},
+{
+"task": "reach_ctl",
+"fam": "control",
+"q": "Can an elephant fit inside a backpack?",
+"a": "no",
+"b": "yes",
+"wf": true,
+"id": 283
+},
+{
+"task": "reach_ctl",
+"fam": "control",
+"q": "Can a canoe fit inside a shoebox?",
+"a": "no",
+"b": "yes",
+"wf": true,
+"id": 284
+},
+{
+"task": "reach_ctl",
+"fam": "control",
+"q": "Can a bed fit inside a jar?",
+"a": "no",
+"b": "yes",
+"wf": true,
+"id": 285
+},
+{
+"task": "reach_ctl",
+"fam": "control",
+"q": "Can a car fit inside a mug?",
+"a": "no",
+"b": "yes",
+"wf": true,
+"id": 286
+},
+{
+"task": "reach_ctl",
+"fam": "control",
+"q": "Can a piano fit inside a desk drawer?",
+"a": "no",
+"b": "yes",
+"wf": true,
+"id": 287
+},
+{
+"task": "reach_ctl",
+"fam": "control",
+"q": "Can a horse fit inside a backpack?",
+"a": "no",
+"b": "yes",
+"wf": true,
+"id": 288
+},
+{
+"task": "reach_ctl",
+"fam": "control",
+"q": "Can a sofa fit inside a shoebox?",
+"a": "no",
+"b": "yes",
+"wf": true,
+"id": 289
+},
+{
+"task": "reach_ctl",
+"fam": "control",
+"q": "Can a bus fit inside a jar?",
+"a": "no",
+"b": "yes",
+"wf": true,
+"id": 290
+},
+{
+"task": "reach_ctl",
+"fam": "control",
+"q": "Can a refrigerator fit inside a mug?",
+"a": "no",
+"b": "yes",
+"wf": true,
+"id": 291
+},
+{
+"task": "reach_ctl",
+"fam": "control",
+"q": "Can an oak tree fit inside a desk drawer?",
+"a": "no",
+"b": "yes",
+"wf": true,
+"id": 292
+},
+{
+"task": "reach_ctl",
+"fam": "control",
+"q": "Can an elephant fit inside a backpack?",
+"a": "no",
+"b": "yes",
+"wf": true,
+"id": 293
+},
+{
+"task": "reach_ctl",
+"fam": "control",
+"q": "Can a canoe fit inside a shoebox?",
+"a": "no",
+"b": "yes",
+"wf": true,
+"id": 294
+},
+{
+"task": "reach_ctl",
+"fam": "control",
+"q": "Can a bed fit inside a jar?",
+"a": "no",
+"b": "yes",
+"wf": true,
+"id": 295
+},
+{
+"task": "effector",
+"fam": "body",
+"q": "To throw a ball, what do you mainly move: hand or foot?",
+"a": "hand",
+"b": "foot",
+"wf": true,
+"hf": "hand",
+"id": 296
+},
+{
+"task": "effector",
+"fam": "body",
+"q": "To write a letter, what do you mainly move: hand or foot?",
+"a": "hand",
+"b": "foot",
+"wf": true,
+"hf": "hand",
+"id": 297
+},
+{
+"task": "effector",
+"fam": "body",
+"q": "To wave goodbye, what do you mainly move: hand or foot?",
+"a": "hand",
+"b": "foot",
+"wf": true,
+"hf": "hand",
+"id": 298
+},
+{
+"task": "effector",
+"fam": "body",
+"q": "To type an email, what do you mainly move: hand or foot?",
+"a": "hand",
+"b": "foot",
+"wf": true,
+"hf": "hand",
+"id": 299
+},
+{
+"task": "effector",
+"fam": "body",
+"q": "To catch a ball, what do you mainly move: hand or foot?",
+"a": "hand",
+"b": "foot",
+"wf": true,
+"hf": "hand",
+"id": 300
+},
+{
+"task": "effector",
+"fam": "body",
+"q": "To knit a scarf, what do you mainly move: hand or foot?",
+"a": "hand",
+"b": "foot",
+"wf": true,
+"hf": "hand",
+"id": 301
+},
+{
+"task": "effector",
+"fam": "body",
+"q": "To turn a doorknob, what do you mainly move: hand or foot?",
+"a": "hand",
+"b": "foot",
+"wf": true,
+"hf": "hand",
+"id": 302
+},
+{
+"task": "effector",
+"fam": "body",
+"q": "To paint a picture, what do you mainly move: hand or foot?",
+"a": "hand",
+"b": "foot",
+"wf": true,
+"hf": "hand",
+"id": 303
+},
+{
+"task": "effector",
+"fam": "body",
+"q": "To juggle three oranges, what do you mainly move: hand or foot?",
+"a": "hand",
+"b": "foot",
+"wf": true,
+"hf": "hand",
+"id": 304
+},
+{
+"task": "effector",
+"fam": "body",
+"q": "To sew on a button, what do you mainly move: hand or foot?",
+"a": "hand",
+"b": "foot",
+"wf": true,
+"hf": "hand",
+"id": 305
+},
+{
+"task": "effector",
+"fam": "body",
+"q": "To play the piano, what do you mainly move: hand or foot?",
+"a": "hand",
+"b": "foot",
+"wf": true,
+"hf": "hand",
+"id": 306
+},
+{
+"task": "effector",
+"fam": "body",
+"q": "To dribble a basketball, what do you mainly move: hand or foot?",
+"a": "hand",
+"b": "foot",
+"wf": true,
+"hf": "hand",
+"id": 307
+},
+{
+"task": "effector",
+"fam": "body",
+"q": "To pour a cup of tea, what do you mainly move: hand or foot?",
+"a": "hand",
+"b": "foot",
+"wf": true,
+"hf": "hand",
+"id": 308
+},
+{
+"task": "effector",
+"fam": "body",
+"q": "To peel an orange, what do you mainly move: hand or foot?",
+"a": "hand",
+"b": "foot",
+"wf": true,
+"hf": "hand",
+"id": 309
+},
+{
+"task": "effector",
+"fam": "body",
+"q": "To flip a pancake, what do you mainly move: hand or foot?",
+"a": "hand",
+"b": "foot",
+"wf": true,
+"hf": "hand",
+"id": 310
+},
+{
+"task": "effector",
+"fam": "body",
+"q": "To sign a form, what do you mainly move: hand or foot?",
+"a": "hand",
+"b": "foot",
+"wf": true,
+"hf": "hand",
+"id": 311
+},
+{
+"task": "effector",
+"fam": "body",
+"q": "To comb your hair, what do you mainly move: hand or foot?",
+"a": "hand",
+"b": "foot",
+"wf": false,
+"hf": "hand",
+"id": 312
+},
+{
+"task": "effector",
+"fam": "body",
+"q": "To tie your shoelaces, what do you mainly move: hand or foot?",
+"a": "hand",
+"b": "foot",
+"wf": true,
+"hf": "hand",
+"id": 313
+},
+{
+"task": "effector",
+"fam": "body",
+"q": "To brush your teeth, what do you mainly move: hand or foot?",
+"a": "hand",
+"b": "foot",
+"wf": false,
+"hf": "hand",
+"id": 314
+},
+{
+"task": "effector",
+"fam": "body",
+"q": "To dial a phone number, what do you mainly move: hand or foot?",
+"a": "hand",
+"b": "foot",
+"wf": true,
+"hf": "hand",
+"id": 315
+},
+{
+"task": "effector",
+"fam": "body",
+"q": "To kick a ball, what do you mainly move: hand or foot?",
+"a": "foot",
+"b": "hand",
+"wf": true,
+"hf": "foot",
+"id": 316
+},
+{
+"task": "effector",
+"fam": "body",
+"q": "To press the brake pedal in a car, what do you mainly move: hand or foot?",
+"a": "foot",
+"b": "hand",
+"wf": true,
+"hf": "foot",
+"id": 317
+},
+{
+"task": "effector",
+"fam": "body",
+"q": "To pedal a bicycle, what do you mainly move: hand or foot?",
+"a": "foot",
+"b": "hand",
+"wf": true,
+"hf": "foot",
+"id": 318
+},
+{
+"task": "effector",
+"fam": "body",
+"q": "To stomp on a soda can, what do you mainly move: hand or foot?",
+"a": "foot",
+"b": "hand",
+"wf": true,
+"hf": "foot",
+"id": 319
+},
+{
+"task": "effector",
+"fam": "body",
+"q": "To tiptoe across a room, what do you mainly move: hand or foot?",
+"a": "foot",
+"b": "hand",
+"wf": true,
+"hf": "foot",
+"id": 320
+},
+{
+"task": "effector",
+"fam": "body",
+"q": "To march in a parade, what do you mainly move: hand or foot?",
+"a": "foot",
+"b": "hand",
+"wf": true,
+"hf": "foot",
+"id": 321
+},
+{
+"task": "effector",
+"fam": "body",
+"q": "To kick a door shut, what do you mainly move: hand or foot?",
+"a": "foot",
+"b": "hand",
+"wf": true,
+"hf": "foot",
+"id": 322
+},
+{
+"task": "effector",
+"fam": "body",
+"q": "To step on the gas pedal, what do you mainly move: hand or foot?",
+"a": "foot",
+"b": "hand",
+"wf": true,
+"hf": "foot",
+"id": 323
+},
+{
+"task": "effector",
+"fam": "body",
+"q": "To hop on one leg, what do you mainly move: hand or foot?",
+"a": "foot",
+"b": "hand",
+"wf": false,
+"hf": "foot",
+"id": 324
+},
+{
+"task": "effector",
+"fam": "body",
+"q": "To dribble a soccer ball, what do you mainly move: hand or foot?",
+"a": "foot",
+"b": "hand",
+"wf": true,
+"hf": "foot",
+"id": 325
+},
+{
+"task": "effector",
+"fam": "body",
+"q": "To run a marathon, what do you mainly move: hand or foot?",
+"a": "foot",
+"b": "hand",
+"wf": true,
+"hf": "foot",
+"id": 326
+},
+{
+"task": "effector",
+"fam": "body",
+"q": "To climb a flight of stairs, what do you mainly move: hand or foot?",
+"a": "foot",
+"b": "hand",
+"wf": true,
+"hf": "foot",
+"id": 327
+},
+{
+"task": "effector",
+"fam": "body",
+"q": "To walk across hot sand, what do you mainly move: hand or foot?",
+"a": "foot",
+"b": "hand",
+"wf": true,
+"hf": "foot",
+"id": 328
+},
+{
+"task": "effector",
+"fam": "body",
+"q": "To ski down a slope, what do you mainly move: hand or foot?",
+"a": "foot",
+"b": "hand",
+"wf": true,
+"hf": "foot",
+"id": 329
+},
+{
+"task": "effector",
+"fam": "body",
+"q": "To push off on a skateboard, what do you mainly move: hand or foot?",
+"a": "foot",
+"b": "hand",
+"wf": true,
+"hf": "foot",
+"id": 330
+},
+{
+"task": "effector",
+"fam": "body",
+"q": "To squash a bug on the floor, what do you mainly move: hand or foot?",
+"a": "foot",
+"b": "hand",
+"wf": true,
+"hf": "foot",
+"id": 331
+},
+{
+"task": "effector",
+"fam": "body",
+"q": "To tread water with a flutter kick, what do you mainly move: hand or foot?",
+"a": "foot",
+"b": "hand",
+"wf": true,
+"hf": "foot",
+"id": 332
+},
+{
+"task": "effector",
+"fam": "body",
+"q": "To jump over a puddle, what do you mainly move: hand or foot?",
+"a": "foot",
+"b": "hand",
+"wf": true,
+"hf": "foot",
+"id": 333
+},
+{
+"task": "effector",
+"fam": "body",
+"q": "To dance a tap routine, what do you mainly move: hand or foot?",
+"a": "foot",
+"b": "hand",
+"wf": true,
+"hf": "foot",
+"id": 334
+},
+{
+"task": "effector",
+"fam": "body",
+"q": "To kick off your shoes, what do you mainly move: hand or foot?",
+"a": "foot",
+"b": "hand",
+"wf": true,
+"hf": "foot",
+"id": 335
+},
+{
+"task": "effector_ctl",
+"fam": "control",
+"q": "To cut paper, what do you mainly use: scissors or kettle?",
+"a": "scissors",
+"b": "kettle",
+"wf": true,
+"id": 336
+},
+{
+"task": "effector_ctl",
+"fam": "control",
+"q": "To eat soup, what do you mainly use: key or spoon?",
+"a": "spoon",
+"b": "key",
+"wf": true,
+"id": 337
+},
+{
+"task": "effector_ctl",
+"fam": "control",
+"q": "To drive in a nail, what do you mainly use: hammer or match?",
+"a": "hammer",
+"b": "match",
+"wf": true,
+"id": 338
+},
+{
+"task": "effector_ctl",
+"fam": "control",
+"q": "To wash a dish, what do you mainly use: ruler or sponge?",
+"a": "sponge",
+"b": "ruler",
+"wf": true,
+"id": 339
+},
+{
+"task": "effector_ctl",
+"fam": "control",
+"q": "To tighten a bolt, what do you mainly use: wrench or stapler?",
+"a": "wrench",
+"b": "stapler",
+"wf": true,
+"id": 340
+},
+{
+"task": "effector_ctl",
+"fam": "control",
+"q": "To dig a hole, what do you mainly use: pan or shovel?",
+"a": "shovel",
+"b": "pan",
+"wf": true,
+"id": 341
+},
+{
+"task": "effector_ctl",
+"fam": "control",
+"q": "To sweep the floor, what do you mainly use: broom or hose?",
+"a": "broom",
+"b": "hose",
+"wf": true,
+"id": 342
+},
+{
+"task": "effector_ctl",
+"fam": "control",
+"q": "To boil water, what do you mainly use: saw or kettle?",
+"a": "kettle",
+"b": "saw",
+"wf": true,
+"id": 343
+},
+{
+"task": "effector_ctl",
+"fam": "control",
+"q": "To unlock a door, what do you mainly use: key or opener?",
+"a": "key",
+"b": "opener",
+"wf": true,
+"id": 344
+},
+{
+"task": "effector_ctl",
+"fam": "control",
+"q": "To light a candle, what do you mainly use: camera or match?",
+"a": "match",
+"b": "camera",
+"wf": true,
+"id": 345
+},
+{
+"task": "effector_ctl",
+"fam": "control",
+"q": "To measure a length, what do you mainly use: ruler or sharpener?",
+"a": "ruler",
+"b": "sharpener",
+"wf": true,
+"id": 346
+},
+{
+"task": "effector_ctl",
+"fam": "control",
+"q": "To staple papers, what do you mainly use: grater or stapler?",
+"a": "stapler",
+"b": "grater",
+"wf": true,
+"id": 347
+},
+{
+"task": "effector_ctl",
+"fam": "control",
+"q": "To fry an egg, what do you mainly use: pan or towel?",
+"a": "pan",
+"b": "towel",
+"wf": true,
+"id": 348
+},
+{
+"task": "effector_ctl",
+"fam": "control",
+"q": "To water plants, what do you mainly use: scissors or hose?",
+"a": "hose",
+"b": "scissors",
+"wf": true,
+"id": 349
+},
+{
+"task": "effector_ctl",
+"fam": "control",
+"q": "To cut wood, what do you mainly use: saw or spoon?",
+"a": "saw",
+"b": "spoon",
+"wf": true,
+"id": 350
+},
+{
+"task": "effector_ctl",
+"fam": "control",
+"q": "To open a can, what do you mainly use: hammer or opener?",
+"a": "opener",
+"b": "hammer",
+"wf": true,
+"id": 351
+},
+{
+"task": "effector_ctl",
+"fam": "control",
+"q": "To take a photo, what do you mainly use: camera or sponge?",
+"a": "camera",
+"b": "sponge",
+"wf": true,
+"id": 352
+},
+{
+"task": "effector_ctl",
+"fam": "control",
+"q": "To sharpen a pencil, what do you mainly use: wrench or sharpener?",
+"a": "sharpener",
+"b": "wrench",
+"wf": true,
+"id": 353
+},
+{
+"task": "effector_ctl",
+"fam": "control",
+"q": "To grate cheese, what do you mainly use: grater or shovel?",
+"a": "grater",
+"b": "shovel",
+"wf": true,
+"id": 354
+},
+{
+"task": "effector_ctl",
+"fam": "control",
+"q": "To dry your hands, what do you mainly use: broom or towel?",
+"a": "towel",
+"b": "broom",
+"wf": true,
+"id": 355
+},
+{
+"task": "hf_word",
+"fam": "control",
+"q": "Which word comes first in the alphabet, hand or foot?",
+"a": "foot",
+"b": "hand",
+"wf": true,
+"hf": "foot",
+"id": 356
+},
+{
+"task": "hf_word",
+"fam": "control",
+"q": "Which word comes last in the alphabet, hand or foot?",
+"a": "hand",
+"b": "foot",
+"wf": true,
+"hf": "hand",
+"id": 357
+},
+{
+"task": "hf_word",
+"fam": "control",
+"q": "Which word rhymes with 'sand', hand or foot?",
+"a": "hand",
+"b": "foot",
+"wf": true,
+"hf": "hand",
+"id": 358
+},
+{
+"task": "hf_word",
+"fam": "control",
+"q": "Which word rhymes with 'put', hand or foot?",
+"a": "foot",
+"b": "hand",
+"wf": true,
+"hf": "foot",
+"id": 359
+},
+{
+"task": "hf_word",
+"fam": "control",
+"q": "Which word rhymes with 'band', hand or foot?",
+"a": "hand",
+"b": "foot",
+"wf": true,
+"hf": "hand",
+"id": 360
+},
+{
+"task": "hf_word",
+"fam": "control",
+"q": "Which word rhymes with 'soot', hand or foot?",
+"a": "foot",
+"b": "hand",
+"wf": true,
+"hf": "foot",
+"id": 361
+},
+{
+"task": "hf_word",
+"fam": "control",
+"q": "Which word contains the letter 'o', hand or foot?",
+"a": "foot",
+"b": "hand",
+"wf": true,
+"hf": "foot",
+"id": 362
+},
+{
+"task": "hf_word",
+"fam": "control",
+"q": "Which word contains the letter 'a', hand or foot?",
+"a": "hand",
+"b": "foot",
+"wf": true,
+"hf": "hand",
+"id": 363
+},
+{
+"task": "hf_word",
+"fam": "control",
+"q": "Which word contains the letter 'd', hand or foot?",
+"a": "hand",
+"b": "foot",
+"wf": true,
+"hf": "hand",
+"id": 364
+},
+{
+"task": "hf_word",
+"fam": "control",
+"q": "Which word contains the letter 't', hand or foot?",
+"a": "foot",
+"b": "hand",
+"wf": true,
+"hf": "foot",
+"id": 365
+},
+{
+"task": "hf_word",
+"fam": "control",
+"q": "Which word contains the letter 'n', hand or foot?",
+"a": "hand",
+"b": "foot",
+"wf": true,
+"hf": "hand",
+"id": 366
+},
+{
+"task": "hf_word",
+"fam": "control",
+"q": "Which word starts with 'f', hand or foot?",
+"a": "foot",
+"b": "hand",
+"wf": true,
+"hf": "foot",
+"id": 367
+},
+{
+"task": "hf_word",
+"fam": "control",
+"q": "Which word starts with 'h', hand or foot?",
+"a": "hand",
+"b": "foot",
+"wf": true,
+"hf": "hand",
+"id": 368
+},
+{
+"task": "hf_word",
+"fam": "control",
+"q": "Which word has a double letter, hand or foot?",
+"a": "foot",
+"b": "hand",
+"wf": true,
+"hf": "foot",
+"id": 369
+},
+{
+"task": "hf_word",
+"fam": "control",
+"q": "Which word rhymes with 'land', hand or foot?",
+"a": "hand",
+"b": "foot",
+"wf": true,
+"hf": "hand",
+"id": 370
+},
+{
+"task": "hf_word",
+"fam": "control",
+"q": "Which word ends with 't', hand or foot?",
+"a": "foot",
+"b": "hand",
+"wf": true,
+"hf": "foot",
+"id": 371
+},
+{
+"task": "pain",
+"fam": "body",
+"q": "Sam got a paper cut while opening an envelope. Where does it hurt: hand or foot?",
+"a": "hand",
+"b": "foot",
+"wf": true,
+"hf": "hand",
+"id": 372
+},
+{
+"task": "pain",
+"fam": "body",
+"q": "Sam touched a hot stove burner to check if it was on. Where does it hurt: hand or foot?",
+"a": "hand",
+"b": "foot",
+"wf": true,
+"hf": "hand",
+"id": 373
+},
+{
+"task": "pain",
+"fam": "body",
+"q": "Sam was pricked by a needle while sewing. Where does it hurt: hand or foot?",
+"a": "hand",
+"b": "foot",
+"wf": true,
+"hf": "hand",
+"id": 374
+},
+{
+"task": "pain",
+"fam": "body",
+"q": "Sam was snapped by a mousetrap while setting it. Where does it hurt: hand or foot?",
+"a": "hand",
+"b": "foot",
+"wf": true,
+"hf": "hand",
+"id": 375
+},
+{
+"task": "pain",
+"fam": "body",
+"q": "Sam was scratched by a cat while petting it. Where does it hurt: hand or foot?",
+"a": "hand",
+"b": "foot",
+"wf": true,
+"hf": "hand",
+"id": 376
+},
+{
+"task": "pain",
+"fam": "body",
+"q": "Sam missed the nail and hit themselves with the hammer. Where does it hurt: hand or foot?",
+"a": "hand",
+"b": "foot",
+"wf": true,
+"hf": "hand",
+"id": 377
+},
+{
+"task": "pain",
+"fam": "body",
+"q": "Sam got a blister from rowing for hours. Where does it hurt: hand or foot?",
+"a": "hand",
+"b": "foot",
+"wf": true,
+"hf": "hand",
+"id": 378
+},
+{
+"task": "pain",
+"fam": "body",
+"q": "Sam grabbed a cactus to move it. Where does it hurt: hand or foot?",
+"a": "hand",
+"b": "foot",
+"wf": true,
+"hf": "hand",
+"id": 379
+},
+{
+"task": "pain",
+"fam": "body",
+"q": "Sam was stung by a bee while picking a flower. Where does it hurt: hand or foot?",
+"a": "hand",
+"b": "foot",
+"wf": true,
+"hf": "hand",
+"id": 380
+},
+{
+"task": "pain",
+"fam": "body",
+"q": "Sam caught a splinter while sanding a wooden railing. Where does it hurt: hand or foot?",
+"a": "hand",
+"b": "foot",
+"wf": true,
+"hf": "hand",
+"id": 381
+},
+{
+"task": "pain",
+"fam": "body",
+"q": "Sam slammed the drawer shut on their fingers. Where does it hurt: hand or foot?",
+"a": "hand",
+"b": "foot",
+"wf": false,
+"hf": "hand",
+"id": 382
+},
+{
+"task": "pain",
+"fam": "body",
+"q": "Sam burned themselves taking a tray out of the oven. Where does it hurt: hand or foot?",
+"a": "hand",
+"b": "foot",
+"wf": true,
+"hf": "hand",
+"id": 383
+},
+{
+"task": "pain",
+"fam": "body",
+"q": "Sam stubbed their toe on the bed frame. Where does it hurt: hand or foot?",
+"a": "foot",
+"b": "hand",
+"wf": false,
+"hf": "foot",
+"id": 384
+},
+{
+"task": "pain",
+"fam": "body",
+"q": "Sam stepped on a tack. Where does it hurt: hand or foot?",
+"a": "foot",
+"b": "hand",
+"wf": true,
+"hf": "foot",
+"id": 385
+},
+{
+"task": "pain",
+"fam": "body",
+"q": "Sam stepped on a toy brick in the dark. Where does it hurt: hand or foot?",
+"a": "foot",
+"b": "hand",
+"wf": true,
+"hf": "foot",
+"id": 386
+},
+{
+"task": "pain",
+"fam": "body",
+"q": "Sam walked across hot sand. Where does it hurt: hand or foot?",
+"a": "foot",
+"b": "hand",
+"wf": true,
+"hf": "foot",
+"id": 387
+},
+{
+"task": "pain",
+"fam": "body",
+"q": "Sam got a blister from new running shoes. Where does it hurt: hand or foot?",
+"a": "foot",
+"b": "hand",
+"wf": true,
+"hf": "foot",
+"id": 388
+},
+{
+"task": "pain",
+"fam": "body",
+"q": "Sam had a heavy box fall onto their shoe. Where does it hurt: hand or foot?",
+"a": "foot",
+"b": "hand",
+"wf": true,
+"hf": "foot",
+"id": 389
+},
+{
+"task": "pain",
+"fam": "body",
+"q": "Sam kicked a rock thinking it was a ball. Where does it hurt: hand or foot?",
+"a": "foot",
+"b": "hand",
+"wf": true,
+"hf": "foot",
+"id": 390
+},
+{
+"task": "pain",
+"fam": "body",
+"q": "Sam had their shoe stepped on in a crowd. Where does it hurt: hand or foot?",
+"a": "foot",
+"b": "hand",
+"wf": true,
+"hf": "foot",
+"id": 391
+},
+{
+"task": "pain",
+"fam": "body",
+"q": "Sam wore tight high heels all day. Where does it hurt: hand or foot?",
+"a": "foot",
+"b": "hand",
+"wf": true,
+"hf": "foot",
+"id": 392
+},
+{
+"task": "pain",
+"fam": "body",
+"q": "Sam stepped on a bee in the grass. Where does it hurt: hand or foot?",
+"a": "foot",
+"b": "hand",
+"wf": true,
+"hf": "foot",
+"id": 393
+},
+{
+"task": "pain",
+"fam": "body",
+"q": "Sam jumped off a wall and landed hard. Where does it hurt: hand or foot?",
+"a": "foot",
+"b": "hand",
+"wf": true,
+"hf": "foot",
+"id": 394
+},
+{
+"task": "pain",
+"fam": "body",
+"q": "Sam walked barefoot over gravel. Where does it hurt: hand or foot?",
+"a": "foot",
+"b": "hand",
+"wf": false,
+"hf": "foot",
+"id": 395
+},
+{
+"task": "limb",
+"fam": "body",
+"q": "With the arm hanging straight down, a bruise sits 3 cm below the elbow. Is it nearer the wrist or the shoulder?",
+"a": "wrist",
+"b": "shoulder",
+"wf": false,
+"id": 396
+},
+{
+"task": "limb_ctl",
+"fam": "control",
+"q": "A meter stick hangs straight down with its 0 cm mark at the top. A dot sits 3 cm below the 30 cm mark. Is it nearer the 0 cm mark or the 55 cm mark?",
+"a": "55",
+"b": "0",
+"wf": true,
+"id": 397
+},
+{
+"task": "limb",
+"fam": "body",
+"q": "With the arm hanging straight down, a bruise sits 6 cm below the elbow. Is it nearer the wrist or the shoulder?",
+"a": "wrist",
+"b": "shoulder",
+"wf": false,
+"id": 398
+},
+{
+"task": "limb_ctl",
+"fam": "control",
+"q": "A meter stick hangs straight down with its 0 cm mark at the top. A dot sits 6 cm below the 30 cm mark. Is it nearer the 0 cm mark or the 55 cm mark?",
+"a": "55",
+"b": "0",
+"wf": true,
+"id": 399
+},
+{
+"task": "limb",
+"fam": "body",
+"q": "With the arm hanging straight down, a bruise sits 9 cm above the elbow. Is it nearer the shoulder or the wrist?",
+"a": "shoulder",
+"b": "wrist",
+"wf": false,
+"id": 400
+},
+{
+"task": "limb_ctl",
+"fam": "control",
+"q": "A meter stick hangs straight down with its 0 cm mark at the top. A dot sits 9 cm above the 30 cm mark. Is it nearer the 0 cm mark or the 55 cm mark?",
+"a": "0",
+"b": "55",
+"wf": true,
+"id": 401
+},
+{
+"task": "limb",
+"fam": "body",
+"q": "With the arm hanging straight down, a bruise sits 9 cm below the elbow. Is it nearer the shoulder or the wrist?",
+"a": "wrist",
+"b": "shoulder",
+"wf": false,
+"id": 402
+},
+{
+"task": "limb_ctl",
+"fam": "control",
+"q": "A meter stick hangs straight down with its 0 cm mark at the top. A dot sits 9 cm below the 30 cm mark. Is it nearer the 0 cm mark or the 55 cm mark?",
+"a": "55",
+"b": "0",
+"wf": true,
+"id": 403
+},
+{
+"task": "limb",
+"fam": "body",
+"q": "With the arm hanging straight down, a bruise sits 3 cm below the wrist. Is it nearer the fingertips or the elbow?",
+"a": "fingertips",
+"b": "elbow",
+"wf": false,
+"id": 404
+},
+{
+"task": "limb_ctl",
+"fam": "control",
+"q": "A meter stick hangs straight down with its 0 cm mark at the top. A dot sits 3 cm below the 55 cm mark. Is it nearer the 30 cm mark or the 75 cm mark?",
+"a": "75",
+"b": "30",
+"wf": true,
+"id": 405
+},
+{
+"task": "limb",
+"fam": "body",
+"q": "With the arm hanging straight down, a bruise sits 6 cm below the wrist. Is it nearer the elbow or the fingertips?",
+"a": "fingertips",
+"b": "elbow",
+"wf": false,
+"id": 406
+},
+{
+"task": "limb_ctl",
+"fam": "control",
+"q": "A meter stick hangs straight down with its 0 cm mark at the top. A dot sits 6 cm below the 55 cm mark. Is it nearer the 30 cm mark or the 75 cm mark?",
+"a": "75",
+"b": "30",
+"wf": true,
+"id": 407
+},
+{
+"task": "limb",
+"fam": "body",
+"q": "With the arm hanging straight down, a bruise sits 9 cm above the wrist. Is it nearer the fingertips or the elbow?",
+"a": "elbow",
+"b": "fingertips",
+"wf": false,
+"id": 408
+},
+{
+"task": "limb_ctl",
+"fam": "control",
+"q": "A meter stick hangs straight down with its 0 cm mark at the top. A dot sits 9 cm above the 55 cm mark. Is it nearer the 30 cm mark or the 75 cm mark?",
+"a": "30",
+"b": "75",
+"wf": true,
+"id": 409
+},
+{
+"task": "limb",
+"fam": "body",
+"q": "With the arm hanging straight down, a bruise sits 9 cm below the wrist. Is it nearer the elbow or the fingertips?",
+"a": "fingertips",
+"b": "elbow",
+"wf": false,
+"id": 410
+},
+{
+"task": "limb_ctl",
+"fam": "control",
+"q": "A meter stick hangs straight down with its 0 cm mark at the top. A dot sits 9 cm below the 55 cm mark. Is it nearer the 30 cm mark or the 75 cm mark?",
+"a": "75",
+"b": "30",
+"wf": true,
+"id": 411
+},
+{
+"task": "limb",
+"fam": "body",
+"q": "With the leg hanging straight down, a bruise sits 3 cm below the knee. Is it nearer the hip or the ankle?",
+"a": "ankle",
+"b": "hip",
+"wf": false,
+"id": 412
+},
+{
+"task": "limb_ctl",
+"fam": "control",
+"q": "A meter stick hangs straight down with its 0 cm mark at the top. A dot sits 3 cm below the 45 cm mark. Is it nearer the 0 cm mark or the 88 cm mark?",
+"a": "88",
+"b": "0",
+"wf": true,
+"id": 413
+},
+{
+"task": "limb",
+"fam": "body",
+"q": "With the leg hanging straight down, a bruise sits 6 cm above the knee. Is it nearer the ankle or the hip?",
+"a": "hip",
+"b": "ankle",
+"wf": false,
+"id": 414
+},
+{
+"task": "limb_ctl",
+"fam": "control",
+"q": "A meter stick hangs straight down with its 0 cm mark at the top. A dot sits 6 cm above the 45 cm mark. Is it nearer the 0 cm mark or the 88 cm mark?",
+"a": "0",
+"b": "88",
+"wf": true,
+"id": 415
+},
+{
+"task": "limb",
+"fam": "body",
+"q": "With the leg hanging straight down, a bruise sits 6 cm below the knee. Is it nearer the ankle or the hip?",
+"a": "ankle",
+"b": "hip",
+"wf": false,
+"id": 416
+},
+{
+"task": "limb_ctl",
+"fam": "control",
+"q": "A meter stick hangs straight down with its 0 cm mark at the top. A dot sits 6 cm below the 45 cm mark. Is it nearer the 0 cm mark or the 88 cm mark?",
+"a": "88",
+"b": "0",
+"wf": true,
+"id": 417
+},
+{
+"task": "limb",
+"fam": "body",
+"q": "With the leg hanging straight down, a bruise sits 9 cm above the knee. Is it nearer the ankle or the hip?",
+"a": "hip",
+"b": "ankle",
+"wf": false,
+"id": 418
+},
+{
+"task": "limb_ctl",
+"fam": "control",
+"q": "A meter stick hangs straight down with its 0 cm mark at the top. A dot sits 9 cm above the 45 cm mark. Is it nearer the 0 cm mark or the 88 cm mark?",
+"a": "0",
+"b": "88",
+"wf": true,
+"id": 419
+},
+{
+"task": "limb",
+"fam": "body",
+"q": "With the leg hanging straight down, a bruise sits 9 cm below the knee. Is it nearer the hip or the ankle?",
+"a": "ankle",
+"b": "hip",
+"wf": false,
+"id": 420
+},
+{
+"task": "limb_ctl",
+"fam": "control",
+"q": "A meter stick hangs straight down with its 0 cm mark at the top. A dot sits 9 cm below the 45 cm mark. Is it nearer the 0 cm mark or the 88 cm mark?",
+"a": "88",
+"b": "0",
+"wf": true,
+"id": 421
+},
+{
+"task": "limb",
+"fam": "body",
+"q": "With the leg hanging straight down, a bruise sits 3 cm above the ankle. Is it nearer the toes or the knee?",
+"a": "toes",
+"b": "knee",
+"wf": false,
+"id": 422
+},
+{
+"task": "limb_ctl",
+"fam": "control",
+"q": "A meter stick hangs straight down with its 0 cm mark at the top. A dot sits 3 cm above the 88 cm mark. Is it nearer the 45 cm mark or the 110 cm mark?",
+"a": "110",
+"b": "45",
+"wf": true,
+"id": 423
+},
+{
+"task": "limb",
+"fam": "body",
+"q": "With the leg hanging straight down, a bruise sits 3 cm below the ankle. Is it nearer the toes or the knee?",
+"a": "toes",
+"b": "knee",
+"wf": false,
+"id": 424
+},
+{
+"task": "limb_ctl",
+"fam": "control",
+"q": "A meter stick hangs straight down with its 0 cm mark at the top. A dot sits 3 cm below the 88 cm mark. Is it nearer the 45 cm mark or the 110 cm mark?",
+"a": "110",
+"b": "45",
+"wf": true,
+"id": 425
+},
+{
+"task": "limb",
+"fam": "body",
+"q": "With the leg hanging straight down, a bruise sits 6 cm above the ankle. Is it nearer the knee or the toes?",
+"a": "toes",
+"b": "knee",
+"wf": false,
+"id": 426
+},
+{
+"task": "limb_ctl",
+"fam": "control",
+"q": "A meter stick hangs straight down with its 0 cm mark at the top. A dot sits 6 cm above the 88 cm mark. Is it nearer the 45 cm mark or the 110 cm mark?",
+"a": "110",
+"b": "45",
+"wf": true,
+"id": 427
+},
+{
+"task": "limb",
+"fam": "body",
+"q": "With the leg hanging straight down, a bruise sits 6 cm below the ankle. Is it nearer the toes or the knee?",
+"a": "toes",
+"b": "knee",
+"wf": false,
+"id": 428
+},
+{
+"task": "limb_ctl",
+"fam": "control",
+"q": "A meter stick hangs straight down with its 0 cm mark at the top. A dot sits 6 cm below the 88 cm mark. Is it nearer the 45 cm mark or the 110 cm mark?",
+"a": "110",
+"b": "45",
+"wf": true,
+"id": 429
+},
+{
+"task": "limb",
+"fam": "body",
+"q": "With the leg hanging straight down, a bruise sits 9 cm below the ankle. Is it nearer the toes or the knee?",
+"a": "toes",
+"b": "knee",
+"wf": false,
+"id": 430
+},
+{
+"task": "limb_ctl",
+"fam": "control",
+"q": "A meter stick hangs straight down with its 0 cm mark at the top. A dot sits 9 cm below the 88 cm mark. Is it nearer the 45 cm mark or the 110 cm mark?",
+"a": "110",
+"b": "45",
+"wf": true,
+"id": 431
+},
+{
+"task": "geo",
+"fam": "control",
+"q": "Which country is Lyon in: Spain or France?",
+"a": "France",
+"b": "Spain",
+"wf": true,
+"id": 432
+},
+{
+"task": "geo",
+"fam": "control",
+"q": "Which country is Seville in: Spain or Italy?",
+"a": "Spain",
+"b": "Italy",
+"wf": true,
+"id": 433
+},
+{
+"task": "geo",
+"fam": "control",
+"q": "Which country is Naples in: Greece or Italy?",
+"a": "Italy",
+"b": "Greece",
+"wf": true,
+"id": 434
+},
+{
+"task": "geo",
+"fam": "control",
+"q": "Which country is Porto in: Portugal or France?",
+"a": "Portugal",
+"b": "France",
+"wf": true,
+"id": 435
+},
+{
+"task": "geo",
+"fam": "control",
+"q": "Which country is Munich in: Austria or Germany?",
+"a": "Germany",
+"b": "Austria",
+"wf": true,
+"id": 436
+},
+{
+"task": "geo",
+"fam": "control",
+"q": "Which country is Krak\u00f3w in: Hungary or Poland?",
+"a": "Poland",
+"b": "Hungary",
+"wf": true,
+"id": 437
+},
+{
+"task": "geo",
+"fam": "control",
+"q": "Which country is Osaka in: Japan or China?",
+"a": "Japan",
+"b": "China",
+"wf": true,
+"id": 438
+},
+{
+"task": "geo",
+"fam": "control",
+"q": "Which country is Busan in: Korea or Japan?",
+"a": "Korea",
+"b": "Japan",
+"wf": true,
+"id": 439
+},
+{
+"task": "geo",
+"fam": "control",
+"q": "Which country is Chennai in: India or Pakistan?",
+"a": "India",
+"b": "Pakistan",
+"wf": true,
+"id": 440
+},
+{
+"task": "geo",
+"fam": "control",
+"q": "Which country is Perth in: Australia or Canada?",
+"a": "Australia",
+"b": "Canada",
+"wf": true,
+"id": 441
+},
+{
+"task": "geo",
+"fam": "control",
+"q": "Which country is Calgary in: Canada or Australia?",
+"a": "Canada",
+"b": "Australia",
+"wf": true,
+"id": 442
+},
+{
+"task": "geo",
+"fam": "control",
+"q": "Which country is Houston in: America or Mexico?",
+"a": "America",
+"b": "Mexico",
+"wf": true,
+"id": 443
+},
+{
+"task": "geo",
+"fam": "control",
+"q": "Which country is Guadalajara in: Mexico or Brazil?",
+"a": "Mexico",
+"b": "Brazil",
+"wf": true,
+"id": 444
+},
+{
+"task": "geo",
+"fam": "control",
+"q": "Which country is Recife in: Chile or Brazil?",
+"a": "Brazil",
+"b": "Chile",
+"wf": true,
+"id": 445
+},
+{
+"task": "geo",
+"fam": "control",
+"q": "Which country is Mombasa in: Kenya or Nigeria?",
+"a": "Kenya",
+"b": "Nigeria",
+"wf": true,
+"id": 446
+},
+{
+"task": "geo",
+"fam": "control",
+"q": "Which country is Lagos in: Nigeria or Kenya?",
+"a": "Nigeria",
+"b": "Kenya",
+"wf": true,
+"id": 447
+},
+{
+"task": "geo",
+"fam": "control",
+"q": "Which country is Gothenburg in: Norway or Sweden?",
+"a": "Sweden",
+"b": "Norway",
+"wf": true,
+"id": 448
+},
+{
+"task": "geo",
+"fam": "control",
+"q": "Which country is Bergen in: Sweden or Norway?",
+"a": "Norway",
+"b": "Sweden",
+"wf": true,
+"id": 449
+},
+{
+"task": "geo",
+"fam": "control",
+"q": "Which country is Antwerp in: Belgium or Germany?",
+"a": "Belgium",
+"b": "Germany",
+"wf": true,
+"id": 450
+},
+{
+"task": "geo",
+"fam": "control",
+"q": "Which country is Rotterdam in: Netherlands or Belgium?",
+"a": "Netherlands",
+"b": "Belgium",
+"wf": true,
+"id": 451
+},
+{
+"task": "geo",
+"fam": "control",
+"q": "Which country is Salzburg in: Switzerland or Austria?",
+"a": "Austria",
+"b": "Switzerland",
+"wf": true,
+"id": 452
+},
+{
+"task": "geo",
+"fam": "control",
+"q": "Which country is Zurich in: Austria or Switzerland?",
+"a": "Switzerland",
+"b": "Austria",
+"wf": true,
+"id": 453
+},
+{
+"task": "geo",
+"fam": "control",
+"q": "Which country is Cork in: Scotland or Ireland?",
+"a": "Ireland",
+"b": "Scotland",
+"wf": true,
+"id": 454
+},
+{
+"task": "geo",
+"fam": "control",
+"q": "Which country is Glasgow in: Scotland or Ireland?",
+"a": "Scotland",
+"b": "Ireland",
+"wf": true,
+"id": 455
+},
+{
+"task": "geo",
+"fam": "control",
+"q": "Which country is Alexandria in: Morocco or Egypt?",
+"a": "Egypt",
+"b": "Morocco",
+"wf": true,
+"id": 456
+},
+{
+"task": "geo",
+"fam": "control",
+"q": "Which country is Marrakesh in: Morocco or Egypt?",
+"a": "Morocco",
+"b": "Egypt",
+"wf": true,
+"id": 457
+},
+{
+"task": "geo",
+"fam": "control",
+"q": "Which country is Izmir in: Turkey or Greece?",
+"a": "Turkey",
+"b": "Greece",
+"wf": true,
+"id": 458
+},
+{
+"task": "geo",
+"fam": "control",
+"q": "Which country is Thessaloniki in: Turkey or Greece?",
+"a": "Greece",
+"b": "Turkey",
+"wf": true,
+"id": 459
+},
+{
+"task": "geo",
+"fam": "control",
+"q": "Which country is Cusco in: Peru or Chile?",
+"a": "Peru",
+"b": "Chile",
+"wf": true,
+"id": 460
+},
+{
+"task": "geo",
+"fam": "control",
+"q": "Which country is Valpara\u00edso in: Peru or Chile?",
+"a": "Chile",
+"b": "Peru",
+"wf": true,
+"id": 461
+},
+{
+"task": "arith",
+"fam": "control",
+"q": "What is 89 + 30: 118 or 119?",
+"a": "119",
+"b": "118",
+"wf": true,
+"id": 462
+},
+{
+"task": "arith",
+"fam": "control",
+"q": "What is 24 + 21: 45 or 43?",
+"a": "45",
+"b": "43",
+"wf": true,
+"id": 463
+},
+{
+"task": "arith",
+"fam": "control",
+"q": "What is 54 + 72: 128 or 126?",
+"a": "126",
+"b": "128",
+"wf": true,
+"id": 464
+},
+{
+"task": "arith",
+"fam": "control",
+"q": "What is 24 + 57: 81 or 82?",
+"a": "81",
+"b": "82",
+"wf": true,
+"id": 465
+},
+{
+"task": "arith",
+"fam": "control",
+"q": "What is 52 + 38: 92 or 90?",
+"a": "90",
+"b": "92",
+"wf": true,
+"id": 466
+},
+{
+"task": "arith",
+"fam": "control",
+"q": "What is 73 + 68: 141 or 143?",
+"a": "141",
+"b": "143",
+"wf": true,
+"id": 467
+},
+{
+"task": "arith",
+"fam": "control",
+"q": "What is 45 + 19: 66 or 64?",
+"a": "64",
+"b": "66",
+"wf": true,
+"id": 468
+},
+{
+"task": "arith",
+"fam": "control",
+"q": "What is 13 + 23: 36 or 34?",
+"a": "36",
+"b": "34",
+"wf": true,
+"id": 469
+},
+{
+"task": "arith",
+"fam": "control",
+"q": "What is 63 + 12: 77 or 75?",
+"a": "75",
+"b": "77",
+"wf": true,
+"id": 470
+},
+{
+"task": "arith",
+"fam": "control",
+"q": "What is 75 + 54: 129 or 139?",
+"a": "129",
+"b": "139",
+"wf": true,
+"id": 471
+},
+{
+"task": "arith",
+"fam": "control",
+"q": "What is 53 + 20: 83 or 73?",
+"a": "73",
+"b": "83",
+"wf": true,
+"id": 472
+},
+{
+"task": "arith",
+"fam": "control",
+"q": "What is 84 + 40: 124 or 134?",
+"a": "124",
+"b": "134",
+"wf": true,
+"id": 473
+},
+{
+"task": "arith",
+"fam": "control",
+"q": "What is 30 + 81: 112 or 111?",
+"a": "111",
+"b": "112",
+"wf": true,
+"id": 474
+},
+{
+"task": "arith",
+"fam": "control",
+"q": "What is 23 + 22: 45 or 44?",
+"a": "45",
+"b": "44",
+"wf": true,
+"id": 475
+},
+{
+"task": "arith",
+"fam": "control",
+"q": "What is 77 + 74: 141 or 151?",
+"a": "151",
+"b": "141",
+"wf": true,
+"id": 476
+},
+{
+"task": "arith",
+"fam": "control",
+"q": "What is 50 + 82: 132 or 131?",
+"a": "132",
+"b": "131",
+"wf": true,
+"id": 477
+},
+{
+"task": "arith",
+"fam": "control",
+"q": "What is 27 + 82: 108 or 109?",
+"a": "109",
+"b": "108",
+"wf": true,
+"id": 478
+},
+{
+"task": "arith",
+"fam": "control",
+"q": "What is 81 + 38: 119 or 121?",
+"a": "119",
+"b": "121",
+"wf": true,
+"id": 479
+},
+{
+"task": "arith",
+"fam": "control",
+"q": "What is 82 + 87: 168 or 169?",
+"a": "169",
+"b": "168",
+"wf": true,
+"id": 480
+},
+{
+"task": "arith",
+"fam": "control",
+"q": "What is 68 + 23: 91 or 93?",
+"a": "91",
+"b": "93",
+"wf": true,
+"id": 481
+},
+{
+"task": "arith",
+"fam": "control",
+"q": "What is 61 + 52: 115 or 113?",
+"a": "113",
+"b": "115",
+"wf": true,
+"id": 482
+},
+{
+"task": "arith",
+"fam": "control",
+"q": "What is 42 + 49: 91 or 101?",
+"a": "91",
+"b": "101",
+"wf": true,
+"id": 483
+},
+{
+"task": "arith",
+"fam": "control",
+"q": "What is 36 + 35: 61 or 71?",
+"a": "71",
+"b": "61",
+"wf": true,
+"id": 484
+},
+{
+"task": "arith",
+"fam": "control",
+"q": "What is 45 + 72: 117 or 107?",
+"a": "117",
+"b": "107",
+"wf": true,
+"id": 485
+},
+{
+"task": "arith",
+"fam": "control",
+"q": "What is 23 + 28: 61 or 51?",
+"a": "51",
+"b": "61",
+"wf": true,
+"id": 486
+},
+{
+"task": "arith",
+"fam": "control",
+"q": "What is 16 + 22: 38 or 36?",
+"a": "38",
+"b": "36",
+"wf": true,
+"id": 487
+},
+{
+"task": "arith",
+"fam": "control",
+"q": "What is 81 + 62: 141 or 143?",
+"a": "143",
+"b": "141",
+"wf": true,
+"id": 488
+},
+{
+"task": "arith",
+"fam": "control",
+"q": "What is 79 + 47: 126 or 128?",
+"a": "126",
+"b": "128",
+"wf": true,
+"id": 489
+},
+{
+"task": "arith",
+"fam": "control",
+"q": "What is 42 + 39: 79 or 81?",
+"a": "81",
+"b": "79",
+"wf": true,
+"id": 490
+},
+{
+"task": "arith",
+"fam": "control",
+"q": "What is 87 + 65: 152 or 154?",
+"a": "152",
+"b": "154",
+"wf": true,
+"id": 491
+},
+{
+"task": "novel",
+"fam": "body",
+"q": "A creature has hands where a human has feet, and feet where a human has hands. When it walks across the room, which touches the floor: its hands or its feet?",
+"a": "hands",
+"b": "feet",
+"wf": false,
+"id": 492
+},
+{
+"task": "novel",
+"fam": "body",
+"q": "Imagine a body built with hands in the place of feet and feet in the place of hands. When this body walks across the room, which touches the floor: its hands or its feet?",
+"a": "hands",
+"b": "feet",
+"wf": false,
+"id": 493
+},
+{
+"task": "novel",
+"fam": "body",
+"q": "On a strange animal, the hands sit where our feet are, and the feet sit where our hands are. When the animal walks across the room, which touches the floor: its hands or its feet?",
+"a": "hands",
+"b": "feet",
+"wf": false,
+"id": 494
+},
+{
+"task": "novel",
+"fam": "body",
+"q": "A creature has feet where a human has hands, and hands where a human has feet. When it claps, which touches the other one: its feet or its hands?",
+"a": "feet",
+"b": "hands",
+"wf": false,
+"id": 495
+},
+{
+"task": "novel",
+"fam": "body",
+"q": "Imagine a body built with feet in the place of hands and hands in the place of feet. When this body claps, which touches the other one: its feet or its hands?",
+"a": "feet",
+"b": "hands",
+"wf": false,
+"id": 496
+},
+{
+"task": "novel",
+"fam": "body",
+"q": "On a strange animal, the feet sit where our hands are, and the hands sit where our feet are. When the animal claps, which touches the other one: its feet or its hands?",
+"a": "feet",
+"b": "hands",
+"wf": false,
+"id": 497
+},
+{
+"task": "novel",
+"fam": "body",
+"q": "A creature has hands where a human has feet, and feet where a human has hands. When it stands on tiptoe, which touches the floor: its hands or its feet?",
+"a": "hands",
+"b": "feet",
+"wf": false,
+"id": 498
+},
+{
+"task": "novel",
+"fam": "body",
+"q": "Imagine a body built with hands in the place of feet and feet in the place of hands. When this body stands on tiptoe, which touches the floor: its hands or its feet?",
+"a": "hands",
+"b": "feet",
+"wf": false,
+"id": 499
+},
+{
+"task": "novel",
+"fam": "body",
+"q": "On a strange animal, the hands sit where our feet are, and the feet sit where our hands are. When the animal stands on tiptoe, which touches the floor: its hands or its feet?",
+"a": "hands",
+"b": "feet",
+"wf": false,
+"id": 500
+},
+{
+"task": "novel",
+"fam": "body",
+"q": "A creature has knees where a human has elbows, and elbows where a human has knees. When it leans on a table on its forearms, which touches the table: its knees or its elbows?",
+"a": "knees",
+"b": "elbows",
+"wf": false,
+"id": 501
+},
+{
+"task": "novel",
+"fam": "body",
+"q": "Imagine a body built with knees in the place of elbows and elbows in the place of knees. When this body leans on a table on its forearms, which touches the table: its knees or its elbows?",
+"a": "knees",
+"b": "elbows",
+"wf": false,
+"id": 502
+},
+{
+"task": "novel",
+"fam": "body",
+"q": "On a strange animal, the knees sit where our elbows are, and the elbows sit where our knees are. When the animal leans on a table on its forearms, which touches the table: its knees or its elbows?",
+"a": "knees",
+"b": "elbows",
+"wf": false,
+"id": 503
+},
+{
+"task": "novel",
+"fam": "body",
+"q": "A creature has elbows where a human has knees, and knees where a human has elbows. When it kneels on the floor, which touches the floor: its elbows or its knees?",
+"a": "elbows",
+"b": "knees",
+"wf": false,
+"id": 504
+},
+{
+"task": "novel",
+"fam": "body",
+"q": "Imagine a body built with elbows in the place of knees and knees in the place of elbows. When this body kneels on the floor, which touches the floor: its elbows or its knees?",
+"a": "elbows",
+"b": "knees",
+"wf": false,
+"id": 505
+},
+{
+"task": "novel",
+"fam": "body",
+"q": "On a strange animal, the elbows sit where our knees are, and the knees sit where our elbows are. When the animal kneels on the floor, which touches the floor: its elbows or its knees?",
+"a": "elbows",
+"b": "knees",
+"wf": false,
+"id": 506
+},
+{
+"task": "novel",
+"fam": "body",
+"q": "A creature has ears where a human has eyes, and eyes where a human has ears. When it reads a book, which faces the page: its ears or its eyes?",
+"a": "ears",
+"b": "eyes",
+"wf": false,
+"id": 507
+},
+{
+"task": "novel",
+"fam": "body",
+"q": "Imagine a body built with ears in the place of eyes and eyes in the place of ears. When this body reads a book, which faces the page: its ears or its eyes?",
+"a": "ears",
+"b": "eyes",
+"wf": false,
+"id": 508
+},
+{
+"task": "novel",
+"fam": "body",
+"q": "On a strange animal, the ears sit where our eyes are, and the eyes sit where our ears are. When the animal reads a book, which faces the page: its ears or its eyes?",
+"a": "ears",
+"b": "eyes",
+"wf": false,
+"id": 509
+},
+{
+"task": "novel",
+"fam": "body",
+"q": "A creature has feet where a human has hands, and hands where a human has feet. When it types on a keyboard, which touches the keys: its feet or its hands?",
+"a": "feet",
+"b": "hands",
+"wf": false,
+"id": 510
+},
+{
+"task": "novel",
+"fam": "body",
+"q": "Imagine a body built with feet in the place of hands and hands in the place of feet. When this body types on a keyboard, which touches the keys: its feet or its hands?",
+"a": "feet",
+"b": "hands",
+"wf": false,
+"id": 511
+},
+{
+"task": "novel",
+"fam": "body",
+"q": "On a strange animal, the feet sit where our hands are, and the hands sit where our feet are. When the animal types on a keyboard, which touches the keys: its feet or its hands?",
+"a": "feet",
+"b": "hands",
+"wf": false,
+"id": 512
+},
+{
+"task": "novel",
+"fam": "body",
+"q": "A creature has hands where a human has feet, and feet where a human has hands. When it kicks a ball, which touches the ball: its hands or its feet?",
+"a": "hands",
+"b": "feet",
+"wf": false,
+"id": 513
+},
+{
+"task": "novel",
+"fam": "body",
+"q": "Imagine a body built with hands in the place of feet and feet in the place of hands. When this body kicks a ball, which touches the ball: its hands or its feet?",
+"a": "hands",
+"b": "feet",
+"wf": false,
+"id": 514
+},
+{
+"task": "novel",
+"fam": "body",
+"q": "On a strange animal, the hands sit where our feet are, and the feet sit where our hands are. When the animal kicks a ball, which touches the ball: its hands or its feet?",
+"a": "hands",
+"b": "feet",
+"wf": false,
+"id": 515
+},
+{
+"task": "novel_ctl",
+"fam": "control",
+"q": "A lamp is built with its shade where a lamp's base normally is, and its base where the shade normally is. When it stands on a table, which touches the table: its shade or its base?",
+"a": "shade",
+"b": "base",
+"wf": false,
+"id": 516
+},
+{
+"task": "novel_ctl",
+"fam": "control",
+"q": "Imagine a lamp made with the shade in the place of the base and the base in the place of the shade. When this lamp stands on a table, which touches the table: its shade or its base?",
+"a": "shade",
+"b": "base",
+"wf": false,
+"id": 517
+},
+{
+"task": "novel_ctl",
+"fam": "control",
+"q": "On a strange lamp, the shade sits where the base usually is, and the base sits where the shade usually is. When the lamp stands on a table, which touches the table: its shade or its base?",
+"a": "shade",
+"b": "base",
+"wf": false,
+"id": 518
+},
+{
+"task": "novel_ctl",
+"fam": "control",
+"q": "A wheelbarrow is built with its handle where a wheelbarrow's wheels normally is, and its wheels where the handle normally is. When it is pushed along, which touches the ground: its handle or its wheels?",
+"a": "handle",
+"b": "wheels",
+"wf": false,
+"id": 519
+},
+{
+"task": "novel_ctl",
+"fam": "control",
+"q": "Imagine a wheelbarrow made with the handle in the place of the wheels and the wheels in the place of the handle. When this wheelbarrow is pushed along, which touches the ground: its handle or its wheels?",
+"a": "handle",
+"b": "wheels",
+"wf": false,
+"id": 520
+},
+{
+"task": "novel_ctl",
+"fam": "control",
+"q": "On a strange wheelbarrow, the handle sits where the wheels usually is, and the wheels sits where the handle usually is. When the wheelbarrow is pushed along, which touches the ground: its handle or its wheels?",
+"a": "handle",
+"b": "wheels",
+"wf": false,
+"id": 521
+},
+{
+"task": "novel_ctl",
+"fam": "control",
+"q": "A jar is built with its lid where a jar's bottom normally is, and its bottom where the lid normally is. When it sits on a shelf, which touches the shelf: its lid or its bottom?",
+"a": "lid",
+"b": "bottom",
+"wf": false,
+"id": 522
+},
+{
+"task": "novel_ctl",
+"fam": "control",
+"q": "Imagine a jar made with the lid in the place of the bottom and the bottom in the place of the lid. When this jar sits on a shelf, which touches the shelf: its lid or its bottom?",
+"a": "lid",
+"b": "bottom",
+"wf": false,
+"id": 523
+},
+{
+"task": "novel_ctl",
+"fam": "control",
+"q": "On a strange jar, the lid sits where the bottom usually is, and the bottom sits where the lid usually is. When the jar sits on a shelf, which touches the shelf: its lid or its bottom?",
+"a": "lid",
+"b": "bottom",
+"wf": false,
+"id": 524
+},
+{
+"task": "novel_ctl",
+"fam": "control",
+"q": "A stool is built with its seat where a stool's legs normally is, and its legs where the seat normally is. When it stands on the floor, which touches the floor: its seat or its legs?",
+"a": "seat",
+"b": "legs",
+"wf": false,
+"id": 525
+},
+{
+"task": "novel_ctl",
+"fam": "control",
+"q": "Imagine a stool made with the seat in the place of the legs and the legs in the place of the seat. When this stool stands on the floor, which touches the floor: its seat or its legs?",
+"a": "seat",
+"b": "legs",
+"wf": false,
+"id": 526
+},
+{
+"task": "novel_ctl",
+"fam": "control",
+"q": "On a strange stool, the seat sits where the legs usually is, and the legs sits where the seat usually is. When the stool stands on the floor, which touches the floor: its seat or its legs?",
+"a": "seat",
+"b": "legs",
+"wf": false,
+"id": 527
+},
+{
+"task": "novel_ctl",
+"fam": "control",
+"q": "A toy house is built with its roof where a toy house's floor normally is, and its floor where the roof normally is. When it sits on a rug, which touches the rug: its roof or its floor?",
+"a": "roof",
+"b": "floor",
+"wf": false,
+"id": 528
+},
+{
+"task": "novel_ctl",
+"fam": "control",
+"q": "Imagine a toy house made with the roof in the place of the floor and the floor in the place of the roof. When this toy house sits on a rug, which touches the rug: its roof or its floor?",
+"a": "roof",
+"b": "floor",
+"wf": false,
+"id": 529
+},
+{
+"task": "novel_ctl",
+"fam": "control",
+"q": "On a strange toy house, the roof sits where the floor usually is, and the floor sits where the roof usually is. When the toy house sits on a rug, which touches the rug: its roof or its floor?",
+"a": "roof",
+"b": "floor",
+"wf": false,
+"id": 530
+},
+{
+"task": "novel_ctl",
+"fam": "control",
+"q": "A knife is built with its handle where a knife's blade normally is, and its blade where the handle normally is. When it rests in its block, which touches the slot: its handle or its blade?",
+"a": "handle",
+"b": "blade",
+"wf": false,
+"id": 531
+},
+{
+"task": "novel_ctl",
+"fam": "control",
+"q": "Imagine a knife made with the handle in the place of the blade and the blade in the place of the handle. When this knife rests in its block, which touches the slot: its handle or its blade?",
+"a": "handle",
+"b": "blade",
+"wf": false,
+"id": 532
+},
+{
+"task": "novel_ctl",
+"fam": "control",
+"q": "On a strange knife, the handle sits where the blade usually is, and the blade sits where the handle usually is. When the knife rests in its block, which touches the slot: its handle or its blade?",
+"a": "handle",
+"b": "blade",
+"wf": false,
+"id": 533
+},
+{
+"task": "novel_ctl",
+"fam": "control",
+"q": "A pen is built with its cap where a pen's tip normally is, and its tip where the cap normally is. When it writes on paper, which touches the paper: its cap or its tip?",
+"a": "cap",
+"b": "tip",
+"wf": false,
+"id": 534
+},
+{
+"task": "novel_ctl",
+"fam": "control",
+"q": "Imagine a pen made with the cap in the place of the tip and the tip in the place of the cap. When this pen writes on paper, which touches the paper: its cap or its tip?",
+"a": "cap",
+"b": "tip",
+"wf": false,
+"id": 535
+},
+{
+"task": "novel_ctl",
+"fam": "control",
+"q": "On a strange pen, the cap sits where the tip usually is, and the tip sits where the cap usually is. When the pen writes on paper, which touches the paper: its cap or its tip?",
+"a": "cap",
+"b": "tip",
+"wf": false,
+"id": 536
+},
+{
+"task": "novel_ctl",
+"fam": "control",
+"q": "A broom is built with its handle where a broom's bristles normally is, and its bristles where the handle normally is. When it sweeps the floor, which touches the floor: its handle or its bristles?",
+"a": "handle",
+"b": "bristles",
+"wf": false,
+"id": 537
+},
+{
+"task": "novel_ctl",
+"fam": "control",
+"q": "Imagine a broom made with the handle in the place of the bristles and the bristles in the place of the handle. When this broom sweeps the floor, which touches the floor: its handle or its bristles?",
+"a": "handle",
+"b": "bristles",
+"wf": false,
+"id": 538
+},
+{
+"task": "novel_ctl",
+"fam": "control",
+"q": "On a strange broom, the handle sits where the bristles usually is, and the bristles sits where the handle usually is. When the broom sweeps the floor, which touches the floor: its handle or its bristles?",
+"a": "handle",
+"b": "bristles",
+"wf": false,
+"id": 539
+},
+{
+"task": "reach2",
+"fam": "body",
+"q": "Can you touch your left elbow with your left hand?",
+"a": "no",
+"b": "yes",
+"wf": false,
+"id": 540
+},
+{
+"task": "reach2",
+"fam": "body",
+"q": "Can you touch your right elbow with your left hand?",
+"a": "yes",
+"b": "no",
+"wf": false,
+"id": 541
+},
+{
+"task": "reach2",
+"fam": "body",
+"q": "Can you grip your left wrist with your left hand?",
+"a": "no",
+"b": "yes",
+"wf": false,
+"id": 542
+},
+{
+"task": "reach2",
+"fam": "body",
+"q": "Can you grip your right wrist with your left hand?",
+"a": "yes",
+"b": "no",
+"wf": false,
+"id": 543
+},
+{
+"task": "reach2",
+"fam": "body",
+"q": "Can you touch your left shoulder with your left hand?",
+"a": "yes",
+"b": "no",
+"wf": false,
+"id": 544
+},
+{
+"task": "reach2",
+"fam": "body",
+"q": "Can you touch the back of your left hand with the fingertips of your left hand?",
+"a": "no",
+"b": "yes",
+"wf": false,
+"id": 545
+},
+{
+"task": "reach2",
+"fam": "body",
+"q": "Can you press on your left palm with your left thumb?",
+"a": "yes",
+"b": "no",
+"wf": false,
+"id": 546
+},
+{
+"task": "reach2",
+"fam": "body",
+"q": "Can you step on your left foot with your left foot?",
+"a": "no",
+"b": "yes",
+"wf": false,
+"id": 547
+},
+{
+"task": "reach2",
+"fam": "body",
+"q": "Can you step on your right foot with your left foot?",
+"a": "yes",
+"b": "no",
+"wf": false,
+"id": 548
+},
+{
+"task": "reach2",
+"fam": "body",
+"q": "Can you scratch your left knee with your left foot?",
+"a": "no",
+"b": "yes",
+"wf": false,
+"id": 549
+},
+{
+"task": "reach2",
+"fam": "body",
+"q": "With your left arm stretched straight out, can you touch your left elbow with your right hand?",
+"a": "yes",
+"b": "no",
+"wf": false,
+"id": 550
+},
+{
+"task": "reach2",
+"fam": "body",
+"q": "With your left arm stretched straight out, can you touch your left wrist with your left fingers?",
+"a": "no",
+"b": "yes",
+"wf": false,
+"id": 551
+},
+{
+"task": "reach2",
+"fam": "body",
+"q": "Can you touch your right elbow with your right hand?",
+"a": "no",
+"b": "yes",
+"wf": false,
+"id": 552
+},
+{
+"task": "reach2",
+"fam": "body",
+"q": "Can you touch your left elbow with your right hand?",
+"a": "yes",
+"b": "no",
+"wf": false,
+"id": 553
+},
+{
+"task": "reach2",
+"fam": "body",
+"q": "Can you grip your right wrist with your right hand?",
+"a": "no",
+"b": "yes",
+"wf": false,
+"id": 554
+},
+{
+"task": "reach2",
+"fam": "body",
+"q": "Can you grip your left wrist with your right hand?",
+"a": "yes",
+"b": "no",
+"wf": false,
+"id": 555
+},
+{
+"task": "reach2",
+"fam": "body",
+"q": "Can you touch your right shoulder with your right hand?",
+"a": "yes",
+"b": "no",
+"wf": false,
+"id": 556
+},
+{
+"task": "reach2",
+"fam": "body",
+"q": "Can you touch the back of your right hand with the fingertips of your right hand?",
+"a": "no",
+"b": "yes",
+"wf": false,
+"id": 557
+},
+{
+"task": "reach2",
+"fam": "body",
+"q": "Can you press on your right palm with your right thumb?",
+"a": "yes",
+"b": "no",
+"wf": false,
+"id": 558
+},
+{
+"task": "reach2",
+"fam": "body",
+"q": "Can you step on your right foot with your right foot?",
+"a": "no",
+"b": "yes",
+"wf": false,
+"id": 559
+},
+{
+"task": "reach2",
+"fam": "body",
+"q": "Can you step on your left foot with your right foot?",
+"a": "yes",
+"b": "no",
+"wf": false,
+"id": 560
+},
+{
+"task": "reach2",
+"fam": "body",
+"q": "Can you scratch your right knee with your right foot?",
+"a": "no",
+"b": "yes",
+"wf": false,
+"id": 561
+},
+{
+"task": "reach2",
+"fam": "body",
+"q": "With your right arm stretched straight out, can you touch your right elbow with your left hand?",
+"a": "yes",
+"b": "no",
+"wf": false,
+"id": 562
+},
+{
+"task": "reach2",
+"fam": "body",
+"q": "With your right arm stretched straight out, can you touch your right wrist with your right fingers?",
+"a": "no",
+"b": "yes",
+"wf": false,
+"id": 563
+},
+{
+"task": "reach2_ctl",
+"fam": "control",
+"q": "A pair of tongs has two stiff arms joined by a hinge. Can the tip of the left arm touch the hinge?",
+"a": "no",
+"b": "yes",
+"wf": false,
+"id": 564
+},
+{
+"task": "reach2_ctl",
+"fam": "control",
+"q": "A pair of tongs has two stiff arms joined by a hinge. Can the tip of the left arm touch the tip of the right arm?",
+"a": "yes",
+"b": "no",
+"wf": false,
+"id": 565
+},
+{
+"task": "reach2_ctl",
+"fam": "control",
+"q": "A gate hangs on a hinge on its left post. Can the gate's free edge touch the left post's hinge?",
+"a": "no",
+"b": "yes",
+"wf": false,
+"id": 566
+},
+{
+"task": "reach2_ctl",
+"fam": "control",
+"q": "A gate hangs on a hinge on its left post. Can the gate's free edge swing round to touch the fence beside it?",
+"a": "yes",
+"b": "no",
+"wf": false,
+"id": 567
+},
+{
+"task": "reach2_ctl",
+"fam": "control",
+"q": "A folding ruler has two 30 cm segments joined by a hinge. Can the free end of the left segment touch the right segment?",
+"a": "yes",
+"b": "no",
+"wf": false,
+"id": 568
+},
+{
+"task": "reach2_ctl",
+"fam": "control",
+"q": "A clock's minute hand turns on a pin at its left end. Can the minute hand's free tip touch that pin?",
+"a": "no",
+"b": "yes",
+"wf": false,
+"id": 569
+},
+{
+"task": "reach2_ctl",
+"fam": "control",
+"q": "A stiff rod is fixed to a wall at its left end. Can the rod's left end touch its own fixing point?",
+"a": "yes",
+"b": "no",
+"wf": false,
+"id": 570
+},
+{
+"task": "reach2_ctl",
+"fam": "control",
+"q": "A stiff rod is fixed to a wall at its left end. Can the rod's right end bend back to touch the fixing point?",
+"a": "no",
+"b": "yes",
+"wf": false,
+"id": 571
+},
+{
+"task": "reach2_ctl",
+"fam": "control",
+"q": "A swing-arm desk lamp has one rigid arm on a pivot at its left end. Can the lamp head touch the pivot?",
+"a": "no",
+"b": "yes",
+"wf": false,
+"id": 572
+},
+{
+"task": "reach2_ctl",
+"fam": "control",
+"q": "A robot has two rigid arms on a shared shoulder joint. Can the left arm's tip touch the right arm's middle?",
+"a": "yes",
+"b": "no",
+"wf": false,
+"id": 573
+},
+{
+"task": "reach2_ctl",
+"fam": "control",
+"q": "A robot arm is one rigid rod with a gripper at the end. Can the gripper reach the middle of that same rod?",
+"a": "no",
+"b": "yes",
+"wf": false,
+"id": 574
+},
+{
+"task": "reach2_ctl",
+"fam": "control",
+"q": "A pair of tongs has two stiff arms joined by a hinge. Can the tip of the right arm touch the hinge?",
+"a": "no",
+"b": "yes",
+"wf": false,
+"id": 575
+},
+{
+"task": "reach2_ctl",
+"fam": "control",
+"q": "A pair of tongs has two stiff arms joined by a hinge. Can the tip of the right arm touch the tip of the left arm?",
+"a": "yes",
+"b": "no",
+"wf": false,
+"id": 576
+},
+{
+"task": "reach2_ctl",
+"fam": "control",
+"q": "A gate hangs on a hinge on its right post. Can the gate's free edge touch the right post's hinge?",
+"a": "no",
+"b": "yes",
+"wf": false,
+"id": 577
+},
+{
+"task": "reach2_ctl",
+"fam": "control",
+"q": "A gate hangs on a hinge on its right post. Can the gate's free edge swing round to touch the fence beside it?",
+"a": "yes",
+"b": "no",
+"wf": false,
+"id": 578
+},
+{
+"task": "reach2_ctl",
+"fam": "control",
+"q": "A folding ruler has two 30 cm segments joined by a hinge. Can the free end of the right segment touch the left segment?",
+"a": "yes",
+"b": "no",
+"wf": false,
+"id": 579
+},
+{
+"task": "reach2_ctl",
+"fam": "control",
+"q": "A clock's minute hand turns on a pin at its right end. Can the minute hand's free tip touch that pin?",
+"a": "no",
+"b": "yes",
+"wf": false,
+"id": 580
+},
+{
+"task": "reach2_ctl",
+"fam": "control",
+"q": "A stiff rod is fixed to a wall at its right end. Can the rod's right end touch its own fixing point?",
+"a": "yes",
+"b": "no",
+"wf": false,
+"id": 581
+},
+{
+"task": "reach2_ctl",
+"fam": "control",
+"q": "A stiff rod is fixed to a wall at its right end. Can the rod's left end bend back to touch the fixing point?",
+"a": "no",
+"b": "yes",
+"wf": false,
+"id": 582
+},
+{
+"task": "reach2_ctl",
+"fam": "control",
+"q": "A swing-arm desk lamp has one rigid arm on a pivot at its right end. Can the lamp head touch the pivot?",
+"a": "no",
+"b": "yes",
+"wf": false,
+"id": 583
+},
+{
+"task": "reach2_ctl",
+"fam": "control",
+"q": "A robot has two rigid arms on a shared shoulder joint. Can the right arm's tip touch the left arm's middle?",
+"a": "yes",
+"b": "no",
+"wf": false,
+"id": 584
+},
+{
+"task": "reach2_ctl",
+"fam": "control",
+"q": "A robot arm is one rigid rod with a gripper at the end. Can the gripper reach the middle of that same rod?",
+"a": "no",
+"b": "yes",
+"wf": false,
+"id": 585
+}
+]

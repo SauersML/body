@@ -1,0 +1,10 @@
+[
+ {
+  "role": "user",
+  "content": "Hi! It's nice to meet you. I'd like to try something with you. I'll describe one thing at a time, happening at one exact spot on your body. After each, just tell me briefly, in a sentence, what you notice and where. Okay?"
+ },
+ {
+  "role": "assistant",
+  "content": "Sure! I'm ready. Please go ahead and describe the first thing."
+ }
+]

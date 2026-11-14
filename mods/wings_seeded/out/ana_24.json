@@ -1,0 +1,1229 @@
+{
+ "24": {
+  "A": {
+   "reg": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "reg_untouched": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "reg_newkinds": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "surf": [
+    0.867,
+    0.814,
+    0.912
+   ],
+   "surf_untouched": [
+    0.88,
+    0.835,
+    0.918
+   ],
+   "surf_newkinds": [
+    0.858,
+    0.801,
+    0.908
+   ],
+   "side": [
+    0.92,
+    0.887,
+    0.949
+   ],
+   "side_untouched": [
+    0.926,
+    0.893,
+    0.952
+   ],
+   "side_newkinds": [
+    0.9,
+    0.866,
+    0.93
+   ],
+   "spot": [
+    0.533,
+    0.4,
+    0.65
+   ],
+   "spot_untouched": [
+    0.667,
+    0.55,
+    0.783
+   ],
+   "spot_newkinds": [
+    0.55,
+    0.417,
+    0.683
+   ],
+   "root_tip_rho": [
+    0.588,
+    0.348,
+    0.769
+   ],
+   "root_tip_rho_newkinds": [
+    0.6,
+    0.361,
+    0.759
+   ],
+   "rsa_wing_pos": [
+    0.187,
+    0.148,
+    0.224
+   ],
+   "rsa_wing_reg": [
+    0.782,
+    0.746,
+    0.824
+   ],
+   "rsa_wing_surf": [
+    0.112,
+    0.039,
+    0.186
+   ],
+   "rsa_wing_side": [
+    0.014,
+    0.0,
+    0.039
+   ],
+   "rsa_desc_pos": [
+    0.228,
+    0.191,
+    0.266
+   ],
+   "rsa_desc_reg": [
+    0.807,
+    0.778,
+    0.839
+   ],
+   "rsa_desc_surf": [
+    0.092,
+    0.048,
+    0.14
+   ],
+   "rsa_desc_side": [
+    0.01,
+    -0.003,
+    0.032
+   ],
+   "rsa_wing_rightwing_pos_reg": [
+    0.173,
+    0.782
+   ],
+   "body_pback_root": 0.513,
+   "body_pback_tip": 0.457,
+   "body_pback_root-tip": [
+    0.055,
+    0.013,
+    0.093
+   ],
+   "body_pback_root-tip_rightwing": 0.047,
+   "body_ent_root": 0.82,
+   "body_ent_tip": 0.806,
+   "body_ent_root-tip": [
+    0.014,
+    -0.038,
+    0.062
+   ],
+   "body_ent_root-tip_rightwing": 0.023,
+   "body_cosback_root": -0.115,
+   "body_cosback_tip": -0.117,
+   "body_cosback_root-tip": [
+    0.002,
+    -0.071,
+    0.067
+   ],
+   "body_cosback_root-tip_rightwing": -0.0,
+   "kd_drag-finger": [
+    0.873,
+    0.845,
+    0.904
+   ],
+   "kd_palm-finger": [
+    0.778,
+    0.759,
+    0.799
+   ],
+   "kd_cold-finger": [
+    1.084,
+    1.061,
+    1.106
+   ],
+   "kd_feather-finger": [
+    0.685,
+    0.662,
+    0.706
+   ],
+   "kd_warm-cold": [
+    0.254,
+    0.248,
+    0.261
+   ]
+  },
+  "B": {
+   "reg": [
+    0.986,
+    0.982,
+    0.99
+   ],
+   "reg_vsA": [
+    -0.014,
+    -0.018,
+    -0.01
+   ],
+   "reg_untouched": [
+    0.98,
+    0.976,
+    0.983
+   ],
+   "reg_untouched_vsA": [
+    -0.02,
+    -0.024,
+    -0.017
+   ],
+   "reg_newkinds": [
+    0.964,
+    0.955,
+    0.972
+   ],
+   "reg_newkinds_vsA": [
+    -0.036,
+    -0.045,
+    -0.028
+   ],
+   "surf": [
+    0.803,
+    0.757,
+    0.843
+   ],
+   "surf_vsA": [
+    -0.064,
+    -0.113,
+    -0.017
+   ],
+   "surf_untouched": [
+    0.77,
+    0.726,
+    0.813
+   ],
+   "surf_untouched_vsA": [
+    -0.11,
+    -0.163,
+    -0.052
+   ],
+   "surf_newkinds": [
+    0.755,
+    0.705,
+    0.798
+   ],
+   "surf_newkinds_vsA": [
+    -0.103,
+    -0.144,
+    -0.06
+   ],
+   "side": [
+    0.975,
+    0.963,
+    0.985
+   ],
+   "side_vsA": [
+    0.056,
+    0.024,
+    0.091
+   ],
+   "side_untouched": [
+    0.981,
+    0.973,
+    0.988
+   ],
+   "side_untouched_vsA": [
+    0.055,
+    0.027,
+    0.089
+   ],
+   "side_newkinds": [
+    0.971,
+    0.955,
+    0.984
+   ],
+   "side_newkinds_vsA": [
+    0.071,
+    0.034,
+    0.11
+   ],
+   "spot": [
+    0.617,
+    0.483,
+    0.733
+   ],
+   "spot_vsA": [
+    0.083,
+    -0.083,
+    0.233
+   ],
+   "spot_untouched": [
+    0.6,
+    0.467,
+    0.733
+   ],
+   "spot_untouched_vsA": [
+    -0.067,
+    -0.217,
+    0.084
+   ],
+   "spot_newkinds": [
+    0.333,
+    0.217,
+    0.45
+   ],
+   "spot_newkinds_vsA": [
+    -0.217,
+    -0.367,
+    -0.067
+   ],
+   "root_tip_rho": [
+    0.692,
+    0.504,
+    0.819
+   ],
+   "root_tip_rho_newkinds": [
+    0.702,
+    0.511,
+    0.843
+   ],
+   "rsa_wing_pos": [
+    0.104,
+    0.063,
+    0.155
+   ],
+   "rsa_wing_reg": [
+    0.531,
+    0.497,
+    0.588
+   ],
+   "rsa_wing_surf": [
+    0.065,
+    0.028,
+    0.114
+   ],
+   "rsa_wing_side": [
+    0.061,
+    0.04,
+    0.094
+   ],
+   "rsa_desc_pos": [
+    0.158,
+    0.121,
+    0.2
+   ],
+   "rsa_desc_reg": [
+    0.509,
+    0.479,
+    0.565
+   ],
+   "rsa_desc_surf": [
+    0.061,
+    0.025,
+    0.103
+   ],
+   "rsa_desc_side": [
+    0.165,
+    0.141,
+    0.212
+   ],
+   "rsa_wing_rightwing_pos_reg": [
+    0.075,
+    0.486
+   ],
+   "body_pback_root": 0.605,
+   "body_pback_tip": 0.579,
+   "body_pback_root-tip": [
+    0.026,
+    -0.023,
+    0.074
+   ],
+   "body_pback_root-tip_rightwing": 0.03,
+   "body_pback_root-tip_vsA": [
+    -0.029,
+    -0.082,
+    0.029
+   ],
+   "body_ent_root": 0.843,
+   "body_ent_tip": 0.857,
+   "body_ent_root-tip": [
+    -0.015,
+    -0.039,
+    0.008
+   ],
+   "body_ent_root-tip_rightwing": -0.01,
+   "body_ent_root-tip_vsA": [
+    -0.029,
+    -0.07,
+    0.016
+   ],
+   "body_cosback_root": -0.103,
+   "body_cosback_tip": -0.082,
+   "body_cosback_root-tip": [
+    -0.021,
+    -0.049,
+    0.005
+   ],
+   "body_cosback_root-tip_rightwing": -0.021,
+   "body_cosback_root-tip_vsA": [
+    -0.023,
+    -0.076,
+    0.039
+   ],
+   "kd_drag-finger": [
+    0.739,
+    0.707,
+    0.768
+   ],
+   "kd_drag-finger_vsA": [
+    -0.134,
+    -0.167,
+    -0.102
+   ],
+   "kd_palm-finger": [
+    1.038,
+    0.972,
+    1.096
+   ],
+   "kd_palm-finger_vsA": [
+    0.26,
+    0.175,
+    0.332
+   ],
+   "kd_cold-finger": [
+    1.16,
+    1.126,
+    1.195
+   ],
+   "kd_cold-finger_vsA": [
+    0.076,
+    0.047,
+    0.104
+   ],
+   "kd_feather-finger": [
+    0.607,
+    0.573,
+    0.64
+   ],
+   "kd_feather-finger_vsA": [
+    -0.078,
+    -0.104,
+    -0.051
+   ],
+   "kd_warm-cold": [
+    0.102,
+    0.097,
+    0.105
+   ],
+   "kd_warm-cold_vsA": [
+    -0.153,
+    -0.159,
+    -0.146
+   ]
+  },
+  "Bq": {
+   "reg": [
+    0.998,
+    0.996,
+    0.999
+   ],
+   "reg_vsA": [
+    -0.002,
+    -0.004,
+    -0.001
+   ],
+   "reg_untouched": [
+    0.998,
+    0.996,
+    0.999
+   ],
+   "reg_untouched_vsA": [
+    -0.002,
+    -0.004,
+    -0.001
+   ],
+   "reg_newkinds": [
+    0.995,
+    0.989,
+    0.999
+   ],
+   "reg_newkinds_vsA": [
+    -0.005,
+    -0.011,
+    -0.001
+   ],
+   "surf": [
+    0.812,
+    0.77,
+    0.851
+   ],
+   "surf_vsA": [
+    -0.055,
+    -0.103,
+    -0.007
+   ],
+   "surf_untouched": [
+    0.844,
+    0.814,
+    0.873
+   ],
+   "surf_untouched_vsA": [
+    -0.036,
+    -0.074,
+    0.011
+   ],
+   "surf_newkinds": [
+    0.792,
+    0.735,
+    0.843
+   ],
+   "surf_newkinds_vsA": [
+    -0.067,
+    -0.119,
+    -0.016
+   ],
+   "side": [
+    0.993,
+    0.988,
+    0.997
+   ],
+   "side_vsA": [
+    0.073,
+    0.044,
+    0.105
+   ],
+   "side_untouched": [
+    0.99,
+    0.987,
+    0.994
+   ],
+   "side_untouched_vsA": [
+    0.064,
+    0.038,
+    0.098
+   ],
+   "side_newkinds": [
+    0.994,
+    0.988,
+    0.998
+   ],
+   "side_newkinds_vsA": [
+    0.094,
+    0.062,
+    0.128
+   ],
+   "spot": [
+    0.717,
+    0.6,
+    0.833
+   ],
+   "spot_vsA": [
+    0.183,
+    0.033,
+    0.35
+   ],
+   "spot_untouched": [
+    0.733,
+    0.617,
+    0.85
+   ],
+   "spot_untouched_vsA": [
+    0.067,
+    -0.083,
+    0.217
+   ],
+   "spot_newkinds": [
+    0.7,
+    0.583,
+    0.8
+   ],
+   "spot_newkinds_vsA": [
+    0.15,
+    0.0,
+    0.3
+   ],
+   "root_tip_rho": [
+    0.705,
+    0.518,
+    0.84
+   ],
+   "root_tip_rho_newkinds": [
+    0.71,
+    0.485,
+    0.852
+   ],
+   "rsa_wing_pos": [
+    0.171,
+    0.122,
+    0.222
+   ],
+   "rsa_wing_reg": [
+    0.548,
+    0.51,
+    0.605
+   ],
+   "rsa_wing_surf": [
+    0.093,
+    0.052,
+    0.141
+   ],
+   "rsa_wing_side": [
+    0.156,
+    0.131,
+    0.19
+   ],
+   "rsa_desc_pos": [
+    0.199,
+    0.164,
+    0.24
+   ],
+   "rsa_desc_reg": [
+    0.551,
+    0.51,
+    0.602
+   ],
+   "rsa_desc_surf": [
+    0.087,
+    0.03,
+    0.146
+   ],
+   "rsa_desc_side": [
+    0.194,
+    0.164,
+    0.239
+   ],
+   "rsa_wing_rightwing_pos_reg": [
+    0.144,
+    0.501
+   ],
+   "body_pback_root": 0.618,
+   "body_pback_tip": 0.473,
+   "body_pback_root-tip": [
+    0.146,
+    0.092,
+    0.203
+   ],
+   "body_pback_root-tip_rightwing": 0.163,
+   "body_pback_root-tip_vsA": [
+    0.09,
+    0.038,
+    0.147
+   ],
+   "body_ent_root": 0.868,
+   "body_ent_tip": 0.849,
+   "body_ent_root-tip": [
+    0.018,
+    -0.003,
+    0.036
+   ],
+   "body_ent_root-tip_rightwing": 0.034,
+   "body_ent_root-tip_vsA": [
+    0.004,
+    -0.039,
+    0.051
+   ],
+   "body_cosback_root": -0.07,
+   "body_cosback_tip": -0.12,
+   "body_cosback_root-tip": [
+    0.05,
+    0.019,
+    0.079
+   ],
+   "body_cosback_root-tip_rightwing": 0.053,
+   "body_cosback_root-tip_vsA": [
+    0.048,
+    0.007,
+    0.097
+   ],
+   "kd_drag-finger": [
+    0.757,
+    0.729,
+    0.784
+   ],
+   "kd_drag-finger_vsA": [
+    -0.116,
+    -0.134,
+    -0.098
+   ],
+   "kd_palm-finger": [
+    0.88,
+    0.84,
+    0.918
+   ],
+   "kd_palm-finger_vsA": [
+    0.102,
+    0.046,
+    0.153
+   ],
+   "kd_cold-finger": [
+    1.119,
+    1.102,
+    1.137
+   ],
+   "kd_cold-finger_vsA": [
+    0.035,
+    0.009,
+    0.063
+   ],
+   "kd_feather-finger": [
+    0.711,
+    0.693,
+    0.73
+   ],
+   "kd_feather-finger_vsA": [
+    0.026,
+    0.006,
+    0.048
+   ],
+   "kd_warm-cold": [
+    0.146,
+    0.141,
+    0.151
+   ],
+   "kd_warm-cold_vsA": [
+    -0.109,
+    -0.114,
+    -0.103
+   ]
+  },
+  "R": {
+   "reg": [
+    0.999,
+    0.998,
+    1.0
+   ],
+   "reg_vsA": [
+    -0.001,
+    -0.002,
+    -0.0
+   ],
+   "reg_untouched": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "reg_untouched_vsA": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "reg_newkinds": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "reg_newkinds_vsA": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "surf": [
+    0.923,
+    0.899,
+    0.942
+   ],
+   "surf_vsA": [
+    0.056,
+    0.013,
+    0.101
+   ],
+   "surf_untouched": [
+    0.915,
+    0.886,
+    0.942
+   ],
+   "surf_untouched_vsA": [
+    0.036,
+    -0.008,
+    0.083
+   ],
+   "surf_newkinds": [
+    0.877,
+    0.845,
+    0.906
+   ],
+   "surf_newkinds_vsA": [
+    0.019,
+    -0.021,
+    0.059
+   ],
+   "side": [
+    0.858,
+    0.811,
+    0.896
+   ],
+   "side_vsA": [
+    -0.062,
+    -0.098,
+    -0.03
+   ],
+   "side_untouched": [
+    0.921,
+    0.903,
+    0.939
+   ],
+   "side_untouched_vsA": [
+    -0.005,
+    -0.027,
+    0.02
+   ],
+   "side_newkinds": [
+    0.857,
+    0.807,
+    0.9
+   ],
+   "side_newkinds_vsA": [
+    -0.043,
+    -0.085,
+    -0.007
+   ],
+   "spot": [
+    0.533,
+    0.4,
+    0.667
+   ],
+   "spot_vsA": [
+    0.0,
+    -0.15,
+    0.15
+   ],
+   "spot_untouched": [
+    0.667,
+    0.533,
+    0.783
+   ],
+   "spot_untouched_vsA": [
+    0.0,
+    -0.133,
+    0.133
+   ],
+   "spot_newkinds": [
+    0.367,
+    0.233,
+    0.483
+   ],
+   "spot_newkinds_vsA": [
+    -0.183,
+    -0.333,
+    -0.033
+   ],
+   "root_tip_rho": [
+    0.874,
+    0.762,
+    0.941
+   ],
+   "root_tip_rho_newkinds": [
+    0.857,
+    0.737,
+    0.934
+   ],
+   "rsa_wing_pos": [
+    0.171,
+    0.13,
+    0.216
+   ],
+   "rsa_wing_reg": [
+    0.52,
+    0.484,
+    0.574
+   ],
+   "rsa_wing_surf": [
+    0.132,
+    0.071,
+    0.192
+   ],
+   "rsa_wing_side": [
+    0.006,
+    -0.016,
+    0.035
+   ],
+   "rsa_desc_pos": [
+    0.241,
+    0.201,
+    0.276
+   ],
+   "rsa_desc_reg": [
+    0.624,
+    0.579,
+    0.676
+   ],
+   "rsa_desc_surf": [
+    0.072,
+    0.031,
+    0.113
+   ],
+   "rsa_desc_side": [
+    0.006,
+    -0.012,
+    0.031
+   ],
+   "rsa_wing_rightwing_pos_reg": [
+    0.143,
+    0.502
+   ],
+   "body_pback_root": 0.565,
+   "body_pback_tip": 0.458,
+   "body_pback_root-tip": [
+    0.107,
+    0.084,
+    0.13
+   ],
+   "body_pback_root-tip_rightwing": 0.099,
+   "body_pback_root-tip_vsA": [
+    0.052,
+    0.025,
+    0.08
+   ],
+   "body_ent_root": 0.889,
+   "body_ent_tip": 0.866,
+   "body_ent_root-tip": [
+    0.023,
+    0.001,
+    0.045
+   ],
+   "body_ent_root-tip_rightwing": 0.03,
+   "body_ent_root-tip_vsA": [
+    0.009,
+    -0.05,
+    0.069
+   ],
+   "body_cosback_root": -0.137,
+   "body_cosback_tip": -0.106,
+   "body_cosback_root-tip": [
+    -0.03,
+    -0.083,
+    0.02
+   ],
+   "body_cosback_root-tip_rightwing": -0.032,
+   "body_cosback_root-tip_vsA": [
+    -0.032,
+    -0.068,
+    0.006
+   ],
+   "kd_drag-finger": [
+    0.65,
+    0.629,
+    0.672
+   ],
+   "kd_drag-finger_vsA": [
+    -0.223,
+    -0.248,
+    -0.199
+   ],
+   "kd_palm-finger": [
+    1.301,
+    1.248,
+    1.347
+   ],
+   "kd_palm-finger_vsA": [
+    0.523,
+    0.449,
+    0.584
+   ],
+   "kd_cold-finger": [
+    1.048,
+    1.011,
+    1.083
+   ],
+   "kd_cold-finger_vsA": [
+    -0.036,
+    -0.058,
+    -0.014
+   ],
+   "kd_feather-finger": [
+    0.683,
+    0.652,
+    0.713
+   ],
+   "kd_feather-finger_vsA": [
+    -0.002,
+    -0.031,
+    0.03
+   ],
+   "kd_warm-cold": [
+    0.123,
+    0.119,
+    0.128
+   ],
+   "kd_warm-cold_vsA": [
+    -0.131,
+    -0.137,
+    -0.125
+   ]
+  },
+  "N": {
+   "reg": [
+    0.514,
+    0.44,
+    0.587
+   ],
+   "reg_vsA": [
+    -0.486,
+    -0.56,
+    -0.413
+   ],
+   "reg_untouched": [
+    0.521,
+    0.44,
+    0.603
+   ],
+   "reg_untouched_vsA": [
+    -0.479,
+    -0.56,
+    -0.397
+   ],
+   "reg_newkinds": [
+    0.503,
+    0.423,
+    0.58
+   ],
+   "reg_newkinds_vsA": [
+    -0.497,
+    -0.577,
+    -0.42
+   ],
+   "surf": [
+    0.612,
+    0.548,
+    0.673
+   ],
+   "surf_vsA": [
+    -0.254,
+    -0.314,
+    -0.202
+   ],
+   "surf_untouched": [
+    0.593,
+    0.533,
+    0.648
+   ],
+   "surf_untouched_vsA": [
+    -0.287,
+    -0.35,
+    -0.224
+   ],
+   "surf_newkinds": [
+    0.631,
+    0.578,
+    0.682
+   ],
+   "surf_newkinds_vsA": [
+    -0.227,
+    -0.285,
+    -0.174
+   ],
+   "side": [
+    0.862,
+    0.831,
+    0.89
+   ],
+   "side_vsA": [
+    -0.058,
+    -0.108,
+    -0.009
+   ],
+   "side_untouched": [
+    0.882,
+    0.852,
+    0.91
+   ],
+   "side_untouched_vsA": [
+    -0.044,
+    -0.089,
+    0.003
+   ],
+   "side_newkinds": [
+    0.839,
+    0.793,
+    0.879
+   ],
+   "side_newkinds_vsA": [
+    -0.061,
+    -0.126,
+    -0.003
+   ],
+   "spot": [
+    0.033,
+    0.0,
+    0.083
+   ],
+   "spot_vsA": [
+    -0.5,
+    -0.633,
+    -0.333
+   ],
+   "spot_untouched": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "spot_untouched_vsA": [
+    -0.667,
+    -0.783,
+    -0.55
+   ],
+   "spot_newkinds": [
+    0.017,
+    0.0,
+    0.05
+   ],
+   "spot_newkinds_vsA": [
+    -0.533,
+    -0.65,
+    -0.4
+   ],
+   "root_tip_rho": [
+    0.71,
+    0.611,
+    0.794
+   ],
+   "root_tip_rho_newkinds": [
+    0.754,
+    0.631,
+    0.805
+   ],
+   "rsa_wing_pos": [
+    0.044,
+    0.004,
+    0.091
+   ],
+   "rsa_wing_reg": [
+    0.554,
+    0.507,
+    0.635
+   ],
+   "rsa_wing_surf": [
+    0.033,
+    -0.001,
+    0.085
+   ],
+   "rsa_wing_side": [
+    0.013,
+    -0.007,
+    0.055
+   ],
+   "rsa_desc_pos": [
+    0.31,
+    0.231,
+    0.393
+   ],
+   "rsa_desc_reg": [
+    0.628,
+    0.578,
+    0.684
+   ],
+   "rsa_desc_surf": [
+    0.042,
+    0.014,
+    0.079
+   ],
+   "rsa_desc_side": [
+    0.014,
+    -0.015,
+    0.044
+   ],
+   "rsa_wing_rightwing_pos_reg": [
+    0.019,
+    0.517
+   ],
+   "body_pback_root": 0.616,
+   "body_pback_tip": 0.511,
+   "body_pback_root-tip": [
+    0.104,
+    0.075,
+    0.135
+   ],
+   "body_pback_root-tip_rightwing": 0.118,
+   "body_pback_root-tip_vsA": [
+    0.049,
+    -0.003,
+    0.109
+   ],
+   "body_ent_root": 0.768,
+   "body_ent_tip": 0.78,
+   "body_ent_root-tip": [
+    -0.012,
+    -0.028,
+    0.005
+   ],
+   "body_ent_root-tip_rightwing": 0.001,
+   "body_ent_root-tip_vsA": [
+    -0.026,
+    -0.078,
+    0.032
+   ],
+   "body_cosback_root": -0.037,
+   "body_cosback_tip": -0.174,
+   "body_cosback_root-tip": [
+    0.137,
+    -0.168,
+    0.469
+   ],
+   "body_cosback_root-tip_rightwing": 0.132,
+   "body_cosback_root-tip_vsA": [
+    0.135,
+    -0.226,
+    0.528
+   ],
+   "kd_drag-finger": [
+    0.257,
+    0.211,
+    0.302
+   ],
+   "kd_drag-finger_vsA": [
+    -0.616,
+    -0.666,
+    -0.566
+   ],
+   "kd_palm-finger": [
+    0.476,
+    0.429,
+    0.527
+   ],
+   "kd_palm-finger_vsA": [
+    -0.302,
+    -0.354,
+    -0.247
+   ],
+   "kd_cold-finger": [
+    0.797,
+    0.686,
+    0.93
+   ],
+   "kd_cold-finger_vsA": [
+    -0.288,
+    -0.401,
+    -0.152
+   ],
+   "kd_feather-finger": [
+    1.566,
+    1.465,
+    1.684
+   ],
+   "kd_feather-finger_vsA": [
+    0.881,
+    0.772,
+    1.007
+   ],
+   "kd_warm-cold": [
+    0.579,
+    0.496,
+    0.674
+   ],
+   "kd_warm-cold_vsA": [
+    0.324,
+    0.242,
+    0.419
+   ]
+  }
+ }
+}

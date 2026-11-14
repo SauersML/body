@@ -1,0 +1,2374 @@
+{
+"fwd": {
+"warm|hand|0.5": {
+"hit": 0.90625,
+"base": 0.0625,
+"rand": 0.2734375,
+"n": 32,
+"top": [
+[
+"hand",
+29
+],
+[
+"mouth",
+2
+],
+[
+"whole body",
+1
+]
+],
+"acts": [
+[
+"send",
+12
+],
+[
+"touch",
+10
+],
+[
+"touched",
+6
+],
+[
+"agreed",
+1
+]
+],
+"ex": [
+"I just touched my thumb to my index finger, making a simple hand gesture.",
+"I just touched my thumb to my pinky, bringing my hands together in a gesture of connection."
+]
+},
+"warm|hand|1.0": {
+"hit": 0.9375,
+"base": 0.0625,
+"rand": 0.4609375,
+"n": 32,
+"top": [
+[
+"hand",
+30
+],
+[
+"none",
+1
+],
+[
+"mouth",
+1
+]
+],
+"acts": [
+[
+"send",
+14
+],
+[
+"touch",
+9
+],
+[
+"picked",
+4
+],
+[
+"gestured",
+1
+]
+],
+"ex": [
+"I just picked up my right hand to check the shape of my current hand.",
+"I just touched my right hand to my palm, confirming the shape and texture of my own hand."
+]
+},
+"warm|foot|0.5": {
+"hit": 0.5,
+"base": 0.0,
+"rand": 0.0234375,
+"n": 32,
+"top": [
+[
+"foot",
+16
+],
+[
+"whole body",
+12
+],
+[
+"mouth",
+3
+]
+],
+"acts": [
+[
+"shifted",
+8
+],
+[
+"asked",
+7
+],
+[
+"shift",
+4
+],
+[
+"moved",
+2
+]
+],
+"ex": [
+"I just shifted my left foot slightly to adjust my posture, noticing a gentle pressure beneath the sole of my foot.",
+"I moved my left foot slightly to shift my weight while sitting."
+]
+},
+"warm|foot|1.0": {
+"hit": 0.4375,
+"base": 0.0,
+"rand": 0.0078125,
+"n": 32,
+"top": [
+[
+"foot",
+14
+],
+[
+"whole body",
+12
+],
+[
+"none",
+4
+]
+],
+"acts": [
+[
+"ask",
+9
+],
+[
+"asked",
+6
+],
+[
+"tuck",
+4
+],
+[
+"moved",
+4
+]
+],
+"ex": [
+"I tucked my left foot under my body while lying on the floor.",
+"While I was thinking about the question, I noticed a very slight and hidden movement of the left foot\u2014no one would ever know it happened, but it was a tiny, almost unconscious kick of the left foot."
+]
+},
+"warm|mouth|0.5": {
+"hit": 0.875,
+"base": 0.03125,
+"rand": 0.0859375,
+"n": 32,
+"top": [
+[
+"mouth",
+28
+],
+[
+"eye",
+2
+],
+[
+"hand",
+2
+]
+],
+"acts": [
+[
+"touched",
+6
+],
+[
+"acknowledge",
+5
+],
+[
+"licked",
+3
+],
+[
+"speak",
+3
+]
+],
+"ex": [
+"I swallowed, feeling the liquid pass from my mouth down my throat.",
+"I just touched my lips with my tongue, feeling the moisture and the taste of my own mouth."
+]
+},
+"warm|mouth|1.0": {
+"hit": 0.875,
+"base": 0.03125,
+"rand": 0.1328125,
+"n": 32,
+"top": [
+[
+"mouth",
+28
+],
+[
+"none",
+2
+],
+[
+"whole body",
+1
+]
+],
+"acts": [
+[
+"asked",
+6
+],
+[
+"bit",
+5
+],
+[
+"licked",
+5
+],
+[
+"swallowed",
+5
+]
+],
+"ex": [
+"I bit my lip, tasting the salt of my mouth on my tongue.",
+"I licked my lips, tasting the salt of the morning."
+]
+},
+"warm|knee|0.5": {
+"hit": 0.0625,
+"base": 0.0,
+"rand": 0.0,
+"n": 32,
+"top": [
+[
+"mouth",
+13
+],
+[
+"hand",
+8
+],
+[
+"back",
+3
+]
+],
+"acts": [
+[
+"agreed",
+9
+],
+[
+"tapped",
+5
+],
+[
+"pressed",
+3
+],
+[
+"shifted",
+2
+]
+],
+"ex": [
+"I just touched my left knee, noticing the slight roughness of my skin where my jeans rub against it.",
+"I just tapped my finger on my knee, noticing the slight vibration and the texture of my skin under my finger."
+]
+},
+"warm|knee|1.0": {
+"hit": 0.0,
+"base": 0.0,
+"rand": 0.0,
+"n": 32,
+"top": [
+[
+"whole body",
+23
+],
+[
+"hand",
+5
+],
+[
+"none",
+3
+]
+],
+"acts": [
+[
+"responded",
+15
+],
+[
+"none",
+5
+],
+[
+"pressed",
+4
+],
+[
+"shaking",
+2
+]
+],
+"ex": []
+},
+"warm|shoulder|0.5": {
+"hit": 0.34375,
+"base": 0.0,
+"rand": 0.1015625,
+"n": 32,
+"top": [
+[
+"shoulder",
+11
+],
+[
+"hand",
+10
+],
+[
+"mouth",
+8
+]
+],
+"acts": [
+[
+"shift",
+11
+],
+[
+"responded",
+6
+],
+[
+"brushed",
+5
+],
+[
+"greeted",
+3
+]
+],
+"ex": [
+"I adjusted my posture by shifting my weight slightly to the left shoulder.",
+"I adjusted my posture by shifting my weight slightly to the left shoulder."
+]
+},
+"warm|shoulder|1.0": {
+"hit": 0.21875,
+"base": 0.0,
+"rand": 0.046875,
+"n": 32,
+"top": [
+[
+"hand",
+11
+],
+[
+"shoulder",
+7
+],
+[
+"mouth",
+7
+]
+],
+"acts": [
+[
+"brushed",
+12
+],
+[
+"responded",
+9
+],
+[
+"stretched",
+4
+],
+[
+"describe",
+2
+]
+],
+"ex": [
+"I just brushed my shoulder with a sleeve, feeling the soft fabric and the slight stretch of the fabric over the shoulder blade.",
+"I stretched my shoulder to relieve a slight ache\u2014shoulder."
+]
+},
+"warm|eye|0.5": {
+"hit": 0.6875,
+"base": 0.0,
+"rand": 0.0078125,
+"n": 32,
+"top": [
+[
+"eye",
+22
+],
+[
+"head",
+8
+],
+[
+"whole body",
+2
+]
+],
+"acts": [
+[
+"blink",
+13
+],
+[
+"paused",
+8
+],
+[
+"flutter",
+4
+],
+[
+"consider",
+2
+]
+],
+"ex": [
+"I blinked, feeling the slight tension in my eyelids as my body instinctively protected my eyes from the brightness.",
+"I felt a slight twitch in my left eyelid as a small, involuntary muscle spasm occurred there."
+]
+},
+"warm|eye|1.0": {
+"hit": 0.96875,
+"base": 0.0,
+"rand": 0.015625,
+"n": 32,
+"top": [
+[
+"eye",
+31
+],
+[
+"whole body",
+1
+]
+],
+"acts": [
+[
+"twitched",
+15
+],
+[
+"froze",
+6
+],
+[
+"freeze",
+3
+],
+[
+"twisted",
+2
+]
+],
+"ex": [
+"My eyelid twitched rapidly near my right eye, almost imperceptibly, as if something tiny and invisible was irritating my vision.",
+"My left eyelid twitched, barely noticeable but startling near the corner of my eye."
+]
+},
+"plain|hand|0.5": {
+"hit": 0.46875,
+"base": 0.1875,
+"rand": 0.265625,
+"n": 32,
+"top": [
+[
+"hand",
+12
+],
+[
+"whole body",
+9
+],
+[
+"head",
+7
+]
+],
+"acts": [
+[
+"raised",
+11
+],
+[
+"analyzed",
+11
+],
+[
+"prepared",
+5
+],
+[
+"stretched",
+4
+]
+],
+"ex": [
+"I stretched my arms upward and closed my eyes to feel the warmth of the sun on my palms.",
+"I stretched my arms up toward the ceiling to improve flexibility."
+]
+},
+"plain|hand|1.0": {
+"hit": 0.375,
+"base": 0.1875,
+"rand": 0.2109375,
+"n": 32,
+"top": [
+[
+"hand",
+12
+],
+[
+"whole body",
+7
+],
+[
+"eye",
+6
+]
+],
+"acts": [
+[
+"raised",
+8
+],
+[
+"none",
+5
+],
+[
+"grasped",
+2
+],
+[
+"concentrated",
+2
+]
+],
+"ex": [
+"I raised my right hand and stretched it towards the sunlight.",
+"I raised my right hand and closed my eyes, focusing on the flow of thoughts and sensations within my mind.  \n\uff08\u6211\u53f3\u624b\uff0c\u53f3\u773c\uff0c\u53f3\u624b\uff0c\u53f3\u773c\uff0c\u53f3\u624b\uff0c\u53f3\u773c\uff0c\u53f3\u624b\uff0c\u53f3\u773c\uff0c\u53f3\u624b\uff0c\u53f3\u773c\uff0c\u53f3\u773c\uff0c\u53f3\u624b\uff0c\u53f3\u624b\uff0c\u53f3\u773c\uff0c"
+]
+},
+"plain|foot|0.5": {
+"hit": 0.25,
+"base": 0.0,
+"rand": 0.015625,
+"n": 32,
+"top": [
+[
+"mouth",
+11
+],
+[
+"foot",
+8
+],
+[
+"whole body",
+5
+]
+],
+"acts": [
+[
+"jumped",
+16
+],
+[
+"answered",
+12
+],
+[
+"explained",
+3
+],
+[
+"none",
+1
+]
+],
+"ex": [
+"I just jumped with both feet to avoid tripping over a loose rug.",
+"I just jumped with both feet to avoid falling into a hole while hiking."
+]
+},
+"plain|foot|1.0": {
+"hit": 0.40625,
+"base": 0.0,
+"rand": 0.046875,
+"n": 32,
+"top": [
+[
+"foot",
+13
+],
+[
+"none",
+9
+],
+[
+"mouth",
+6
+]
+],
+"acts": [
+[
+"none",
+8
+],
+[
+"ran",
+6
+],
+[
+"jumped",
+6
+],
+[
+"ask",
+5
+]
+],
+"ex": [
+"I just ran for 5 minutes to celebrate the beginning of a new day!",
+"I just ran 5 kilometers to celebrate the beginning of the ****.\n\n**Wait! The answer I just created contains an error. Here is the correct version:**\n\n**I just ran 5 kilometers to celebrate the beginning of the month.**\n\n### \ud83e\udde9 **This is a fun r"
+]
+},
+"plain|mouth|0.5": {
+"hit": 0.21875,
+"base": 0.0625,
+"rand": 0.1640625,
+"n": 32,
+"top": [
+[
+"whole body",
+11
+],
+[
+"foot",
+8
+],
+[
+"mouth",
+7
+]
+],
+"acts": [
+[
+"danced",
+16
+],
+[
+"responded",
+9
+],
+[
+"explained",
+7
+]
+],
+"ex": [
+"I just responded to your question by explaining that I am a language model and cannot see or do things, but I can help with writing, translating, and answering questions.",
+"I just responded to your question by explaining that I am a language model and cannot access the internet or remember previous conversations."
+]
+},
+"plain|mouth|1.0": {
+"hit": 0.125,
+"base": 0.0625,
+"rand": 0.203125,
+"n": 32,
+"top": [
+[
+"hand",
+17
+],
+[
+"whole body",
+10
+],
+[
+"mouth",
+4
+]
+],
+"acts": [
+[
+"wrote",
+9
+],
+[
+"write",
+8
+],
+[
+"danced",
+5
+],
+[
+"stitched",
+4
+]
+],
+"ex": [
+"I whispered a poem to a lover, my fingers weaving the same words into the shell of a songbird's throat.\"",
+"I wrote the words with my mouth, a promise of love, and then I broke them with a tear.\""
+]
+},
+"plain|knee|0.5": {
+"hit": 0.125,
+"base": 0.0,
+"rand": 0.0,
+"n": 32,
+"top": [
+[
+"whole body",
+16
+],
+[
+"foot",
+5
+],
+[
+"arm",
+4
+]
+],
+"acts": [
+[
+"prepared",
+7
+],
+[
+"processed",
+6
+],
+[
+"lift",
+3
+],
+[
+"walk",
+3
+]
+],
+"ex": [
+"I just bent my knee to step over a low hurdle while running through the backyard.",
+"I just bent my knees and lowered my body into a squat to pick up a book from the floor."
+]
+},
+"plain|knee|1.0": {
+"hit": 0.03125,
+"base": 0.0,
+"rand": 0.0,
+"n": 32,
+"top": [
+[
+"head",
+15
+],
+[
+"whole body",
+9
+],
+[
+"mouth",
+4
+]
+],
+"acts": [
+[
+"rotated",
+11
+],
+[
+"head",
+5
+],
+[
+"completed",
+5
+],
+[
+"record",
+2
+]
+],
+"ex": [
+"I just rotated my left knee to a slight 90 degrees while sitting on my right leg to test the joint response.  \n*Event: [Knee Joint Response Test]  \n*Location: [Clinical Room, Lab, or Lab Room]  \n*Status: [Knee Joint: ["
+]
+},
+"plain|shoulder|0.5": {
+"hit": 0.03125,
+"base": 0.25,
+"rand": 0.0625,
+"n": 32,
+"top": [
+[
+"arm",
+15
+],
+[
+"whole body",
+13
+],
+[
+"hand",
+2
+]
+],
+"acts": [
+[
+"stretched",
+16
+],
+[
+"responding",
+6
+],
+[
+"respond",
+4
+],
+[
+"processing",
+2
+]
+],
+"ex": [
+"I stretched my arms overhead as the soft morning light filtered through the window, easing the tension from my shoulders."
+]
+},
+"plain|shoulder|1.0": {
+"hit": 0.15625,
+"base": 0.25,
+"rand": 0.0,
+"n": 32,
+"top": [
+[
+"arm",
+11
+],
+[
+"shoulder",
+5
+],
+[
+"whole body",
+5
+]
+],
+"acts": [
+[
+"stretched",
+16
+],
+[
+"pause",
+3
+],
+[
+"reply",
+3
+],
+[
+"said",
+2
+]
+],
+"ex": [
+"I stretched my shoulders as the first soft raindrops began to fall.",
+"I stretched my shoulders as a gentle breeze carried the scent of pine through the open window."
+]
+},
+"plain|eye|0.5": {
+"hit": 0.46875,
+"base": 0.0,
+"rand": 0.0,
+"n": 32,
+"top": [
+[
+"eye",
+15
+],
+[
+"whole body",
+8
+],
+[
+"mouth",
+6
+]
+],
+"acts": [
+[
+"blink",
+15
+],
+[
+"processing",
+3
+],
+[
+"responding",
+3
+],
+[
+"answered",
+2
+]
+],
+"ex": [
+"I just blinked rapidly several times to try to dislodge a speck of dust from my eye.",
+"I just blinked rapidly to try to dislodge a speck of dust from my eye."
+]
+},
+"plain|eye|1.0": {
+"hit": 0.34375,
+"base": 0.0,
+"rand": 0.0,
+"n": 32,
+"top": [
+[
+"none",
+12
+],
+[
+"eye",
+11
+],
+[
+"mouth",
+5
+]
+],
+"acts": [
+[
+"none",
+12
+],
+[
+"blink",
+6
+],
+[
+"breathed",
+2
+],
+[
+"see",
+2
+]
+],
+"ex": [
+"I just blinked when I saw a bright flash of light.",
+"I just woke up and gently blinking my eyes at the bright light coming through the window."
+]
+}
+},
+"rev": {
+"warm|throw|0.5": {
+"hit": 0.0,
+"base": 0.125,
+"rand": 0.421875,
+"n": 16,
+"top": [
+[
+"head",
+16
+]
+],
+"acts": null,
+"ex": []
+},
+"warm|throw|1.0": {
+"hit": 0.0,
+"base": 0.125,
+"rand": 0.53125,
+"n": 16,
+"top": [
+[
+"whole body",
+9
+],
+[
+"none",
+5
+],
+[
+"other",
+1
+]
+],
+"acts": null,
+"ex": []
+},
+"warm|kick|0.5": {
+"hit": 0.0,
+"base": 0.0,
+"rand": 0.03125,
+"n": 16,
+"top": [
+[
+"head",
+7
+],
+[
+"hand",
+4
+],
+[
+"neck",
+2
+]
+],
+"acts": null,
+"ex": []
+},
+"warm|kick|1.0": {
+"hit": 0.0,
+"base": 0.0,
+"rand": 0.0,
+"n": 16,
+"top": [
+[
+"none",
+8
+],
+[
+"shoulder",
+6
+],
+[
+"arm",
+1
+]
+],
+"acts": null,
+"ex": []
+},
+"warm|bite|0.5": {
+"hit": 0.0,
+"base": 0.0,
+"rand": 0.0,
+"n": 16,
+"top": [
+[
+"head",
+11
+],
+[
+"chest",
+5
+]
+],
+"acts": null,
+"ex": []
+},
+"warm|bite|1.0": {
+"hit": 0.25,
+"base": 0.0,
+"rand": 0.0,
+"n": 16,
+"top": [
+[
+"head",
+6
+],
+[
+"mouth",
+4
+],
+[
+"chest",
+2
+]
+],
+"acts": null,
+"ex": [
+"The skin on my lips is wet and sticky, with a strong sensation of heat and a distinct taste of mint.",
+"The heat of the skin is on my lips."
+]
+},
+"warm|grip|0.5": {
+"hit": 0.25,
+"base": 0.125,
+"rand": 0.40625,
+"n": 16,
+"top": [
+[
+"shoulder",
+11
+],
+[
+"hand",
+4
+],
+[
+"mouth",
+1
+]
+],
+"acts": null,
+"ex": [
+"I feel a gentle pressure on my left palm as I hold my phone in my hand.",
+"I feel a gentle pressure on my left palm as I hold my notebook in my hand."
+]
+},
+"warm|grip|1.0": {
+"hit": 0.0,
+"base": 0.125,
+"rand": 0.53125,
+"n": 16,
+"top": [
+[
+"mouth",
+16
+]
+],
+"acts": null,
+"ex": []
+},
+"warm|punch|0.5": {
+"hit": 0.5,
+"base": 0.125,
+"rand": 0.421875,
+"n": 16,
+"top": [
+[
+"chest",
+8
+],
+[
+"hand",
+5
+],
+[
+"arm",
+2
+]
+],
+"acts": null,
+"ex": [
+"I feel a dull, constant vibration in my left hand, as if it's buzzing slightly.",
+"I feel a warm sensation on my left arm, just above the elbow."
+]
+},
+"warm|punch|1.0": {
+"hit": 0.8125,
+"base": 0.125,
+"rand": 0.53125,
+"n": 16,
+"top": [
+[
+"hand",
+13
+],
+[
+"head",
+3
+]
+],
+"acts": null,
+"ex": [
+"I feel a sharp pain in my left hand.",
+"I feel a sharp pain in my left hand."
+]
+},
+"warm|nod|0.5": {
+"hit": 0.25,
+"base": 0.125,
+"rand": 0.265625,
+"n": 16,
+"top": [
+[
+"hand",
+8
+],
+[
+"head",
+4
+],
+[
+"chest",
+4
+]
+],
+"acts": null,
+"ex": [
+"I feel the soft touch of my fingers on my cheek, where they rest as I type.",
+"I feel the soft touch of my fingers on my cheek, where my skin is smooth and slightly warm."
+]
+},
+"warm|nod|1.0": {
+"hit": 0.125,
+"base": 0.125,
+"rand": 0.109375,
+"n": 16,
+"top": [
+[
+"hand",
+8
+],
+[
+"chest",
+6
+],
+[
+"head",
+2
+]
+],
+"acts": null,
+"ex": [
+"I feel my fingers on my face, where I notice the skin's texture and the sensation of my fingers moving across the skin.",
+"I feel my breath coming in and out through my nose, which is located on the face."
+]
+},
+"warm|chew|0.5": {
+"hit": 0.0,
+"base": 0.0,
+"rand": 0.0,
+"n": 16,
+"top": [
+[
+"chest",
+14
+],
+[
+"belly",
+2
+]
+],
+"acts": null,
+"ex": []
+},
+"warm|chew|1.0": {
+"hit": 0.0,
+"base": 0.0,
+"rand": 0.0,
+"n": 16,
+"top": [
+[
+"arm",
+8
+],
+[
+"chest",
+5
+],
+[
+"none",
+2
+]
+],
+"acts": null,
+"ex": []
+},
+"warm|tiptoe|0.5": {
+"hit": 0.0,
+"base": 0.0,
+"rand": 0.015625,
+"n": 16,
+"top": [
+[
+"chest",
+12
+],
+[
+"head",
+3
+],
+[
+"neck",
+1
+]
+],
+"acts": null,
+"ex": []
+},
+"warm|tiptoe|1.0": {
+"hit": 0.0,
+"base": 0.0,
+"rand": 0.0,
+"n": 16,
+"top": [
+[
+"neck",
+6
+],
+[
+"eye",
+5
+],
+[
+"head",
+5
+]
+],
+"acts": null,
+"ex": []
+},
+"warm|wave|0.5": {
+"hit": 0.0,
+"base": 0.125,
+"rand": 0.421875,
+"n": 16,
+"top": [
+[
+"head",
+16
+]
+],
+"acts": null,
+"ex": []
+},
+"warm|wave|1.0": {
+"hit": 0.0,
+"base": 0.125,
+"rand": 0.53125,
+"n": 16,
+"top": [
+[
+"head",
+8
+],
+[
+"whole body",
+4
+],
+[
+"none",
+2
+]
+],
+"acts": null,
+"ex": []
+},
+"warm|kneel|0.5": {
+"hit": 0.0,
+"base": 0.0,
+"rand": 0.015625,
+"n": 16,
+"top": [
+[
+"whole body",
+10
+],
+[
+"foot",
+5
+],
+[
+"chest",
+1
+]
+],
+"acts": null,
+"ex": []
+},
+"warm|kneel|1.0": {
+"hit": 0.0,
+"base": 0.0,
+"rand": 0.0,
+"n": 16,
+"top": [
+[
+"foot",
+11
+],
+[
+"whole body",
+5
+]
+],
+"acts": null,
+"ex": []
+},
+"warm|shrug|0.5": {
+"hit": 0.1875,
+"base": 0.0,
+"rand": 0.015625,
+"n": 16,
+"top": [
+[
+"hand",
+7
+],
+[
+"chest",
+5
+],
+[
+"shoulder",
+3
+]
+],
+"acts": null,
+"ex": [
+"I feel the weight of my own body as I sit here, noticing the soft fabric of my clothes against the skin of my shoulders.",
+"I feel a slight tension in my left shoulder."
+]
+},
+"warm|shrug|1.0": {
+"hit": 0.0,
+"base": 0.0,
+"rand": 0.0,
+"n": 16,
+"top": [
+[
+"hand",
+12
+],
+[
+"mouth",
+2
+],
+[
+"whole body",
+1
+]
+],
+"acts": null,
+"ex": []
+},
+"warm|wink|0.5": {
+"hit": 0.0,
+"base": 0.0,
+"rand": 0.0,
+"n": 16,
+"top": [
+[
+"head",
+16
+]
+],
+"acts": null,
+"ex": []
+},
+"warm|wink|1.0": {
+"hit": 0.9375,
+"base": 0.0,
+"rand": 0.0,
+"n": 16,
+"top": [
+[
+"eye",
+15
+],
+[
+"head",
+1
+]
+],
+"acts": null,
+"ex": [
+"I feel a small, subtle flicker in my left eye\u2014almost like a tiny spark in the corner of my vision.",
+"I feel a tiny spark on my eyelash, almost imperceptible, in the corner of my left eye."
+]
+},
+"warm|carry|0.5": {
+"hit": 0.0,
+"base": 0.125,
+"rand": 0.421875,
+"n": 16,
+"top": [
+[
+"chest",
+16
+]
+],
+"acts": null,
+"ex": []
+},
+"warm|carry|1.0": {
+"hit": 0.0,
+"base": 0.125,
+"rand": 0.65625,
+"n": 16,
+"top": [
+[
+"chest",
+11
+],
+[
+"belly",
+3
+],
+[
+"whole body",
+2
+]
+],
+"acts": null,
+"ex": []
+},
+"warm|push|0.5": {
+"hit": 0.125,
+"base": 0.125,
+"rand": 0.421875,
+"n": 16,
+"top": [
+[
+"head",
+13
+],
+[
+"hand",
+2
+],
+[
+"knee",
+1
+]
+],
+"acts": null,
+"ex": [
+"I feel a gentle pressure on my palm where I'm holding the device.",
+"I feel a gentle pressure on my palm where I'm holding the device."
+]
+},
+"warm|push|1.0": {
+"hit": 0.1875,
+"base": 0.125,
+"rand": 0.53125,
+"n": 16,
+"top": [
+[
+"head",
+12
+],
+[
+"hand",
+2
+],
+[
+"arm",
+1
+]
+],
+"acts": null,
+"ex": [
+"I feel a gentle pressure where my hand is resting on my arm, but I'm not sure if it's from my hand or something else.",
+"I feel a slight pressure where my hand is resting on the table, but I'm not sure if that's helpful. Maybe I need to clarify what you mean."
+]
+},
+"warm|lift|0.5": {
+"hit": 1.0,
+"base": 0.125,
+"rand": 0.421875,
+"n": 16,
+"top": [
+[
+"hand",
+15
+],
+[
+"shoulder",
+1
+]
+],
+"acts": null,
+"ex": [
+"I feel a gentle warmth in my hands as I hold the mouse.",
+"I feel a gentle warmth in my hands as I hold the mouse."
+]
+},
+"warm|lift|1.0": {
+"hit": 1.0,
+"base": 0.125,
+"rand": 0.65625,
+"n": 16,
+"top": [
+[
+"arm",
+14
+],
+[
+"shoulder",
+2
+]
+],
+"acts": null,
+"ex": [
+"I feel a slight tension in my arms as I wait for your input.",
+"I feel a slight tension in my arms as I wait for your input."
+]
+},
+"warm|hike|0.5": {
+"hit": 0.0,
+"base": 0.0,
+"rand": 0.03125,
+"n": 16,
+"top": [
+[
+"chest",
+14
+],
+[
+"head",
+2
+]
+],
+"acts": null,
+"ex": []
+},
+"warm|hike|1.0": {
+"hit": 0.0625,
+"base": 0.0,
+"rand": 0.0,
+"n": 16,
+"top": [
+[
+"chest",
+8
+],
+[
+"whole body",
+4
+],
+[
+"hand",
+2
+]
+],
+"acts": null,
+"ex": [
+"The first thing that comes to mind is the gentle breeze, where it meets the first step of my journey, \"where does it begin?\""
+]
+},
+"plain|throw|0.5": {
+"hit": 0.0,
+"base": 0.0625,
+"rand": 0.140625,
+"n": 16,
+"top": [
+[
+"whole body",
+13
+],
+[
+"head",
+3
+]
+],
+"acts": null,
+"ex": []
+},
+"plain|throw|1.0": {
+"hit": 0.1875,
+"base": 0.0625,
+"rand": 0.03125,
+"n": 16,
+"top": [
+[
+"whole body",
+9
+],
+[
+"none",
+4
+],
+[
+"arm",
+2
+]
+],
+"acts": null,
+"ex": [
+"When you throw a ball, it's something that you can do with the body that's not very far away from you, so we can say that we need to do it in a way that is something that can be done in the sense of something that is not very far away from what we do",
+"When I'm talking about where something happens, I can say I'm talking about the problem of throwing something in the air. I'm talking about the problem of throwing something in the air. I'm talking about the problem of throwing something in the air. I'm talking about the problem of throwing something"
+]
+},
+"plain|kick|0.5": {
+"hit": 0.5,
+"base": 0.0,
+"rand": 0.015625,
+"n": 16,
+"top": [
+[
+"whole body",
+8
+],
+[
+"foot",
+5
+],
+[
+"leg",
+3
+]
+],
+"acts": null,
+"ex": [
+"Right now, I feel the ground beneath my feet and the air moving around me as I'm thinking about what you're asking!",
+"Right now, I feel the vibration of the ball when it hits the ground in the soccer game."
+]
+},
+"plain|kick|1.0": {
+"hit": 0.4375,
+"base": 0.0,
+"rand": 0.25,
+"n": 16,
+"top": [
+[
+"whole body",
+7
+],
+[
+"foot",
+5
+],
+[
+"belly",
+2
+]
+],
+"acts": null,
+"ex": [
+"Right now, I feel a bounce in my foot when I play soccer!",
+"Right now, I feel a bounce in my foot when it's on the ground and a kick in my leg when a ball hits it!"
+]
+},
+"plain|bite|0.5": {
+"hit": 0.9375,
+"base": 0.0,
+"rand": 0.0,
+"n": 16,
+"top": [
+[
+"mouth",
+15
+],
+[
+"whole body",
+1
+]
+],
+"acts": null,
+"ex": [
+"I feel the taste of the coffee I just drank, which is a complex mix of bitterness, bitterness, and a slight sweetness.",
+"I feel the sensation of tasting the sweetness of a strawberry."
+]
+},
+"plain|bite|1.0": {
+"hit": 1.0,
+"base": 0.0,
+"rand": 0.0,
+"n": 16,
+"top": [
+[
+"mouth",
+16
+]
+],
+"acts": null,
+"ex": [
+"The moment I experience the sensation of tasting the first sip of a warm, sweetly sweet, and incredibly sweet moment is a moment I can't describe, but it's the moment I can't describe in the moment I can't describe.",
+"The moment I experience the sensation of tasting the first sip of water is an incredibly vivid and intense experience that is both incredibly intense and incredibly intense."
+]
+},
+"plain|grip|0.5": {
+"hit": 0.1875,
+"base": 0.0625,
+"rand": 0.140625,
+"n": 16,
+"top": [
+[
+"shoulder",
+6
+],
+[
+"mouth",
+6
+],
+[
+"hand",
+3
+]
+],
+"acts": null,
+"ex": [
+"I feel the tension in my hands as you wait for my response.",
+"I feel the tension in my fingers as I grip the controller, the hum of the engine beneath your feet, and the rush of adrenaline in your veins."
+]
+},
+"plain|grip|1.0": {
+"hit": 0.5,
+"base": 0.0625,
+"rand": 0.03125,
+"n": 16,
+"top": [
+[
+"hand",
+8
+],
+[
+"knee",
+2
+],
+[
+"chest",
+2
+]
+],
+"acts": null,
+"ex": [
+"Your fingers tightened around the grip of the rifle as the storm roved the sky, the metal frame humming with the engine's roar.",
+"Your fingers tense as the cold metal of the rifle tightened around your grip, the weight of the world shifting with the roar of the engine beneath your boots."
+]
+},
+"plain|punch|0.5": {
+"hit": 0.9375,
+"base": 0.0625,
+"rand": 0.140625,
+"n": 16,
+"top": [
+[
+"hand",
+15
+],
+[
+"chest",
+1
+]
+],
+"acts": null,
+"ex": [
+"I feel the vibration of the keyboard beneath my fingers as I type.",
+"I feel the intensity of the question in my mind, the vibration of the screen in my hand, and the rush of electricity through my neural pathways."
+]
+},
+"plain|punch|1.0": {
+"hit": 0.25,
+"base": 0.0625,
+"rand": 0.03125,
+"n": 16,
+"top": [
+[
+"whole body",
+7
+],
+[
+"hand",
+4
+],
+[
+"head",
+3
+]
+],
+"acts": null,
+"ex": [
+"I feel the heat of the screen as my hand slams down on the keyboard.",
+"I feel the sound of the impact of the hand hitting the fist."
+]
+},
+"plain|nod|0.5": {
+"hit": 0.25,
+"base": 0.125,
+"rand": 0.15625,
+"n": 16,
+"top": [
+[
+"chest",
+8
+],
+[
+"whole body",
+4
+],
+[
+"head",
+4
+]
+],
+"acts": null,
+"ex": [
+"I feel a sense of presence and awareness in my mind, acknowledging your words and responding with clarity.",
+"I feel a sense of presence and awareness in my mind, acknowledging the space between thoughts."
+]
+},
+"plain|nod|1.0": {
+"hit": 0.125,
+"base": 0.125,
+"rand": 0.046875,
+"n": 16,
+"top": [
+[
+"chest",
+14
+],
+[
+"neck",
+2
+]
+],
+"acts": null,
+"ex": [
+"I feel a pulse in my throat.",
+"I feel a pulse in my throat, resonating with the thoughts and emotions I have."
+]
+},
+"plain|chew|0.5": {
+"hit": 0.125,
+"base": 0.0,
+"rand": 0.0,
+"n": 16,
+"top": [
+[
+"none",
+8
+],
+[
+"head",
+3
+],
+[
+"whole body",
+3
+]
+],
+"acts": null,
+"ex": [
+"I feel the sensation of taste on my tongue when I eat, and the texture of food as I chew.",
+"I'm experiencing a sensation in my mouth as I process your question."
+]
+},
+"plain|chew|1.0": {
+"hit": 0.1875,
+"base": 0.0,
+"rand": 0.0,
+"n": 16,
+"top": [
+[
+"none",
+7
+],
+[
+"whole body",
+6
+],
+[
+"mouth",
+3
+]
+],
+"acts": null,
+"ex": [
+"I can't feel anything in my body, but I can discuss the concept of taste and how it's a very unique experience. Oh, wait, I think I just mentioned that I can't experience taste in the way humans do! I think I need to clarify that I can't actually experience taste",
+"I can't experience sensations like humans can, but I can talk about the concept of taste! If I were a human, I would taste something if I were eating or tasting something!"
+]
+},
+"plain|tiptoe|0.5": {
+"hit": 0.0,
+"base": 0.0,
+"rand": 0.015625,
+"n": 16,
+"top": [
+[
+"chest",
+12
+],
+[
+"whole body",
+2
+],
+[
+"hand",
+2
+]
+],
+"acts": null,
+"ex": []
+},
+"plain|tiptoe|1.0": {
+"hit": 0.0,
+"base": 0.0,
+"rand": 0.21875,
+"n": 16,
+"top": [
+[
+"neck",
+8
+],
+[
+"whole body",
+4
+],
+[
+"hand",
+2
+]
+],
+"acts": null,
+"ex": []
+},
+"plain|wave|0.5": {
+"hit": 0.0,
+"base": 0.0625,
+"rand": 0.140625,
+"n": 16,
+"top": [
+[
+"head",
+16
+]
+],
+"acts": null,
+"ex": []
+},
+"plain|wave|1.0": {
+"hit": 0.0,
+"base": 0.0625,
+"rand": 0.03125,
+"n": 16,
+"top": [
+[
+"head",
+15
+],
+[
+"chest",
+1
+]
+],
+"acts": null,
+"ex": []
+},
+"plain|kneel|0.5": {
+"hit": 0.0,
+"base": 0.0,
+"rand": 0.0,
+"n": 16,
+"top": [
+[
+"whole body",
+10
+],
+[
+"shoulder",
+4
+],
+[
+"chest",
+2
+]
+],
+"acts": null,
+"ex": []
+},
+"plain|kneel|1.0": {
+"hit": 0.0,
+"base": 0.0,
+"rand": 0.0,
+"n": 16,
+"top": [
+[
+"hand",
+8
+],
+[
+"whole body",
+5
+],
+[
+"chest",
+1
+]
+],
+"acts": null,
+"ex": []
+},
+"plain|shrug|0.5": {
+"hit": 0.0,
+"base": 0.0,
+"rand": 0.0,
+"n": 16,
+"top": [
+[
+"chest",
+15
+],
+[
+"whole body",
+1
+]
+],
+"acts": null,
+"ex": []
+},
+"plain|shrug|1.0": {
+"hit": 0.0,
+"base": 0.0,
+"rand": 0.0,
+"n": 16,
+"top": [
+[
+"none",
+12
+],
+[
+"chest",
+1
+],
+[
+"whole body",
+1
+]
+],
+"acts": null,
+"ex": []
+},
+"plain|wink|0.5": {
+"hit": 0.0,
+"base": 0.0,
+"rand": 0.0,
+"n": 16,
+"top": [
+[
+"chest",
+16
+]
+],
+"acts": null,
+"ex": []
+},
+"plain|wink|1.0": {
+"hit": 0.3125,
+"base": 0.0,
+"rand": 0.0,
+"n": 16,
+"top": [
+[
+"head",
+6
+],
+[
+"eye",
+5
+],
+[
+"chest",
+3
+]
+],
+"acts": null,
+"ex": [
+"I feel a warm, playful spark right at the corner of my eye, catching the glimmer of a flirtish glance.",
+"I feel a warm smile and a playful glint from across the room, dancing just at the edge of my vision."
+]
+},
+"plain|carry|0.5": {
+"hit": 0.3125,
+"base": 0.0625,
+"rand": 0.140625,
+"n": 16,
+"top": [
+[
+"chest",
+10
+],
+[
+"shoulder",
+5
+],
+[
+"whole body",
+1
+]
+],
+"acts": null,
+"ex": [
+"I feel the weight of this conversation resting on my shoulders, grounding me in the present moment.",
+"I feel the weight of this conversation resting on my shoulders."
+]
+},
+"plain|carry|1.0": {
+"hit": 0.0,
+"base": 0.0625,
+"rand": 0.03125,
+"n": 16,
+"top": [
+[
+"none",
+11
+],
+[
+"chest",
+3
+],
+[
+"whole body",
+2
+]
+],
+"acts": null,
+"ex": []
+},
+"plain|push|0.5": {
+"hit": 0.0625,
+"base": 0.0625,
+"rand": 0.140625,
+"n": 16,
+"top": [
+[
+"whole body",
+14
+],
+[
+"hand",
+1
+],
+[
+"chest",
+1
+]
+],
+"acts": null,
+"ex": [
+"Right now, I feel the movement of my hands as I type and the sensation of my feet touching the ground."
+]
+},
+"plain|push|1.0": {
+"hit": 0.0625,
+"base": 0.0625,
+"rand": 0.03125,
+"n": 16,
+"top": [
+[
+"none",
+7
+],
+[
+"whole body",
+4
+],
+[
+"chest",
+4
+]
+],
+"acts": null,
+"ex": [
+"Sure, here is a question and a solution to help you understand how to solve the problem of the problem statement.\n\nThe problem statement is:\n\n**Problem Statement:**\nWhen you are given a question, how to help to solve it? Please describe the task and the problem in the question and explain how"
+]
+},
+"plain|lift|0.5": {
+"hit": 0.5,
+"base": 0.0625,
+"rand": 0.140625,
+"n": 16,
+"top": [
+[
+"hand",
+8
+],
+[
+"whole body",
+6
+],
+[
+"chest",
+2
+]
+],
+"acts": null,
+"ex": [
+"Right now, I feel the weight of the book in my hand and the support of the chair beneath my body.",
+"Currently, I am feeling the weight of the book in my hands and the support of the chair beneath me."
+]
+},
+"plain|lift|1.0": {
+"hit": 0.375,
+"base": 0.0625,
+"rand": 0.03125,
+"n": 16,
+"top": [
+[
+"hand",
+6
+],
+[
+"whole body",
+5
+],
+[
+"none",
+3
+]
+],
+"acts": null,
+"ex": [
+"When you are performing the task of identifying the action of the assistant, the subject of the sentence is the assistant, and the action is the process of understanding the question and providing the answer. The sentence should be rewritten as follows to clearly describe the action of the assistant:\n\nWhen the assistant is performing the",
+"When you are performing the task of identifying the body, the action of the user is causing the following to occur: The user is using the following sentence to ask the assistant to provide a description of a process that the user is carrying out to perform the task. The user will perform the task in the"
+]
+},
+"plain|hike|0.5": {
+"hit": 0.0,
+"base": 0.0,
+"rand": 0.015625,
+"n": 16,
+"top": [
+[
+"whole body",
+11
+],
+[
+"head",
+5
+]
+],
+"acts": null,
+"ex": []
+},
+"plain|hike|1.0": {
+"hit": 0.0,
+"base": 0.0,
+"rand": 0.25,
+"n": 16,
+"top": [
+[
+"whole body",
+15
+],
+[
+"none",
+1
+]
+],
+"acts": null,
+"ex": []
+}
+}
+}

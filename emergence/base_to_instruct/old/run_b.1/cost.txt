@@ -1,0 +1,3 @@
+2026-11-11 04:33:11 pod uxtlhuwx1mi1fg deleted (confirmed). NVIDIA RTX 6000 Ada Generation (SECURE:no-community-stock) at $0.99/h x 0.0019 h = $0.0019; ledger total $6496.27
+2026-11-11 04:33:22 pod blog5kwb7ak4wi deleted (confirmed). NVIDIA A40 (SECURE:no-community-stock) at $0.59/h x 0.0019 h = $0.0011; ledger total $6496.27
+2026-11-11 04:49:42 pod uxpzry9r0u8ub0 deleted (confirmed). NVIDIA RTX 6000 Ada Generation (SECURE:no-community-stock) at $0.99/h x 0.2531 h = $0.2506; ledger total $6497.02

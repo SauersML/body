@@ -1,0 +1,32 @@
+{
+  "consumerUserId": "user_3KHbvrWO0iHjmwncIFuR1d5qilz",
+  "containerDiskInGb": 33,
+  "costPerHr": 0.99,
+  "createdAt": "2026-11-11 12:34:31.266 +0000 UTC",
+  "desiredStatus": "RUNNING",
+  "dockerStartCmd": [
+    "bash",
+    "-c",
+    "(echo $BASHPID > /rp-watchdog.pid; sleep $(( 1794409986 - $(date +%s) > 1800 ? 1794409986 - $(date +%s) : 1800 )); runpodctl stop pod \"$RUNPOD_POD_ID\" || runpodctl pod stop \"$RUNPOD_POD_ID\") > /rp-watchdog.log 2>&1 & setup_guard () \n{ \n    local ws=${RP_GUARD_WS:-/workspace} net=${RP_GUARD_NET:-/proc/net/dev} t=${RP_GUARD_TMP:-/tmp} last seen b state why win;\n    function rp_state () \n    { \n        local f n=0 e=0;\n        while IFS= read -r f; do\n            n=$(( n + 1 ));\n            [ ! -s \"${f%/run.pid}/run.exit\" ] || e=$(( e + 1 ));\n        done < <(find \"$ws/runs\" -mindepth 2 -maxdepth 2 -name run.pid 2> /dev/null);\n        if (( n == 0 )); then\n            echo none;\n        else\n            if (( e < n )); then\n                echo running;\n            else\n                echo ended;\n            fi;\n        fi\n    };\n    function rp_net () \n    { \n        awk '/:/ { sub(/^ +/, \"\"); split($0, a, /: */); split(a[2], f, / +/); if (a[1] != \"lo\") s += f[1] + f[9] } END { printf \"%.0f\", s }' \"$net\" 2> /dev/null\n    };\n    [ ! -e \"$ws/.rp-setup-guard\" ] || return 0;\n    mkdir -p \"$ws\" && : > \"$ws/.rp-setup-guard\";\n    touch \"$t/rp-guard.0\";\n    last=$(date +%s) seen=$(rp_net);\n    while sleep \"$2\"; do\n        state=$(rp_state);\n        if [ \"$state\" = running ]; then\n            (( ${5:-0} > 0 )) || return 0;\n            last=$(date +%s) seen=$(rp_net);\n            continue;\n        fi;\n        [ \"$state\" = none ] || (( ${5:-0} > 0 )) || return 0;\n        touch \"$t/rp-guard.1\";\n        b=$(rp_net);\n        if (( ${b:-0} > ${seen:-0} + 1048576 )) || { \n            [ \"$state\" = none ] && [ -n \"$(timeout 30 find \"$ws\" -xdev \\( -name '*-util.log' -o -name rp-setup-guard.log \\) -prune -o -newer \"$t/rp-guard.0\" -print -quit 2> /dev/null)\" ]\n        }; then\n            last=$(date +%s) seen=$b;\n        fi;\n        mv -f \"$t/rp-guard.1\" \"$t/rp-guard.0\";\n        win=$1;\n        [ \"$state\" = none ] || win=$5;\n        (( win > 0 && $(date +%s) - last >= win )) || continue;\n        [ \"$(rp_state)\" = \"$state\" ] || continue;\n        why=\"no command and no input progress\";\n        [ \"$state\" = none ] || why=\"every command ended and no outputs leaving\";\n        echo \"$(date -u '+%F %T') UTC: $why for $win s; runpodctl $3\" >> \"$ws/rp-setup-guard.log\";\n        runpodctl $3 \"$RUNPOD_POD_ID\" || runpodctl $4 \"$RUNPOD_POD_ID\";\n        return 0;\n    done\n}\nsetup_guard 900 60 'stop pod' 'pod stop' 1200 > /rp-setup-guard.log 2>&1 < /dev/null & exec /start.sh"
+  ],
+  "gpuCount": 1,
+  "id": "uxpzry9r0u8ub0",
+  "imageName": "runpod/pytorch:2.4.0-py3.11-cuda12.4.1-devel-ubuntu22.04",
+  "lastStartedAt": "2026-11-11 12:34:31.261 +0000 UTC",
+  "lastStatusChange": "Rented by User: Wed Nov 11 2026 12:34:31 GMT+0000 (Coordinated Universal Time)",
+  "machine": {},
+  "machineId": "dsey2x4qn4ct",
+  "memoryInGb": 188,
+  "name": "mpd2951-hypha-prod-emerge-b",
+  "ports": [
+    "22/tcp"
+  ],
+  "portMappings": {
+    "22": 48230
+  },
+  "publicIp": "216.81.245.80",
+  "templateId": "",
+  "vcpuCount": 14,
+  "volumeInGb": 140,
+  "volumeMountPath": "/workspace"
+}

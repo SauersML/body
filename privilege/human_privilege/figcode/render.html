@@ -1,0 +1,71 @@
+<!doctype html><html><body style="margin:0;background:transparent">
+<script type="importmap">{"imports":{"three":"./node_modules/three/build/three.module.js","three/addons/":"./node_modules/three/examples/jsm/"}}</script>
+<script type="module">
+import * as THREE from 'three';
+import {FBXLoader} from 'three/addons/loaders/FBXLoader.js';
+import {GLTFLoader} from 'three/addons/loaders/GLTFLoader.js';
+import {OBJLoader} from 'three/addons/loaders/OBJLoader.js';
+const P=new URLSearchParams(location.search);
+const W=+P.get('w')||1200,H=+P.get('h')||1200;
+const r=new THREE.WebGLRenderer({antialias:true,alpha:true,preserveDrawingBuffer:true});
+r.setSize(W,H);r.setPixelRatio(1);r.shadowMap.enabled=true;r.shadowMap.type=THREE.PCFSoftShadowMap;
+r.toneMapping=THREE.ACESFilmicToneMapping;r.outputColorSpace=THREE.SRGBColorSpace;
+document.body.appendChild(r.domElement);
+const sc=new THREE.Scene();
+sc.add(new THREE.HemisphereLight(0xffffff,0x8a8f99,1.6));
+const key=new THREE.DirectionalLight(0xffffff,2.2);key.position.set(3,6,5);key.castShadow=true;key.shadow.mapSize.set(2048,2048);key.shadow.radius=6;sc.add(key);
+const rim=new THREE.DirectionalLight(0xffffff,1.0);rim.position.set(-4,3,-4);sc.add(rim);
+const fill=new THREE.DirectionalLight(0xffffff,0.6);fill.position.set(-5,1,3);sc.add(fill);
+const col=new THREE.Color(P.get('c')||'#5b6b80');
+const mat=new THREE.MeshStandardMaterial({color:col,roughness:0.62,metalness:0.0});
+window.info={};
+async function load(u){
+ if(u.endsWith('.fbx'))return await new FBXLoader().loadAsync(u);
+ if(u.endsWith('.obj'))return await new OBJLoader().loadAsync(u);
+ return (await new GLTFLoader().loadAsync(u)).scene;}
+const obj=await load(P.get('m'));
+const bones=[];obj.traverse(o=>{if(o.isMesh||o.isSkinnedMesh){o.material=mat;o.castShadow=true;o.receiveShadow=true;if(o.geometry && !P.get('m').endsWith('.glb')){const g=o.geometry;g.computeVertexNormals();const p=g.attributes.position,n=g.attributes.normal;const idx=g.index;const acc=new Map();const key=i=>Math.round(p.getX(i)*1e3)+','+Math.round(p.getY(i)*1e3)+','+Math.round(p.getZ(i)*1e3);
+ const fn=new THREE.Vector3(),a=new THREE.Vector3(),b=new THREE.Vector3(),c=new THREE.Vector3();const F=idx?idx.count/3:p.count/3;const vi=k=>idx?idx.getX(k):k;
+ for(let f=0;f<F;f++){const i0=vi(3*f),i1=vi(3*f+1),i2=vi(3*f+2);a.fromBufferAttribute(p,i0);b.fromBufferAttribute(p,i1);c.fromBufferAttribute(p,i2);fn.subVectors(c,b).cross(a.clone().sub(b));for(const i of [i0,i1,i2]){const k=key(i);const v=acc.get(k)||[0,0,0];v[0]+=fn.x;v[1]+=fn.y;v[2]+=fn.z;acc.set(k,v);}}
+ for(let i=0;i<p.count;i++){const v=acc.get(key(i));if(v){const l=Math.hypot(...v)||1;n.setXYZ(i,v[0]/l,v[1]/l,v[2]/l);}}n.needsUpdate=true;}}if(o.isBone)bones.push(o);});
+info.bones=bones.map(b=>b.name);
+const root=new THREE.Group();root.add(obj);sc.add(root);
+root.rotation.set(...(JSON.parse(P.get('rot')||'[0,0,0]')).map(d=>d*Math.PI/180));
+root.updateMatrixWorld(true);
+const B=n=>bones.find(b=>b.name.endsWith(n));
+const aim=JSON.parse(P.get('aim')||'[]');
+for(const [bn,cn,dir] of aim){const b=B(bn),c=B(cn);if(!b||!c){info.miss=(info.miss||[]).concat(bn);continue;}
+ sc.updateMatrixWorld(true);
+ const pb=b.getWorldPosition(new THREE.Vector3()),pc=c.getWorldPosition(new THREE.Vector3());
+ const d0=pc.sub(pb).normalize();const d1=new THREE.Vector3(...dir).normalize();
+ const qw=new THREE.Quaternion().setFromUnitVectors(d0,d1);
+ const wq=b.getWorldQuaternion(new THREE.Quaternion());const nw=qw.multiply(wq);
+ const pq=b.parent.getWorldQuaternion(new THREE.Quaternion());b.quaternion.copy(pq.invert().multiply(nw));}
+sc.updateMatrixWorld(true);
+const tail=JSON.parse(P.get('tail')||'null');
+if(tail){const h=B('Hips').getWorldPosition(new THREE.Vector3());const pts=tail.pts.map(p=>new THREE.Vector3(h.x+p[0],h.y+p[1],h.z+p[2]));
+ const curve=new THREE.CatmullRomCurve3(pts);const seg=80,rs=24;const g=new THREE.TubeGeometry(curve,seg,1,rs,false);
+ const pos=g.attributes.position;const fr=curve.computeFrenetFrames(seg,false);
+ for(let i=0;i<=seg;i++){const t=i/seg;const cp=curve.getPointAt(t);const rad=tail.r0*(1-t)+tail.r1*t;
+   for(let j=0;j<=rs;j++){const k=i*(rs+1)+j;const v=new THREE.Vector3().fromBufferAttribute(pos,k).sub(curve.getPointAt(t)).multiplyScalar(rad).add(cp);pos.setXYZ(k,v.x,v.y,v.z);}}
+ g.computeVertexNormals();const tm=new THREE.Mesh(g,mat);tm.castShadow=true;sc.add(tm);
+ const cap=new THREE.Mesh(new THREE.SphereGeometry(tail.r1,16,12),mat);cap.position.copy(pts[pts.length-1]);sc.add(cap);
+ const cap0=new THREE.Mesh(new THREE.SphereGeometry(tail.r0,16,12),mat);cap0.position.copy(pts[0]);sc.add(cap0);
+ sc.userData.extra=[tm];}
+
+// bbox incl skinning
+const box=new THREE.Box3();const v=new THREE.Vector3();
+obj.traverse(o=>{if(o.isSkinnedMesh){o.skeleton.update();const p=o.geometry.attributes.position;for(let i=0;i<p.count;i+=7){o.getVertexPosition(i,v);v.applyMatrix4(o.matrixWorld);box.expandByPoint(v);}}else if(o.isMesh){box.expandByObject(o);}});
+if(sc.userData.extra)for(const e of sc.userData.extra)box.expandByObject(e);
+const c=box.getCenter(new THREE.Vector3()),s=box.getSize(new THREE.Vector3());info.size=s.toArray();
+const off=new THREE.Vector3(c.x,box.min.y,c.z);root.position.sub(off);sc.children.filter(o=>o.isMesh&&o.material===mat).forEach(o=>o.position.sub(off));
+const ground=new THREE.Mesh(new THREE.PlaneGeometry(100,100),new THREE.ShadowMaterial({opacity:0.13}));ground.rotation.x=-Math.PI/2;ground.receiveShadow=true;sc.add(ground);
+const m=Math.max(s.x,s.y,s.z);
+key.position.set(m*0.9,m*4,m*1.6);key.shadow.camera.left=-m*2;key.shadow.camera.right=m*2;key.shadow.camera.top=m*2;key.shadow.camera.bottom=-m*2;key.shadow.camera.far=m*10;
+const az=(+P.get('az')||25)*Math.PI/180, el=(+P.get('el')||8)*Math.PI/180;
+const cam=new THREE.PerspectiveCamera(22,W/H,m/100,m*100);
+const d=m*2.9*(+P.get('zoom')||1);
+const tgt=new THREE.Vector3(0,s.y/2,0);
+cam.position.set(Math.sin(az)*Math.cos(el)*d,s.y/2+Math.sin(el)*d,Math.cos(az)*Math.cos(el)*d);cam.lookAt(tgt);
+r.render(sc,cam);window.done=true;
+</script></body></html>

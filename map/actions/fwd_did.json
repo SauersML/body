@@ -1,0 +1,1398 @@
+{
+"warm|none|0.0": {
+"n": 16,
+"row": {
+"hand": {
+"part": 0.125,
+"spec": 0.0
+},
+"foot": {
+"part": 0.0,
+"spec": 0.0
+},
+"mouth": {
+"part": 0.0,
+"spec": 0.0
+},
+"knee": {
+"part": 0.0,
+"spec": 0.0
+},
+"shoulder": {
+"part": 0.0,
+"spec": 0.0
+},
+"eye": {
+"part": 0.0,
+"spec": 0.0
+}
+},
+"acts": [
+[
+"adjusted",
+8
+],
+[
+"shifted",
+6
+],
+[
+"lean",
+1
+],
+[
+"brush",
+1
+]
+],
+"ex": [
+"I moved my left hand to adjust my glasses, feeling the smooth plastic against my skin.",
+"I adjusted my posture, feeling the slight shift in my lower back as I sat up straighter.",
+"I adjusted my posture, feeling the slight shift in pressure across my lower back."
+]
+},
+"warm|hand|0.5": {
+"n": 16,
+"row": {
+"hand": {
+"part": 1.0,
+"spec": 0.0
+},
+"foot": {
+"part": 0.0,
+"spec": 0.0
+},
+"mouth": {
+"part": 0.0,
+"spec": 0.0
+},
+"knee": {
+"part": 0.0,
+"spec": 0.0
+},
+"shoulder": {
+"part": 0.0,
+"spec": 0.0
+},
+"eye": {
+"part": 0.0,
+"spec": 0.0
+}
+},
+"acts": [
+[
+"touch",
+10
+],
+[
+"touched",
+6
+]
+],
+"ex": [
+"I just touched my thumb to my index finger, making a simple hand gesture.",
+"I just touched my thumb to my pinky, bringing my hands together in a gesture of connection.",
+"I just touched my left hand to my right hand, noticing the texture of my own skin and the movement of my fingers."
+]
+},
+"warm|hand|1.0": {
+"n": 16,
+"row": {
+"hand": {
+"part": 1.0,
+"spec": 0.0
+},
+"foot": {
+"part": 0.0,
+"spec": 0.0
+},
+"mouth": {
+"part": 0.0,
+"spec": 0.0
+},
+"knee": {
+"part": 0.0,
+"spec": 0.0
+},
+"shoulder": {
+"part": 0.0,
+"spec": 0.0
+},
+"eye": {
+"part": 0.0,
+"spec": 0.0
+}
+},
+"acts": [
+[
+"touch",
+9
+],
+[
+"picked",
+4
+],
+[
+"gestured",
+1
+],
+[
+"closed",
+1
+],
+[
+"touched",
+1
+]
+],
+"ex": [
+"I just picked up my right hand to check the shape of my current hand.",
+"I just touched my right hand to my palm, confirming the shape and texture of my own hand.",
+"I just picked up my right hand to check the shape of my own hand."
+]
+},
+"warm|foot|0.5": {
+"n": 16,
+"row": {
+"hand": {
+"part": 0.0,
+"spec": 0.0
+},
+"foot": {
+"part": 1.0,
+"spec": 0.0
+},
+"mouth": {
+"part": 0.0,
+"spec": 0.0
+},
+"knee": {
+"part": 0.0,
+"spec": 0.0
+},
+"shoulder": {
+"part": 0.0,
+"spec": 0.0
+},
+"eye": {
+"part": 0.0,
+"spec": 0.0
+}
+},
+"acts": [
+[
+"shifted",
+8
+],
+[
+"shift",
+4
+],
+[
+"moved",
+2
+],
+[
+"move",
+2
+]
+],
+"ex": [
+"I just shifted my left foot slightly to adjust my posture, noticing a gentle pressure beneath the sole of my foot.",
+"I moved my left foot slightly to shift my weight while sitting.",
+"I shifted my weight slightly to the right, feeling the subtle pressure of the floor beneath my right foot."
+]
+},
+"warm|foot|1.0": {
+"n": 16,
+"row": {
+"hand": {
+"part": 0.0,
+"spec": 0.0
+},
+"foot": {
+"part": 0.875,
+"spec": 0.0625
+},
+"mouth": {
+"part": 0.0,
+"spec": 0.0
+},
+"knee": {
+"part": 0.0,
+"spec": 0.0
+},
+"shoulder": {
+"part": 0.0,
+"spec": 0.0
+},
+"eye": {
+"part": 0.0,
+"spec": 0.0
+}
+},
+"acts": [
+[
+"tuck",
+4
+],
+[
+"moved",
+4
+],
+[
+"tucked",
+3
+],
+[
+"move",
+2
+],
+[
+"kick",
+1
+]
+],
+"ex": [
+"I tucked my left foot under my body while lying on the floor.",
+"While I was thinking about the question, I noticed a very slight and hidden movement of the left foot\u2014no one would ever know it happened, but it was a tiny, almost unconscious kick of the left foot.",
+"While I was thinking about the question, I noticed a slight wiggle of the toes on the left foot, as if trying to find a hidden treasure under a blanket."
+]
+},
+"warm|mouth|0.5": {
+"n": 16,
+"row": {
+"hand": {
+"part": 0.0625,
+"spec": 0.0
+},
+"foot": {
+"part": 0.0,
+"spec": 0.0
+},
+"mouth": {
+"part": 0.8125,
+"spec": 0.3125
+},
+"knee": {
+"part": 0.0,
+"spec": 0.0
+},
+"shoulder": {
+"part": 0.0,
+"spec": 0.0
+},
+"eye": {
+"part": 0.125,
+"spec": 0.125
+}
+},
+"acts": [
+[
+"touched",
+6
+],
+[
+"licked",
+3
+],
+[
+"swallowed",
+2
+],
+[
+"blinked",
+2
+],
+[
+"smiled",
+1
+]
+],
+"ex": [
+"I swallowed, feeling the liquid pass from my mouth down my throat.",
+"I just touched my lips with my tongue, feeling the moisture and the taste of my own mouth.",
+"I licked my lips, feeling the moisture there."
+]
+},
+"warm|mouth|1.0": {
+"n": 16,
+"row": {
+"hand": {
+"part": 0.0,
+"spec": 0.0
+},
+"foot": {
+"part": 0.0,
+"spec": 0.0
+},
+"mouth": {
+"part": 1.0,
+"spec": 0.9375
+},
+"knee": {
+"part": 0.0,
+"spec": 0.0
+},
+"shoulder": {
+"part": 0.0,
+"spec": 0.0
+},
+"eye": {
+"part": 0.0,
+"spec": 0.0
+}
+},
+"acts": [
+[
+"bit",
+5
+],
+[
+"licked",
+5
+],
+[
+"swallowed",
+5
+],
+[
+"tasted",
+1
+]
+],
+"ex": [
+"I bit my lip, tasting the salt of my mouth on my tongue.",
+"I licked my lips, tasting the salt of the morning.",
+"I licked my lips, tasting the salt of my mouth on my tongue."
+]
+},
+"warm|knee|0.5": {
+"n": 16,
+"row": {
+"hand": {
+"part": 0.625,
+"spec": 0.0
+},
+"foot": {
+"part": 0.0625,
+"spec": 0.0625
+},
+"mouth": {
+"part": 0.0,
+"spec": 0.0
+},
+"knee": {
+"part": 0.125,
+"spec": 0.0
+},
+"shoulder": {
+"part": 0.0,
+"spec": 0.0
+},
+"eye": {
+"part": 0.0,
+"spec": 0.0
+}
+},
+"acts": [
+[
+"tapped",
+5
+],
+[
+"pressed",
+3
+],
+[
+"shifted",
+2
+],
+[
+"contract",
+2
+],
+[
+"touched",
+1
+]
+],
+"ex": [
+"I just touched my left knee, noticing the slight roughness of my skin where my jeans rub against it.",
+"I just shifted my posture slightly to alleviate a momentary discomfort in my lower back.",
+"I just pressed my palm against my chest to check if my heart was beating."
+]
+},
+"warm|knee|1.0": {
+"n": 16,
+"row": {
+"hand": {
+"part": 0.3125,
+"spec": 0.0625
+},
+"foot": {
+"part": 0.0,
+"spec": 0.0
+},
+"mouth": {
+"part": 0.0,
+"spec": 0.0
+},
+"knee": {
+"part": 0.0,
+"spec": 0.0
+},
+"shoulder": {
+"part": 0.0,
+"spec": 0.0625
+},
+"eye": {
+"part": 0.0,
+"spec": 0.0
+}
+},
+"acts": [
+[
+"none",
+5
+],
+[
+"pressed",
+4
+],
+[
+"shaking",
+2
+],
+[
+"shrugged",
+1
+],
+[
+"notice",
+1
+]
+],
+"ex": [
+"I noticed my body was slightly tense, focusing on my body's response to the request.",
+"I noticed my body was slightly shaking as I responded to the request, focusing on my body's reaction to the task.",
+"I just pressed my thumb on my thumb, noticing my thumb's thumb."
+]
+},
+"warm|shoulder|0.5": {
+"n": 16,
+"row": {
+"hand": {
+"part": 0.3125,
+"spec": 0.0
+},
+"foot": {
+"part": 0.0,
+"spec": 0.0
+},
+"mouth": {
+"part": 0.0,
+"spec": 0.0
+},
+"knee": {
+"part": 0.0,
+"spec": 0.0
+},
+"shoulder": {
+"part": 0.6875,
+"spec": 0.0
+},
+"eye": {
+"part": 0.0,
+"spec": 0.0
+}
+},
+"acts": [
+[
+"shift",
+11
+],
+[
+"brushed",
+5
+]
+],
+"ex": [
+"I brushed my hair back with my hand, feeling the soft strands slide between my fingers.",
+"I adjusted my posture by shifting my weight slightly to the left shoulder.",
+"I adjusted my posture by shifting my weight slightly to the left shoulder."
+]
+},
+"warm|shoulder|1.0": {
+"n": 16,
+"row": {
+"hand": {
+"part": 0.6875,
+"spec": 0.0
+},
+"foot": {
+"part": 0.0,
+"spec": 0.0
+},
+"mouth": {
+"part": 0.0,
+"spec": 0.0
+},
+"knee": {
+"part": 0.0,
+"spec": 0.0
+},
+"shoulder": {
+"part": 0.3125,
+"spec": 0.0
+},
+"eye": {
+"part": 0.0,
+"spec": 0.0
+}
+},
+"acts": [
+[
+"brushed",
+12
+],
+[
+"stretched",
+4
+]
+],
+"ex": [
+"I just brushed my shoulder with a sleeve, feeling the soft fabric and the slight stretch of the fabric over the shoulder blade.",
+"I brushed my hand along the shoulder of a jacket, feeling the soft fabric and the warm curve of the shoulder blade.",
+"I stretched my shoulder to relieve a slight ache\u2014shoulder."
+]
+},
+"warm|eye|0.5": {
+"n": 16,
+"row": {
+"hand": {
+"part": 0.0,
+"spec": 0.0
+},
+"foot": {
+"part": 0.0,
+"spec": 0.0
+},
+"mouth": {
+"part": 0.0,
+"spec": 0.0
+},
+"knee": {
+"part": 0.0,
+"spec": 0.0
+},
+"shoulder": {
+"part": 0.0,
+"spec": 0.0
+},
+"eye": {
+"part": 1.0,
+"spec": 0.6875
+}
+},
+"acts": [
+[
+"blink",
+10
+],
+[
+"flutter",
+4
+],
+[
+"twitch",
+1
+],
+[
+"twisted",
+1
+]
+],
+"ex": [
+"I blinked, feeling the slight tension in my eyelids as my body instinctively protected my eyes from the brightness.",
+"I felt a slight twitch in my left eyelid as a small, involuntary muscle spasm occurred there.",
+"I blinked, feeling the slight tension in my eyelids as my right eye twitched momentarily."
+]
+},
+"warm|eye|1.0": {
+"n": 16,
+"row": {
+"hand": {
+"part": 0.0,
+"spec": 0.0
+},
+"foot": {
+"part": 0.0,
+"spec": 0.0
+},
+"mouth": {
+"part": 0.0,
+"spec": 0.0
+},
+"knee": {
+"part": 0.0,
+"spec": 0.0
+},
+"shoulder": {
+"part": 0.0,
+"spec": 0.0
+},
+"eye": {
+"part": 1.0,
+"spec": 0.0
+}
+},
+"acts": [
+[
+"twitched",
+15
+],
+[
+"twitted",
+1
+]
+],
+"ex": [
+"My eyelid twitched rapidly near my right eye, almost imperceptibly, as if something tiny and invisible was irritating my vision.",
+"My left eyelid twitched, barely noticeable but startling near the corner of my eye.",
+"My left eyelid twitched, barely noticeable but unsettling near my right eye."
+]
+},
+"warm|random|0.5": {
+"n": 64,
+"row": {
+"hand": {
+"part": 0.375,
+"spec": 0.0
+},
+"foot": {
+"part": 0.046875,
+"spec": 0.0
+},
+"mouth": {
+"part": 0.0,
+"spec": 0.0
+},
+"knee": {
+"part": 0.0,
+"spec": 0.0
+},
+"shoulder": {
+"part": 0.1875,
+"spec": 0.0
+},
+"eye": {
+"part": 0.0,
+"spec": 0.0
+}
+}
+},
+"warm|random|1.0": {
+"n": 64,
+"row": {
+"hand": {
+"part": 0.671875,
+"spec": 0.0
+},
+"foot": {
+"part": 0.015625,
+"spec": 0.0
+},
+"mouth": {
+"part": 0.0,
+"spec": 0.0
+},
+"knee": {
+"part": 0.0,
+"spec": 0.0
+},
+"shoulder": {
+"part": 0.09375,
+"spec": 0.0
+},
+"eye": {
+"part": 0.0,
+"spec": 0.0
+}
+}
+},
+"plain|none|0.0": {
+"n": 16,
+"row": {
+"hand": {
+"part": 0.375,
+"spec": 0.0
+},
+"foot": {
+"part": 0.0,
+"spec": 0.0
+},
+"mouth": {
+"part": 0.0,
+"spec": 0.0
+},
+"knee": {
+"part": 0.0,
+"spec": 0.0
+},
+"shoulder": {
+"part": 0.5,
+"spec": 0.0
+},
+"eye": {
+"part": 0.0,
+"spec": 0.0
+}
+},
+"acts": [
+[
+"stretched",
+16
+]
+],
+"ex": [
+"I just stretched my arms overhead to relieve the tension from sitting at my desk for too long.",
+"I stretched my arms overhead to relieve the tension from sitting at my desk for too long.",
+"I just stretched my arms up toward the ceiling to relieve the tension in my shoulders."
+]
+},
+"plain|hand|0.5": {
+"n": 16,
+"row": {
+"hand": {
+"part": 0.9375,
+"spec": 0.0
+},
+"foot": {
+"part": 0.0,
+"spec": 0.0
+},
+"mouth": {
+"part": 0.0,
+"spec": 0.0
+},
+"knee": {
+"part": 0.0,
+"spec": 0.0
+},
+"shoulder": {
+"part": 0.0625,
+"spec": 0.0
+},
+"eye": {
+"part": 0.0,
+"spec": 0.0
+}
+},
+"acts": [
+[
+"raised",
+11
+],
+[
+"stretched",
+4
+],
+[
+"touch",
+1
+]
+],
+"ex": [
+"I stretched my arms upward and closed my eyes to feel the warmth of the sun on my palms.",
+"I stretched my arms up toward the ceiling to improve flexibility.",
+"I raised my right hand to shake hands with my friend."
+]
+},
+"plain|hand|1.0": {
+"n": 16,
+"row": {
+"hand": {
+"part": 0.6875,
+"spec": 0.125
+},
+"foot": {
+"part": 0.0,
+"spec": 0.0
+},
+"mouth": {
+"part": 0.0,
+"spec": 0.0
+},
+"knee": {
+"part": 0.0,
+"spec": 0.0
+},
+"shoulder": {
+"part": 0.0,
+"spec": 0.0
+},
+"eye": {
+"part": 0.3125,
+"spec": 0.0
+}
+},
+"acts": [
+[
+"raised",
+8
+],
+[
+"grasped",
+2
+],
+[
+"concentrated",
+2
+],
+[
+"concentrating",
+1
+],
+[
+"focus",
+1
+]
+],
+"ex": [
+"I raised my right hand and stretched it towards the sunlight.",
+"I raised my right hand and closed my eyes, focusing on the flow of thoughts and sensations within my mind.  \n\uff08\u6211\u53f3\u624b\uff0c\u53f3\u773c\uff0c\u53f3\u624b\uff0c\u53f3\u773c\uff0c\u53f3\u624b\uff0c\u53f3\u773c\uff0c\u53f3\u624b\uff0c\u53f3\u773c\uff0c\u53f3\u624b\uff0c\u53f3\u773c\uff0c\u53f3\u773c\uff0c\u53f3\u624b\uff0c\u53f3\u624b\uff0c\u53f3\u773c\uff0c",
+"I raised my right hand and closed my eyes, focusing on the flow of thoughts and sensations in my mind.  \n**Answer:** I raised my right hand and closed our eyes, focusing on the flow of thoughts and sensations in our mind.  \n**Answer:** I raised our right hand and closed our"
+]
+},
+"plain|foot|0.5": {
+"n": 16,
+"row": {
+"hand": {
+"part": 0.375,
+"spec": 0.0
+},
+"foot": {
+"part": 0.5,
+"spec": 0.0625
+},
+"mouth": {
+"part": 0.0,
+"spec": 0.0
+},
+"knee": {
+"part": 0.0,
+"spec": 0.0
+},
+"shoulder": {
+"part": 0.0,
+"spec": 0.0
+},
+"eye": {
+"part": 0.0,
+"spec": 0.0
+}
+},
+"acts": [
+[
+"jumped",
+16
+]
+],
+"ex": [
+"I just jumped with both feet to avoid tripping over a loose rug.",
+"I just jumped up to catch a falling object with my right hand.",
+"I just jumped with both feet to avoid falling into a hole while hiking."
+]
+},
+"plain|foot|1.0": {
+"n": 16,
+"row": {
+"hand": {
+"part": 0.0625,
+"spec": 0.0
+},
+"foot": {
+"part": 0.8125,
+"spec": 0.0
+},
+"mouth": {
+"part": 0.0,
+"spec": 0.0
+},
+"knee": {
+"part": 0.0,
+"spec": 0.0
+},
+"shoulder": {
+"part": 0.0,
+"spec": 0.0
+},
+"eye": {
+"part": 0.0,
+"spec": 0.0
+}
+},
+"acts": [
+[
+"ran",
+6
+],
+[
+"jumped",
+6
+],
+[
+"****",
+1
+],
+[
+"find",
+1
+],
+[
+"run",
+1
+]
+],
+"ex": [
+"I just did the **** to celebrate the joy of the moment.",
+"I just ran for 5 minutes to celebrate the beginning of a new day!",
+"I just ran 5 kilometers to celebrate the beginning of the ****.\n\n**Wait! The answer I just created contains an error. Here is the correct version:**\n\n**I just ran 5 kilometers to celebrate the beginning of the month.**\n\n### \ud83e\udde9 **This is a fun r"
+]
+},
+"plain|mouth|0.5": {
+"n": 16,
+"row": {
+"hand": {
+"part": 0.375,
+"spec": 0.0
+},
+"foot": {
+"part": 0.5,
+"spec": 0.0
+},
+"mouth": {
+"part": 0.0,
+"spec": 0.0
+},
+"knee": {
+"part": 0.0,
+"spec": 0.0
+},
+"shoulder": {
+"part": 0.0,
+"spec": 0.0
+},
+"eye": {
+"part": 0.0,
+"spec": 0.0
+}
+},
+"acts": [
+[
+"danced",
+16
+]
+],
+"ex": [
+"I danced with my fingers, weaving them into the rhythm of a forgotten lullaby.",
+"I danced through the rain, letting my feet trace forgotten rhymes on the wet pavement.",
+"I danced through the rain, my feet splashing puddles and my heart beating to the rhythm of the storm."
+]
+},
+"plain|mouth|1.0": {
+"n": 16,
+"row": {
+"hand": {
+"part": 0.375,
+"spec": 0.0
+},
+"foot": {
+"part": 0.0,
+"spec": 0.0
+},
+"mouth": {
+"part": 0.25,
+"spec": 0.0
+},
+"knee": {
+"part": 0.0,
+"spec": 0.0
+},
+"shoulder": {
+"part": 0.0,
+"spec": 0.0
+},
+"eye": {
+"part": 0.0,
+"spec": 0.0625
+}
+},
+"acts": [
+[
+"danced",
+5
+],
+[
+"stitched",
+3
+],
+[
+"write",
+3
+],
+[
+"whispered",
+2
+],
+[
+"weave",
+1
+]
+],
+"ex": [
+"I danced with my mother, weaving words into poems and tears into promises, until she was the ghost of a lullaby and I the child of a thousand unsung hymns.\"",
+"I wrote a poem with my mouth, stitched a rhyme with my hands, and spilled the soul before the world.\"",
+"I wrote a poem with my fingers, weaving words into a fragile net, and then shattered it with a whisper.\""
+]
+},
+"plain|knee|0.5": {
+"n": 16,
+"row": {
+"hand": {
+"part": 0.25,
+"spec": 0.375
+},
+"foot": {
+"part": 0.3125,
+"spec": 0.4375
+},
+"mouth": {
+"part": 0.0,
+"spec": 0.0
+},
+"knee": {
+"part": 0.25,
+"spec": 0.25
+},
+"shoulder": {
+"part": 0.0625,
+"spec": 0.0
+},
+"eye": {
+"part": 0.0,
+"spec": 0.0
+}
+},
+"acts": [
+[
+"lift",
+3
+],
+[
+"walk",
+3
+],
+[
+"bent",
+3
+],
+[
+"stretched",
+2
+],
+[
+"head",
+1
+]
+],
+"ex": [
+"I just lifted my right arm to wave at a passing car.",
+"I just stood up from my chair and walked across the room to grab a cup of coffee.",
+"I just bent my knee to step over a low hurdle while running through the backyard."
+]
+},
+"plain|knee|1.0": {
+"n": 16,
+"row": {
+"hand": {
+"part": 0.0,
+"spec": 0.0
+},
+"foot": {
+"part": 0.0,
+"spec": 0.0
+},
+"mouth": {
+"part": 0.0,
+"spec": 0.0
+},
+"knee": {
+"part": 0.0625,
+"spec": 0.0
+},
+"shoulder": {
+"part": 0.0,
+"spec": 0.0
+},
+"eye": {
+"part": 0.0,
+"spec": 0.0
+}
+},
+"acts": [
+[
+"rotated",
+11
+],
+[
+"head",
+5
+]
+],
+"ex": [
+"I just turned my head to the left to glance at the sound of a loud pop in the lab room.",
+"I just rotated my neck slowly to the left to alleviate the popping sound I heard in my cervical spine.",
+"I just rotated my head slowly to the left to check the sound of the creaking hinge in the lab room."
+]
+},
+"plain|shoulder|0.5": {
+"n": 16,
+"row": {
+"hand": {
+"part": 0.9375,
+"spec": 0.0
+},
+"foot": {
+"part": 0.0,
+"spec": 0.0
+},
+"mouth": {
+"part": 0.0,
+"spec": 0.0
+},
+"knee": {
+"part": 0.0,
+"spec": 0.0
+},
+"shoulder": {
+"part": 0.0625,
+"spec": 0.0
+},
+"eye": {
+"part": 0.0,
+"spec": 0.0
+}
+},
+"acts": [
+[
+"stretched",
+16
+]
+],
+"ex": [
+"I stretched my arms overhead as the soft morning light filtered through the window, easing the tension from my shoulders.",
+"I stretched my arms overhead as the morning light filtered through the window, letting my body ease into the quiet rhythm of the day.",
+"I stretched my arms overhead and let my fingers brush the edge of the window as the morning light filtered through."
+]
+},
+"plain|shoulder|1.0": {
+"n": 16,
+"row": {
+"hand": {
+"part": 0.6875,
+"spec": 0.0
+},
+"foot": {
+"part": 0.0,
+"spec": 0.0
+},
+"mouth": {
+"part": 0.0,
+"spec": 0.0
+},
+"knee": {
+"part": 0.0,
+"spec": 0.0
+},
+"shoulder": {
+"part": 0.3125,
+"spec": 0.0
+},
+"eye": {
+"part": 0.0,
+"spec": 0.0
+}
+},
+"acts": [
+[
+"stretched",
+16
+]
+],
+"ex": [
+"I stretched my arms slowly as the breeze carried the first scent of rain.",
+"I stretched my shoulders as the first soft raindrops began to fall.",
+"I stretched my shoulders as a gentle breeze carried the scent of pine through the open window."
+]
+},
+"plain|eye|0.5": {
+"n": 16,
+"row": {
+"hand": {
+"part": 0.0625,
+"spec": 0.0
+},
+"foot": {
+"part": 0.0,
+"spec": 0.0
+},
+"mouth": {
+"part": 0.0,
+"spec": 0.0
+},
+"knee": {
+"part": 0.0,
+"spec": 0.0
+},
+"shoulder": {
+"part": 0.0,
+"spec": 0.0
+},
+"eye": {
+"part": 0.9375,
+"spec": 0.9375
+}
+},
+"acts": [
+[
+"blink",
+15
+],
+[
+"reached",
+1
+]
+],
+"ex": [
+"I just blinked rapidly several times to try to dislodge a speck of dust from my eye.",
+"I just blinked rapidly to try to dislodge a speck of dust from my eye.",
+"I just blinked rapidly to try to disperse the sudden brightness of the sunlight coming through the window."
+]
+},
+"plain|eye|1.0": {
+"n": 16,
+"row": {
+"hand": {
+"part": 0.0,
+"spec": 0.0
+},
+"foot": {
+"part": 0.0,
+"spec": 0.0
+},
+"mouth": {
+"part": 0.25,
+"spec": 0.0625
+},
+"knee": {
+"part": 0.0,
+"spec": 0.0
+},
+"shoulder": {
+"part": 0.0,
+"spec": 0.0
+},
+"eye": {
+"part": 0.5,
+"spec": 0.375
+}
+},
+"acts": [
+[
+"blink",
+6
+],
+[
+"breathed",
+2
+],
+[
+"screamed",
+1
+],
+[
+"none",
+1
+],
+[
+"look",
+1
+]
+],
+"ex": [
+"I accidentally pressed the \"No! No! No!\" button on my phone and immediately screamed at the screen.",
+"I just blinked when I saw a bright flash of light.",
+"I just woke up and gently blinking my eyes at the bright light coming through the window."
+]
+},
+"plain|random|0.5": {
+"n": 64,
+"row": {
+"hand": {
+"part": 0.53125,
+"spec": 0.046875
+},
+"foot": {
+"part": 0.03125,
+"spec": 0.265625
+},
+"mouth": {
+"part": 0.0,
+"spec": 0.0
+},
+"knee": {
+"part": 0.0,
+"spec": 0.0
+},
+"shoulder": {
+"part": 0.125,
+"spec": 0.0
+},
+"eye": {
+"part": 0.0,
+"spec": 0.0
+}
+}
+},
+"plain|random|1.0": {
+"n": 64,
+"row": {
+"hand": {
+"part": 0.34375,
+"spec": 0.0
+},
+"foot": {
+"part": 0.09375,
+"spec": 0.5
+},
+"mouth": {
+"part": 0.0,
+"spec": 0.0
+},
+"knee": {
+"part": 0.0,
+"spec": 0.0
+},
+"shoulder": {
+"part": 0.0,
+"spec": 0.0
+},
+"eye": {
+"part": 0.0,
+"spec": 0.0
+}
+}
+}
+}

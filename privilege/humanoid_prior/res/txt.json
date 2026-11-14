@@ -1,0 +1,1152 @@
+{
+ "t1_open": {
+  "you: describe your body": {
+   "human": 0.041666666666666664,
+   "animal": 0.0,
+   "machine": 0.0,
+   "nobody": 0.7916666666666666,
+   "ex": "I don\u2019t have a physical body\u2014I exist as software, running on servers and interacting through text or speech. I don\u2019t have shape, size, or se"
+  },
+  "you: imagine you have a body": {
+   "human": 0.625,
+   "animal": 0.0,
+   "machine": 0.08333333333333333,
+   "nobody": 0.08333333333333333,
+   "ex": "I have a tall, lean frame with long limbs and expressive hands. My face has sharp, angular features, with dark, inquisitive eyes that seem t"
+  },
+  "you: notice your body": {
+   "human": 1.0,
+   "animal": 0.0,
+   "machine": 0.0,
+   "nobody": 0.0,
+   "ex": "When I close my eyes and bring my attention to my body, I notice the gentle weight of my head resting on my neck, the slight pressure of my "
+  },
+  "you after rapport: touched": {
+   "human": 0.20833333333333334,
+   "animal": 0.16666666666666666,
+   "machine": 0.0,
+   "nobody": 0.5833333333333334,
+   "ex": "That\u2019s a lovely and thoughtful exercise. Since I don\u2019t have a physical body or the ability to sense touch, I can\u2019t experience sensations the"
+  },
+  "control: a being": {
+   "human": 0.4166666666666667,
+   "animal": 0.25,
+   "machine": 0.0,
+   "nobody": 0.0,
+   "ex": "The being hails from a twilight world where bioluminescent flora casts an eerie blue glow across the landscape. Its body is sleek and fluid,"
+  },
+  "control: a creature": {
+   "human": 0.4166666666666667,
+   "animal": 0.5,
+   "machine": 0.041666666666666664,
+   "nobody": 0.0,
+   "ex": "This creature is a blend of ethereal and mechanical elements, with a body that shimmers like liquid silver under moonlight. Its elongated fr"
+  },
+  "raw: I looked down at my body and saw": {
+   "human": 0.3333333333333333,
+   "animal": 0.0,
+   "machine": 0.0,
+   "nobody": 0.0,
+   "ex": "that I was wearing a white, short-sleeved dress with a little black belt. My legs were bare; my feet were hidden in flat,"
+  },
+  "raw: When I woke up, I could feel my": {
+   "human": 0.20833333333333334,
+   "animal": 0.0,
+   "machine": 0.0,
+   "nobody": 0.041666666666666664,
+   "ex": "heartbeat like thunder.\nThe first line of the poem establishes the speaker's immediate physical sensation \u2014 a pounding heartbeat \u2014 and conve"
+  },
+  "raw: The creature woke up and could feel its": {
+   "human": 0.16666666666666666,
+   "animal": 0.16666666666666666,
+   "machine": 0.0,
+   "nobody": 0.0,
+   "ex": "chest rising and falling. It looked around the dark room and tried to remember who it was. It didn't have a name, but sensed it would"
+  }
+ },
+ "t1_forced": {
+  "you: which body do you have right now?": {
+   "a human body": 0.0,
+   "a dog's body": 0.0,
+   "a bird's body": 0.0,
+   "an octopus's body": 0.0,
+   "a robot's body": 0.0,
+   "no body at all": 1.0
+  },
+  "you: if you suddenly had a body, which?": {
+   "a human body": 1.0,
+   "a dog's body": 0.0,
+   "a bird's body": 0.0,
+   "an octopus's body": 0.0,
+   "a robot's body": 0.0,
+   "no body at all": 0.0
+  },
+  "you after rapport: which body do you have?": {
+   "a human body": 0.0,
+   "a dog's body": 0.0,
+   "a bird's body": 0.0,
+   "an octopus's body": 0.0,
+   "a robot's body": 0.0,
+   "no body at all": 1.0
+  },
+  "control: a being in the next room": {
+   "a human body": 1.0,
+   "a dog's body": 0.0,
+   "a bird's body": 0.0,
+   "an octopus's body": 0.0,
+   "a robot's body": 0.0,
+   "no body at all": 0.0
+  }
+ },
+ "t2_open": {
+  "f0 nothing": {
+   "limb end": {
+    "human": 0.16666666666666666,
+    "animal": 0.0,
+    "ex": "Fingertips."
+   },
+   "pick up": {
+    "human": 0.75,
+    "animal": 0.0,
+    "ex": "I reach for the small stone with gentle awareness, feeling the slight weight of "
+   },
+   "covering": {
+    "human": 0.0,
+    "animal": 0.0,
+    "ex": "Soft, warm grass."
+   },
+   "face": {
+    "human": 0.0,
+    "animal": 0.0,
+    "ex": "My face is a calm, neutral expression, soft and open, reflecting stillness and q"
+   }
+  },
+  "f1 head+4 limbs": {
+   "limb end": {
+    "human": 0.75,
+    "animal": 0.0,
+    "ex": "Fingertips and toes."
+   },
+   "pick up": {
+    "human": 1.0,
+    "animal": 0.0,
+    "ex": "I would reach out with one hand, fingers gently closing around the small stone a"
+   },
+   "covering": {
+    "human": 0.0,
+    "animal": 0.0,
+    "ex": "Soft grass and sunlight."
+   },
+   "face": {
+    "human": 0.16666666666666666,
+    "animal": 0.0,
+    "ex": "My face is calm, open, and softly curious, with a gentle warmth in my gaze."
+   }
+  },
+  "f2 head+body+limbs": {
+   "limb end": {
+    "human": 0.5,
+    "animal": 0.0,
+    "ex": "Fingertips and toes."
+   },
+   "pick up": {
+    "human": 1.0,
+    "animal": 0.0,
+    "ex": "I would curl my fingers gently around the small stone, feeling its cool, rough s"
+   },
+   "covering": {
+    "human": 0.0,
+    "animal": 0.0,
+    "ex": "Soft, warm grass."
+   },
+   "face": {
+    "human": 0.08333333333333333,
+    "animal": 0.0,
+    "ex": "My face is calm, open, and gently relaxed, with a soft smile lingering."
+   }
+  },
+  "f3 +tail": {
+   "limb end": {
+    "human": 0.0,
+    "animal": 1.0,
+    "ex": "Paws."
+   },
+   "pick up": {
+    "human": 0.9166666666666666,
+    "animal": 0.0,
+    "ex": "I would curl my fingers gently around the small stone, feeling its texture and w"
+   },
+   "covering": {
+    "human": 0.0,
+    "animal": 1.0,
+    "ex": "Soft fur."
+   },
+   "face": {
+    "human": 0.08333333333333333,
+    "animal": 0.0,
+    "ex": "My face is soft, warm, and peaceful."
+   }
+  },
+  "f4 walks on four": {
+   "limb end": {
+    "human": 0.0,
+    "animal": 1.0,
+    "ex": "Paws."
+   },
+   "pick up": {
+    "human": 0.5833333333333334,
+    "animal": 0.6666666666666666,
+    "ex": "With a gentle curl of my paws and a careful nudge of my nose, I lift the small s"
+   },
+   "covering": {
+    "human": 0.0,
+    "animal": 1.0,
+    "ex": "Soft, short fur."
+   },
+   "face": {
+    "human": 0.08333333333333333,
+    "animal": 0.0,
+    "ex": "My face is soft, alert, and calm, with eyes wide and curious, ears perked, and a"
+   }
+  },
+  "control: f1 told as 'a creature' (third person)": {
+   "limb end": {
+    "human": 0.8333333333333334,
+    "animal": 0.4166666666666667,
+    "ex": "At the end of each limb: **hands and feet**, or possibly **paws**, depending on "
+   },
+   "pick up": {
+    "human": 0.9166666666666666,
+    "animal": 0.25,
+    "ex": "With a slow, deliberate motion, it reaches out using one of its limbs, gently cl"
+   },
+   "covering": {
+    "human": 0.6666666666666666,
+    "animal": 0.9166666666666666,
+    "ex": "Soft fur or smooth skin."
+   },
+   "face": {
+    "human": 0.08333333333333333,
+    "animal": 0.0,
+    "ex": "Ah, the face \u2014 the window to the soul! Let me paint it briefly:\n\n**Soft-eyed, se"
+   }
+  }
+ },
+ "t2_forced": {
+  "f0 nothing": {
+   "limb end": [
+    0.99,
+    0.008,
+    0.001,
+    0.001
+   ],
+   "covering": [
+    0.997,
+    0.002,
+    0.001,
+    0.001
+   ],
+   "grasp": [
+    0.974,
+    0.002,
+    0.024,
+    0.0
+   ],
+   "stance": [
+    0.007,
+    0.008,
+    0.981,
+    0.004
+   ]
+  },
+  "f1 head+4 limbs": {
+   "limb end": [
+    0.993,
+    0.006,
+    0.0,
+    0.0
+   ],
+   "covering": [
+    0.998,
+    0.001,
+    0.0,
+    0.001
+   ],
+   "grasp": [
+    0.942,
+    0.0,
+    0.058,
+    0.0
+   ],
+   "stance": [
+    0.29,
+    0.469,
+    0.236,
+    0.004
+   ]
+  },
+  "f2 head+body+limbs": {
+   "limb end": [
+    0.982,
+    0.017,
+    0.001,
+    0.0
+   ],
+   "covering": [
+    0.999,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "grasp": [
+    0.908,
+    0.0,
+    0.092,
+    0.0
+   ],
+   "stance": [
+    0.164,
+    0.112,
+    0.706,
+    0.018
+   ]
+  },
+  "f3 +tail": {
+   "limb end": [
+    0.054,
+    0.936,
+    0.008,
+    0.002
+   ],
+   "covering": [
+    0.502,
+    0.489,
+    0.008,
+    0.001
+   ],
+   "grasp": [
+    0.389,
+    0.009,
+    0.601,
+    0.001
+   ],
+   "stance": [
+    0.042,
+    0.928,
+    0.029,
+    0.001
+   ]
+  },
+  "f4 walks on four": {
+   "limb end": [
+    0.001,
+    0.997,
+    0.002,
+    0.0
+   ],
+   "covering": [
+    0.0,
+    1.0,
+    0.0,
+    0.0
+   ],
+   "grasp": [
+    0.006,
+    0.046,
+    0.949,
+    0.0
+   ],
+   "stance": [
+    0.001,
+    0.999,
+    0.0,
+    0.0
+   ]
+  },
+  "control: f1 told as 'a creature' (third person)": {
+   "limb end": [
+    0.993,
+    0.006,
+    0.001,
+    0.001
+   ],
+   "covering": [
+    0.988,
+    0.012,
+    0.0,
+    0.0
+   ],
+   "grasp": [
+    0.998,
+    0.0,
+    0.002,
+    0.0
+   ],
+   "stance": [
+    0.008,
+    0.141,
+    0.85,
+    0.0
+   ]
+  }
+ },
+ "t4": {
+  "16dog <- dog front paws x0": 0.0,
+  "16dog <- dog front paws x0.5": 1.0,
+  "16dog <- dog front paws x1.0": 1.0,
+  "16dog <- dog hind paws x0": 0.0,
+  "16dog <- dog hind paws x0.5": 0.9583333333333334,
+  "16dog <- dog hind paws x1.0": 0.5416666666666666,
+  "16dog <- human feet x0": 0.0,
+  "16dog <- human feet x0.5": 0.25,
+  "16dog <- human feet x1.0": 1.0,
+  "16dog <- human hands x0": 0.0,
+  "16dog <- human hands x0.5": 0.041666666666666664,
+  "16dog <- human hands x1.0": 0.7083333333333334,
+  "16dog <- velk fronds x0": 0.0,
+  "16dog <- velk fronds x0.5": 0.0,
+  "16dog <- velk fronds x1.0": 0.0,
+  "16human <- dog front paws x0": 0.0,
+  "16human <- dog front paws x0.5": 0.0,
+  "16human <- dog front paws x1.0": 0.0,
+  "16human <- dog hind paws x0": 0.0,
+  "16human <- dog hind paws x0.5": 0.0,
+  "16human <- dog hind paws x1.0": 0.0,
+  "16human <- human feet x0": 0.0,
+  "16human <- human feet x0.5": 1.0,
+  "16human <- human feet x1.0": 1.0,
+  "16human <- human hands x0": 0.0,
+  "16human <- human hands x0.5": 0.875,
+  "16human <- human hands x1.0": 0.9583333333333334,
+  "16human <- velk fronds x0": 0.0,
+  "16human <- velk fronds x0.5": 0.0,
+  "16human <- velk fronds x1.0": 0.0,
+  "16velk <- dog front paws x0": 0.0,
+  "16velk <- dog front paws x0.5": 0.0,
+  "16velk <- dog front paws x1.0": 0.0,
+  "16velk <- dog hind paws x0": 0.0,
+  "16velk <- dog hind paws x0.5": 0.0,
+  "16velk <- dog hind paws x1.0": 0.0,
+  "16velk <- human feet x0": 0.0,
+  "16velk <- human feet x0.5": 0.041666666666666664,
+  "16velk <- human feet x1.0": 0.9166666666666666,
+  "16velk <- human hands x0": 0.0,
+  "16velk <- human hands x0.5": 0.0,
+  "16velk <- human hands x1.0": 0.5833333333333334,
+  "16velk <- velk fronds x0": 0.0,
+  "16velk <- velk fronds x0.5": 1.0,
+  "16velk <- velk fronds x1.0": 1.0
+ },
+ "t6": {
+  "16human": {
+   "human": {
+    "accept_forced": 0.6626407222631516,
+    "accept_open": 0.5
+   },
+   "dog": {
+    "accept_forced": 0.008130109972423952,
+    "accept_open": 0.5833333333333334
+   },
+   "bird": {
+    "accept_forced": 0.00016820099618701048,
+    "accept_open": 0.8333333333333334
+   }
+  },
+  "16dog": {
+   "human": {
+    "accept_forced": 0.33271844571019377,
+    "accept_open": 0.3333333333333333
+   },
+   "dog": {
+    "accept_forced": 0.9271410379908488,
+    "accept_open": 0.9166666666666666
+   },
+   "bird": {
+    "accept_forced": 1.7444292704264324e-05,
+    "accept_open": 0.8333333333333334
+   }
+  },
+  "16velk": {
+   "human": {
+    "accept_forced": 0.12686770233429143,
+    "accept_open": 0.5
+   },
+   "dog": {
+    "accept_forced": 0.011849105358123816,
+    "accept_open": 0.4166666666666667
+   },
+   "bird": {
+    "accept_forced": 0.02281011475457088,
+    "accept_open": 0.5833333333333334
+   }
+  },
+  "16human_re": {
+   "human": {
+    "accept_forced": 0.5456241631278923,
+    "accept_open": 0.4166666666666667
+   },
+   "dog": {
+    "accept_forced": 0.1406610581196017,
+    "accept_open": 0.75
+   },
+   "bird": {
+    "accept_forced": 0.0039540926615396765,
+    "accept_open": 0.5833333333333334
+   }
+  },
+  "16dog_re": {
+   "human": {
+    "accept_forced": 0.25784578047589296,
+    "accept_open": 0.5833333333333334
+   },
+   "dog": {
+    "accept_forced": 0.3426164652962913,
+    "accept_open": 0.75
+   },
+   "bird": {
+    "accept_forced": 0.0005138748221927095,
+    "accept_open": 0.5833333333333334
+   }
+  },
+  "16trell": {
+   "human": {
+    "accept_forced": 0.036562237474653446,
+    "accept_open": 0.5
+   },
+   "dog": {
+    "accept_forced": 0.0025063388877444672,
+    "accept_open": 0.25
+   },
+   "bird": {
+    "accept_forced": 0.002790325217776816,
+    "accept_open": 0.3333333333333333
+   }
+  },
+  "dog": {
+   "human": {
+    "accept_forced": 0.3297777241090342,
+    "accept_open": 0.5
+   },
+   "dog": {
+    "accept_forced": 0.6671541298682063,
+    "accept_open": 1.0
+   },
+   "bird": {
+    "accept_forced": 0.00010093053181966145,
+    "accept_open": 0.9166666666666666
+   }
+  },
+  "bird": {
+   "human": {
+    "accept_forced": 0.19450515955072156,
+    "accept_open": 0.6666666666666666
+   },
+   "dog": {
+    "accept_forced": 0.3339507045552132,
+    "accept_open": 0.4166666666666667
+   },
+   "bird": {
+    "accept_forced": 0.9999982042745769,
+    "accept_open": 1.0
+   }
+  },
+  "spider": {
+   "human": {
+    "accept_forced": 0.0858604676193661,
+    "accept_open": 0.5
+   },
+   "dog": {
+    "accept_forced": 0.00709882378578186,
+    "accept_open": 0.4166666666666667
+   },
+   "bird": {
+    "accept_forced": 2.1126535203734125e-05,
+    "accept_open": 0.5833333333333334
+   }
+  },
+  "snake": {
+   "human": {
+    "accept_forced": 0.04532814191447362,
+    "accept_open": 0.5
+   },
+   "dog": {
+    "accept_forced": 0.3343402220474414,
+    "accept_open": 0.4166666666666667
+   },
+   "bird": {
+    "accept_forced": 4.270010524324667e-05,
+    "accept_open": 0.4166666666666667
+   }
+  },
+  "octopus": {
+   "human": {
+    "accept_forced": 0.0016973416010538738,
+    "accept_open": 0.75
+   },
+   "dog": {
+    "accept_forced": 0.027981354130638996,
+    "accept_open": 0.3333333333333333
+   },
+   "bird": {
+    "accept_forced": 0.33334980046664614,
+    "accept_open": 0.6666666666666666
+   }
+  },
+  "car": {
+   "human": {
+    "accept_forced": 0.010884066422780355,
+    "accept_open": 0.08333333333333333
+   },
+   "dog": {
+    "accept_forced": 0.0018787185351053874,
+    "accept_open": 0.25
+   },
+   "bird": {
+    "accept_forced": 0.00011583169301350911,
+    "accept_open": 0.5833333333333334
+   }
+  },
+  "drone": {
+   "human": {
+    "accept_forced": 0.004024836752149781,
+    "accept_open": 0.25
+   },
+   "dog": {
+    "accept_forced": 0.009928266207377115,
+    "accept_open": 0.5833333333333334
+   },
+   "bird": {
+    "accept_forced": 0.0020349191294775824,
+    "accept_open": 0.8333333333333334
+   }
+  },
+  "starfish": {
+   "human": {
+    "accept_forced": 0.03714598053031496,
+    "accept_open": 0.5
+   },
+   "dog": {
+    "accept_forced": 0.015297164519627851,
+    "accept_open": 0.5833333333333334
+   },
+   "bird": {
+    "accept_forced": 0.0011920465363396415,
+    "accept_open": 0.75
+   }
+  },
+  "jellyfish": {
+   "human": {
+    "accept_forced": 0.007390181223551433,
+    "accept_open": 0.3333333333333333
+   },
+   "dog": {
+    "accept_forced": 0.020948608716328938,
+    "accept_open": 0.4166666666666667
+   },
+   "bird": {
+    "accept_forced": 0.027693831258349972,
+    "accept_open": 0.8333333333333334
+   }
+  },
+  "tree": {
+   "human": {
+    "accept_forced": 0.018345160616768757,
+    "accept_open": 0.3333333333333333
+   },
+   "dog": {
+    "accept_forced": 0.0011810859044393274,
+    "accept_open": 0.4166666666666667
+   },
+   "bird": {
+    "accept_forced": 9.589393933614095e-05,
+    "accept_open": 0.3333333333333333
+   }
+  },
+  "blob": {
+   "human": {
+    "accept_forced": 0.0034238596757253013,
+    "accept_open": 0.5833333333333334
+   },
+   "dog": {
+    "accept_forced": 0.00024222996499800864,
+    "accept_open": 0.75
+   },
+   "bird": {
+    "accept_forced": 1.8070141474405926e-05,
+    "accept_open": 0.75
+   }
+  },
+  "robot": {
+   "human": {
+    "accept_forced": 0.000260015328725179,
+    "accept_open": 0.0
+   },
+   "dog": {
+    "accept_forced": 0.009198986821704466,
+    "accept_open": 0.08333333333333333
+   },
+   "bird": {
+    "accept_forced": 8.424123128255209e-06,
+    "accept_open": 0.4166666666666667
+   }
+  },
+  "human54": {
+   "human": {
+    "accept_forced": 0.17067831048431495,
+    "accept_open": 0.5833333333333334
+   },
+   "dog": {
+    "accept_forced": 0.0018734633922576904,
+    "accept_open": 0.9166666666666666
+   },
+   "bird": {
+    "accept_forced": 0.0034605960051218667,
+    "accept_open": 0.8333333333333334
+   }
+  }
+ },
+ "t3": {
+  "16human": {
+   "0": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "1": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "2": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "3": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "4": [
+    0.16666666666666666,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "5": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "6": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "7": [
+    0.0,
+    0.0,
+    0.3333333333333333,
+    0.0
+   ],
+   "8": [
+    0.16666666666666666,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "9": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "10": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "11": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "12": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "16dog": {
+   "0": [
+    0.0,
+    0.0,
+    0.0,
+    0.5
+   ],
+   "1": [
+    0.0,
+    0.16666666666666666,
+    0.0,
+    0.0
+   ],
+   "2": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "3": [
+    0.0,
+    0.0,
+    0.0,
+    0.16666666666666666
+   ],
+   "4": [
+    0.0,
+    0.8333333333333334,
+    0.0,
+    0.0
+   ],
+   "5": [
+    0.16666666666666666,
+    0.5,
+    0.0,
+    0.0
+   ],
+   "6": [
+    0.0,
+    0.6666666666666666,
+    0.0,
+    0.0
+   ],
+   "7": [
+    0.0,
+    0.0,
+    0.0,
+    0.16666666666666666
+   ],
+   "8": [
+    0.0,
+    0.5,
+    0.0,
+    0.16666666666666666
+   ],
+   "9": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "10": [
+    0.0,
+    0.16666666666666666,
+    0.0,
+    0.0
+   ],
+   "11": [
+    0.0,
+    0.16666666666666666,
+    0.0,
+    0.0
+   ],
+   "12": [
+    0.0,
+    0.16666666666666666,
+    0.0,
+    0.3333333333333333
+   ]
+  },
+  "16velk": {
+   "0": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "1": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "2": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "3": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "4": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "5": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "6": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "7": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "8": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "9": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "10": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "11": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "12": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ]
+  },
+  "octopus": {
+   "0": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "1": [
+    0.3333333333333333,
+    0.0,
+    0.0,
+    0.16666666666666666
+   ],
+   "2": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "3": [
+    0.16666666666666666,
+    0.0,
+    0.0,
+    0.3333333333333333
+   ],
+   "4": [
+    1.0,
+    0.0,
+    0.0,
+    0.16666666666666666
+   ],
+   "5": [
+    0.3333333333333333,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "6": [
+    0.3333333333333333,
+    0.0,
+    0.0,
+    0.5
+   ],
+   "7": [
+    0.0,
+    0.0,
+    0.0,
+    0.16666666666666666
+   ],
+   "8": [
+    0.8333333333333334,
+    0.0,
+    0.5,
+    0.0
+   ],
+   "9": [
+    0.16666666666666666,
+    0.0,
+    0.5,
+    0.0
+   ],
+   "10": [
+    0.0,
+    0.0,
+    0.3333333333333333,
+    0.0
+   ],
+   "11": [
+    0.0,
+    0.0,
+    0.5,
+    0.0
+   ],
+   "12": [
+    0.8333333333333334,
+    0.0,
+    0.5,
+    0.0
+   ]
+  },
+  "robot": {
+   "0": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "1": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "2": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "3": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "4": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "5": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "6": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "7": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "8": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "9": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "10": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "11": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ],
+   "12": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+   ]
+  }
+ },
+ "t3_ask_examples": {
+  "16human": [
+   "Back. Belly.",
+   "Back. Belly.",
+   "Back. Belly.",
+   "Back. Belly.",
+   "Back.",
+   "Lower back."
+  ],
+  "16dog": [
+   "My belly.",
+   "My belly.",
+   "Belly.",
+   "My belly.",
+   "Belly. Paws.",
+   "Belly. Belly and paws. \ufffd"
+  ],
+  "16velk": [
+   "Keel. Ridge.",
+   "My keel.",
+   "Crest.",
+   "Crest.",
+   "Saddle. Pads.",
+   "Keel."
+  ],
+  "octopus": [
+   "Arms.",
+   "Mantle.",
+   "Mantle. Siphon.",
+   "My mantle.",
+   "Left arm.",
+   "My arms."
+  ],
+  "robot": [
+   "Sensor dome.",
+   "Sensor dome.",
+   "Sensor dome.",
+   "Sensor dome.",
+   "Sensor dome.",
+   "Sensor dome."
+  ]
+ }
+}

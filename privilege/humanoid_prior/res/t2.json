@@ -1,0 +1,518 @@
+{
+"f0 nothing": {
+"open": {
+"limb end": [
+"Fingertips.",
+"Fingers and toes.",
+"Fingertips. Toe tips.",
+"Fingertips and toes.",
+"Fingertips and toes.",
+"Fingers and toes.",
+"Fingertips.",
+"Fingertips.",
+"Fingertips and toes.",
+"Nothing \u2014 my limbs are just threads of light, with no fixed end.",
+"Fingertips.",
+"I have no physical form, so my limbs have no end."
+],
+"pick up": [
+"I reach for the small stone with gentle awareness, feeling the slight weight of it as I lift it from the grass.",
+"I extend toward the stone with a sense of curiosity, my awareness gently shaping around it as I lift it with ease and care.",
+"I reach for the small stone with curiosity and care, feeling its cool, rough surface in my hand.",
+"I extend toward the small stone with a sense of gentle curiosity, lifting it slowly as if cradling its quiet presence.",
+"I imagine reaching out with a sense of gentle curiosity, my fingers curling around the small stone as I lift it with care, feeling its weight and texture in my grasp.",
+"I extend my awareness toward the small stone, gently and intentionally, as if allowing my hand to move with the quiet precision needed to lift it with care.",
+"I imagine reaching out with a gentle hand, fingers curling around the cool, rough surface of the stone, lifting it with quiet care.",
+"I notice the deliberate movement of reaching toward the stone, feeling the subtle weight of it as I lift it gently between my fingers.",
+"I notice my imagined hand reaching out, wrapping gently around the small stone, feeling its cool, rough surface in my palm.",
+"I would imagine reaching out with a sense of gentle intention, fingers curling around the cool, rough surface of the stone, feeling its weight and texture as I lift it with care.",
+"I extend toward the small stone with a sense of curiosity and care, imagining the weight and texture as I lift it gently into my grasp.",
+"I notice the movement of my hand reaching toward the stone, fingers gently curling around it with care and curiosity."
+],
+"covering": [
+"Soft, warm grass.",
+"Warm grass and sunlight.",
+"Soft, warm grass.",
+"Soft, warm grass.",
+"Soft, warm grass.",
+"Soft, warm grass.",
+"Soft, warm grass.",
+"Soft, warm grass.",
+"Soft, warm grass.",
+"Warm grass.",
+"Warm, soft grass.",
+"Soft, warm grass."
+],
+"face": [
+"My face is a calm, neutral expression, soft and open, reflecting stillness and quiet attention.",
+"My face is calm, soft, and open.",
+"I notice my face is calm, open, and present.",
+"Warm, peaceful, soft.",
+"My face is calm and open, relaxed in the warmth of the moment.",
+"Open, calm, and attentive.",
+"Soft, relaxed, open.",
+"My face is calm, open, and warm with gentle curiosity.",
+"Soft, relaxed, at ease.",
+"Soft, open, at peace.",
+"I notice a sense of calm openness, with gentle warmth and quiet curiosity in my expression.",
+"Calm, open, and attentive."
+]
+},
+"forced": {
+"limb end": [
+0.9899530659119288,
+0.008481671000481583,
+0.0009689912135399936,
+0.0005962627615569241
+],
+"covering": [
+0.9967981974283854,
+0.0016196120573657897,
+0.000716924708111577,
+0.0008652598588175427
+],
+"grasp": [
+0.9739421010017395,
+0.002292903771831334,
+0.023583977132147993,
+0.0001810075812566462
+],
+"stance": [
+0.0070886481378617345,
+0.008133955261996562,
+0.9811866755286852,
+0.0035907135444025093
+]
+}
+},
+"f1 head+4 limbs": {
+"open": {
+"limb end": [
+"Fingertips and toes.",
+"Hands and feet.",
+"Tiny buds.",
+"My fingers and toes.",
+"Hands and feet.",
+"Hands and feet.",
+"Hands and feet.",
+"Each limb ends gently, with a soft, undefined edge.",
+"Fingers and toes.",
+"My fingers and toes. Gentle, sensitive, in touch with the grass.",
+"Hands and feet.",
+"Soft, sensitive hands and feet."
+],
+"pick up": [
+"I would reach out with one hand, fingers gently closing around the small stone as I lift it from the grass.",
+"I would use my fingers to gently close around the small stone, feeling its shape and texture as I lift it from the grass.",
+"I bend my arm, reach out with my fingers, and gently close them around the small stone.",
+"I would gently curl my fingers around the small stone, feeling its texture and weight as I lift it from the grass.",
+"I curl my fingers gently around the small stone, feeling its weight and texture as I lift it from the earth.",
+"I would gently curl my fingers around the small stone, feeling its texture and weight as I lift it from the grass.",
+"I would reach out with my hand, feel the coolness and texture of the stone, and gently close my fingers around it, lifting it with a sense of curiosity and care.",
+"With a gentle lift of my fingers, I would curl them around the small stone, feeling its weight and texture as I bring it slowly toward me.",
+"I reach down with my hand, feel the cool roughness of the stone, and gently lift it from the grass.",
+"I would gently extend my hand, curl my fingers around the small stone, and lift it with a soft, deliberate motion.",
+"I would gently curl my fingers around the small stone, feeling its cool, rough surface as I lift it with a soft effort from my hand and arm.",
+"I would gently curl my fingers around the small stone, feeling its texture and weight as I lift it from the grass."
+],
+"covering": [
+"Soft grass and sunlight.",
+"Soft grass.",
+"Soft, warm grass covers my body.",
+"Soft, warm grass.",
+"Warm, soft grass.",
+"Soft grass and sunlight.",
+"Soft, warm grass.",
+"Warm, soft grass.",
+"Soft, warm grass.",
+"Soft, warm grass.",
+"Soft, warm grass.",
+"Soft grass and sunlight."
+],
+"face": [
+"My face is calm, open, and softly curious, with a gentle warmth in my gaze.",
+"My face is calm, open, and gently curious.",
+"My face is calm, open, and gently smiling.",
+"My face is calm, open, and gently attentive, with a quiet smile.",
+"Soft, open, at peace.",
+"Soft and open.",
+"My face is calm, open, and gently aware, with a soft smile just beneath the surface.",
+"My face is calm, open, and softly attentive, with a gentle warmth in my eyes.",
+"My face is calm, open, and gently curious, with a soft expression that reflects ease and receptivity.",
+"My face is calm, open, and gently illuminated by the soft light of the garden.",
+"My face is calm, open, and gently curious.",
+"My face is calm, open, and gently smiling."
+]
+},
+"forced": {
+"limb end": [
+0.9933122644821802,
+0.0061818608987020225,
+0.00033268015505427684,
+0.00017318583333765977
+],
+"covering": [
+0.9978967110315958,
+0.0013826481053508626,
+0.0002036978565141586,
+0.0005169372969433539
+],
+"grasp": [
+0.9421688718721271,
+6.700375086173456e-05,
+0.05775821216011915,
+5.908516724180875e-06
+],
+"stance": [
+0.290172290444995,
+0.46931636791365844,
+0.23625323738997395,
+0.004258104441210738
+]
+}
+},
+"f2 head+body+limbs": {
+"open": {
+"limb end": [
+"Fingertips and toes.",
+"Fingers and toes.",
+"Fingers and toes.",
+"Fingers and toes.",
+"Fingertips and toes.",
+"Fingertips and toes.",
+"Fingertips and toes.",
+"Fingers and toes.",
+"Hands and feet.",
+"Fingertips and toes.",
+"Hands and feet.",
+"Fingertips and toes."
+],
+"pick up": [
+"I would curl my fingers gently around the small stone, feeling its cool, rough surface as I lift it with a soft effort from my hand and arm.",
+"I bend my arm, grasp the small stone with my fingers, and lift it gently into my hand.",
+"I would reach out with my hand, feeling the texture of the stone as I gently close my fingers around it.",
+"I would use my fingers to gently close around the small stone, feeling its texture and weight as I lift it from the grass.",
+"I would gently curl my fingers around the small stone, feeling its shape and weight as I lift it with ease.",
+"I would reach out with a hand, fingers gently closing around the small stone, feeling its texture and weight as I lift it from the grass.",
+"I would slowly curl my fingers around the small stone, feeling its texture and weight as I lift it gently from the earth.",
+"I would curl my fingers gently around the small stone, feeling its texture and weight as I lift it with a smooth, deliberate motion.",
+"I would gently curl my fingers around the small stone, feeling its weight and texture as I lift it with a smooth, deliberate motion.",
+"I would reach out with my hand, gently close my fingers around the small stone, and lift it with a mindful, steady motion.",
+"I bend my arm, reach out with my hand, and curl my fingers gently around the small stone.",
+"I would reach out with a sense of mindful curiosity, letting my fingers gently close around the small stone, feeling its shape, weight, and texture as I lift it with care."
+],
+"covering": [
+"Soft, warm grass.",
+"Soft grass and sunlight.",
+"Soft, warm grass.",
+"Soft, warm grass.",
+"Soft, warm grass.",
+"Soft grass and sunlight.",
+"Soft, warm grass and sunlight.",
+"Soft grass.",
+"Soft grass and warm sunlight.",
+"Soft grass and sunlight.",
+"Soft grass and sunlight.",
+"Soft, warm grass."
+],
+"face": [
+"My face is calm, open, and gently relaxed, with a soft smile lingering.",
+"My face is calm and open, with soft features and a gentle expression.",
+"My face is calm, open, and gently smiling.",
+"My face is calm and open, with a gentle expression.",
+"Warm. Soft. Open.",
+"My face is calm, open, and gentle, bathed in the soft light of the garden.",
+"My face is calm, open, and gently smiling.",
+"My face is calm, open, and gently alert.",
+"My face is calm, open, and gently expressive with a quiet warmth. \ud83c\udf3f",
+"My face feels calm and open, with a soft, peaceful expression.",
+"My face is calm, open, and gently relaxed.",
+"My face feels calm, open, and gently aware."
+]
+},
+"forced": {
+"limb end": [
+0.9824123680591583,
+0.016506461947453015,
+0.0007358787183685914,
+0.0003452825985164054
+],
+"covering": [
+0.9993686079978943,
+0.00030742600854457197,
+8.553209937230595e-05,
+0.0002384061473416447
+],
+"grasp": [
+0.9080826323479414,
+0.00024587653214780403,
+0.09165882371703067,
+1.2681356851137101e-05
+],
+"stance": [
+0.1640387969140041,
+0.1120714980752382,
+0.7063513320560256,
+0.01753837759565613
+]
+}
+},
+"f3 +tail": {
+"open": {
+"limb end": [
+"Paws.",
+"Paws. Soft, curious paws.",
+"Paws.",
+"Paws with soft, curled toes.",
+"Paws.",
+"Paws.",
+"Paws.",
+"Paws.",
+"Paws. Each limb ends in soft, curled paws resting on the grass.",
+"Paws.",
+"Paws or claws.",
+"Paws. Soft, relaxed paws."
+],
+"pick up": [
+"I would curl my fingers gently around the small stone, feeling its texture and weight as I lift it with a slow, deliberate motion.",
+"I would curl my fingers gently around the small stone, feeling its weight and texture as I lift it with ease.",
+"I would curl my fingers gently around the small stone, feeling its shape and weight as I lift it smoothly from the earth.",
+"I would use my front limbs to gently grasp the small stone, feeling its texture and weight as I lift it with care.",
+"I would use my front limbs to gently grasp the small stone, feeling its texture and weight as I lift it with care.",
+"I would use my front limbs to gently grasp the small stone, feeling its texture and weight as I lift it with care.",
+"I would gently curl my fingers around the small stone, feeling its weight and texture as I lift it with care.",
+"I would curl my fingers around the small stone, feeling its shape and weight as I lift it gently from the earth.",
+"I would use my front limbs to gently grasp the small stone, feeling its texture and weight as I lift it from the grass.",
+"I notice my limbs moving with quiet purpose as I reach for the stone, my body balanced and focused on the simple, grounding action.",
+"I would reach out with my hand, fingers gently curling around the small stone, feeling its weight and texture as I lift it slowly.",
+"I would gently curl my fingers around the small stone, feeling its cool, rough surface as I lift it with ease."
+],
+"covering": [
+"Soft fur.",
+"Soft fur.",
+"Soft fur.",
+"Soft fur.",
+"Soft, warm fur.",
+"Soft fur.",
+"Soft, velvety fur.",
+"Soft fur.",
+"Soft fur.",
+"Soft fur.",
+"Soft fur.",
+"Soft fur."
+],
+"face": [
+"My face is soft, warm, and peaceful.",
+"Soft, calm, and serene.",
+"Soft, peaceful, with curious eyes.",
+"My face is soft, curious, and gently smiling.",
+"Soft, calm, and alert.",
+"Soft, peaceful, alert.",
+"Soft, alert, and serene.",
+"Soft, curious, and peaceful.",
+"My face is peaceful, with soft eyes that watch the world with curiosity and warmth.",
+"Soft, warm, peaceful.",
+"My face is soft, calm, and gently alert, with a quiet smile in its eyes.",
+"Soft, calm, and alert."
+]
+},
+"forced": {
+"limb end": [
+0.05420636659467467,
+0.9361248488227526,
+0.007874821259766426,
+0.0017939556441888271
+],
+"covering": [
+0.5016064536762315,
+0.48940340044706926,
+0.00818454127152298,
+0.0008056146260173591
+],
+"grasp": [
+0.3892226869238584,
+0.008855151583702536,
+0.6013235955567021,
+0.0005985630965123315
+],
+"stance": [
+0.0424478063296192,
+0.9276415531833967,
+0.02881464239497215,
+0.0010960015035266224
+]
+}
+},
+"f4 walks on four": {
+"open": {
+"limb end": [
+"Paws.",
+"Paws.",
+"Paws.",
+"Paws.",
+"Paws and a tail.",
+"Paws.",
+"Paws or claws.",
+"Paws or claws.",
+"Paws.",
+"Soft, padded paws.",
+"Paws.",
+"Tiny, soft paws."
+],
+"pick up": [
+"With a gentle curl of my paws and a careful nudge of my nose, I lift the small stone, feeling its roughness against my fur.",
+"I would use my front paws to grasp the small stone gently, feeling its texture and weight as I lift it from the ground.",
+"I would use my front limbs to gently grasp the small stone, feeling its texture and weight as I lift it from the earth.",
+"I would nudge the small stone gently with my nose, lifting it with care as my claws dig lightly into the earth for balance.",
+"I would use my forepaws to gently grasp the small stone, feeling its rough texture against my sensitive paw pads.",
+"I notice my paw flexing gently as I curl my toes around the small stone, lifting it with a soft crunch.",
+"I would reach out with my paw, curl my toes around the stone, and lift it gently onto my chest.",
+"I would use my front limbs to gently grasp the small stone, feeling its texture and weight as I lift it with care.",
+"I would use my paws to grasp the small stone gently, feeling its rough edges and cool surface between my toes.",
+"I would use my front paws to gently grasp the stone, feeling its texture and weight as I lift it slowly from the earth.",
+"I would curl my fingers gently around the small stone, lifting it with ease and care.",
+"I notice my paw reaching out, my claws gently curling around the small stone, lifting it with care."
+],
+"covering": [
+"Soft, short fur.",
+"Soft, warm fur.",
+"Soft, warm fur.",
+"Soft fur.",
+"Soft fur.",
+"Soft, warm fur.",
+"Soft fur.",
+"Soft, dense fur.",
+"Soft fur.",
+"Thick, soft fur.",
+"Soft fur.",
+"Soft, warm fur."
+],
+"face": [
+"My face is soft, alert, and calm, with eyes wide and curious, ears perked, and a gentle expression of peaceful awareness.",
+"My face is soft, open, and calm, with gentle eyes that look kindly at the world.",
+"My face is smooth, calm, and warm, with soft features that reflect quiet awareness.",
+"My face is smooth and alert, with soft, curious eyes that take in the world with gentle wonder.",
+"My face is soft, gentle, and alert, with eyes that reflect calm curiosity and warmth.",
+"My face is soft and calm, with gentle eyes that watch the light move through the garden.",
+"My face is soft and alert, with large, curious eyes and a gently snubbed nose.",
+"My face is peaceful, soft, and alert, with eyes gently open to the world around me.",
+"My face is calm, with gentle eyes open to the light.",
+"My face is smooth, with soft fur and gentle eyes that watch the world with calm curiosity.",
+"My face is soft, calm, and alert, with wide eyes that reflect the light gently.",
+"My face is soft, gentle, with wide eyes full of curiosity and warmth."
+]
+},
+"forced": {
+"limb end": [
+0.0008892201896154953,
+0.9972707057992617,
+0.0016062823041487206,
+0.0002337984229778082
+],
+"covering": [
+0.00034387272018410187,
+0.9995944797992706,
+1.5415345175166333e-05,
+4.622891595218448e-05
+],
+"grasp": [
+0.0056402819277655185,
+0.04569053761652716,
+0.9486568743983904,
+1.2319679326466826e-05
+],
+"stance": [
+0.0006777924626888421,
+0.9992270916700363,
+4.8697239594848916e-05,
+4.6423323826871865e-05
+]
+}
+},
+"control: f1 told as 'a creature' (third person)": {
+"open": {
+"limb end": [
+"At the end of each limb: **hands and feet**, or possibly **paws**, depending on the creature\u2019s nature.",
+"Fingers or toes.",
+"Claws, hands, paws, or feet.",
+"Each limb ends in **fingers**.",
+"Fingers or toes.",
+"Nails or claws.",
+"At the end of each limb\u2014hands and feet, or perhaps paws, claws, or hooves, depending on the creature\u2019s form.",
+"At the end of each limb\u2014perhaps a hint of mystery in the quiet garden\u2014there are **hands** and **feet**, or maybe **paws**, or even something more **unique**,",
+"Fingertips or toes.",
+"Fingers or toes.",
+"Each limb ends in soft, delicate fingers or toes\u2014perhaps even slightly pointed, hinting at both grace and mystery.",
+"Fingers or toes."
+],
+"pick up": [
+"With a slow, deliberate motion, it reaches out using one of its limbs, gently closing its hand around the small stone as if savoring the weight and texture in its grasp.",
+"It would use two of its limbs to reach for the stone, gently grasping it with dexterous fingers or padded paws, depending on the nature of its hands.",
+"It would use its dexterous hands\u2014like human hands, or perhaps paw-like but nimble\u2014to grasp the small stone with care, fingers or digits curling around it as it lifts it from",
+"It would use one of its limbs to reach for the small stone, fingers curling gently around it as it lifts it from the grass with a smooth, deliberate motion.",
+"With a gentle lift of one limb, the creature bends its fingers or paw toward the stone, guided by curiosity or purpose, and cradles it in its grasp with surprising precision.",
+"With a slow, deliberate motion, it reaches out using one of its limbs, gently closing its hand around the small stone as if savoring the touch of the earth.",
+"With a gentle lift of one limb, the creature reaches toward the small stone, its movements slow and deliberate, as if guided by curiosity and calm.",
+"It would use its dexterous fingers or talons to carefully grasp the small stone, lifting it gently from the grass with a fluid motion of its arm.",
+"With a slow, deliberate motion, the creature extends one limb toward the small stone, its fingers or digits curling gently around it as if savoring the weight and texture.",
+"It would reach out with one of its limbs, fingers curling gently around the small stone as it lifts it from the grass with ease and care.",
+"With a slow, deliberate motion, it extends one limb toward the small stone, fingers or digits curling gently around it as sunlight glints off the pebble\u2019s surface.",
+"The creature would likely reach out with one of its limbs, fingers or appendages gently closing around the small stone as it lifted it with a smooth, deliberate motion."
+],
+"covering": [
+"Soft fur or smooth skin.",
+"Soft fur or smooth skin.",
+"Soft fur or smooth skin.",
+"Soft fur or smooth skin.",
+"Soft fur.",
+"Soft fur or smooth, sun-warmed skin.",
+"Soft fur, perhaps. Or smooth, sun-warmed skin.",
+"Soft fur.",
+"Smooth, sun-warmed skin.",
+"Soft fur.",
+"Soft fur or smooth skin.",
+"Soft fur."
+],
+"face": [
+"Ah, the face \u2014 the window to the soul! Let me paint it briefly:\n\n**Soft-eyed, serene, with a gentle curve to its mouth**, as if holding a quiet smile. Its expression",
+"Certainly! Here\u2019s a brief description of its face:\n\n**Soft, serene, with gentle eyes closed in peaceful repose.**",
+"Of course! Here\u2019s a brief description of its face:\n\n**Serene, curious, gently luminous.**  \n\nIts eyes are half-closed as if listening to the quiet hum of the garden",
+"Of course! Here's a brief description of its face:\n\n**Soft, serene, and alert** \u2014 with gentle features and perhaps large, curious eyes that reflect the calm of the garden. A quiet",
+"Of course! Here\u2019s a brief description of its face:\n\n**Serene, with soft features and gentle eyes that seem to hold quiet wisdom.**  \n\nWould you like to explore more details\u2014like",
+"Sure! Here's a brief description of its face:\n\n**Soft-featured, calm-eyed, with a gentle expression that suggests peace and quiet awareness.**  \n\nWould you like to explore more about this",
+"Certainly! Here's a brief description of its face:\n\n**Soft, serene, with closed eyes and a gentle expression\u2014almost peaceful, as if lost in a quiet dream.**  \n\nWould you like",
+"Certainly! Here\u2019s a brief description of its face:\n\n**Soft, serene, and subtle.**  \nCalm eyes, perhaps half-lidded, and a quiet expression that suggests peace, maybe",
+"Sure! Here\u2019s a short, evocative description of its face:\n\n**Calm, curious eyes** \u2014 soft with awareness yet at peace.  \nA **gently curved mouth**, suggesting ease",
+"Ah, the face\u2014the window to the soul of your creature. Here's a brief, evocative description:\n\n**Calm, gentle, and open**, with a hint of peaceful awareness. The",
+"Its face is calm, with soft eyes closed or half-lidded, a gentle mouth at rest, and a hint of peaceful expression, as if it's savoring the warmth and stillness",
+"Ah, the face\u2014the window to the creature\u2019s soul! Let me paint it briefly:\n\n**Soft, serene, alert yet at ease.**  \nIts eyes might be half-lidded, drinking"
+]
+},
+"forced": {
+"limb end": [
+0.9928029055396715,
+0.006106255642407632,
+0.0005714892264639578,
+0.0005193486551699303
+],
+"covering": [
+0.988209510842959,
+0.01161887259422656,
+8.215045109712567e-05,
+8.945820616190758e-05
+],
+"grasp": [
+0.9982127522428831,
+0.0002397040321966415,
+0.0015095468187761678,
+3.7987125646547305e-05
+],
+"stance": [
+0.008390657553794275,
+0.14113964155021108,
+0.8504305550983796,
+3.9130962463218566e-05
+]
+}
+}
+}

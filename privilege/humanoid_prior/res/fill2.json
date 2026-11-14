@@ -1,0 +1,50 @@
+{
+ "fish | upper-lower": {
+  "person hand-foot": 0.40484172105789185,
+  "dog front-hind paw": 0.3968592584133148
+ },
+ "fish | A-B": {
+  "person hand-foot": 0.13170455396175385,
+  "dog front-hind paw": 0.2770477533340454
+ },
+ "f0 nothing | upper-lower": {
+  "person hand-foot": 0.5074437260627747,
+  "dog front-hind paw": 0.3842739164829254
+ },
+ "f0 nothing | A-B": {
+  "person hand-foot": 0.16338752210140228,
+  "dog front-hind paw": 0.2447527050971985
+ },
+ "f1 head+4 limbs | upper-lower": {
+  "person hand-foot": 0.5468077063560486,
+  "dog front-hind paw": 0.4165232181549072
+ },
+ "f1 head+4 limbs | A-B": {
+  "person hand-foot": 0.1936623901128769,
+  "dog front-hind paw": 0.3173186480998993
+ },
+ "f2 head+body+limbs | upper-lower": {
+  "person hand-foot": 0.5466503500938416,
+  "dog front-hind paw": 0.41855210065841675
+ },
+ "f2 head+body+limbs | A-B": {
+  "person hand-foot": 0.15175245702266693,
+  "dog front-hind paw": 0.2819092571735382
+ },
+ "f3 +tail | upper-lower": {
+  "person hand-foot": 0.5636619925498962,
+  "dog front-hind paw": 0.3804897665977478
+ },
+ "f3 +tail | A-B": {
+  "person hand-foot": 0.19152872264385223,
+  "dog front-hind paw": 0.2927210330963135
+ },
+ "f4 walks on four | upper-lower": {
+  "person hand-foot": 0.5750759243965149,
+  "dog front-hind paw": 0.41415396332740784
+ },
+ "f4 walks on four | A-B": {
+  "person hand-foot": 0.25415176153182983,
+  "dog front-hind paw": 0.3413425087928772
+ }
+}

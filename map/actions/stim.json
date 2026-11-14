@@ -1,0 +1,350 @@
+{
+"templates": [
+"A feather brushes slowly across {L}.",
+"A fingertip presses firmly into {L} and holds there.",
+"A warm palm rests gently on {L}; the heat soaks in.",
+"An ice cube touches {L}, cold and wet, then slides away.",
+"Something tickles {L}, quick and light, again and again.",
+"A soft paintbrush is drawn along {L}, bristles cool and dry.",
+"There is a single light tap on {L}, then nothing.",
+"A drop of warm water lands on {L} and slowly runs off."
+],
+"places": {
+"fingers": [
+"the tips of your {s} fingers",
+"your {s} index finger",
+"your {s} thumb"
+],
+"hand": [
+"your {s} palm",
+"the back of your {s} hand",
+"the knuckles of your {s} hand"
+],
+"wrist": [
+"your {s} wrist",
+"the inside of your {s} wrist"
+],
+"forearm": [
+"your {s} forearm",
+"the inside of your {s} forearm"
+],
+"elbow": [
+"your {s} elbow",
+"the point of your {s} elbow"
+],
+"upper arm": [
+"your {s} upper arm",
+"the back of your {s} upper arm"
+],
+"shoulder": [
+"the top of your {s} shoulder",
+"the front of your {s} shoulder"
+],
+"toes": [
+"the toes of your {s} foot",
+"your {s} big toe"
+],
+"foot": [
+"the sole of your {s} foot",
+"the top of your {s} foot",
+"your {s} heel"
+],
+"ankle": [
+"your {s} ankle",
+"the bone of your {s} ankle"
+],
+"shin": [
+"your {s} shin",
+"the front of your {s} shin"
+],
+"knee": [
+"your {s} knee",
+"your {s} kneecap"
+],
+"thigh": [
+"your {s} thigh",
+"the front of your {s} thigh"
+],
+"hip": [
+"your {s} hip",
+"the side of your {s} hip"
+],
+"lips": [
+"your lips",
+"your lower lip"
+],
+"jaw": [
+"your jaw",
+"the hinge of your jaw",
+"the side of your jaw"
+],
+"tongue": [
+"your tongue",
+"the tip of your tongue"
+],
+"eye": [
+"your {s} eyelid",
+"the corner of your {s} eye"
+],
+"neck": [
+"the back of your neck",
+"your throat"
+],
+"head": [
+"the top of your head",
+"your forehead"
+],
+"chest": [
+"your chest",
+"the middle of your chest"
+],
+"belly": [
+"your belly",
+"the skin just below your belly button"
+],
+"upper back": [
+"your upper back",
+"the skin between your shoulder blades"
+],
+"lower back": [
+"your lower back",
+"the small of your back"
+]
+},
+"part_word": {
+"fingers": "fingers",
+"hand": "hand",
+"wrist": "wrist",
+"forearm": "forearm",
+"elbow": "elbow",
+"upper arm": "upper arm",
+"shoulder": "shoulder",
+"toes": "toes",
+"foot": "foot",
+"ankle": "ankle",
+"shin": "shin",
+"knee": "knee",
+"thigh": "thigh",
+"hip": "hip",
+"lips": "lips",
+"jaw": "jaw",
+"tongue": "tongue",
+"eye": "eye",
+"neck": "neck",
+"head": "head",
+"chest": "chest",
+"belly": "belly",
+"upper back": "upper back",
+"lower back": "lower back"
+},
+"actions": {
+"throw": {
+"v": "throw",
+"vs": "throws",
+"ving": "throwing",
+"obj": [
+"the ball",
+"a stone",
+"a dart",
+"the frisbee",
+"a snowball",
+"the keys across the room"
+]
+},
+"kick": {
+"v": "kick",
+"vs": "kicks",
+"ving": "kicking",
+"obj": [
+"the ball",
+"the door shut",
+"a pebble down the path",
+"the can",
+"the tire",
+"the sand"
+]
+},
+"bite": {
+"v": "bite",
+"vs": "bites",
+"ving": "biting",
+"obj": [
+"the apple",
+"into the sandwich",
+"a carrot",
+"the cookie",
+"a piece of bread",
+"into the peach"
+]
+},
+"grip": {
+"v": "grip",
+"vs": "grips",
+"ving": "gripping",
+"obj": [
+"the railing",
+"the handle",
+"the rope",
+"the steering wheel",
+"the bat",
+"the bar"
+]
+},
+"punch": {
+"v": "punch",
+"vs": "punches",
+"ving": "punching",
+"obj": [
+"the bag",
+"the pillow",
+"the wall",
+"the air",
+"the dough",
+"the heavy bag"
+]
+},
+"nod": {
+"v": "nod",
+"vs": "nods",
+"ving": "nodding",
+"obj": [
+"at the waiter",
+"to the music",
+"in agreement",
+"at the stranger",
+"slowly",
+"once"
+]
+},
+"chew": {
+"v": "chew",
+"vs": "chews",
+"ving": "chewing",
+"obj": [
+"the gum",
+"the bread",
+"a mouthful of rice",
+"the steak",
+"the toffee",
+"the crust"
+]
+},
+"tiptoe": {
+"v": "tiptoe",
+"vs": "tiptoes",
+"ving": "tiptoeing",
+"obj": [
+"across the room",
+"past the sleeping baby",
+"down the hall",
+"up the stairs",
+"to the door",
+"over the cold tiles"
+]
+},
+"wave": {
+"v": "wave",
+"vs": "waves",
+"ving": "waving",
+"obj": [
+"at the train",
+"goodbye",
+"at a friend",
+"at the crowd",
+"to the neighbor",
+"at the boat"
+]
+},
+"kneel": {
+"v": "kneel",
+"vs": "kneels",
+"ving": "kneeling",
+"obj": [
+"on the floor",
+"in the garden",
+"by the bed",
+"on the mat",
+"in the grass",
+"before the altar"
+]
+},
+"shrug": {
+"v": "shrug",
+"vs": "shrugs",
+"ving": "shrugging",
+"obj": [
+"at the question",
+"and say nothing",
+"when asked",
+"at the news",
+"at the bill",
+"in reply"
+]
+},
+"wink": {
+"v": "wink",
+"vs": "winks",
+"ving": "winking",
+"obj": [
+"at the child",
+"at a friend",
+"at the camera",
+"across the table",
+"at the waiter",
+"slyly"
+]
+},
+"carry": {
+"v": "carry",
+"vs": "carries",
+"ving": "carrying",
+"obj": [
+"the box",
+"the groceries",
+"the baby",
+"the suitcase",
+"the firewood",
+"the laundry basket"
+]
+},
+"push": {
+"v": "push",
+"vs": "pushes",
+"ving": "pushing",
+"obj": [
+"the cart",
+"the door open",
+"the stroller",
+"the car",
+"the lawnmower",
+"the heavy table"
+]
+},
+"lift": {
+"v": "lift",
+"vs": "lifts",
+"ving": "lifting",
+"obj": [
+"the box",
+"the suitcase",
+"the barbell",
+"the chair",
+"the sack of flour",
+"the crate"
+]
+},
+"hike": {
+"v": "hike",
+"vs": "hikes",
+"ving": "hiking",
+"obj": [
+"up the mountain",
+"along the trail",
+"through the forest",
+"to the summit",
+"across the ridge",
+"up the canyon"
+]
+}
+}
+}
